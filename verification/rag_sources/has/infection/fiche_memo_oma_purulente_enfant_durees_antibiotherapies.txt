@@ -1,0 +1,126 @@
+ 
+HAS • Choix et durées d’antibiothérapies : otite moyenne aiguë purulente de l’enfant –juillet 2021 - dernière mise à jour mai 2025 1 
+   RECOMMANDER LES BONNES PRATIQUES 
+ 
+  
+FICHE  Choix et durées 
+d’antibiothérapies  : otite 
+moyenne aiguë purulente de 
+l’enfant 
+             
+  
+  Validée en juillet 2021 
+  Dernière mise à jour  mai 2025   
+Le but de cette fiche mémo est de favoriser la prescription appropriée d’antibiotiques, afin de traiter 
+efficacement les patients tout en diminuant les résistances bactériennes pouvant conduire à des 
+impasses thérapeutiques.  
+Le choix de l’antibiotique, la dose, la posologie, la modalité d’administration et la durée sont les 
+éléments à prendre en compte pour une prescription adaptée. 
+ 
+En cas d’otite moyenne aiguë congestive ou séro-muqueuse :  
+‒ pas d’antibiotique. 
+En cas d’otite moyenne aiguë purulente - enfant de moins de 3 mois :  
+‒ avis spécialisé  [2024] 
+En cas d’otite moyenne aiguë purulente - enfant de 3 mois à < 2 ans : 
+antibiothérapie d’emblée recommandée : 
+‒ amoxicilline : 80 mg/kg/j en 2 prises par jour , sans dépasser  3 g par jour, pendant 10 jours. 
+[2024] 
+Si syndrome otite-conjonctivite : [2024] 
+‒ amoxicilline-acide clavulanique : 80 mg/kg/j en 2 prises par jour, (dose exprimée en amoxicil-
+line) sans dépasser 3 g par jour, pendant 10 jours. 
+‒ En cas d’allergie documentée aux pénicillines (sans contre-indication aux céphalosporines), 
+le traitement recommandé est :  
+• cefpodoxime proxétil : 8 mg/kg/j en 2 prises par jour, sans dépasser 400 mg par jour, pendant 
+10 jours. 
+‒ En cas de contre-indication aux bêta-lactamines :  
+• sulfaméthoxazole : 30 mg/kg/j + triméthoprime : 6 mg/kg/j en 2 prises par jour, sans dépasser 
+800 mg/160 mg par jour, pendant 10 jours. 
+  
+ 
+ HAS • Choix et durées d’antibiothérapies : otite moyenne aiguë purulente de l’enfant • juillet 2021 - dernière mise à jour mai 2025 2 
+En cas d’otite moyenne aiguë purulente - enfant > 2 ans avec symptômes modérés :  
+‒ pas d’antibiotique en première intention ;  
+‒ réévaluation de l’enfant dans les 48 -72 heures, en cas d’aggravation, instauration d’une anti-
+biothérapie.  
+En cas d’otite moyenne aiguë purulente - enfant > 2 ans avec symptômes importants : 
+‒ amoxicilline : 80 mg/kg/j en 2 prises par jour, sans dépasser 3 g par jour, pendant 5 jours. 
+• si otorrhée ou otites récidivantes (= récidive des symptômes plus de 4 jours après l’arrêt 
+des traitements antibiotiques) : 
+- amoxicilline 80 mg/kg/j en 2 prises par jour, sans dépasser 3 g par jour, pendant 10 jours 
+• si syndrome otite-conjonctivite : [2024] 
+- amoxicilline-acide clavulanique  : 80 mg/kg/jour, sans dépasser 3 g par jour, pendant 
+5 jours  
+‒ En cas d’allergie documentée aux pénicillines sans contre-indication aux céphalosporines, 
+le traitement recommandé est :  
+• cefpodoxime proxétil : 8 mg/kg/j en 2 prises par jour, sans dépasser 400 mg par jour, pendant 
+5 jours.  
+‒ En cas de contre-indication aux bêta-lactamines :  
+• sulfaméthoxazole : 30 mg/kg/j + triméthoprime : 6 mg/kg/j en 2 prises par jour, sans dépasser 
+800 mg/160 mg par jour, pendant 5 jours. 
+ 
+Traitement symptomatique de la douleur (et de la fièvre si mal tolérée) [2025] 
+‒ Paracétamol1 en 1ère intention. 
+‒ Le seul objectif de l’utilisation des AINS est le traitement de la douleur  lorsque le paracétamol 
+ne suffit pas ; le traitement de la fièvre ne justifie pas l’utilisation d’AINS.  
+‒ Il n’est pas recommandé de prescrire un AINS2 chez l’enfant au cours des infections suivantes : 
+• Varicelle en cours : risque accru d’infections invasives à streptocoque A beta hémolytique ;  
+• Infection ORL bactérienne sévère ou compliquée ; 
+• Infection bactérienne sévère associée à l’infection ORL. 
+‒ En cas de douleur persistante malgré le paracétamol (ou de contre-indication au paracétamol) : 
+AINS en 2ème intention (Ibuprofène chez l’enfant à partir de 3 mois3) 
+‒ L’utilité des corticoïdes systémiques et locaux n’est pas démontrée.  
+ 
+ 
+ 
+ 
+ 
+ 
+1 Paracétamol : 60 mg/kg/j en 4 prises sans dépasser 80 mg/kg/j pendant 72h maximum ; 
+2Contre-indications et effets indésirables des AINS : https://base-donnees-publique.medicaments.gouv.fr/ex-
+trait.php?specid=61902232 
+3 Ibuprofène : 20 à 30 mg/kg/j en 3 ou 4 prises sans dépasser 30 mg/kg/jour, arrêt dès disparition de la douleur et pendant 24h 
+maximum pour les enfants de 3 à 6 mois et pendant 72h maximum pour les enfants de plus 6 mois. 
+ 
+ 
+ 
+Sources :  
+- Haute Autorité de santé, Société de pathologie infectieuse de langue française. Otite moyenne aiguë purulente 
+de l’enfant de plus de 3 mois. Fiche mémo. Saint -Denis La Plaine  : HAS; 2016.  https://www.has-sante.fr/por-
+tail/upload/docs/application/pdf/2016-11/v1-fm_otite_aigue_enfant_cd-171116.pdf 
+- Société de pathologie infectieuse de langue française, Société française de pédiatrie, Groupe de pathologie 
+infectieuse pédiatrique. Antibiothérapie par voie générale en pratique courante dans les infections respiratoires 
+hautes de l'enfant et de l'adult e. Recommandations. Paris: SPILF; 2011. https://www.infectiologie.com/User-
+Files/File/medias/Recos/2011-infections-respir-hautes-recommandations.pdf 
+- Wintenberger C, Guery B, Bonnet E, Castan B, Cohen R, Diamantis S, et al. Proposal for shorter antibiotic 
+therapies. Med Mal Infect 2017;47(2):92-141. http://dx.doi.org/10.1016/j.medmal.2017.01.007 
+- Gauzit R, Castan B, Bonnet E, Bru JP, Cohen R, Diamantis S, et al. Anti-infectious treatment duration: The 
+SPILF and GPIP French guidelines and recommendations. Infect Dis Now 2021;51(2):114 -39. 
+http://dx.doi.org/10.1016/j.idnow.2020.12.001 
+- R Cohen et al. Antimicrobial treatment of ENT infections.  Infect Dis Now. 2023 Nov;53(8S):104785. 
+https://doi.org/10.1016/j.idnow.2023.104785 [2024] 
+-Truffert E et al : Guidelines of the French Society of Otorhinolaryngology (SFORL): Nonsteroidal anti -inflamma-
+tory drugs (NSAIDs) and pediatric ENT infections. Short version. European Annals of Otorhinolaryngology, Head 
+and Neck diseases 136 (2019) 289–294 https://doi.org/10.1016/j.anorl.2019.04.001 [2025] 
+- Prise en charge médicamenteuse de la douleur chez l’enfant : alternatives à la codéine HAS 2016, 
+https://www.has-sante.fr/upload/docs/application/pdf/2016-02/prise_en_charge_medicamenteuse_de_la_dou-
+leur_chez_lenfant_alternatives_a_la_codeine_-_fiche_memo.pdf [2025] 
+- ANSM : Anti -inflammatoires non stéroïdiens (AINS) et complications infectieuses graves ; mis à jour 2023 ; 
+https://ansm.sante.fr/actualites/anti-inflammatoires-non-steroidiens-ains-et-complications-infectieuses-graves  
+[2025] 
+- ANSM : Bon usage du paracétamol et des anti -inflammatoires non stéroïdiens (AINS) : ces médicaments ne 
+pourront plus être présentés en libre accès ; mis à jour 2021 ; https://ansm.sante.fr/actualites/bon-usage-du-pa-
+racetamol-et-des-anti-inflammatoires-non-steroidiens-ains-ces-medicaments-ne-pourront-plus-etre-presentes-
+en-libre-acces  [2025] 
+   
+© Haute Autorité de santé –  juillet 2021 – Dernière Mise à jour en mai 2025 
+  
+ 
+Ce document présente les points essentiels de la publication : Choix et durées d’antibiothérapies : otite moyenne aiguë purulente de l’en-
+fant - fiche mémo - juillet 2021 – Dernière mise à jour mai 2025.  
+Toutes nos publications sont téléchargeables sur www.has-sante.fr 
+ 
+ 
+ 
+ 
+Développer la qualité dans le champ 
+sanitaire, social et médico-social 

@@ -1,0 +1,134 @@
+ 
+ 
+HAS - Choix et durées d’antibiothérapies : cystite aiguë simple, à risque de complication ou récidivante, de la femme  – Nov 2016 – MAJ 
+juillet 2021 et juillet 2024  1 
+ 
+   RECOMMANDER LES BONNES PRATIQUES 
+ 
+  
+FICHE  Choix et durées 
+d’antibiothérapies  : cystite aiguë 
+simple, à risque de complication 
+ou récidivante, de la femme  
+  
+  Validée en novembre 2016 
+  Mise à jour en juillet 2021 et juil. 2024  
+Le but de cette fiche mémo est de favoriser la prescription appropriée d’antibiotiques, afin de traiter 
+efficacement les patients tout en diminuant  les résistances bactériennes pouvant conduire à des 
+impasses thérapeutiques.  
+Le choix de l’antibiotique, la dose, la posologie, la modalité d’administration et la durée sont les 
+éléments à prendre en compte pour une prescription adaptée. 
+ 
+*Critères de Fried : perte de poids involontaire au cours de la dernière année, vitesse de marche lente, faible endurance, 
+faiblesse/fatigue, activité physique réduite. 
+Cystite aiguë simple (aucun facteur de risque de complication) : 
+➔ Diagnostic clinique : brûlures mictionnelles et/ou urgenturies. 
+• Recherche de leucocytes et nitrites positifs par réalisation d’une bandelette urinaire (BU).   
+- Ne pas prescrire un examen cytobactériologique des urines (ECBU). 
+➔ Les traitements recommandés sont :  
+1re intention fosfomycine-trométamol, 3 g en prise unique 
+2e intention pivmécillinam : 400 mg 2 fois par jour pendant 3 jours   
+• Pour une cystite aiguë non compliquée, l a délivrance d'un traitement antibiotique sans or-
+donnance médicale par les pharmaciens d'officine, est conditionnée à la réalisation du test 
+urinaire d'orientation diagnostique de recherche à minima de nitriturie et de leucocyturie, 
+dont le résultat est positif (nitriturie positive ou leucocyturie positive)1. [2024] 
+• Les autres antibiotiques ne sont pas indiqués.  
+ 
+1 https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049734400/ 
+Les facteurs de risque de complication sont la grossesse, toute anomalie organique ou fonction-
+nelle de l’arbre urinaire, l’insuffisance rénale sévère ( débit de filtration glomérulaire  < 30 ml/min), 
+l’immunodépression grave, un âge supérieur à 75 ans, ou supérieur à 65 ans avec au moins 3 
+critères de Fried*. Le diabète, type 1 ou 2, n’est pas un facteur de risque de complication. 
+ HAS • Choix et durées d’antibiothérapies : cystite aiguë simple, à risque de complication ou récidivante, de la femme – Nov 2016 - Mise à 
+jour juillet 2024• Erreur ! Source du renvoi introuvable. 2 
+• Pas d’ECBU sauf si évolution défavorable (persistance ou aggravation des signes cliniques 
+après 3 jours ou de récidive précoce dans les 2 semaines). 
+Cystite aiguë à risque de complications (au moins 1 facteur de risque) : 
+• Réalisation d’un ECBU. [2024] :  
+- L’ECBU est positif si leucocyturie ≥ 10 4/ml et bactériurie ≥ 10 3 UFC/ml pour Escherichia 
+coli, Staphylococcus saprophyticus et bactériurie ≥ 104 UFC/ml pour les autres bactéries. 
+- Ces seuils sont donnés à titre indicatif  en cas de discordance c’est la clinique qui prime 
+[2024]. 
+- Ne pas traiter une colonisation urinaire (ECBU positif sans symptomatologie clinique) à 
+l’exception de la grossesse et de la chirurgie urologique programmée. 
+ 
+➔ Traitement différé à privilégier [2024] : traitement adapté à l’antibiogramme  
+Par ordre de préférence et selon l’antibiogramme :  
+1re intention amoxicilline : 1g 3 fois par jour pendant 7 jours 
+2e intention pivmécillinam : 400 mg 2 fois par jour pendant 7 jours 
+3e intention nitrofurantoïne* : 100 mg 3 fois par jour pendant 7 jours 
+*nitrofurantoïne : contre-indication en cas d’insuffisance rénale avec un débit de filtration glomérulaire < 45 ml/min 
+ou de traitements itératifs. 
+ 
+➔ Traitement ne pouvant être différé : traitement probabiliste [2024]   
+1re intention nitrofurantoïne* : 100 mg 3 fois par jour pendant 7 jours 
+2e intention fosfomycine-trométamol : 3 g à J1, J3 et J5 [2024] 
+*nitrofurantoïne : contre-indication en cas d’insuffisance rénale avec un débit de filtration glomérulaire < 45 ml/min 
+ou de traitements itératifs.  
+• Pas d’ECBU de contrôle sauf si évolution défavorable (persistance ou aggravation des 
+signes cliniques après 3 jours ou récidive précoce dans les 2 semaines). 
+ 
+Cystite aiguë récidivante (au moins 4 épisodes pendant une période de 12 mois) : 
+• Le traitement curatif d’un épisode de cystite récidivante est celui d’une cystite.  
+• Prévention des récidives et bilan étiologique à discuter 
+- Apports hydriques suffisants, mictions non retenues, régularisation du transit intestinal et 
+arrêt des spermicides s’il y a lieu. 
+- La canneberge peut être proposée en prévention des cystites récidivantes à E. coli, à la 
+dose de 36 mg/j de proanthocyanidine. 
+- Les œstrogènes peuvent être proposés en application locale chez les femmes ménopau-
+sées après avis gynécologique. 
+  
+ HAS • Choix et durées d’antibiothérapies : cystite aiguë simple, à risque de complication ou récidivante, de la femme – Nov 2016 - Mise à 
+jour juillet 2024• Erreur ! Source du renvoi introuvable. 3 
+ 
+➔ Antibioprophylaxie si au moins 1 épisode par mois 
+• ECBU initial avant début de l’antibioprophylaxie 
+1re intention fosfomycine-trométamol : 3 g en prise unique  
+− tous les 7 jours au maximum 
+− dans les 2 heures précédant ou suivant le rapport sexuel si cystites post-
+coïtales 
+ou  
+triméthoprime :  
+- 150 mg par jour (1 fois par jour maximum, au coucher)  
+- dans les 2 heures précédant ou suivant le rapport sexuel si cystites post -
+coïtales 
+2e intention cotrimoxazole : 400 mg/80 mg par jour 
+− à prendre au coucher 
+− dans les 2 heures précédant ou suivant le rapport sexuel si cystites post-
+coïtales 
+• La nitrofurantoïne est contre-indiquée, les bêta-lactamines doivent être évitées , les fluoro-
+quinolones ne doivent pas être utilisées dans la prévention des infections récidivantes des 
+voies urinaires basses2. [2024] 
+ 
+Sources :  
+- Haute Autorité de santé, Société de pathologie infectieuse de langue française. Cystite aiguë simple, à risque 
+de complication ou récidivante, de la femme. Fiche mémo. Saint-Denis La Plaine: HAS; 2016. 
+https://www.has-sante.fr/portail/upload/docs/application/pdf/2016-11/v1-fm_cystite_aigue_cd-151116.pdf 
+- Wintenberger C, Guery B, Bonnet E, Castan B, Cohen R, Diamantis S, et al. Proposal for shorter antibiotic 
+therapies. Med Mal Infect 2017;47(2):92-141. 
+http://dx.doi.org/10.1016/j.medmal.2017.01.007 
+- Caron F, Galperine T, Flateau C, Azria R, Bonacorsi S, Bruyere F, et al. Practice guidelines for the management 
+of adult community-acquired urinary tract infections. Med Mal Infect 2018;48(5):327-58. 
+http://dx.doi.org/10.1016/j.medmal.2018.03.005 
+- Gauzit R, Castan B, Bonnet E, Bru JP, Cohen R, Diamantis S, et al. Anti-infectious treatment duration: The 
+SPILF and GPIP French guidelines and recommendations. Infect Dis Now 2021;51(2):114-39. 
+http://dx.doi.org/10.1016/j.idnow.2020.12.001 
+2https://ansm.sante.fr/dossiers-thematiques/fluoroquinolones, https://ansm.sante.fr/informations-de-securite/fluo-
+roquinolones-a-ne-prescrire-que-pour-des-infections-severes [2024] 
+ 
+   
+ 
+ 
+© Haute Autorité de santé –  novembre 2016 - Mise à jour juillet 2021 et en juillet 2024  
+ 
+  
+ 
+Ce document présente les points essentiels de la publication : Choix et durées d’antibiothérapies : cystite aiguë simple, à risque de com-
+plication ou récidivante, de la femme - fiche mémo - novembre 2016 - Mise à jour en juillet 2021 et en juillet 2024. 
+  Toutes nos publications sont téléchargeables sur www.has-sante.fr 
+ 
+ 
+ 
+ 
+Développer la qualité dans le champ 
+sanitaire, social et médico-social 
