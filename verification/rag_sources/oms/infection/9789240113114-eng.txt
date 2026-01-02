@@ -1,0 +1,2598 @@
+Recommendations 
+on the delivery of health 
+services for the prevention 
+and care of sexually 
+transmitted infections
+Recommendations 
+on the delivery of health 
+services for the prevention 
+and care of sexually 
+transmitted infections
+Recommendations on the delivery of health services for the prevention and care of sexually  
+transmitted infections
+ISBN 978-92-4-011311-4 (electronic version) 
+ISBN 978-92-4-011312-1 (print version)
+© World Health Organization 2025
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-
+ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). 
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, 
+provided the work is appropriately cited, as indicated below. In any use of this work, there should be no 
+suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is 
+not permitted. If you adapt the work, then you must license your work under the same or equivalent Creative 
+Commons licence. If you create a translation of this work, you should add the following disclaimer along with 
+the suggested citation: “This translation was not created by the World Health Organization (WHO). WHO is not 
+responsible for the content or accuracy of this translation. The original English edition shall be the binding and 
+authentic edition” . 
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the 
+mediation rules of the World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).
+Suggested citation. Recommendations on the delivery of health services for the prevention and care of sexually 
+transmitted infections. Geneva: World Health Organization; 2025. Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at https://iris.who.int/.
+Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. 
+To submit requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright. 
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as 
+tables, figures or images, it is your responsibility to determine whether permission is needed for that reuse and 
+to obtain permission from the copyright holder. The risk of claims resulting from infringement of any third-party-
+owned component in the work rests solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not 
+imply the expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, 
+territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted 
+and dashed lines on maps represent approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed 
+or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and 
+omissions excepted, the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. 
+However, the published material is being distributed without warranty of any kind, either expressed or implied. 
+The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be 
+liable for damages arising from its use. 
+Design and layout: Studio FFFOG.
+iii
+Acknowledgements  v
+Abbreviations  vii
+Glossary  viii
+Executive summary  ix
+ Summary of recommendations  ix
+1. Introduction  1
+ 1.1 Epidemiology and global targets  2
+ 1.2 Rationale for new recommendations  3
+ 1.3 Objectives  3
+ 1.4 Target audience  3
+ 1.5 Guiding principles  4
+ 1.6 Structure of the guidelines  4
+2. Methods  5
+ 2.1 Overview  6
+ 2.2 Roles of groups involved in developing the guidelines  6
+ 2.3 Managing conflicts of interest  7
+ 2.4 Scope and questions  7
+ 2.5 Evidence to inform the guidelines  8
+ 2.6 Assessment and presentation of the evidence  8
+ 2.7 Making recommendations  9
+3. Recommendations for STI service delivery  10
+ 3.1 Important considerations  11
+ 3.2 Decentralization  12
+ 3.3 Integration  15
+ 3.4 Task sharing  17
+ 3.5 Digital health interventions  20
+4. Other recommendations related to STI service delivery  22
+ 4.1 Self-care interventions  23
+Contents
+iv
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+5. Implementation considerations for STI service delivery  25
+ 5.1 Key principles of STI service delivery  26
+ 5.2 Key considerations for developing models of service delivery  27
+ 5.3 Developing a comprehensive package of STI services  28
+ 5.4 Addressing gaps in the care cascade  29
+ 5.5 STI service delivery for key and priority populations  30
+ 5.6 STI service delivery in special settings  32
+6. Disseminating and updating the guidelines  33
+ 6.1 Dissemination  34
+ 6.2 Updating the STI guidelines and user feedback  34
+References  35
+Annex 1. Contributors to the guidelines  40
+Annex 2. Declarations of conflicts of interest  46
+Web annexes: Evidence-to-decision frameworks and systematic reviews for the delivery of health 
+services for the prevention and care of sexually transmitted infections, https://doi.org/10.2471/
+B09465.
+ Web Annex A. Evidence-to-decision framework for decentralization
+ Web Annex B. Evidence-to-decision framework for integration
+ Web Annex C. Evidence-to-decision framework for task sharing
+ Web Annex D. Evidence-to-decision framework for digital health interventions
+ Web Annex E. Overview of systematic reviews and methods used to inform recommendations
+v
+The World Health Organization (WHO) Department of Global HIV, Hepatitis and Sexually Transmitted Infections 
+Programmes is grateful to and thanks all the individuals and organizations that contributed to developing 
+these guidelines. WHO appreciates the support of the Secretariat of the WHO Guidelines Review Committee 
+during the guideline development process. 
+Methodologist and systematic reviewers
+GRADE methodologist: Farid Foroutan (Ted Rogers Centre for Health Research, Canada).
+Systematic reviewers: Nancy Santesso (Michael G. DeGroote Cochrane Centre, McMaster University, Canada). 
+Guideline Development Group
+The members of the Guideline Development Group (Annex 1) provided invaluable guidance and comments 
+through virtual meetings and by correspondence. Their meticulous attention to detail, expert comments and 
+feedback ensured the consistency and relevance of these guidelines.
+Members: Laith Abu Raddad (Weill Cornell Medical College, Qatar), Yaw Adu-Sarkodie (Kwame Nkrumah 
+University of Science and Technology, Ghana), Jamila Al Abri (Ministry of Health, Oman), Zeyana Al Habsi 
+(Ministry of Health, Oman), Mircea Betiu (Nicolae Testimitanu State University of Medicine and Pharmacy, 
+Republic of Moldova), Catriona Bradshaw (Monash University, Australia), Xiang-Sheng Chen (National Center 
+for AIDS/STD Control and Prevention, China), Irith De Baetselier (Institute of Tropical Medicine, Belgium), 
+Chido Dziva Chikwari (Biomedical Research and Training Institute, Zimbabwe), Amina El Kettani (Ministry of 
+Health, Morocco), Patricia Garcia (Universidad Peruana Cayetano Heredia, Peru), William M. Geisler (University 
+of Alabama at Birmingham, United States of America), Kimberly Green (PATH, Viet Nam/Switzerland), 
+Somesh Gupta (All India Institute of Medical Sciences, India), Edward W. Hook III (University of Alabama at 
+Birmingham, USA), Rena Janamnuaysook (Institute of HIV Research and Innovation, Thailand), Nathalie 
+Kapp (International Planned Parenthood Federation, United Kingdom of Great Britain and Northern Ireland), 
+Hamida Khattabi (Ministry of Health, Morocco), Rossaphorn Kittyaowamarn (Ministry of Public Health, 
+Thailand), Jeffrey D. Klausner (University of Southern California, USA), Ranmini Kularatne (Awanui Labs, 
+New Zealand), Peter Kyambadde (Ministry of Health, Uganda), David Lewis (Western Sydney Sexual Health 
+Centre and University of Sydney, Australia), Anna Machiha (Ministry of Health and Child Welfare, Zimbabwe), 
+Regina Maithufi (National Department of Health, South Africa), Philippe Mayaud (London School of Hygiene 
+and Tropical Medicine, United Kingdom), Angelica Espinosa Miranda (Federal University of Espirito Santo, 
+Brazil), Saiqa Mullick (Wits RHI, University of the Witwatersrand, South Africa), Francis Ndowa (Skin and 
+Genito-Urinary Medicine Clinic, Zimbabwe), Shobini Rajan (Ministry of Health and Family Welfare, India), 
+Lilani Rajapaksa (Ministry of Health, Sri Lanka), Kees Rietmeijer (Denver Public Health Department, USA), 
+Danvic Rosadiño (LoveYourself Inc., Philippines), Jonathan Ross (Birmingham University Hospitals NHS 
+Trust, United Kingdom), Lon Sayheng (National Center for HIV/AIDS, Dermatology and STD, Cambodia), Anna 
+Shapiro (Global Network of Sex Work Projects, United Kingdom), Jane Thiomi (LVCT Health, Kenya), Jane 
+Tomnay (University of Melbourne, Australia), Magnus Unemo (Örebro University Hospital, Sweden) and Judith 
+Wasserheit (University of Washington, USA). 
+External Review Group
+Members: Henry J.C. de Vries (Amsterdam Sexual Health Clinic, Netherlands [Kingdom of the]), Kristina 
+Grabbe (Jhpiego, USA), Hans Benjamin Hampel (University of Zurich, Switzerland), Kausar Jabeen (Aga Khan 
+Foundation, Pakistan), Monica Lahra (Prince of Wales Hospital, Australia), Pham Thi Lan (National Hospital of 
+Dermatology and Venerology, Viet Nam), Ahmed Latif (public health consultant, Australia), Ioannis Mameletzis 
+(consultant, Ukraine), Koleka Mlisana (National Health Laboratory Service, South Africa), Lori Newman (Gates 
+Foundation, USA), Catherine Ngugui (Ministry of Health, Kenya), Reshmie Ramautarsing (Institute of HIV 
+Research and Innovation, Thailand), Pachara Sirivongrangson (Ministry of Public Health, Thailand) and Janet 
+Wilson (International Union against Sexually Transmitted Infections, United Kingdom).
+Acknowledgments
+vi
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Observers
+Francis Kakooza (Makerere University, Uganda), Otilia Mardh (European Centre for Disease Prevention and 
+Control, Sweden) and Fernando Pascal Martinez (Global Antibiotic Research and Development Partnership, 
+Spain).
+WHO Secretariat and consultants
+ 
+Overall coordination
+Teodora Wi and Ismail Maatouk led the development of these guidelines with support from Daniel McCartney 
+(Department of Global HIV, Hepatitis and Sexually Transmitted Infections Programmes) under the leadership of 
+Meg Doherty (Director, Department of Global HIV, Hepatitis and Sexually Transmitted Infections Programmes). 
+ 
+WHO Steering Committee
+Department of Global HIV, Hepatitis and Sexually Transmitted Infections Programmes: Maeve Brito de 
+Mello, Cheryl Johnson, Ismail Maatouk, Antons Mozalevskis, Morkor Newman, Remco Peters, Jane Rowley, 
+Annette Verster, Marco Vitoria and Teodora Wi.
+Other WHO headquarters staff members: Avni Amin, Sami Gottlieb, James Kiarie, Gitau Mburu, Igor Toskin 
+and Ozge Tunçalp (Department of Sexual and Reproductive Health and Research), Arif Al-Hamad (Department 
+of Surveillance, Prevention and Control), Silvia Bertagnolio and Benedikt Huttner (Department of Access to 
+Medicines and Health Products) and Anne-Laure Page (Regulation and Prequalification).
+WHO regional and country offices: Akudo Ezinne Ikpeazu and Agnes Chetty (Regional Office for Africa), 
+Monica Alonso and Hortencia Peralta (Regional Office for the Americas), Muhammad Shahid Jamil (Regional 
+Office for the Eastern Mediterranean), Stela Bivol (Regional Office for Europe), Po-lin Chan (Regional Office for 
+South-East Asia), Kiyohiko Izumi and Tiara Nisa (Regional Office for the Western Pacific), Abhishek Royal (WHO 
+Country Office in India) and Van Thi Thuy Nguyen (WHO Country Office in Viet Nam).
+Funding source
+ 
+The WHO Department of Global HIV, Hepatitis and Sexually Transmitted Infections Programmes provided 
+funding for these guidelines. 
+vii
+Abbreviations
+GRADE  Grading of Recommendations Assessment, Development and Evaluation
+HCV  hepatitis C virus
+HICs  high-income countries
+HIV  human immunodeficiency virus
+HPV  human papillomavirus
+LMICs  low- and middle-income countries
+PrEP  pre-exposure prophylaxis
+SRH  sexual and reproductive health
+STI  sexually transmitted infection
+WHO  World Health Organization
+viii
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Glossary
+Community health workers: Health workers who live in the communities they serve and typically have 
+lower levels of formal education and training than professional health workers, such as nurses and doctors. 
+Community health workers provide health education and referrals for a wide range of services, and support 
+individuals, families and communities in preventive health measures and accessing appropriate curative 
+and social services. They act as a bridge between providers of health, social and community services and 
+communities that may have difficulty in accessing these services. Related terms include lay health worker and 
+peer health worker.
+Decentralization: The delivery of services at peripheral health facilities, community-based venues and 
+locations beyond hospital settings or conventional health care sites, bringing care closer to people’s homes.
+Digital health: The development and use of digital technologies to improve health. This broad term includes 
+areas such as e-health (electronic health), m-health (mobile health), telemedicine, health information 
+technology, wearable devices and artificial intelligence.
+Health care specialists: Health workers who have obtained advanced degrees or formal qualifications 
+following completion of further study beyond their initial health qualification. 
+Health practitioners: Health workers who have acquired health-related qualifications, including both health 
+professionals and health associate professionals.
+Health workers: All people primarily engaged in activities intended to improve health.
+Integration: The management and delivery of health services in a way that ensures people receive a 
+continuum of health promotion, disease prevention, diagnosis and treatment, according to their needs 
+throughout the life course.
+Self-care: The ability of individuals, families and communities to promote health, prevent disease, maintain 
+health and cope with illness and disability, with or without the support of a health worker.
+Task sharing: The rational redistribution of responsibilities among health workforce teams. Specific 
+tasks or roles are shared, where appropriate, with less specialized health workers to make more efficient 
+use of available personnel. Task sharing should be accompanied by appropriate education, supervision, 
+management support, licensing, regulation and remuneration.
+ix
+The global burden of sexually transmitted infections (STIs) is high, with over 30 pathogens, including bacteria, 
+viruses and parasites, known to be transmitted through sexual contact. WHO estimates that in 2020, there 
+were 374 million new cases of curable STIs among people 15–49 years old. This included 156 million new cases 
+of trichomoniasis, 128.5 million new cases of chlamydia, 82.4 million new cases of gonorrhoea and 7.1 million 
+new cases of syphilis, amounting to approximately 1 million new curable STI cases every day. In 2022, the 
+number of new syphilis cases had increased to 8.0 million.1 
+WHO set ambitious targets in the global health sector strategy for HIV, viral hepatitis and STIs. By 2030, the 
+strategy aims to reduce gonorrhoea and syphilis infections by 90% and eliminate congenital syphilis as a 
+public health problem. To achieve these goals, the strategy emphasizes the need to improve access to STI 
+prevention, screening, diagnostic and treatment services. 
+These guidelines promote the delivery of people-centred health services for STIs by providing evidence-
+based recommendations related to decentralization, integration, task sharing and digital health. These 
+recommendations complement existing WHO guidelines for STI testing, treatment and management, 
+and other service delivery interventions, such as self-care interventions. All the recommendations will be 
+incorporated into the forthcoming WHO consolidated guidelines on STI prevention and care.
+These guidelines aim to support countries and national programmes in developing national STI guidelines 
+aligned with the 2030 global health sector strategy targets. They are intended for policy-makers, programme 
+managers, health workers and other public health professionals involved in planning or implementing STI 
+services, whether standalone or integrated with other health services. The guidelines also serve as a resource 
+for donor and development agencies, international and nongovernmental organizations, civil society and 
+community-based groups, especially those working with, or led by, key populations and the communities 
+most affected by STIs, including HIV.
+The development of these guidelines followed the methods outlined in the 2014 WHO handbook for guideline 
+development. Overviews of reviews and WHO guidelines were conducted to address the guideline objectives. 
+The Guideline Development Group reviewed the evidence and made recommendations, using the Grading of 
+Recommendations, Assessment, Development and Evaluation (GRADE) approach to assess the evidence and 
+formulate the recommendations. The External Review Group reviewed the guidelines before submission to the 
+WHO Guidelines Review Committee.
+Executive summary
+1 The most up-to-date STI estimates are always available on the WHO Global Sexually Transmitted Infections Programme’s website:  
+https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/stis/strategic-information. 
+Executive summary
+Summary of recommendations
+These guidelines provide evidence-informed recommendations for the delivery of STI services (Table 1). 
+They support the implementation of other WHO recommendations on STI prevention and care, including the 
+management of people presenting with STI symptoms, the screening of certain asymptomatic populations, 
+and the treatment of individuals with confirmed STIs along with their sexual partners.
+These recommendations are based on the following overarching guiding principle:
+Health systems should be structured and strengthened to deliver quality-assured, accessible, 
+equitable and people-centred services for the prevention, screening, diagnosis and 
+management of sexually transmitted infections. 
+Decision-makers should consider local and regional health system capacity, resources and population 
+needs when selecting interventions to deliver these services. 
+x
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Recommendations Strength of recommendation 
+and certainty of evidence
+Decentralization
+WHO suggests the decentralization of services to improve access 
+to prevention, screening, diagnosis and management of sexually 
+transmitted infections.
+Remarks: Decentralization means that quality-assured sexually 
+transmitted infection services are provided beyond centralized 
+health care facilities to meet the needs of people (for example, 
+in primary care, peripheral or community-based health facilities, 
+through outreach services or self-care interventions) and may 
+involve referral to other sexually transmitted infection services. 
+The addition of services should complement rather than replace 
+centralized services.
+Conditional recommendation, 
+low certainty in evidence of 
+effects (new 2024)
+Integration
+WHO suggests the integration of services for prevention, 
+screening, diagnosis and management of sexually transmitted 
+infections into other health services, where relevant and 
+feasible.
+Remarks: Integration of sexually transmitted infection services 
+should be prioritized in primary health care, HIV services, maternal 
+health care, adolescent health, contraceptive/family planning 
+services and other sexual and reproductive health services.
+Conditional recommendation, 
+low certainty in evidence of 
+effects (new 2024)
+Task sharing
+WHO suggests that trained health practitioners can provide 
+sexually transmitted infection services, and that community 
+health workers can assist with service provision.
+Remarks: Quality assurance mechanisms, regular standardized 
+training, supportive supervision and mentoring systems should be in 
+place to ensure the provision of quality-assured services. 
+Conditional recommendation, 
+low certainty in evidence of 
+effects (new 2024)
+Digital health
+WHO suggests using digital health interventions to complement 
+in-person health care services for sexually transmitted 
+infections.
+Remarks: Ensuring data security and confidentiality is essential when 
+providing digital health interventions.
+Conditional recommendation, 
+low certainty in evidence of 
+effects (new 2024)
+Table 1. Summary of the new recommendations on STI service delivery (see details in Chapter 3)
+1. Introduction
+2
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+1.1 Epidemiology and global targets
+Sexually transmitted infections (STIs) are a major public health problem worldwide, reducing quality of life 
+and causing serious morbidity and mortality. STIs directly impact reproductive and child health by causing 
+infertility, cancers and pregnancy complications, including fetal and newborn infections, and facilitate sexual 
+transmission of HIV. 
+In addition, STIs affect national economies and individual finances, as they primarily affect people of working 
+age, who may be unable to work due to infection.
+The global burden of STIs remains high. In 2020, WHO estimated that there were approximately 374 million 
+new infections of four curable STIs among people aged 15–49 years, including Chlamydia trachomatis (129 
+million), Neisseria gonorrhoeae (82 million), Treponema pallidum or syphilis (7.1 million) and Trichomonas 
+vaginalis (156 million) (1). In 2022, WHO estimated 8 million new cases of syphilis and 700 000 new cases of 
+congenital syphilis (2, 3). Viral STIs such as genital herpes simplex virus (HSV) and human papillomavirus 
+(HPV) infection also remain widespread. A concerning trend is the emerging antimicrobial resistance of N. 
+gonorrhoeae, which is challenging the control of gonorrhoea. 
+Population groups that are at higher risk of acquiring STIs include sex workers and their clients, gay and 
+bisexual men and other men who have sex with men, trans and gender diverse people, people who inject 
+drugs, people in prisons, adolescents and young people, mobile populations and people affected by conflict 
+and civil unrest (1).
+WHO set ambitious targets in the 2022 publication Global health sector strategies on, respectively, HIV, viral 
+hepatitis and sexually transmitted infections for the period 2022–2030, including a 90% reduction in both 
+gonorrhoea and syphilis infections, and the elimination of congenital syphilis as a public health problem 
+(defined as fewer than 50 cases per 100 000 live births) by 2030 (4). To achieve these targets, the strategy on 
+STIs (Chapter 6 of the publication) highlights the importance of making it easier for people with STIs or at risk 
+of STIs to access prevention, diagnostic, treatment and care services.
+These targets will not be reached unless services 
+become more accessible to the populations 
+most in need. Service delivery approaches 
+should endeavour to make quality-assured, 
+non-stigmatizing, STI services accessible and 
+acceptable; and to empower individuals to become 
+active participants in promoting their own health. 
+1. Introduction
+Global targets will not be 
+reached unless services 
+become more accessible to the 
+populations most in need
+3
+1.2 Rationale for new recommendations
+To reduce STIs and prevent complications, delivering quality-assured STI services, including prevention, 
+screening, diagnosis and treatment, is essential. Timely and effective treatment of STIs, ideally provided on 
+the same day as the patient’s first contact with health care providers, is a crucial public health intervention 
+that helps break the chain of infection transmission. Ensuring high-quality care, defined as being safe, 
+effective, timely, equitable, and people-centred, is key to addressing the global burden of STIs. 
+However, significant barriers hinder the delivery of such care. Many health care systems rely on specialized, 
+often stand-alone services that limit access due to people’s distance from clinics, restricted operating hours, 
+and long wait times. These obstacles are particularly acute in areas with high STI prevalence and limited 
+health care resources. As a result, many people cannot receive comprehensive, people-centred services, 
+leading to inefficiencies, duplication of efforts, loss to follow-up and missed opportunities to reduce STI 
+transmission and complications.
+To address these challenges, health care systems should adopt a more people-centred approach to STI care, 
+ensuring that services are respectful of and responsive to the preferences, needs and values of individuals 
+and communities. These guidelines aim to provide evidence-based service delivery recommendations to 
+enhance access to care, improve service quality and provide equitable, people-centred STI services. These 
+recommendations complement existing service delivery recommendations, including self-care interventions, 
+and support the implementation of other recommendations related to STI prevention and care. 
+1.3 Objectives
+The objectives of these guidelines are:
+• to provide evidence-informed recommendations for the delivery of STI services; and
+• to support countries and national programmes in developing national STI guidelines in line with the 
+2030 global sector strategy targets.
+1.4 Target audience
+These guidelines are intended for STI prevention and control programme managers at the national level, as 
+well as health workers in primary, secondary and tertiary health care facilities involved in the treatment and 
+management of people with STIs. The recommendations and guidance are also important for other health 
+workers, including community and lay health workers, responsible for offering and providing STI services. 
+These guidelines are relevant to implementers of STI services, including those in HIV, sexual and reproductive 
+health (SRH) services and maternal and child health services. They are also applicable to non-governmental 
+and community-based organizations, including those working with or led by key populations affected by HIV, 
+as well as service providers and users of HIV prevention services, including pre-exposure prophylaxis (PrEP) for 
+HIV. The guidelines support the planning, implementation, monitoring, and evaluation of these services, and 
+can also serve as an advocacy tool to secure the financial and human resources needed to deliver acceptable, 
+adequate, affordable and equitable STI care for all who need it.
+The recommendations are particularly important for people with, or at increased risk of acquiring, STIs 
+including HIV. This includes people from key populations, those who use HIV PrEP , and other vulnerable 
+groups such as pregnant women, adolescents, indigenous populations and migrants.
+1. Introduction
+4
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+1.5 Guiding principles
+The following principles have informed the development of these guidelines and should guide the 
+implementation of the recommendations:
+• These guidelines will contribute to the achievement of key global goals, including the Sustainable 
+Development Goals, and relevant national-level goals and targets.
+• The guidelines are based on a public health approach to scaling up the provision of recommended 
+services and care for people with STIs, with the aim of reaching everyone, including vulnerable 
+populations and key populations, with recommended interventions (in accordance with WHO 
+guidelines).
+• The adaptation and implementation of the guidelines should be accompanied by efforts to 
+promote and protect the human rights of people receiving STI services, including preventing stigma 
+and discrimination, promoting gender equity, and ensuring that the use of services is always 
+voluntary and never mandatory or coerced.
+• The implementation of the recommendations in these guidelines should be informed by the 
+local context, including the epidemiology of STIs, the availability of resources and commodities 
+for diagnosis and treatment of STIs, the capacity of the health system and the anticipated cost-
+effectiveness of the various interventions.
+• The adaptability built into these guidelines is intended to promote accessibility, acceptability, 
+equity and effectiveness of STI services through public and private health care systems, including 
+at community health centres and other primary care facilities providing services for STIs, such 
+as clinics for maternal and child health, antenatal care, family planning and other SRH services. 
+As such, these guidelines should form part of a broader package of service delivery approaches, 
+including linkage to prevention, testing, treatment and care services.
+• The guidelines provide direction for acceptable and effective STI services for populations that are 
+especially vulnerable to or at higher risk of STIs, including those living with HIV infection, and aim 
+to improve health outcomes at the population level.
+• The guidelines follow the guiding principles of the WHO Essential Medicines List: preventing the 
+emergence and spread of antibiotic resistance, parsimony, feasibility and alignment with the WHO 
+List of Critically Important Antimicrobials for Human Medicine, including the WHO AWaRe (access, 
+watch, reserve) antibiotic categorization (5, 6). 
+1.6 Structure of the guidelines
+These guidelines provide evidence-informed service delivery recommendations and are intended to become 
+subsections of the forthcoming consolidated guidelines for the prevention, diagnosis, treatment and care 
+of STIs. They also offer direction for countries developing national recommendations; however, national 
+guidelines should take into account local prevalence, as well as health service capacity and resources.
+The new recommendations for STI service delivery are presented in Chapter 3. Other existing 
+recommendations related to STI service delivery are presented in Chapter 4, and implementation 
+considerations for the delivery of STI services in Chapter 5. Web Annexes A–D present the evidence-to-decision 
+framework for each of the four recommendations. Web Annex E summarizes the evidence and methods used 
+to inform these recommendations.
+2. Methods
+6
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+2.1 Overview
+These guidelines were developed in accordance with procedures in the WHO handbook for guideline 
+development (7). 
+The Guideline Development Group, convened in 2020 and 2023, identified key questions about the delivery of 
+services for STIs. An overview of systematic reviews and WHO recommendations for service delivery for STIs 
+and other conditions was conducted. Evidence summaries were developed, and the evidence was assessed 
+according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach. 
+The Guideline Development Group developed the recommendations by considering the certainty of evidence 
+for the effects, the balance of desirable and undesirable effects, values and preferences, acceptability, 
+feasibility and resource needs across a variety of settings. Information on each of these aspects was included 
+in evidence-to-decision tables, which were shared in advance electronically via the GRADEpro application with 
+the Guideline Development Group for their feedback and used in meetings to support the judgements of the 
+Guideline Development Group to make recommendations. Consistent with previous WHO guidelines, these 
+recommendations are based on a public health approach. 
+The following sections provide further details on each aspect of the guideline development process.
+ 
+2.2 Roles of groups involved in developing the guidelines
+Five main groups were formed to guide and implement the guideline development process, coordinated by 
+the WHO Secretariat. Each group played a specific role, as described below. Annex 1 lists the members of these 
+groups and other contributors and their affiliations.
+1. WHO Steering Committee. This group, which is responsible for the overall coordination of the 
+guideline development process, was led by the Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes. Participants included staff from this department, as well 
+as from the Department of Sexual and Reproductive Health and Research, the Department of 
+Surveillance, Prevention and Control and the Department of Access to Medicines and Health 
+Products. The Steering Committee also included WHO technical staff members from all WHO 
+regions.
+2. Guideline Development Group. This group comprised non-United Nations/non-WHO experts, 
+health professionals and representatives of groups most affected by the recommendations 
+in the guidelines. The 40 members formulated the WHO recommendations, including any 
+implementation considerations. They also reviewed and approved the final content of these 
+guidelines. The composition of the represented all six WHO regions and was balanced across 
+gender and backgrounds, including academia and research, programme implementation 
+and policy and community organizations and networks. The group members were selected in 
+coordination with the WHO Steering Committee and WHO country and regional offices. The 
+Steering Committee reviewed curricula vitae, declarations of interests and confidentiality 
+agreements. The proposed membership list was posted for public review and comment, and then 
+finalized.
+3. External Review Group. This group was responsible for peer reviewing these guidelines, 
+including the recommendations. The members were selected in consultation with the WHO 
+Steering Committee to ensure geographical and gender balance. It comprised 14 peer reviewers 
+from academia, policy and research institutions, programme implementation and community 
+organizations and representatives of networks of key populations.
+2. Methods
+7
+2. Methods
+4. External evidence reviewers led by a methodologist. This team conducted the overview of the 
+systematic reviews of the effects of interventions based on the selected key questions and of the 
+WHO recommendations (and evidence in those recommendations). In addition, evidence on values 
+and preferences, feasibility and cost-effectiveness was compiled and summarized for each question.
+5. External observers. Representatives of the European Centre for Disease Prevention and Control 
+(ECDC) and the Global Antibiotic Research and Development Partnership (GARDP) attended the 
+Guideline Development Group meeting as observers. Both organizations have a long-standing history 
+of collaboration with WHO’s Department of Global HIV, Hepatitis and Sexually Transmitted Infections 
+Programmes. 
+ 
+2.3 Managing conflicts of interest
+Managing conflicts of interest was a priority. WHO’s procedures for the declaration of interests by experts were 
+followed. Declarations of interest were obtained from all members of the Guideline Development Group, the 
+External Review Group and other non-WHO participants involved in meetings and other guideline development 
+processes, prior to assuming their roles. At the beginning of the Guideline Development Group meetings, including 
+subgroup meetings, members disclosed any previously declared interests as well as any new ones.  
+Ten members of the Guideline Development Group declared interests. All declarations were reviewed by WHO, and 
+no conflicts of interest were identified that would preclude any member from participating fully in the guideline 
+development process. A full compilation and summary of declarations of interest in provided in Annex 2. 
+2.4 Scope and questions
+In December 2013, the first Guideline Development Group meeting was held to agree on the scope of the STI 
+guidelines and to identify the different phases for developing the various components of the guidelines. In 
+December 2020, the Guideline Development Group met to define the framework for questions related to the 
+delivery of STI services, using a general PICO question2 to guide the formulation of recommendations: “Should we 
+recommend [strategy] to improve coverage, access and uptake of screening, diagnosis and management strategies 
+for STIs?” . The populations and interventions were initially broad and were further refined with the results of a 
+literature review and discussed with a smaller working group of the Guideline Development Group in December 
+2023. Finally, the Guideline Development Group agreed to address the four interventions outlined in Table 2.1.
+2 PICO (population, intervention, comparator, outcome) – a framework used to formulate structured questions in guideline development.
+Population Intervention and 
+comparator
+Comparison Outcomes
+Health facilities, health 
+programme managers, 
+health workers 
+providing STI services 
+to: 
+• adults and 
+adolescents 
+with STIs
+• adults and 
+adolescents 
+seeking primary 
+health care, 
+HIV and SRH 
+services. 
+Decentralized STI 
+services
+Integration of STI 
+services
+Task sharing/shifting
+Digital health 
+interventions
+Current practice STI prevalence/incidence 
+STI transmission/ 
+acquisition 
+Uptake/provision of 
+screening/testing
+Uptake/provision of 
+treatment/management
+Satisfaction with care 
+Return for follow-up/
+treatment
+Long-term consequences 
+of untreated infections
+Antimicrobial resistance
+Table 2.1 Population, intervention, comparator and outcome (PICO) components prioritized for these 
+guidelines
+8
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+2.5 Evidence to inform the guidelines
+Discussions with the smaller working group of the Guideline Development Group determined that there are 
+large systematic reviews of service delivery interventions in other WHO guidelines for other conditions (for 
+example, hepatitis B and C and HIV). The Guideline Development Group agreed that these reviews could be 
+used to inform the recommendation questions as direct or indirect evidence for benefits and harms, as well 
+as for values and preferences, acceptability, equity, resources and feasibility. The Guideline Development 
+Group agreed that in some cases, the evidence from those reviews could be rated down for serious concern 
+or very serious concern with indirectness because the reviews were not in populations with STIs (but were 
+in populations with infections where sexual transmission occurs and/or in similar key populations). It was 
+also agreed that it may be possible not to rate that evidence down for indirectness. In discussions, it was 
+pointed out that there are numerous systematic reviews for service delivery interventions in STI services. 
+Although these reviews would not be as extensive as those for other conditions, they could still be used to 
+inform decisions about the applicability of the effects from other reviews. For example, if the STI reviews 
+found similar results to those for other conditions, the latter could be considered direct evidence (and not 
+rated down for indirectness). In addition, the smaller working group discussed whether conducting systematic 
+reviews of primary studies would be valuable. However, the group agreed that these reviews would likely not 
+add to or provide a higher level of certainty of the evidence from the larger reviews of other conditions. The 
+WHO Steering Group reviewed this approach to using evidence from other conditions and agreed.
+Therefore, we conducted a search of the Epistemonikos database and Cochrane Library for reviews published 
+from 2015 to August 2024 in English. We also searched for published WHO guidelines that addressed service 
+delivery interventions for other conditions (see Web Annex E). The results from the relevant published 
+systematic reviews and reviews from the WHO guidelines were summarized and presented in evidence-
+to-decision frameworks. Evidence was also summarized for the effects of the interventions (based on the 
+prioritized outcomes) and acceptability, feasibility, resources and equity indicators.  
+As service delivery interventions can be context-specific, we abstracted data from the reviews of STI 
+interventions about context and implementation. However, there was little contextual information in the 
+reviews or in the primary studies included in those reviews. Therefore, the smaller working group determined 
+that additional critical information was needed about the applicability of the reviews to STI service delivery 
+and about the context when implementing service delivery interventions. The group agreed that this 
+information should be obtained from the Guideline Development Group. We therefore circulated the draft 
+evidence-to-decision tables to the Guideline Development Group via the GRADEpro application to obtain 
+feedback in August 2024. We asked for the Guideline Development Group’s agreement or disagreement about 
+preliminary judgements regarding the size of effects of the service delivery intervention, the probability 
+of other criteria (such as feasibility), and for contextual considerations and how interventions are applied 
+specifically in STIs. 
+2.6 Assessment and presentation of the evidence
+The certainty of the evidence for each outcome was assessed using the GRADE approach and based on the 
+domains for risk of bias, inconsistency, indirectness, imprecision, publication bias, effect size, dose response 
+and opposing confounding (7, 8). When using evidence from published systematic reviews or reviews in WHO 
+guidelines, the GRADE assessment from the source systematic reviews was abstracted. In some reviews, the 
+GRADE assessment was provided for each outcome with details. However, in some source guidelines, the 
+results of the GRADE assessment were provided narratively. When reviews were from WHO guidelines and 
+conducted following WHO methodology, we did not reassess the GRADE assessment (with the exception of the 
+domain of indirectness).
+Certainty of the evidence for effects was assigned to one of the four grades of evidence defined by the GRADE 
+Working Group:
+• High certainty: We are very confident that the true effect lies close to that of the estimate of the 
+effect.
+• Moderate certainty: We are moderately confident in the effect estimate; the true effect is likely to be 
+close to the estimate of the effect, but there is a possibility that it is substantially different.
+9
+2. Methods
+• Low certainty: Our confidence in the effect estimate is limited; the true effect may be substantially 
+different from the estimate of the effect.
+• Very low certainty: We have very little confidence in the effect estimate; the true effect is likely to be 
+substantially different from the estimate of effect.
+Confidence in the evidence for outcomes based on qualitative research was assessed using the GRADE-
+CERQual (Confidence in the Evidence from Reviews of Qualitative Research) approach, with four levels: high, 
+moderate, low and very low confidence (7).
+When a summary-of-findings table (also called an evidence profile) was available, it was used, and if not, a 
+table was created. In most systematic reviews of the literature a meta-analysis could not be performed, but 
+a synthesis of the evidence without meta-analysis was conducted. We provide the results quantitatively in 
+the summary-of-findings table when meta-analysis was possible, but narratively when meta-analysis was 
+not possible. Evidence-to-decision frameworks (that is, tables to facilitate decision-making for the updated 
+recommendations) were drafted in advance of the Guideline Development Group meeting using the GRADEpro 
+software (9) (see Web Annexes A–D for the evidence-to-decision framework for each recommendation).
+2.7 Making recommendations
+In September 2024, the Guideline Development Group met to make recommendations. It had reviewed 
+the feedback obtained via GRADEpro in August 2024 and the updated evidence-to-decision tables to make 
+judgements about the effects of the interventions and the strength of the recommendation for or against 
+the intervention. The Guideline Development Group agreed by consensus and there were no disagreements 
+requiring voting.
+According to the GRADE approach, the strength of the recommendations reflects the degree of confidence of 
+the Guideline Development Group that the desirable consequences of the recommendations (for example, 
+beneficial health outcomes) outweigh the undesirable consequences (for example, adverse effects) and takes 
+into account other criteria, such as resources, acceptability, equity and feasibility. The recommendations are 
+graded into two categories: 
+1. A strong recommendation means the Guideline Development Group is confident that the desirable 
+consequences of the recommendation outweigh the undesirable consequences.
+2. A conditional recommendation means the Guideline Development Group concluded that the desirable 
+consequences of the recommendation probably outweigh the undesirable consequences but is not 
+confident about these trade-offs (7).
+According to the implications of differing strengths of GRADE recommendations for patients, clinicians and 
+policy-makers, a strong recommendation can be adopted as policy in most situations, while a conditional 
+recommendation will require debate and the involvement of various stakeholders (7). 
+Remarks were added to explain the recommendation and/or describe any relevant conditions. 
+Implementation considerations were added to provide further information for the possible application of the 
+recommendation.
+WHO then drafted the full guidelines and circulated them electronically to the WHO Steering Committee, the 
+Guideline Development Group and the External Review Group for comments and feedback. All input was 
+considered and the guidelines were revised. External peer review was completed in November 2024, followed 
+by editing prior to publication, but neither of these processes affected the formulated recommendations.
+3. Recommendations for STI service 
+delivery
+11
+These guidelines provide evidence-informed recommendations for the delivery of STI services (Table 1). They 
+support the implementation of other WHO recommendations on STI prevention and care, including:
+• managing people with symptoms of STIs 
+• screening certain populations without symptoms
+• treating people with confirmed STIs and their sexual partners. 
+In addition, timely and effective treatment of STIs, ideally provided on the same day as the first contact 
+with health care providers, is a crucial public health intervention that helps break the chain of infection 
+transmission. 
+A people-centred approach is essential – one that is 
+respectful of and responsive to the preferences, needs 
+and values of individuals and communities. This approach 
+to STI services not only addresses the immediate health 
+needs of individuals but also contributes to broader public 
+health goals by reducing the spread of infections. People-
+centred health services place individuals and communities, 
+not diseases, at the centre of health systems.
+These recommendations are based on the following overarching guiding principle:
+3. Recommendations for STI service 
+delivery
+This section provides recommendations for delivering people-centred STI services, including the 
+decentralization of services, the integration of STI care into other health services, task sharing the provision of 
+certain STI services, and using digital health interventions to support the delivery of STI services.
+3.1 Important considerations
+3. Recommendations for STI service delivery
+Timely and effective STI 
+treatment is essential to 
+interrupt transmission 
+and protect public health
+Health systems should be structured and strengthened to deliver quality-assured, 
+accessible, equitable and people-centred services for the prevention, screening, diagnosis 
+and management of sexually transmitted infections. 
+Decision-makers should consider local and regional health system capacity, resources and 
+population needs when selecting interventions to deliver these services. 
+12
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+In many settings, STI services are delivered through 
+specialized clinics in urban centres or major hospitals, often 
+coordinated by a central unit within the Ministry of Health. 
+This centralized, vertical model of care has been favoured 
+for its perceived efficiency and ability to link expenditures to 
+measurable outcomes. 
+Decentralizing STI services involves bringing care closer to the community by shifting care from centralized, 
+often specialized services to more accessible locations, such as peripheral health facilities, community-based 
+venues and locations outside conventional hospital settings.
+This approach aims to reduce barriers to access, shorten waiting times, improve patient satisfaction and 
+reduce the burden on centralized facilities. For example, syphilis testing may be available at decentralized 
+locations, but reactive tests typically require referral to centralized facilities for confirmation and treatment. 
+Expanding decentralized services to include these follow-up steps could, in principle, promote timely care and 
+help reduce transmission..
+Decentralization may require addressing policies that restrict decentralized service provision, as well as 
+simplifying clinical protocols, task sharing with less specialized health workers, and engaging multidisciplinary 
+teams to provide care in community-based or home-based settings. Decentralization can also involve 
+collaborating with the private sector and the community to improve service delivery. Other recommendations 
+related to decentralization have been developed by WHO, including services for HIV, hepatitis B and C, and 
+tuberculosis (10-12).
+Recommendation (new 2024)
+WHO suggests the decentralization of services to improve access to prevention, screening, diagnosis and 
+management of sexually transmitted infections. 
+Conditional recommendation, low certainty in evidence of effects
+Remarks: Decentralization means that quality-assured sexually transmitted infection services are 
+provided beyond centralized health care facilities to meet the needs of people (for example, in 
+primary care, peripheral or community-based health facilities, through outreach services or self-care 
+interventions) and may involve referral to other sexually transmitted infection services. The addition of 
+services should complement rather than replace centralized services.
+3.1 Decentralization 
+Implementation tips 
+• Enable local health care facilities to:
+» promote prevention and health care-seeking behaviour;
+» assess and manage people with symptoms such as vaginal, urethral or anorectal 
+discharge, lower abdominal pain or anogenital ulcers;
+» screen certain populations who do not have symptoms, including men who have sex with 
+men, sex workers, pregnant women and sexually active adolescents; and
+» treat STIs confirmed by a molecular assay or rapid point-of-care test on the same day, and/
+or based on syndromic management.
+• Set up services to provide care that is confidential, private, non-judgemental and non-
+stigmatizing.
+• Provide people with a choice of locations to access services.
+• Add other health care facilities to complement specialized services and ensure linkage by 
+establishing formal referral systems. 
+Decentralized STI services 
+bring care closer to the 
+community
+13
+3. Recommendations for STI service delivery
+• Maintain specialized STI services for managing more complex cases and for training and 
+research purposes. 
+• Prioritize the addition of health care facilities and/or outreach services in areas with the 
+highest STI prevalence, and to reach key and priority populations.
+• Use existing facilities to reduce the cost and resource demands. 
+• Train health workers who provide care in newly established services.
+• Use service delivery opportunities in other facilities to increase awareness of STIs and sexual 
+health.
+Summary of the evidence
+Several reviews of decentralization in STI care have been conducted; however, few identified studies that 
+assessed the effects of these interventions on health outcomes, and one review included only studies from 
+high-income countries (HICs) (13-17). One review included 64 studies that assessed screening in correctional 
+facilities, community settings and patients’ homes in the United States of America. Gonorrhoea, chlamydia 
+and syphilis were screened. The review reported “significant numbers of undiagnosed infections” were found 
+in correctional facilities, but few infections were identified in sex venues and bathhouses. Some community-
+based settings (college campuses, people on probation) reported a “significant burden of infections” , while 
+others did not (such as homeless shelters, mobile vans and bars). Internet-based screening and home 
+specimen collection found a high incidence of chlamydia but not of gonorrhoea (13). Another review also 
+reported mixed results regarding the provision and uptake of STI testing (for example, test kits) among young 
+people (16). Effects on other outcomes such as STI prevalence or incidence were not measured or reported.
+Low- and moderate-certainty evidence from a systematic review and meta-analysis of 142 studies from 34 
+countries, including 20 studies (14%) from low- and middle-income countries (LMICs), examined the effects of 
+full and partial decentralization (as well as other interventions) in hepatitis C virus (HCV) care (18). This review 
+found that in key populations, HCV testing and treatment uptake, as well as linkage to care, were greater with 
+full and partial decentralization. However, in general populations, the effects were less clear. The review noted 
+that treatment for HCV had changed over time to a more simplified regimen that did not require specialist-led 
+care. A systematic review of 16 studies (15 in LMICs) on the decentralization of antiretroviral therapy found low- 
+and moderate-certainty evidence for similar effects on viral suppression compared with no decentralization, 
+and increased uptake of testing and treatment in peripheral health facilities (primary care/community sites). 
+Greater retention in care was also reported (19). A review of eight studies on HIV and STI testing in pharmacies 
+found small or no differences in uptake among underserved or hard-to-reach populations (15). 
+Harms were not reported in the reviews, but the Guideline Development Group noted that with 
+decentralization there is a risk of poor quality in peripheral services, which could lead to overprescribing 
+and increased antimicrobial resistance. There was also concern that decentralization could lead to the loss 
+of specialized services. To avoid this risk, it would be important to ensure that decentralized services are 
+provided alongside specialized services. Overall, the Guideline Development Group agreed that the evidence 
+from HCV and HIV care may be applicable to STI care. For example, the success of decentralizing HCV services, 
+enabled by simplified testing and treatment algorithms, may parallel the use of the syndromic approach in 
+STI management, which similarly does not require advanced laboratory diagnostics. This simplification could 
+support the successful decentralization of STI services. The Guideline Development Group also agreed that 
+local and outreach services have the potential to increase uptake of STI care (in particular for screening) and in 
+settings with high prevalence, but the certainty of evidence is low.
+Two systematic reviews addressed acceptability and values among people with STIs (16, 20). One review 
+found that young people appreciated the convenience and accessibility of receiving care through pharmacies, 
+though there were mixed feelings about privacy (16). The other review of implementation considerations 
+for pharmacy-based STI services found that patients had positive experiences due to the accessibility and 
+convenience of services, though privacy, stigma and fear of judgement remained barriers (20). Potential 
+barriers at a systems level were identified in another review of decentralization in HIV care, which included 
+training and education of staff and providers, supporting structures and referral systems (19). The Guideline 
+Development Group agreed that people with STIs value confidentiality, privacy and the convenience of 
+decentralized services, but barriers to implementation exist.
+14
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Costs and resources were addressed in a systematic review of STI services outside clinics in the USA (13). 
+It found that in correctional facilities, screening costs vary significantly by state, ranging from US$ 200 to 
+US$ 3000 per case: in community-based settings, costs exceeded US$ 2400 per case. For internet-based 
+home screening, high costs were associated with web development, marketing and logistics for at-home 
+sample collection. The costs of training health workers or shifts in resources from different policy levels were 
+not assessed. The Guideline Development Group agreed that costs could be reduced when prevalence in a 
+setting is higher, and costs do not take into account the potential increase in awareness of and sensitization 
+to STIs provided by peripheral facilities. Overall, the Guideline Development Group agreed that there is still 
+uncertainty about whether decentralization may save costs. 
+In summary, the Guideline Development Group agreed that there is low certainty in the evidence from 
+studies involving people with HCV, HIV or STIs that decentralization improves the uptake of screening and 
+treatment services. Decentralized services may be more accessible for hard-to-reach populations; however, 
+there is potential for harms, such as a reduction in specialized clinics and an increased risk of antimicrobial 
+resistance if high-quality care is not ensured. There may also be barriers to the feasibility and acceptability of 
+decentralization. For example, individuals may not find community health centres private or confidential, and 
+some may experience stigma related to STIs. These barriers are likely to be surmountable in many settings, 
+and most individuals are likely to prefer services delivered in facilities located conveniently near their homes. 
+Whether decentralization leads to cost savings remains uncertain.
+Web Annex A presents the evidence-to-decision framework for decentralization. 
+Research needs
+A key research gap for decentralized STI care is the lack of data on health outcomes, as few studies assess 
+whether decentralization reduces STI incidence or prevalence, despite its role in increasing access to 
+screening. Additionally, because decentralization shows mixed effects across settings, research is needed to 
+identify the settings and conditions where decentralization is most effective, the key components of successful 
+strategies to decentralize services, and the populations for whom services may have different effects.
+Most studies focus on HICs; there are limited data from LMICs, where more research is required to assess 
+the feasibility and effectiveness of decentralized care. Concerns about inconsistent or low-quality care in 
+decentralized health care services, such as limited counselling, lack of contact tracing and inappropriate 
+management, also need to be addressed. Research should explore maintaining care quality in decentralized 
+settings, including through adequate provider training.
+Barriers such as privacy concerns and stigma in decentralized settings must be addressed to improve patient 
+acceptability, particularly among marginalized populations. The cost-effectiveness of decentralization 
+remains uncertain, with wide variations in costs reported across settings, necessitating further research on 
+the long-term financial impacts. System-level barriers, such as staff training and referral systems, also need 
+investigation to ensure decentralized care models are scalable and sustainable, especially in resource-limited 
+settings. Issues of case reporting for national surveillance and partner services in decentralized care settings 
+should also be addressed.
+15
+3. Recommendations for STI service delivery
+3.3 Integration 
+Integrated service delivery involves combining and co-
+locating health services and resources across various 
+health areas to provide comprehensive, people-centred 
+care. Integration of STI services involves coordinating 
+services across health areas, such as primary health 
+care, maternal health care, SRH services (including 
+contraception/family planning) and HIV services. 
+Integrated health services aim to manage and deliver a continuum of care that spans health promotion, 
+disease prevention, diagnosis, treatment, disease management, rehabilitation and palliative care. By 
+addressing multiple health needs in a single visit, integration could improve both the efficiency of health 
+systems and the patient experience. 
+Integration can be both horizontal, linking services at the same level of care, and vertical, connecting services 
+across different levels, such as between hospitals and community-based care. The scope of integration is 
+context-specific, depending on the health system and population needs, and should focus on populations 
+and health service delivery platforms that offer opportunities for synergy and efficiency. Integration of 
+services involves balancing efficiency with the effective use of health system resources, but it may also risk 
+compromising progress made by disease-specific responses, particularly for key and affected populations. 
+Careful planning is therefore essential to ensure that integration enhances, rather than undermines, existing 
+health achievements and sustains gains in specific areas of care.
+WHO has developed other recommendations and action statements related to integration of services. The 
+Global Health Sector Strategy for 2022 to 2030 describes Action 92 to link STI services with other health services 
+(4). In addition, a conditional recommendation was first published in 2016 stating that STI and family planning 
+services can be integrated within HIV care settings (21).
+Recommendation (new 2024)
+WHO suggests the integration of services for prevention, screening, diagnosis and management of 
+sexually transmitted infections into other health services, where relevant and feasible. 
+Conditional recommendation, low certainty in evidence of effects
+Remarks: Integration of sexually transmitted infection services should be prioritized in primary health 
+care, HIV services, maternal health care, contraceptive/family planning services and other sexual and 
+reproductive health services.
+Implementation tips
+• Integrate STI services within the same health care setting or during the same consultation.
+• Integrate STI services into other relevant services (for example, HIV care, HIV PrEP , 
+contraceptive/family planning services, antenatal care, and screening of pregnant women for 
+chlamydia, gonorrhoea and syphilis).
+• Integrate STI services (such as asymptomatic screening) within HIV services and services for 
+key and priority populations, including men who have sex with men, sex workers, pregnant 
+women and sexually active adolescents. 
+• Prioritize integration in venues, communities and populations where STI prevalence is highest. 
+• Integrate testing and/or evaluation of people with symptoms of STIs (such as vaginal or 
+urethral discharge, lower abdominal pain or anogenital ulcers) into primary health care 
+services.
+• Offer same-day treatment of STIs confirmed by a molecular assay, rapid point-of-care test or 
+based on syndromic management.
+Integrated health services 
+deliver a continuum of care 
+to meet multiple health 
+needs in a single contact
+16
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+• Integrate services to provide quality-assured care that is confidential, private, non-judgemental 
+and non-stigmatizing.
+• Ensure that policies, resources and operational mechanisms (including data, supply chains and 
+logistics support) are in place to support service integration.
+• Train health workers who provide newly integrated services.
+• Establish formal referral systems to ensure linkage with specialized STI services.
+Summary of the evidence
+Four systematic reviews were available that assessed the effects of integration of STI services in other services 
+(22-25). One review found three studies integrating STI services into HIV care for women living with HIV and 
+reported that two studies increased screening by 10–20% in the United Kingdom, but a study in Eswatini did 
+not show more screening or greater provision of advice (23). A systematic review, updated in 2009, found 44 
+studies, most from sub-Saharan Africa, assessing the integration of STI and HIV services into family planning 
+services (22, 24). It found that integration may not improve continuity of care (for example, referrals or same-
+day treatment), but may increase the uptake of family planning services (more recent studies found it may 
+increase STI care), and client satisfaction was greater. There were mixed results for reaching “non-traditional 
+clients” (such as males and young people), but client satisfaction was greater. Another review of interventions 
+that integrated STI care into other clinics and primary care included 11 studies (25). Most studies found that STI 
+screening increased by more than 20%. In addition, various reviews have found that the provision of screening 
+tests for STIs in antenatal care may increase the provision of treatment and reduce adverse pregnancy and 
+infant outcomes, although the reviews did not always verify that testing was provided in family planning 
+services (26, 27). Other outcomes, such as STI prevalence or incidence and harms, were not measured or 
+reported.
+A systematic review of 142 studies from 34 countries (mostly HICs) assessed the effects of integrating HCV care 
+into other existing care services at peripheral health facilities (18). It found greater HCV testing and treatment 
+with integration in services such as primary care, harm reduction (needle and syringe programme/opioid 
+agonist maintenance therapy sites), prisons and HIV services. These results were found in key populations, but 
+results were unclear in the general population.
+Overall, the Guideline Development Group agreed that integration of STI services in other health services may 
+improve screening, particularly in contraception/family planning services and for key populations. However, 
+the benefits of integrating screening and testing into other health services, or treatment into services, or the 
+effects in the general population, are unclear. It is also likely that the effects will be dependent on training, 
+supervision and resource capacity. 
+One review included three studies that addressed costs (24). The studies found cost savings, likely due to 
+the high number of clients and sufficient health worker resources, which would apply to settings with high 
+prevalence or key populations. The Guideline Development Group also noted that integration may initially 
+require additional funding and may not reduce resources but will increase accessibility of STI services. The 
+same review found that there may be barriers to integration due to heavy workloads, lack of incentives, long 
+wait times, inadequate training and supervision or limited access to laboratories.
+In summary, low-certainty evidence from studies involving people with STIs, including HCV or HIV, suggests 
+that integration may improve the uptake of screening and testing (in particular among key populations and 
+within contraception/family planning services). However, there is greater uncertainty about its effects on 
+treatment services, potential harms and outcomes in the general population. Effects on other outcomes, such 
+as STI incidence or prevalence, as well as the quality and continuity of care, remain unknown. There may be 
+some barriers to offering STI services within other health care services, and initial costs and resource needs 
+may be higher.
+Web Annex B presents the evidence-to-decision framework for integration. 
+17
+3. Recommendations for STI service delivery
+Research needs
+Research is needed to assess whether integration can reduce STI prevalence and improve health outcomes, 
+particularly in non-key populations. While studies have shown increased client satisfaction and service uptake, 
+the effects of integration on continuity of care, such as referrals and same-day treatment, and on disease 
+prevalence remain unclear. Mixed results in reaching non-traditional clients, such as men and young people, 
+suggest that more research is necessary to understand how to improve access for these groups through 
+integration.
+The effects of integration in broader health care services, such as primary care, and its potential to reach a 
+wider audience need further evaluation. While there is some evidence of cost savings, particularly in high-
+volume settings, the financial implications of integration in lower-prevalence settings are uncertain. Research 
+should also examine the long-term costs and resource requirements, as integration may initially demand 
+increased funding and staff capacity. 
+As noted, there are also potential barriers to successful integration, such as heavy workloads, inadequate 
+training and supervision, long wait times and limited laboratory access. Research is needed to explore 
+strategies to address these barriers and ensure that integration can be sustainably scaled across different 
+health care settings.
+3.4 Task sharing 
+Task sharing is an approach to expand service delivery, 
+addressing the shortage of trained health workers by 
+redistributing certain responsibilities from highly trained 
+health practitioners to those with less training or fewer 
+qualifications. 
+This approach involves training less specialized health workers (including doctors, nurses, midwives, medical 
+technologists, pharmacists and counsellors) and community health workers (including lay and peer health 
+workers) to perform specific tasks conventionally provided by health care specialists. For STI service delivery, 
+this could include the use of point-of-care tests or training to administer medications, such as benzathine 
+penicillin injections for syphilis treatment.
+WHO suggests the use of peer navigators to support people from key populations (10), whether provided 
+through one-on-one interactions, informal groups or digital platforms. This can also include health promotion 
+and education, counselling, condom provision, outreach services and supporting partner notification.
+WHO has developed other, related recommendations for task sharing to improve access to family planning/
+contraception, maternal and newborn health, and HIV and hepatitis C testing and treatment (11, 21, 28, 29).
+Recommendation (new 2024)
+WHO suggests that trained health practitioners can provide sexually transmitted infection services, and 
+that community health workers can assist with service provision.
+Conditional recommendation, low certainty in evidence of effects
+Remarks: Quality assurance mechanisms, regular standardized training, supportive supervision and 
+mentoring systems should be in place to ensure the provision of quality-assured services.
+Task sharing expands access 
+by enabling more health 
+workers to provide essential 
+STI services
+18
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Implementation tips
+• Task sharing can support STI service provision, including screening and testing, health 
+promotion and education, condom provision, outreach services and partner notification.
+• Provide training, mentorship and ongoing supervision to less specialized health workers, 
+including community health workers, in clinical skills, particularly taking a sexual history and 
+delivering care that is private, confidential, non-judgemental and non-stigmatizing.
+• Develop standards of care that define roles based on skills and capacities; regulations and 
+policies may need to be updated.
+• Involve providers in determining appropriate roles.
+• Provide adequate remuneration for health workers, including community health workers.
+• Establish a quality assurance system, which may include monitoring services and collecting 
+feedback from patients/clients. 
+Summary of the evidence
+Three systematic reviews, with minimal overlap of studies, provided information about the effects of 
+pharmacy-based STI services (15, 20, 30). One review included one randomized controlled trial and 11 non-
+comparative studies (including qualitative studies): 12 addressed chlamydia services, and two addressed 
+gonorrhoea, trichomoniasis or syphilis. Eleven investigated screening (distribution of tests to home or blood 
+tests/swabs/urine samples in pharmacies); and four also addressed treatment and partner treatment (20). 
+Chlamydia positivity rates ranged from 0% to 12.8%; uptake of services varied from 18% to 28% when people 
+were asked by the pharmacist, but was 87% when people were self-referred. Another review found nine 
+studies related to chlamydia: four for screening, and five also addressing treatment. Three of these studies 
+were not covered in the review by d’Entremont-Harris 2024 (20). These studies used treatment vouchers for 
+free treatment at pharmacies, and about 40% to 87% of people redeemed the vouchers (30). A review of eight 
+studies in underserved or hard-to-reach populations showed little difference in uptake of services provided by 
+pharmacists (15).
+A review of literature and interviews in the USA identified potential roles for lay health workers in community 
+outreach and referral, community or school-based education, liaison between public health departments and 
+the community, navigation and peer support for patients, outreach to people who drop out, and developing 
+education materials (31). Additionally, an online survey of community health workers in Europe found that 
+89% were involved in primary prevention, with about half involved in each of consultation and counselling, 
+testing provision, linkage to care, and treatment and support (32). Cross-cutting activities included strategic 
+and administrative tasks such as developing activities, monitoring and reporting, advocacy, advertising and 
+needs assessment. The reviews did not report on harms.
+For other conditions, a systematic review and meta-analysis of 142 studies from 34 countries (20 studies were 
+from LMICs) examined the effects of task sharing with non-specialists, alongside other simplified service 
+delivery interventions such as decentralization and integration, on outcomes across the HCV cascade of care 
+(18). There were 46 studies of care delivered by non-specialists, 24 studies of care delivered by non-specialists 
+supported through telehealth, and 51 studies of care delivered by health care specialists. The review found 
+moderate-certainty evidence that cure rates were similar (a difference of 0% to 6%) among patients treated 
+by health care specialists or other health workers (including primary health care workers, other health care 
+specialists and nurses), even when more complex treatment regimens were used. Multiple systematic reviews 
+in HIV care found good health outcomes when care was provided by nurses or lay and community health 
+workers with appropriate training and supervision (33, 34). Lay health workers could provide HIV counselling 
+and testing with rapid tests, and nurses could provide testing during pregnancy and initiate antiretroviral 
+therapy. Another review in HIV care found 17 studies and reported that roles for community health workers 
+included: 1) education and health promotion; 2) HIV care (such as testing, screening, medication delivery and 
+follow-up); and 3) support (such as treatment, referral, home care and psychosocial support) (35).
+19
+3. Recommendations for STI service delivery
+There is evidence for costs and resources from the review for HCV care from four cost-effectiveness studies. 
+The studies reported that task sharing with nurses or less specialized health workers reduced costs and had 
+similar or better outcomes, concluding that task sharing is highly cost-effective. The Guideline Development 
+Group noted that although the cost of other health workers may be lower, the health workforce required may 
+be greater. Services provided by pharmacists were trusted and highly accepted by clients, but privacy concerns 
+were unclear (16, 20, 30). It was also found that pharmacists were comfortable and satisfied with providing STI 
+services but had questions about remuneration, policy regulations and recruitment (20, 30). In reviews of HIV 
+and HCV care, training and expertise, resources and funding were concerns (11, 35).
+Overall, there was low certainty in the evidence for HCV, HIV and STI services, which indicated that task sharing 
+may result in similar health outcomes and service uptake, particularly when pharmacists or community/
+lay health workers provide care. These reviews did not report harms, but there may be some barriers to the 
+feasibility and acceptability of task sharing. Individuals may not find pharmacy services private or confidential 
+and may feel stigma related to STIs, making training for pharmacists essential. These barriers would likely be 
+surmountable in many settings. The effect on costs and resources remains unclear. A list of potential roles that 
+could be shared, found in the literature for provision of STI services, includes education and health promotion; 
+testing, screening, medication delivery and follow-up; and support (peer, treatment, referral, home care and 
+psychosocial support).
+Web Annex C presents the evidence-to-decision framework for task sharing.
+Research needs
+There are limited data on health outcomes when less specialized health workers, including community health 
+workers, take on STI-related tasks such as screening, testing and treatment. While there is evidence from other 
+conditions, such as HIV and HCV, showing that less specialized health workers can achieve similar outcomes 
+to health care specialists, more research is needed to confirm that similar results can be achieved for STIs 
+in general. Although task sharing has been shown to increase service uptake, there is uncertainty about its 
+effectiveness in underserved populations and broader STI prevention efforts.
+Another area requiring further research is the privacy concerns associated with task sharing, including 
+questions about these services ensuring confidentiality and whether stigma related to STIs affects service 
+uptake. Similarly, while less specialized health workers are comfortable providing STI services, issues around 
+remuneration, regulatory frameworks and recruitment need further investigation. 
+Training and supervision are critical factors in task sharing, especially for less specialized health workers 
+providing STI care. Evidence from HIV and HCV care emphasizes the importance of adequate training and 
+support to maintain service quality, yet this has not been extensively studied for STI services. Additionally, while 
+some studies suggest that task sharing can reduce costs, especially when care is shifted to less specialized health 
+workers, the overall impact on health care resources and long-term cost-effectiveness remains unclear. Further 
+research is also needed to explore implementing and sustaining various roles in STI care.
+20
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+3.5 Digital health interventions
+Digital platforms have been developed to support a 
+variety of health care activities and communication. 
+Examples include contact tracing and other network-
+based testing approaches, as well as education and 
+ongoing support to improve STI detection, treatment 
+and prevention.  
+Digital tools can also link people with STIs and their partners to testing and treatment services by offering 
+features that support communication, such as online consultations (telemedicine), automated test scheduling 
+and secure result portals. These services often include symptom checkers, access to home testing kits and 
+digital reminders to support treatment adherence, enhancing accessibility and privacy. 
+Other WHO guidelines have addressed the use of digital health interventions with different target audiences 
+(36). In addition, online delivery of HIV, viral hepatitis and STI services may be another option for key 
+populations (10).
+Implementation tips 
+• Digital health interventions should complement, not replace, in-person STI services.
+• Ensure data security and confidentiality when implementing digital health interventions.
+• Provide opt-out options and follow applicable legislation and policies. 
+• Use content formats that are appropriate for users to improve communication (for example, 
+mobile apps, web platforms, SMS, audio messages or files).
+• Consider equity and sociocultural factors, ensuring that digital interventions do not exclude 
+people without access to technology.
+• Ensure that infrastructure is in place to support the effective use of technology, including 
+reliable internet connectivity and access to mobile devices.
+Summary of the evidence
+Two reviews were conducted on the use of digital interventions in SRH (37, 38). Digital interventions included 
+videos, audio files, text messages, voice mail, email or online websites and modules. One review found that 
+targeted digital health communication may reduce STI rates in adolescents compared with non-targeted 
+communication (38). Another review, which included 28 studies, found little to no effect on the incidence of 
+STIs or on sexual risk behaviour (37). 
+Low and very low certainty evidence of the use of digital health interventions in multiple conditions found 
+mixed results for outcomes such as awareness and knowledge, adherence to treatment, communication 
+of test results, follow-up and retention (36). The digital health interventions included text messaging, voice 
+response, games and other applications, social media and websites. Few harms were reported, but one review 
+found very low certainty evidence of an increase in physical violence against women related to the use of 
+digital health interventions (which occurred in one woman in one of the studies). Another review of 45 studies 
+Recommendation (new 2024)
+WHO suggests using digital health interventions to complement in-person health care services for 
+sexually transmitted infections. 
+Conditional recommendation, low certainty in evidence of effects
+Remarks: Ensuring data security and confidentiality is essential when providing digital health 
+interventions.
+Digital tools enhance STI 
+care by improving access, 
+supporting communication 
+and protecting privacy
+21
+3. Recommendations for STI service delivery
+found that the results services were used by nearly 70% of people who used testing services. Most viewed their 
+results on the same day they were posted; patient satisfaction was high; time to see results was shortened; 
+there was a preference for phone calls when internet access was limited, comprehension was high; and there 
+was little or no anxiety (39).
+One review found that costs increased slightly with digital interventions versus no intervention, but these 
+interventions may be less expensive than phone calls or letters (38). Across three reviews, digital health 
+interventions were generally found to be acceptable, supportive, convenient, empowering and reassuring, but 
+there may be concerns about privacy and confidentiality (36-38). There may also be concerns about the need 
+for reliable internet, access to electricity, ownership of mobile devices, informed consent and stable phone 
+numbers (36, 38). 
+Overall, there is low certainty in the evidence for small benefits of digital health interventions; harms were 
+not measured or reported. Individuals generally found digital health interventions acceptable, although some 
+may have concerns about privacy and confidentiality, and some may not have access, or reliable access, to the 
+technology. Digital health interventions are likely feasible to provide, although there will be costs associated 
+with creating and maintaining these services.
+Research needs
+Further research should focus on identifying the most effective digital strategies for promoting sexual health 
+and preventing and managing STIs in diverse populations and on establishing best practices for integrating 
+digital health tools into STI services. Evidence is also needed on how digital health interventions impact 
+broader sexual health outcomes, such as STI incidence and sexual risk behaviour, and their effects on STI care, 
+including patient satisfaction, patient retention and continuity of care.
+Safeguarding privacy and ensuring informed consent on digital health platforms is another key area for 
+further research. While digital health interventions are generally accepted by users, concerns about privacy, 
+technology access and cost need to be addressed to ensure their broader use and effectiveness. 
+The cost-effectiveness of digital health interventions also requires more investigation. Although digital 
+interventions may lower costs, the initial investment in creating and maintaining these services can be high. 
+Research should assess the long-term financial sustainability of digital health tools for STI care.
+Web Annex D presents the evidence-to-decision framework for digital health interventions. 
+4. Other recommendations related to 
+STI service delivery
+23
+4. Other recommendations related to STI service delivery
+4. Other recommendations related to 
+STI service delivery
+Box 4.1. Existing WHO recommendations on self-care interventions for STIs
+Self-collection of samples for STI testing (41)
+• Self-collection of samples for Neisseria gonorrhoeae and Chlamydia trachomatis should be made 
+available as an additional approach to deliver STI testing services (strong recommendation, 
+moderate-certainty evidence).
+• Self-collection of samples for Treponema pallidum (syphilis) and Trichomonas vaginalis may be 
+considered as an additional approach to deliver STI testing services (conditional recommendation, 
+low-certainty evidence).
+HPV self-sampling (41)
+• HPV self-sampling should be made available as an additional approach to sampling in cervical 
+cancer screening services for individuals aged 30–60 years (strong recommendation, moderate-
+certainty evidence).
+Syphilis self-testing (42)
+• Syphilis self-testing may be offered as an additional approach to syphilis testing services 
+(conditional recommendation, low certainty in evidence of effects). 
+4.1 Self-care interventions
+Self-care interventions have the potential to 
+increase choice when they are accessible and 
+affordable, and to provide more opportunities for 
+individuals to make informed decisions about their 
+health and health care. Self-care builds on existing 
+approaches, such as task sharing, by entrusting 
+individuals with certain aspects of their own care.
+WHO’s current working definition of self-care is the ability of individuals, families and communities to promote 
+health, prevent disease, maintain health and cope with illness and disability with or without the support of a 
+health worker (40). The scope of self-care in this definition includes health promotion, disease prevention and 
+control, self-testing and self-medication, providing care to dependent persons, seeking hospital or specialist 
+care if necessary and rehabilitation, including palliative care. 
+For STIs, greater efforts are needed globally to expand STI testing services, and self-care interventions are one 
+way to facilitate this, including self-collection, self-sampling or self-testing for diagnosis. These approaches 
+might also address some barriers that often prevent people from seeking STI testing from a health worker or 
+health care facility, such as concerns about autonomy, inconvenience, stigma and lack of privacy.
+WHO recommends a number of self-care interventions for STIs, as summarized in Box 4.1.
+Self-care options help 
+overcome barriers to 
+accessing STI services from a 
+health worker or facility
+24
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Self-collection or self-sampling allows individuals to collect their own specimens, such as urine, blood or 
+swabs from anatomical sites, either at a health care facility or elsewhere. These specimens can then be sent 
+to a laboratory for testing. Research shows that self-collected samples are as accurate as those collected by 
+health workers, and self-collection is both feasible and acceptable for various populations.
+Self-testing takes self-care a step further, allowing individuals to perform a simple rapid test on their own and 
+interpret the results at their convenience. Similar to HIV self-testing, syphilis self-testing is gaining momentum 
+as a private and convenient option for individuals who might not otherwise seek testing. If a test result is 
+reactive, individuals are then encouraged to seek confirmatory testing and treatment within the formal health 
+care system. They could also be encouraged to distribute a self-test kit to partners. It is important to ensure 
+the use of quality-assured, WHO prequalified tests or those approved by internationally recognized regulatory 
+authorities. Self-testing for other STIs is likely to become available in the future.
+WHO has developed guidance that offers further implementation considerations for delivering self-care 
+interventions for health, including: 
+• WHO guideline on self-care interventions for health and well-being (40).
+5. Implementation considerations for 
+STI service delivery
+26
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+5. Implementation considerations for 
+STI service delivery
+Health systems should adopt appropriate people-centred service delivery approaches that further enhance 
+equity through the principles of availability, accessibility, acceptability and quality. As noted above, 
+recommended approaches include decentralizing services, integrating STI care with other health services, 
+sharing tasks among health workers, utilizing digital health interventions and promoting self-care. Each of 
+these approaches plays a role in ensuring that STI services are responsive to the needs of the population while 
+maintaining privacy and confidentiality, reducing the burden on the health care system and improving public 
+health outcomes. However, health systems may need to develop new policies or legislation to implement 
+these recommended approaches. Additional implementation considerations are outlined in other WHO 
+guidelines related to STI prevention and care.
+5.1 Key principles of STI service delivery
+Effective service delivery is central to organizing health systems to achieve the desired public health outcomes. 
+For STI services, this means defining the essential service packages, selecting appropriate models for 
+delivering care and ensuring that the health system functions efficiently to meet the needs of the population. A 
+people-centred approach to STI service delivery respects and responds to the preferences, needs and values of 
+individuals and communities, making services more accessible and acceptable.
+Grounded in the human right to health, STI services for all populations should adhere to the following 
+principles to ensure equity: 
+• Availability: STI services should be available within sufficiently functioning health care facilities, 
+resources and coordinated services to provide a comprehensive package of interventions, including 
+testing, treatment, counselling and prevention services. 
+• Accessibility: These services must be accessible to all individuals, regardless of their background or 
+circumstances. Accessibility entails that services are physically reachable, affordable and provided 
+without discrimination. Efforts should be made to ensure privacy and confidentiality and to remove 
+barriers such as stigma, geographical distance or financial constraints that may prevent people from 
+seeking care. 
+• Acceptability: STI services must be acceptable to those they serve. This means that they should 
+respect medical ethics and be culturally sensitive, appropriate for different developmental stages, 
+gender-sensitive, non-judgemental and non-stigmatizing. Services should be people-centred, involving 
+shared decision-making, catering to the specific needs of various population groups and upholding 
+international standards of confidentiality and informed consent. 
+• Quality: High-quality STI services are essential for effective care. They should be evidence-based, safe 
+and effective, focusing on adequately trained individuals to provide timely and equitable care. Services 
+should be integrated and efficient, ensuring that all aspects of care work together seamlessly to achieve 
+the best health outcomes. 
+27
+5. Implementation considerations for STI service delivery
+5.2 Key considerations for developing models of service delivery
+When designing effective models of service delivery for STI services, it is essential to apply a comprehensive 
+and flexible framework that addresses the "who, " "what, " "where, " "when" and "how" of service delivery.  
+This ensures that services are high-quality, people-centred and responsive to the local context and population 
+needs. A critical aspect of this process is identifying priority populations for service delivery, including 
+pregnant women, adolescents and young people, and key populations (see section 5.5 on STI service delivery 
+for key and priority populations). 
+Models should align with the principles of availability, accessibility, acceptability and quality while considering 
+local epidemiology, resource availability and the acceptability of services to both users and health workers. 
+Health systems should also evaluate local infrastructure and resources to determine the most feasible 
+approaches, including both digital health and self-care interventions. Cost-effectiveness is a key factor: health 
+systems should use existing facilities and resources where possible while gradually expanding services based 
+on need and capacity.
+• Who should deliver STI services? Effective STI service delivery requires a diverse range of health 
+workers beyond health care specialists. In addition to doctors, services may be delivered by trained 
+nurses, midwives, community and lay health workers. Delegating specific tasks, such as prevention 
+services, testing or counselling, to less specialized health workers may increase service efficiency 
+and reach while maintaining quality. Engaging community or lay health workers, particularly from 
+marginalized populations, may build trust and encourage service uptake. Self-care interventions, where 
+individuals manage certain aspects of their care, may further extend the reach of services and empower 
+individuals to manage their own health. (See section 3.4 for more on task sharing.)
+• What STI services should be delivered? The package of STI services should be tailored to local 
+needs and resources. A comprehensive package typically includes prevention (education, condoms, 
+vaccines and other evidence-based interventions), diagnosis (diagnostic tests or syndromic approach), 
+treatment (timely administration of effective antibiotics or antivirals), partner services (notification and 
+treatment) and referral systems to link with specialized services. The goal is to prevent, treat and cure 
+infections when possible, minimize complications and reduce future infections. (See section 5.3 for 
+more on packages of STI services.)
+• Where should STI services be delivered? STI services should be provided in a variety of settings 
+to ensure broad accessibility. Service delivery locations should reflect local infrastructure and 
+epidemiological needs. Options include decentralizing services to primary health care facilities (often 
+the first point of contact for patients), community-based settings (including mobile clinics, outreach 
+programmes or community-led initiatives), digital platforms (such as online consultations and 
+telehealth), self-care approaches (home-based self-collection or self-testing kits) and integration with 
+other health programmes (for example, integrating STI services into existing antenatal health, SRH, 
+adolescent health or HIV services) (see section 3.2 on decentralization, and section 3.3 on integration). 
+Service delivery models need to be tailored to the needs of special settings, including prisons and other 
+closed settings, as well as settings of humanitarian concern (see section 5.6 on special settings).
+• When should STI services be provided? STI services should be available when and where they are 
+most needed, ensuring timely access for all populations. Services can be delivered continuously 
+through integrated health systems that offer STI services as part of routine care, on-demand via 
+community outreach or mobile units that serve key and priority populations or underserved regions, 
+or proactively through periodic screening campaigns targeting high-prevalence areas or priority 
+populations. Flexibility in service hours, including evening or weekend availability, may also improve 
+access, particularly for working people or those with limited access to transportation.
+• How should STI services be delivered? STI service delivery should be flexible and responsive to 
+the needs of the population and prioritize populations disproportionately affected by STIs (see 
+section 5.5 on STI service delivery for key and priority populations). All STI testing services should 
+adhere to WHO’s five Cs (consent, confidentiality, counselling, correct test results and connection or 
+linkage to prevention, care and treatment) (21). Decentralizing care to primary health care facilities 
+and integrating STI services into other health programmes may make services more accessible to 
+underserved populations. Digital health and self-care approaches can also be employed and may 
+reduce stigma, increase privacy and extend care to hard-to-reach populations (see section 3.5 on digital 
+health and 4.1 on self-care).
+28
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+5.3 Developing a comprehensive package of STI services
+A comprehensive package of STI services aims to prevent infection, provide accurate diagnosis and effective 
+treatment, achieve cures, reduce infectivity, minimize complications, prevent future infections and ensure that 
+sexual partners are appropriately treated. To achieve these goals, the following should be done for anyone 
+attending an STI service (whether they show symptoms or not): 
+• A complete medical and sexual history is taken and documented.
+• Symptomatic individuals receive an accurate diagnosis (either syndromic or based on diagnostic tests).
+• Asymptomatic individuals are offered screening with diagnostic tests (based on population-specific 
+guidance).
+• Effective treatment is provided to manage the infection.
+• Health education and counselling are offered to help the individual understand the infection and 
+reduce future risk and transmission risk to partners.
+• Guidance on adhering to treatment is provided to ensure the best outcomes.
+• Condoms (male/external or female/internal) and condom-compatible lubricants are promoted and/or 
+provided.
+• HIV PrEP and post-exposure prophylaxis (PEP) are promoted and/or provided when applicable.
+• Additional preventive interventions are offered, such as hepatitis A/B and HPV vaccines, voluntary 
+medical male circumcision (where appropriate) or suppressive therapy for genital herpes.
+• Individuals are encouraged or supported to notify sexual partners to prevent further infection (as part of 
+broader network-based testing strategies). 
+• Clinical follow-up is arranged when needed to monitor treatment success. 
+• Referral to specialized services is provided when necessary.
+A comprehensive package of STI services should include prevention and promotion of appropriate health-
+seeking behaviour and address both symptomatic and prioritized asymptomatic individuals. Everyone should 
+receive the care they need in a non-judgemental and non-stigmatizing environment, regardless of their 
+condition or their likelihood of seeking treatment. 
+A comprehensive package should be flexible, offering different entry points based on local needs and 
+resources. It often requires integration with other health services. Tailoring services to meet the needs of 
+specific populations, such as adolescents and people from key populations, is crucial for ensuring that they 
+receive the additional services and support they require. A needs-based approach to developing the package 
+is suggested rather than trying to provide overly comprehensive services from the start.
+29
+5.4 Addressing gaps in the care cascade
+At any given time, only a fraction of individuals with STIs seek treatment, and even fewer are successfully 
+cured. Understanding the cascade from infection to cure helps to identify gaps in care and improve outcomes. 
+This care cascade tracks the steps from STI infection, through seeking care, receiving appropriate treatment 
+and ultimately achieving a cure. Attrition occurs at each stage, and these losses must be addressed to improve 
+overall treatment rates.
+Fig. 5.1 illustrates this care cascade, highlighting the common points where individuals are lost to care and 
+outlining key interventions that can reduce these losses. On the left side, common barriers to achieving a cure 
+are shown, while the right side highlights examples of interventions to reduce attrition at each stage of care. 
+Fig. 5.1. Comprehensive STI services within the care cascade
+5. Implementation considerations for STI service delivery
+Availability of acceptable, accessible and quality health services
+Health worker training
+Syndromic management
+Access to and use of diagnostic tests
+Availability of essential medicines and aﬀordable treatment
+Adherence and appropriate use
+Case reporting and surveillance
+Partner services, including partner notification and treatment
+Entire population 
+People with STIs
+Symptomatic
+Seek care
+Accurate
+diagnosis
+Eﬀective
+treatment
+Partner
+treatment
+Reporting
+Asymptomatic
+Health education and information
+Primary prevention interventions:
+• Condom and lubricant provision
+• Vaccination
+• Prophylaxis (when applicable)
+• Voluntary medical male circumcision 
+(where appropriate)
+Promotion of health-seeking behaviour 
+Asymptomatic screening (where applicable)
+30
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Factors influencing the rate of attrition from the care cascade include poor quality of care, limited access to 
+health care services, insufficient health worker training, unavailability of essential medicines and stigma and 
+negative attitudes toward individuals with STIs. Programme managers should identify where these losses are 
+occurring along the care pathway and focus on areas that need improvement. The goal is to increase retention 
+in the care cascade through to cure for all individuals with STIs, advancing progress toward universal health 
+coverage.
+5.5 STI service delivery for key and priority populations
+STI service delivery should prioritize the unique needs of populations disproportionately affected by STIs, 
+many of whom also face heightened risk for HIV and viral hepatitis. These priority populations often experience 
+vulnerabilities related to social and structural determinants of health, such as discrimination, marginalization 
+and exclusion. Addressing their needs requires a comprehensive approach that integrates human rights 
+protections, reduces stigma and ensures equitable access to services. Priority populations may include (4):
+• key populations, including men who have sex with men, sex workers and their clients, trans and gender-
+diverse people, people who inject and use drugs, and people in prisons and other closed settings;
+• adolescents and young people, including young key populations;
+• people exposed through unsafe blood supplies and medical procedures;
+• children exposed through vertical transmission or early childhood infection;
+• pregnant and breastfeeding women;
+• women and girls, including adolescent girls and young women, who face gender inequalities, violence 
+and heightened biological risks related to sex;
+• migrants, mobile populations and those affected by conflict and civil unrest;
+• indigenous people; and
+• people with disabilities.
+STI services should be designed to meet the diverse needs of these populations, ensuring that they are 
+accessible, confidential and non-discriminatory. Priority populations should be defined based on local 
+epidemiology and health system contexts, using an intersectional lens that considers overlapping social and 
+structural vulnerabilities and health risks.
+In the adaptation and implementation of guidelines for STI service delivery, it is essential to ensure the 
+protection and promotion of the human rights of people seeking care. This includes actively preventing stigma 
+and discrimination in health care settings, promoting gender equity and ensuring that the use of services is 
+voluntary. In particular, adolescents, young people and people living with HIV often face barriers to obtaining 
+care. Increasing access to STI services for these groups is critical to reducing the burden of STIs globally. 
+31
+Key populations
+Key populations, including men who have sex with men, sex workers, trans and gender diverse people, 
+and people who inject drugs, are disproportionately affected by STIs and may face significant barriers to 
+accessing care due to stigma, criminalization and fear of legal or social consequences. In many settings people 
+from key populations may not disclose their identities or behaviours, especially where sex work, same-sex 
+relationships, non-conforming gender expression or drug use are criminalized. Therefore, services must 
+be designed to be accessible, confidential and non-discriminatory, ensuring that individuals feel safe and 
+protected when seeking care.
+The WHO Consolidated guidelines on HIV, viral hepatitis and STI prevention, diagnosis, treatment and care for 
+key populations offer comprehensive guidance on increasing access to and delivering STI services for these 
+groups (10). Additional WHO guidance provides practical strategies for implementing comprehensive HIV and 
+STI programmes for specific key populations:
+• Implementing comprehensive HIV and STI programmes with sex workers: practical approaches from 
+collaborative interventions (43); 
+• Implementing comprehensive HIV and STI programmes with men who have sex with men: practical 
+guidance for collaborative interventions (44); 
+• Implementing comprehensive HIV and STI programmes with transgender people: practical guidance for 
+collaborative interventions (45); and
+• Implementing comprehensive HIV and HCV programmes with people who inject drugs: practical guidance 
+for collaborative interventions (46).
+Adolescents and young people
+Adolescents and young people are also a priority population for STI service delivery. They often face distinct 
+barriers, such as limited knowledge about sexual health, fear of judgement and concerns about confidentiality. 
+It is essential to provide adolescent-friendly health services that are accessible, confidential and tailored to 
+their specific needs. Health workers should be trained to offer non-judgemental, youth-centred care, creating 
+a supportive environment where young people feel comfortable seeking services.
+WHO provides key guidance to improve adolescent health care, including:
+• Global standards for quality health-care services for adolescents: a guide to implement a standards-
+driven approach to improve the quality of health care services for adolescents (47). 
+• Adolescent friendly health services for adolescents living with HIV: from theory to practice (48).
+Pregnant and breastfeeding women 
+Pregnant and breastfeeding women are priority populations for STI service delivery, as untreated STIs during 
+pregnancy and, in some cases, during breastfeeding can lead to serious health outcomes for both the mother 
+and newborn. WHO’s recommendations on antenatal care emphasize the importance of syphilis screening 
+and treatment, integrated as part of the triple elimination efforts alongside HIV and hepatitis B screening, to 
+prevent adverse outcomes, including stillbirth, neonatal death and congenital infection. 
+In settings with a high prevalence of infections, screening for N. gonorrhoeae and C. trachomatis should also be 
+integrated into maternal health care to prevent additional adverse outcomes such as preterm birth, low birth 
+weight and neonatal infections. High-prevalence settings may be defined by local epidemiological data and 
+population-specific risk.
+WHO provides key guidance to improve maternal and child health care, including:
+• WHO recommendations on antenatal care for a positive pregnancy experience (49).
+5. Implementation considerations for STI service delivery
+32
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+5.6 STI service delivery in special settings
+Service delivery models for STIs must be adapted to the unique needs of special settings, including prisons 
+and other closed settings and areas of humanitarian concern. In these environments, providing equitable, 
+continuous and accessible health care is critical to prevent and manage STIs effectively.
+Health services in prisons and other closed settings should be equivalent to those available to the broader 
+community. It is essential to ensure that individuals in these settings have access to STI services of equal 
+quality, and continuity of care should be maintained when people move within these settings or return to the 
+broader community. 
+Mobile and displaced populations, such as refugees or migrants, often face significant barriers to accessing 
+local health care services. Displacement often separates individuals from their usual support networks 
+and health care providers. These populations may lack adequate access to STI services due to a lack of 
+infrastructure, unfamiliarity with local health care systems, or legal and cultural barriers. In humanitarian 
+settings these vulnerabilities can be exacerbated by disrupted health service delivery, further limiting access to 
+essential services. 
+During conflicts, crises and emergencies, health systems often become overstretched, creating unprecedented 
+demands on both health care providers and affected communities. The disruptions of local or national 
+health systems or supply chains, combined with the stigma surrounding STIs and other SRH services, present 
+significant challenges to delivering care in these settings. 
+To address these challenges, strategic adaptations in service delivery are necessary. These adaptations 
+must align with ethical principles, such as equity in the allocation of and access to resources, respect for 
+self-determination and the protection of dignity and human rights (50). These principles ensure that even 
+in the most fragile environments, individuals can access lifesaving STI services without discrimination or 
+compromise to their rights.
+The Minimum Initial Service Package (MISP) for SRH in crisis situations outlines essential, lifesaving activities 
+to address the SRH needs of populations at the onset of a humanitarian crisis (51). STI services are a critical 
+component of the MISP , with the objective of preventing the transmission of HIV and other STIs, and reducing 
+morbidity and mortality due to them.
+More detailed guidance on providing STI services in humanitarian settings can be obtained from the Inter-
+Agency Working Group on Reproductive Health in Crises (IAWG) at https://iawg.net/.
+6. Disseminating and updating the 
+guidelines
+34
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+6. Disseminating and updating the 
+guidelines
+6.1 Dissemination
+ 
+These guidelines will be made available on the WHO website at https://www.who.int/health-topics/sexually-
+transmitted-infections – click on “Guidelines” . There are also links to other supporting documents.
+WHO headquarters will work with WHO regional offices and country offices to ensure that countries receive 
+support in adapting, implementing and monitoring the utility of these guidelines.
+Every level of WHO (headquarters, regional offices and country offices) will work with regional and national 
+partners – including the United Nations Population Fund (UNFPA), the United Nations Children’s Fund 
+(UNICEF), the Joint United Nations Programme on HIV/AIDS (UNAIDS), non-governmental organizations 
+and other agencies implementing HIV, STI and SRH services to ensure an integrated approach to preventing 
+and controlling STIs. WHO will advocate that these external partners support the dissemination and 
+implementation of these guidelines.
+These guidelines will be disseminated at conferences related to HIV, STIs and SRH and through electronic 
+media, and they will be included in WHO’s forthcoming consolidated guidelines for the prevention, diagnosis, 
+treatment and care of STIs.
+6.2 Updating the STI guidelines and user feedback
+ 
+A system of monitoring relevant new evidence and updating the recommendations in these guidelines will be 
+established. These STI recommendations are based on systematic reviews of the literature, including reviews 
+found in other WHO guidelines, such as reviews conducted on HIV and hepatitis C. When updating these STI 
+recommendations, we will search other source guidelines to determine if that literature has been updated. 
+Mechanisms for disseminating new information will be put into operation. Some of these mechanisms will 
+involve electronic communication. 
+An electronic follow-up survey of key end-users of these guidelines will be conducted one year after they have 
+been disseminated. The results of the survey will be used to identify challenges and barriers to the uptake of 
+the guidelines, evaluate their usefulness for improving service delivery for STIs and identify topics or gaps that 
+need to be addressed in future editions.
+References
+36
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+1. Global progress report on HIV, viral hepatitis and sexually transmitted infections, 2021: accountability for 
+the global health sector strategies 2016–2021: actions for impact. Geneva: World Health Organization; 
+2021 (https://iris.who.int/handle/10665/341412). Licence: CC BY-NC-SA 3.0 IGO.
+2. Global Sexually Transmitted Infections Programme: Strategic information [website]. World Health 
+Organization; 2025 (https://www.who.int/teams/global-hiv-hepatitis-and-stis-programmes/stis/strategic-
+information). 
+3. Implementing the global health sector strategies on HIV, viral hepatitis and sexually transmitted 
+infections, 2022–2030: report on progress and gaps 2024. Geneva: World Health Organization; 2024 
+(https://iris.who.int/handle/10665/378246). Licence: CC BY-NC-SA 3.0 IGO.
+4. Global health sector strategies on, respectively, HIV, viral hepatitis and sexually transmitted 
+infections for the period 2022-2030. Geneva: World Health Organization; 2022 (https://iris.who.int/
+handle/10665/360348). Licence: CC BY-NC-SA 3.0 IGO.
+5. AWaRe Antibiotic Categorization [website]. World Health Organization; [nd] (https://aware.essentialmeds.
+org/groups).  
+6. The WHO AWaRe (access, watch, reserve) antibiotic book. Geneva: World Health Organization; 2022 
+(https://iris.who.int/handle/10665/365237). Licence: CC BY-NC-SA 3.0 IGO.
+7. WHO handbook for guideline development. Geneva: World Health Organization; 2014 (https://iris.who.int/
+handle/10665/145714). 
+8. Brozek JL, Canelo-Aybar C, Akl EA, Bowen JM, Bucher J, Chiu WA et al. GRADE Guidelines 30: the GRADE 
+approach to assessing the certainty of modeled evidence: an overview in the context of health decision-
+making. J Clin Epidemiol. 2021;129:138–50 (https://doi.org/10.1016/j.jclinepi.2020.09.018). 
+9. GRADEpro GDT: GRADEpro guideline development tool [software]. McMaster University and Evidence 
+Prime; 2024 (https://www.gradepro.org/). 
+10. Consolidated guidelines on HIV, viral hepatitis and STI prevention, diagnosis, treatment and care for 
+key populations. Geneva: World Health Organization; 2022 (https://iris.who.int/handle/10665/360601). 
+Licence: CC BY-NC-SA 3.0 IGO.
+11. Updated recommendations on treatment of adolescents and children with chronic HCV infection, and HCV 
+simplified service delivery and diagnostics. Geneva: World Health Organization; 2022 (https://iris.who.int/
+handle/10665/363590). Licence: CC BY-NC-SA 3.0 IGO.
+12. WHO consolidated guidelines on tuberculosis: module 4: treatment: tuberculosis care and support. 
+Geneva: World Health Organization; 2022 (https://iris.who.int/handle/10665/353399). Licence: CC BY-NC-
+SA 3.0 IGO.
+13. Bernstein KT , Chow JM, Pathela P , Gift TL. Bacterial sexually transmitted disease screening outside the 
+clinic—implications for the modern sexually transmitted disease program. Sex Transm Dis. 2016;43(2S) 
+(https://doi.org/10.1097/OLQ.0000000000000343). 
+14. Effectiveness, acceptability and cost effectiveness of strategies to improve uptake of STI testing. Reducing 
+sexually transmitted infections (STIs): evidence review. London: National Institute for Health and Care 
+Excellence; 2022 (https://www.ncbi.nlm.nih.gov/books/NBK588658/). 
+References
+3
+3 All references were accessed on 4 April 2025.
+37
+References
+15. Gonzalez PR, Black EK, Trenaman S, Wilby KJ. Improving equity of services for sexually transmitted 
+infections through community pharmacies: a scoping review. J Am Pharm Assoc. 2024;64(1):197–203.e2 
+(https://doi.org/10.1016/j.japh.2023.11.005). 
+16. Gonsalves L, Hindin MJ. Pharmacy provision of sexual and reproductive health commodities to young 
+people: a systematic literature review and synthesis of the evidence. Contraception. 2017;95(4):339–63 
+(https://doi.org/10.1016/j.contraception.2016.12.002). 
+17. Footman A, Dagama D, Smith CH, Van Der Pol B. A systematic review of new approaches to sexually 
+transmitted infection screening framed in the capability, opportunity, motivation, and behavior model of 
+implementation science. Sex Transm Dis. 2021;48(8S) (https://doi.org/10.1097/OLQ.0000000000001461). 
+18. Oru E, Trickey A, Shirali R, Kanters S, Easterbrook P . Decentralisation, integration, and task-shifting in 
+hepatitis C virus infection testing and treatment: a global systematic review and meta-analysis. Lancet 
+Glob Health. 2021;9(4):e431–e45 (https://doi.org/10.1016/S2214-109X(20)30505-2). 
+19. Kredo T , Ford N, Adeniyi FB, Garner P . Decentralising HIV treatment in lower- and middle-income 
+countries. Cochrane Database Syst Rev. 2013(6) (https://doi.org/10.1002/14651858.CD009987.pub2). 
+20. D’Entremont-Harris M, MacNabb K, Wilby KJ, Ramsey TD. Pharmacy-based sexually transmitted infection 
+service implementation considerations: a scoping review. J Am Pharm Assoc. 2024;64(1):186–96.e2 
+(https://doi.org/10.1016/j.japh.2023.10.029). 
+21. Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring: 
+recommendations for a public health approach. Geneva: World Health Organization; 2021 (https://iris.
+who.int/handle/10665/342899). Licence: CC BY-NC-SA 3.0 IGO.
+22. Dehne KL, Snow R, O'Reilly KR. Integration of prevention and care of sexually transmitted infections 
+with family planning services: what is the evidence for public health benefits? Bull World Health Organ. 
+2000;78(5):628–39 (https://pubmed.ncbi.nlm.nih.gov/10859857). 
+23. Kennedy CE, Haberlen SA, Narasimhan M. Integration of sexually transmitted infection (STI) services 
+into HIV care and treatment services for women living with HIV: a systematic review. BMJ Open. 
+2017;7(6):e015310 (https://doi.org/10.1136/bmjopen-2016-015310). 
+24. Church K, Mayhew SH. Integration of STI and HIV prevention, care, and treatment into family planning 
+services: a review of the literature. Stud Fam Plann. 2009;40(3):171–86 (https://doi.org/10.1111/j.1728-
+4465.2009.00201.x). 
+25. Taylor MM, Frasure-Williams J, Burnett P , Park IU. Interventions to improve sexually transmitted disease 
+screening in clinic-based settings. Sex Transm Dis. 2016;43(2S):S28–S41 (https://doi.org/10.1097/
+olq.0000000000000294). 
+26. Adachi KN, Nielsen-Saines K, Klausner JD. Chlamydia trachomatis screening and treatment in pregnancy 
+to reduce adverse pregnancy and neonatal outcomes: a review. Front Public Health. 2021;9:531073 
+(https://doi.org/10.3389/fpubh.2021.531073). 
+27. Brandenburger D, Ambrosino E. The impact of antenatal syphilis point of care testing on pregnancy 
+outcomes: a systematic review. PLoS One. 2021;16(3):e0247649 (https://doi.org/10.1371/journal.
+pone.0247649). 
+28. Task sharing to improve access to family planning/contraception: summary brief. Geneva: World Health 
+Organization; 2017 (https://iris.who.int/handle/10665/259633). Licence: CC BY-NC-SA 3.0 IGO.
+29. WHO recommendations on maternal and newborn care for a positive postnatal experience. Geneva: World 
+Health Organization; 2022 (https://iris.who.int/handle/10665/352658). Licence: CC BY-NC-SA 3.0 IGO.
+30. Navarrete J, Yuksel N, Schindel T J, Hughes CA. Sexual and reproductive health services provided by 
+community pharmacists: a scoping review. BMJ Open. 2021;11(7):e047034 (https://doi.org/10.1136/
+bmjopen-2020-047034). 
+31. Seiler N, Horton K, Organick-Lee P , Heyison C, Osei A, Dwyer G et al. Use of community health workers to 
+help end the epidemic of sexually transmitted infections. Public Health Rep. 2024;139(3):271–6 (https://
+doi.org/10.1177/00333549231199481). 
+38
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+32. Lorente N, Sherriff N, Panochenko O, Marcus U, Dutarte M, Kuske M et al. The role of community health 
+workers within the continuum of services for HIV, viral hepatitis, and other STIs amongst men who have 
+sex with men in Europe. J Community Health. 2021;46(3):545–56 (https://doi.org/10.1007/s10900-020-
+00900-1). 
+33. Mdege ND, Chindove S, Ali S. The effectiveness and cost implications of task-shifting in the delivery of 
+antiretroviral therapy to HIV-infected patients: a systematic review. Health Policy Plan. 2012;28(3):223–36 
+(https://doi.org/10.1093/heapol/czs058). 
+34. Emdin CA, Millson P . A systematic review evaluating the impact of task shifting on access to antiretroviral 
+therapy in sub-Saharan Africa. Afr Health Sci. 2012;12(3):318–24 (https://doi.org/10.4314/ahs.v12i3.11). 
+35. Ngcobo S, Scheepers S, Mbatha N, Grobler E, Rossouw T . Roles, barriers, and recommendations for 
+community health workers providing community-based HIV care in sub-Saharan Africa: a review. AIDS 
+Patient Care STDs. 2022;36(4):130–44 (https://doi.org/10.1089/apc.2022.0020). 
+36. WHO guideline: recommendations on digital interventions for health system strengthening. Geneva: World 
+Health Organization; 2019 (https://iris.who.int/handle/10665/311941). Licence: CC BY-NC-SA 3.0 IGO.
+37. Meiksin R, Melendez-Torres GJ, Miners A, Falconer J, Witzel TC, Weatherburn P et al. E-health interventions 
+targeting STIs, sexual risk, substance use and mental health among men who have sex with men: four 
+systematic reviews. Public Health Res. 2022 (https://doi.org/10.3310/brwr6308). 
+38. Palmer MJ, Henschke N, Villanueva G, Maayan N, Bergman H, Glenton C et al. Targeted client 
+communication via mobile devices for improving sexual and reproductive health. Cochrane Database Syst 
+Rev. 2020;8(8):Cd013680 (https://doi.org/10.1002/14651858.Cd013680). 
+39. Versluis A, Schnoor K, Chavannes NH, Talboom-Kamp EP . Direct access for patients to diagnostic 
+testing and results using eHealth: systematic review on eHealth and diagnostics. J Med Internet Res. 
+2022;24(1):e29303 (https://doi.org/10.2196/29303). 
+40. WHO guideline on self-care interventions for health and well-being. Geneva: World Health Organization; 
+2022 (https://iris.who.int/handle/10665/357828). Licence: CC BY-NC-SA 3.0 IGO.
+41. WHO consolidated guideline on self-care interventions for health: sexual and reproductive health and 
+rights. Geneva: World Health Organization; 2019 (https://iris.who.int/handle/10665/325480). Licence: CC 
+BY-NC-SA 3.0 IGO.
+42. Updated recommendations for the treatment of Neisseria gonorrhoeae, Chlamydia trachomatis, and 
+Treponema pallidum (syphilis) and new recommendations on syphilis testing and partner services. 
+Geneva: World Health Organization; 2024 (https://iris.who.int/handle/10665/378213). Licence: CC BY-NC-
+SA 3.0 IGO.
+43. World Health Organization, United Nations Population Fund, Joint United Nations Programme on 
+HIV/AIDS, World Bank, Global Network of Sex Work Projects. Implementing comprehensive HIV/STI 
+programmes with sex workers: practical approaches from collaborative interventions. Geneva: World 
+Health Organization; 2013 (https://iris.who.int/handle/10665/90000). 
+44. United Nations Population Fund, Global Forum on MSM & HIV, United Nations Development Programme, 
+World Health Organization, United States Agency for International Development, World Bank. 
+Implementing comprehensive HIV and STI programmes with men who have sex with men: practical 
+guidance for collaborative interventions. New York: United Nations Population Fund; 2015 (https://www.
+unfpa.org/publications/implementing-comprehensive-hiv-and-sti-programmes-men-who-have-sex-men). 
+45. United Nations Development Programme, IRGT: A Global Network of Transgender Women and HIV, United 
+Nations Population Fund, UCSF Center of Excellence for Transgender Health, Johns Hopkins Bloomberg 
+School of Public Health, World Health Organization et al. Implementing comprehensive HIV and STI 
+programmes with transgender people: practical guidance for collaborative interventions. New York: 
+United Nations Development Programme; 2016 (https://www.undp.org/publications/implementing-
+comprehensive-hiv-and-sti-programmes-transgender-people). 
+39
+References
+46. United Nations Office on Drugs and Crime, International Network of People Who Use Drugs, Joint United 
+Nations Programme on HIV/AIDS, United Nations Development Programme, United Nations Population 
+Fund, World Health Organization et al. Implementing comprehensive HIV and HCV programmes with 
+people who inject drugs: practical guidance for collaborative interventions. Vienna: United Nations Office 
+on Drugs and Crime; 2017 (https://www.undp.org/publications/implementing-comprehensive-hiv-and-
+hcv-programmes-people-who-inject-drugs). 
+47. Global standards for quality health-care services for adolescents: a guide to implement a standards-
+driven approach to improve the quality of health care services for adolescents. Geneva: World Health 
+Organization; 2015 (https://iris.who.int/handle/10665/183935). Licence: CC BY-NC-SA 3.0 IGO.
+48. Adolescent friendly health services for adolescents living with HIV: from theory to practice, December 
+2019: technical brief. Geneva: World Health Organization; 2019 (https://iris.who.int/handle/10665/329993). 
+Licence: CC BY-NC-SA 3.0 IGO.
+49. WHO recommendations on antenatal care for a positive pregnancy experience. Geneva: World Health 
+Organization; 2016 (https://iris.who.int/handle/10665/250796). 
+50. Maintaining essential health services: operational guidance for the COVID-19 context: interim guidance, 1 
+June 2020. Geneva: World Health Organization; 2020 (https://iris.who.int/handle/10665/332240). Licence: 
+CC BY-NC-SA 3.0 IGO.
+51. Inter-agency field manual on reproductive health in humanitarian settings. Geneva: Inter-Agency Working 
+Group on Reproductive Health in Crises; 2018 (https://www.iawgfieldmanual.com). 
+Annex 1.  
+Contributors to the guidelines
+41
+Annex 1. Guideline Development Group
+Annex 1.  
+Contributors to the guidelines
+Guideline Development Group
+Laith Abu Raddad
+Director, WHO Collaborating Centre for Disease 
+Epidemiology Analytics on HIV/AIDS, STIs, and Viral 
+Hepatitis
+Weill Cornell Medical College
+Doha, Qatar
+Yaw Adu-Sarkodie
+Professor of Clinical Microbiology
+Kwame Nkrumah University of Science and 
+Technology
+Kumasi, Ghana
+Jamila Al Abri
+Director of Woman and Child Health Department
+Ministry of Health
+Muscat, Oman
+Zeyana Al Habsi
+Head of HIV/STIs & Hepatitis Section
+Ministry of Health
+Muscat, Oman
+Mircea Betiu 
+Associate Professor
+Nicolae Testimitanu State University of Medicine and 
+Pharmacy 
+Chisinau, Republic of Moldova
+Catriona Bradshaw 
+Professor of Sexual Health
+Melbourne Sexual Health Centre
+School of Translational Medicine
+Monash University and Alfred Hospital
+Melbourne, Australia
+Xiang-Sheng Chen
+Deputy Director
+National Center for AIDS/STD Control and Prevention
+Nanjing, China
+Irith De Baetselier
+Clinical Coordinator
+National Reference Centre for STIs
+Institute of Tropical Medicine
+Antwerp, Belgium
+Chido Dziva Chikwari
+Assistant Professor of Epidemiology 
+London School of Hygiene & Tropical Medicine and 
+The Health Research Unit Zimbabwe
+Biomedical Research and Training Institute
+Harare, Zimbabwe
+Amina El Kettani
+Medical Officer 
+Direction de l’Epidémiologie et de Lutte Contre les 
+Maladies
+Ministry of Health
+Rabat, Morocco
+Patricia Garcia
+Professor
+Universidad Peruana Cayetano Heredia
+Lima, Peru
+William M. Geisler
+Professor and Assistant Dean for Physician Scientist 
+Development
+University of Alabama at Birmingham
+Birmingham, USA
+Kimberly Green
+Global Program Director, Primary Health Care 
+PATH
+Hanoi, Viet Nam
+Somesh Gupta
+Dermatologist
+All India Institute of Medical Science
+New Delhi, India
+Edward W. Hook III
+Director, Division of Infectious Diseases
+University of Alabama at Birmingham
+Birmingham, USA
+Rena Janamnuaysook
+Program Manager, Implementation Science 
+Institute of HIV Research and Innovation 
+Bangkok, Thailand
+Nathalie Kapp
+Chief Medical Adviser
+International Planned Parenthood Federation
+London, United Kingdom
+Hamida Khattabi
+Medical Officer
+Service des MST-Sida 
+Direction de l'Epidémiologie et de Lutte Contre les 
+Maladies
+Ministry of Health
+Rabat, Morocco
+42
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Rossaphorn Kittyaowamarn
+Chief of Bangrak STIs Center
+Bureau of AIDS, TB and STIs
+Department of Diseases Control
+Ministry of Public Health
+Nonthaburi, Thailand
+Jeffrey D. Klausner
+Professor of Medicine and Public Health
+University of Southern California
+Los Angeles, USA
+Ranmini Kularatne
+Clinical Head, Microbiology & Infectious Serology
+Awanui Labs
+Auckland, New Zealand
+Peter Kyambadde
+Executive Director
+Most at Risk Populations Initiative (MARPI)
+National Coordinator, Key Populations/STI Program
+Ministry of Health 
+Kampala, Uganda
+David Lewis
+Director
+Western Sydney Sexual Health Centre
+Sydney, Australia
+Anna Machiha
+National STI Prevention Coordinator 
+Ministry of Health and Child Welfare
+Harare, Zimbabwe
+Regina Maithufi
+Technical Advisor
+National Department of Health
+Johannesburg, South Africa
+Philippe Mayaud
+Professor of Infectious Diseases and Reproductive 
+Health
+London School of Hygiene and Tropical Medicine
+London, United Kingdom
+Angelica Espinosa Miranda
+Professor
+Federal University of Espirito Santo
+Vitoria, Brazil
+Saiqa Mullick
+Director, Implementation Science
+Wits RHI, University of the Witwatersrand
+Johannesburg, South Africa
+Francis Ndowa
+Physician
+Skin and Genito-Urinary Medicine Clinic
+Harare, Zimbabwe
+Shobini Rajan
+Deputy Director General
+Ministry of Health and Family Welfare
+Delhi, India
+Lilani Rajapaksa
+Consultant Venereologist
+Ministry of Health
+Colombo, Sri Lanka
+Kees Rietmeijer
+Medical Director
+Denver STD Prevention Training Center
+Denver Public Health Department
+Denver, USA
+Danvic Rosadiño
+Program and Innovations Director
+LoveYourself Inc.
+Manila, Philippines
+Jonathan Ross
+Consultant Physician
+University Hospitals Birmingham NHS Foundation 
+Trust
+Birmingham, United Kingdom
+Lon Sayheng
+Head of STD Unit
+National Center for HIV/AIDS, Dermatology and STD
+Phnom Penh, Cambodia
+Anna Shapiro
+Policy Manager
+Global Network of Sex Work Projects
+Edinburgh, United Kingdom
+Jane Thiomi
+GBV and HIV Prevention Manager
+LVCT Health
+Nairobi, Kenya
+Jane Tomnay
+Director
+Centre for Excellence in Rural Sexual Health
+University of Melbourne
+Melbourne, Australia
+Magnus Unemo
+Associate Professor in Medical Microbiology and 
+Molecular Biology
+Örebro University Hospital
+Örebro, Sweden
+Judith Wasserheit
+Professor of Global Health and Medicine
+University of Washington
+Seattle, USA
+43
+Annex 1. Guideline Development Group
+Observers
+External Review Group
+Francis Kakooza
+Head, Global Health Security Department
+Infectious Diseases Institute
+Makerere University
+Kampala, Uganda
+Otilia Mardh
+Medical Epidemiologist
+European Centre for Disease Prevention and Control
+Stockholm, Sweden
+Christopher Akolo 
+Technical Director
+FHI 360
+Washington, DC, USA 
+Henry J.C. de Vries
+Amsterdam Sexual Health Clinic 
+Amsterdam, Netherlands (Kingdom of the)
+Kristina Grabbe 
+Principal Technical Advisor
+Jhpiego
+Washington, DC, USA 
+Hans Benjamin Hampel
+University of Zurich
+Zurich, Switzerland
+Kausar Jabeen
+Professor and Consultant Microbiologist Pathology 
+and Laboratory Medicine
+The Aga Khan University
+Karachi, Pakistan
+Monica Lahra
+WHO Collaborating Centre for STIs and Antimicrobial 
+Resistance
+Prince of Wales Hospital
+Sydney, Australia 
+Pham Thi Lan
+National Hospital of Dermatology and Venereology
+Hanoi Medical University 
+Hanoi, Viet Nam 
+Ahmed Latif
+Public health consultant
+Brisbane, Australia
+Fernando Pascal Martinez
+Research and Development Access Development Lead
+Global Antibiotic Research and Development Partnership
+Barcelona, Spain
+Ioannis Mameletzis
+Consultant
+Kyiv, Ukraine
+Koleka Mlisana
+Executive Manager, Academic Affairs, Research and 
+Quality Assurance
+National Health Laboratory Service
+Johannesburg, South Africa
+Lori Newman
+Deputy Director of STI and Gynecology
+Gates Foundation
+Washington, DC, USA
+Catherine Ngugui
+Head, National AIDS and STI Control
+Ministry of Health
+Nairobi, Kenya
+Reshmie Ramautarsing
+Physician
+Institute of HIV Research and Innovation
+Bangkok, Thailand
+Pachara Sirivongrangson
+Ministry of Public Health
+Bangkok, Thailand
+Janet Wilson
+Consultant, Genito-Urinary Medicine
+Leeds Teaching Hospitals NHS Trust
+Leeds, United Kingdom
+44
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+WHO Steering Committee
+Headquarters
+a Overall coordinators of the STI guidelines.
+Arif Al-Hamad
+Technical Officer
+Department of Surveillance, Prevention and Control
+AMR Division
+Avni Amin 
+Technical Officer
+Department of Sexual and Reproductive Health and 
+Research 
+Silvia Bertagnolio 
+Unit Head
+Department of Surveillance, Prevention and Control
+Maeve Brito de Mello
+Technical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Sami Gottlieb
+Medical Officer
+Department of Sexual and Reproductive Health and 
+Research
+Benedikt Huttner
+Team Lead
+Department of Access to Medicines and Health 
+Products
+Cheryl Johnson
+Technical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes 
+James Kiarie
+Unit Head
+Department of Sexual and Reproductive Health and 
+Research
+Ismail Maatouka
+Medical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes 
+Gitau Mburu
+Scientist
+Department of Sexual and Reproductive Health and 
+Research
+Daniel McCartney
+Consultant
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Antons Mozalevskis
+Technical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Morkor Newman Owiredu
+Medical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Anne-Laure Page
+Scientist
+Regulation and Prequalification 
+Remco Peters
+Medical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Jane Rowley
+Technical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Igor Toskin
+Scientist
+Department of Sexual and Reproductive Health and 
+Research
+Özge Tuncalp
+Medical Officer
+Department of Sexual and Reproductive Health and 
+Research
+Annette Verster
+Technical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Marco Vitoria
+Medical Officer
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+Teodora Wia
+Lead, Sexually Transmitted Infections
+Department of Global HIV, Hepatitis and Sexually 
+Transmitted Infections Programmes
+45
+Annex 1. Guideline Development Group
+Regional and country offices
+Methodologist and evidence review team
+Methodologist
+Evidence review team
+Farid Foroutan
+Ted Rogers Centre for Health Research
+Canada
+Nancy Santesso
+Michael G. DeGroote Cochrane Centre
+Canada
+Monica Alonso
+Unit Chief, HIV, Hepatitis, Tuberculosis and STIs
+WHO Regional Office for the Americas
+Stela Bivol
+Unit Lead, Joint Infectious Diseases
+WHO Regional Office for Europe
+Po-lin Chan
+Regional Advisor (Hepatitis, HIV and STIs)
+WHO Regional Office for South-East Asia
+Agnes P . Adilakshmi Chetty
+Medical Officer, STI
+WHO Regional Office for Africa
+Viatcheslava Grankov
+Medical Officer, HIV and STIs
+WHO Regional Office for Europe
+Akudo Ezinne Ikpeazu 
+Team Lead, HIV, Hepatitis, STIs & TB
+WHO Regional Office for Africa
+Kiyohiko Izumi 
+Medical Officer
+WHO Regional Office for the Western Pacific
+Muhammad Shahid Jamil 
+Regional Adviser
+WHO Regional Office for the Eastern Mediterranean 
+Tiara Mahatim Nisa
+Technical Officer
+WHO Regional Office for the Western Pacific
+Hortencia E. Peralta Lara
+HIV STI Prevention Advisor
+WHO Regional Office for the Americas
+Abhishek Royal
+Technical Expert – STIs
+WHO Country Office in India
+Van Thi Thuy Nguyen
+Technical Officer (HIV/AIDS)
+WHO Country Office in Viet Nam
+Annex 2.  
+Declarations of conflicts of interest
+47
+Annex 2. Declarations of conflicts of interest
+STI Guideline Development Group members
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Laith Abu Raddad (Weill 
+Cornell Medical College, 
+Qatar)
+- - - - - - Full participation
+Yaw Adu-Sarkodie (Kwame 
+Nkrumah University of 
+Science and Technology, 
+Ghana)
+- - - - - - Full participation
+Jamila Al Abri (Woman and 
+Child Health Department, 
+Ministry of Health, Oman)
+- - - - - - Full participation
+Zeyana Al Habsi (HIV/STIs 
+& Hepatitis Section, Ministry 
+of Health, Oman)
+- - - - - - Full participation
+Mircea Betiu (Nicolae 
+Testimitanu State University 
+of Medicine and Pharmacy, 
+Republic of Moldova)
+- - - - - - Full participation
+Catriona Bradshaw 
+(Monash University and 
+Alfred Hospital, Australia)
+Funding from 
+Abbott to sup-
+port develop-
+ment of STI 
+testing recom-
+mendations in 
+countries across 
+the Asia-Pacific 
+region (3 800 
+Australian dol-
+lars, A$) 
+Australian Research Council 
+Grant to Monash University that 
+contains contributions from the 
+government, two diagnostic 
+companies (Speedx and 
+Cepheid) and NGOs including 
+GARDP to support work on 
+the development of resistance 
+diagnostics and AMR (A$ 1.5 
+million). Diagnostic kits and 
+GeneXpert platform donated 
+for use in specific investigator-
+initiated research.
+- - - - Declare. Direct 
+finance not 
+significant. Full 
+participation – not 
+directly related to 
+guideline.
+48
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Xiang-Sheng Chen 
+(National Center for 
+AIDS/STD Control and 
+Prevention, China)
+- - - - - - Full participation
+Irith De Baetselier 
+(Institute of Tropical 
+Medicine, Belgium)
+- - - - - - Full participation
+Chido Dziva Chikwari 
+(Biomedical Research 
+and Training Institute, 
+Zimbabwe)
+- - - - - - Full participation
+Amina El Kettani (Ministry 
+of Health, Morocco)
+- - - - - - Full participation
+Patricia Garcia 
+(Universidad Peruana 
+Cayetano Heredia, Peru)
+- - - - - - Full participation
+William M. Geisler 
+(University of Alabama at 
+Birmingham, USA)
+Consulting on 
+C. trachomatis 
+vaccine for 
+Sanofi (ceased 
+2023), consulting 
+on STI POC tests 
+for Visby (ceased 
+2023).
+Research support from Hologic 
+for study of Mycoplasma 
+genitalium (MG) prevalence and 
+resistance in US (ceased 2023), 
+speaking honoraria related 
+to MG from Hologic, Roche 
+Molecular Systems, and Abbott 
+(ceased 2023).
+- - - - Declare. None 
+are active. Full 
+participation – not 
+directly related to 
+guideline.
+Kimberly Green (PATH, Viet 
+Nam)
+- Funding from The Hepatitis 
+Fund for triple elimination 
+including syphilis screening 
+(US$ 50 000).
+- - - - Declare. Finance 
+not significant. Full 
+participation – not 
+directly related to 
+guideline.
+49
+Annex 2. Declarations of conflicts of interest
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Somesh Gupta (All India 
+Institute of Medical 
+Sciences, India)
+- - - - - - Full participation
+Edward W. Hook III 
+(University of Alabama at 
+Birmingham, USA)
+. Member of advisory board for 
+Visby Diagnostics (US$ 10 000) 
+and Talsis Diagnostics.
+- - - - Declare. Finance 
+not significant. Full 
+participation – not 
+directly related to 
+guideline.
+Rena Janamnuaysook 
+(Institute of HIV Research 
+and Innovation, Thailand)
+- - - - - - Full participation
+Nathalie Kapp 
+(International Planned 
+Parenthood Federation, 
+United Kingdom)
+- - - - - - Full participation
+Hamida Khattabi (Ministry 
+of Health, Morocco)
+- - - - - - Full participation
+Rossaphorn 
+Kittyaowamarn (Ministry of 
+Public Health, Thailand)
+- Funding from GARDP for a 
+multi-centre randomized, 
+open-label, non-inferiority 
+trial to evaluate the efficacy 
+and safety of single oral dose 
+of zoliflodacin for treatment of 
+patients with uncomplicated 
+gonorrhoea (ceased 2023)
+- - - - Declare. None 
+are active. Full 
+participation – not 
+directly related to 
+guideline.
+Jeffrey D. Klausner 
+(University of Southern 
+California, USA)
+Consulting as 
+technical advisor 
+with Visby 
+Medical (ceased 
+2023), Biofire 
+(ceased 2023), 
+Cepheid (ceased 
+2022) and Roche 
+(ceased 2021).
+- - - - - Declare. None 
+are active. Full 
+participation – not 
+directly related to 
+guideline.
+50
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Ranmini Kularatne 
+(Awanui Labs, New Zealand)
+- - - - - - Full participation
+Peter Kyambadde (Ministry 
+of Health, Uganda)
+- - - - - - Full participation
+David Lewis (Western 
+Sydney Sexual Health 
+Centre, Australia)
+Consultancy 
+to GSK relating 
+to gepotidacin 
+treatment for 
+gonorrhoea 
+(review of 
+Phase 3 results, 
+Advisory Board 
+meetings).
+- - - - - Full participation – 
+not directly related 
+to guideline.
+Anna Machiha (Ministry of 
+Health and Child Welfare, 
+Zimbabwe)
+- - - - - - Full participation
+Regina Maithufi (National 
+Department of Health, 
+South Africa)
+- - - - - - Full participation
+Philippe Mayaud (London 
+School of Hygiene and 
+Tropical Medicine, United 
+Kingdom)
+- Research support from 
+Abbott Diagnostics for sample 
+collection for development of 
+NG/CT diagnostic tests (ceased 
+2023).
+- - - - Declare. None 
+are active. Full 
+participation – not 
+directly related to 
+guideline.
+Angelica Espinosa Miranda 
+(Federal University of 
+Espirito Santo, Brazil)
+- - - - - - Full participation
+Saiqa Mullick  
+(Wits Reproductive Health 
+and HIV Institute, South 
+Africa)
+- - - - - - Full participation
+51
+Annex 2. Declarations of conflicts of interest
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Francis Ndowa (Skin and 
+Genito-Urinary Medicine 
+Clinic, Zimbabwe)
+- - - - - - Full participation
+Shobini Rajan (Ministry of 
+Health and Family Welfare, 
+India)
+- - - - - - Full participation
+Lilani Rajapaksa (Ministry 
+of Health, Sri Lanka)
+- - - - - - Full participation
+Kees Rietmeijer (Denver 
+Public Health Department, 
+USA)
+Past consulting 
+with Sentient 
+(ceased 2023), 
+and WHO 
+(ceased 2022).
+- - - - - Declare. None 
+are active. Full 
+participation – not 
+directly related to 
+guideline.
+Danvic Rosadiño 
+(LoveYourself Inc., 
+Philippines)
+- - - - - - Full participation
+Jonathan Ross 
+(Birmingham University 
+Hospitals NHS Trust, United 
+Kingdom)
+Consultancy 
+advice in 
+relation to 
+clinical trials 
+(GSK Pharma).
+Research payments to my 
+employer in my role as principal 
+investigator for clinical trial 
+(PPD).
+Investments 
+(self and 
+wife) in GSK 
+Pharma and 
+AstraZeneca.
+- - - Declare. Finance 
+not significant. Full 
+participation – not 
+directly related to 
+guideline.
+Lon Sayheng (National 
+Center for HIV/AIDS, 
+Dermatology and STD, 
+Cambodia)
+- - - - - - Full participation
+Anna Shapiro (Global 
+Network of Sex Work 
+Projects, United Kingdom)
+- - - - - - Full participation
+Jane Thiomi (LVCT Health, 
+Kenya)
+- - - - - - Full participation
+52
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Jane Tomnay (University of 
+Melbourne, Australia)
+- - - - - - Full participation
+Magnus Unemo (Örebro 
+University Hospital, 
+Sweden)
+- - - - - - Full participation
+Judith Wasserheit 
+(University of Washington, 
+USA)
+- - - - - - Full participation
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Francis Kakooza (Makerere 
+University, Uganda)
+- - - - - - Nil
+Otilia Mardh (European 
+Centre for Disease 
+Prevention and Control, 
+Sweden)
+- - - - - - Nil
+Fernando Pascal Martinez 
+(Global Antibiotic Research 
+and Development 
+Partnership, Spain)
+- - - - - - Nil
+Observers
+53
+Annex 2. Declarations of conflicts of interest
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Christopher Akolo (FHI 
+360, USA)
+- - - - - - Full participation
+Henry J.C. de Vries 
+(Amsterdam Sexual 
+Health Clinic, Netherlands 
+[Kingdom of the])
+- - - - - - Full participation
+Kristina Grabbe (Jhpiego, 
+USA)
+- - - - - - Full participation
+Hans Benjamin Hampel 
+(University of Zurich, 
+Switzerland)
+- - - - - - Full participation
+Kausar Jabeen (Aga Khan 
+Foundation, Pakistan)
+- - - - - - Full participation
+Monica Lahra (Prince of 
+Wales Hospital, Australia)
+- - - - - - Full participation
+Pham Thi Lan (Institute 
+of Dermatology and 
+Venerology, Viet Nam)
+- - - - - - Full participation
+Ahmed Latif (public health 
+consultant, Australia)
+- - - - - - Full participation
+Ioannis Mameletzis 
+(consultant, Ukraine)
+- - - - - - Full participation
+Koleka Mlisana (National 
+Health Laboratory Service, 
+South Africa)
+- - - - - - Full participation
+Lori Newman (Gates 
+Foundation, USA)
+- - - - - - Full participation
+External Review Group members
+54
+Recommendations on the delivery of health services for the prevention and care of sexually transmitted infections
+Name (affiliation) 1. Employment 
+and consulting
+2. Research support 3. Investment 
+interests
+4. Intellectual 
+property
+5. Public 
+statements 
+and positions
+6. Tobacco 
+products
+Conflicts and 
+management plan
+Catherine Ngugui (Ministry 
+of Health, Kenya)
+- Research support from GARDP , 
+DNDI and the Ministry of Health 
+for study on prevalence of C. 
+trachomatis and N. gonorrhoeae 
+infections among pregnant 
+women and key populations 
+in Kenya (US$ 40 000; ceased 
+2022). 
+- - Former 
+Director of 
+National 
+AIDS and STI 
+Control in 
+Kenya
+- None are active. 
+Full participation – 
+not directly related 
+to guideline.
+Reshmie Ramautarsing 
+(Institute of HIV Research 
+and Innovation, Thailand)
+- - - - - - Full participation
+Pachara Sirivongrangson 
+(Ministry of Public Health, 
+Thailand)
+Consulting work 
+for GARDP  
+(US$ 10 000)
+- - - - - Full participation
+Janet Wilson (Leeds 
+Teaching Hospitals NHS 
+Trust, United Kingdom)
+- - - - - - Full participation
+For more information, please contact:
+World Health Organization
+Global HIV, Hepatitis and Sexually Transmitted Infections Programmes 
+20 Avenue Appia 
+1211 Geneva 27 
+Switzerland
+Email: hiv-aids@who.int  
+Website: www.who.int/teams/global-hiv-hepatitis-and-stis-programmes 
+www.who.int
