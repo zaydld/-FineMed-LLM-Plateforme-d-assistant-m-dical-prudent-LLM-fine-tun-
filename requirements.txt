@@ -1,0 +1,38 @@
+# Core dependencies
+torch>=2.9.0
+torchvision>=0.19.0
+torchaudio>=2.4.0
+
+# Transformers and training
+transformers>=4.57.0
+accelerate>=0.34.0
+peft>=0.13.0
+trl>=0.11.0
+bitsandbytes>=0.44.0
+
+# Unsloth (install separately)
+# pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
+
+# Data processing
+datasets>=3.1.0
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Utilities
+psutil>=6.1.0
+tqdm>=4.66.0
+
+# Evaluation and monitoring
+scikit-learn>=1.5.0
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Optional: Web interface
+# gradio>=4.44.0
+# streamlit>=1.39.0
+
+# Development tools (optional)
+# jupyter>=1.1.0
+# ipywidgets>=8.1.0
+# black>=24.10.0
+# flake8>=7.1.0
