@@ -1,0 +1,3392 @@
+11
+Emergency Medical Teams
+Standards and 
+recommendations for 
+burns care in mass
+ casualty incidents
+22
+Standards and recommendations for burns care in mass casualty incidents
+
+33
+Standards and 
+recommendations for 
+burns care in mass
+ casualty incidents
+44
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+(Emergency Medical Teams)
+ISBN 978-92-4-010023-7 (electronic version)
+ISBN 978-92-4-010024-4 (print version)
+© World Health Organization 2024
+Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO 
+licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by-nc-sa/3.0/igo). 
+Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the 
+work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses 
+any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you 
+must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you 
+should add the following disclaimer along with the suggested citation: “This translation was not created by the World Health 
+Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall 
+be the binding and authentic edition”. 
+Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of 
+the World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/).
+Suggested citation. Standards and recommendations for burns care in mass casualty incidents. Geneva: World Health 
+Organization; 2024 (Emergency Medical Teams). Licence: CC BY-NC-SA 3.0 IGO.
+Cataloguing-in-Publication (CIP) data. CIP data are available at https://iris.who.int/.
+Sales, rights and licensing. To purchase WHO publications, see https://www.who.int/publications/book-orders. To submit 
+requests for commercial use and queries on rights and licensing, see https://www.who.int/copyright. 
+Third-party materials. If you wish to reuse material from this work that is attributed to a third party, such as tables, figures 
+or images, it is your responsibility to determine whether permission is needed for that reuse and to obtain permission from 
+the copyright holder. The risk of claims resulting from infringement of any third-party-owned component in the work rests 
+solely with the user.
+General disclaimers. The designations employed and the presentation of the material in this publication do not imply the 
+expression of any opinion whatsoever on the part of WHO concerning the legal status of any country, territory, city or area 
+or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent 
+approximate border lines for which there may not yet be full agreement.
+The mention of specific companies or of certain manufacturers’ products does not imply that they are endorsed or 
+recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, 
+the names of proprietary products are distinguished by initial capital letters.
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the 
+published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the 
+interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use. 
+Photo credits cover page: ©WHO/ Spartak Avetisyan, medical evacuation of burns survivors in Yerevan, Armenia and 
+©WHO/ Kate Xyrafi, wildfire in Greece, 2022.
+Design and layout by Valerie Assmann
+55
+ Foreword        vii
+ Acknowledgments       viii
+ Abbreviations       ix
+ Executive summary       x
+1. Introduction        1
+         1.1 Background        1
+         1.2 Scope and purpose       2
+         1.3 Document structure       2
+         1.4 Target audience       2
+2. Methods        11
+3. Country-level capacities for mass burn incidents    13
+         3.1 Coordination        14
+4. Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) 
+ configuration and service provision      17
+          4.1 BATs        17
+                  4.1.1 Advisory function of BATs      17
+                  4.1.2 Clinical function of BATs      18
+                  4.1.3 Coordination function of BATs     18
+                  4.1.4 Timing and duration of deployment for BATs    18
+                  4.1.5 BATs logistical considerations     19
+                  4.1.6 Recommended composition of BATs     19
+                  4.1.7 Source of BATs       20
+         4.2 BSTs        20
+                  4.2.1 Clinical function of BSTs      20
+                  4.2.2 Coordination function of BSTs     21
+                  4.2.3 Timing and duration of deployment for BSTs    21
+                  4.2.4 BSTs logistical considerations     21
+                  4.2.5 Recommended composition of BSTs     21
+                  4.2.6 Source of BSTs       22
+        4.3 Equipment and supplies for BATs/BSTs     23
+                  4.3.1 Infrastructure module      24
+                  4.3.2 Resuscitation module      24
+                  4.3.3 Dressing module      25
+                  4.3.4 Laboratory module      25
+iiiiii
+Contents
+66
+Standards and recommendations for burns care in mass casualty incidents
+iviv
+                  4.3.5 Pharmacy module      25
+                  4.3.6 Blood module       27
+                  4.3.7 Surgical module       27
+                  4.3.8 Rehabilitation module      27
+         4.4 BAT/BST training       28
+5. Technical standards       31
+         5.1 Patient flow overview       31
+         5.2 Triage        33
+                  5.2.1 On-scene at site of incident      33
+                  5.2.2 On-arrival at first receiving health facility    36
+                  5.2.3 Definitive (after surgical scrub/wound cleaning)    37
+         5.3 Special area burns       38
+         5.4 Inhalation injury       38
+         5.5 First aid and dressings       39
+                 5.5.1 Cooling       39
+                 5.5.2 Analgesia       39
+                 5.5.3 Cleaning       39
+                 5.5.4 Dressing       40
+                 5.5.5 Tetanus considerations      40
+        5.6 Out-patient burn management      41
+        5.7 Surgical interventions       41
+        5.8 Rehabilitation       42
+        5.9 Chemical, biological, radiological and nuclear (CBRN) considerations   45
+6. Clinical recommendations: fluid management     47
+        6.1 Oral versus IV fluid       49
+        6.2 Oral fluids versus no fluid      54
+        6.3 Timing of fluids       57
+        6.4 Formulae for calculation of fluid resuscitation requirements   60
+        6.5 Timing in calculation of fluid resuscitation requirements    63
+7. Research needs        67
+8. References        69
+77
+vv
+Annexes         71
+        Annex 1. List of example triage systems     71
+        Annex 2. List of example formulae for %TBSA burn calculation   72
+        Annex 3. List of example formulae for fluid calculation    73
+        Annex 4. Example burns data form (EMTCC use)     74
+        Annex 5. Example initial burns injury assessment form (EMT or facility use)  75
+        Annex 6. Example medical evacuation/referral form    76
+        Annex 7. Parts of existing WHO kits applicable to burn care    80
+        Annex 8. Clinical recommendations development process and methods   81
+Contents
+88
+Standards and recommendations for burns care in mass casualty incidents
+
+99
+vii
+Foreword
+In the face of emerging challenges, the global health community continually strives 
+to fortify its response mechanisms. The unrelenting threat of infectious diseases, 
+climate-related disasters and conflicts, as evidenced by events such as the ongoing 
+COVID-19 pandemic and conflicts, underscores the urgency of establishing resilient 
+health emergency preparedness and response systems. The lessons gleaned from 
+these crises must serve as the foundation for comprehensive guidelines aimed at 
+strengthening both local and global capacities.
+Just as Emergency Medical Teams (EMTs) and the EMT Initiative have played pivotal 
+roles in responding to climate-related disasters and infectious disease outbreaks, 
+their expertise is indispensable in addressing the complexities that arise from 
+mass casualty incidents (MCIs), particularly those involving burns. This publication 
+embodies the collective knowledge and experience of the EMT network and its partners 
+and endeavours to establish universal quality standards and recommendations, 
+providing medical teams with a framework to rapidly and effectively respond to burns 
+care in MCIs.
+Drawing inspiration from successes in addressing climate-related disasters and 
+highly infectious disease outbreaks, this initiative emphasizes the importance of 
+robust national capacities. Countries are urged to swiftly scale up their deployable 
+surge capacities and expertise, thus fostering a foundation for self-sufficiency. The 
+Emergency Medical Team Initiative, through collaboration and coordination, facilitates 
+the development of trusted partnerships and interoperable surge capacities on a 
+global scale.
+By offering a set of common quality standards and protocols, this publication lays the 
+groundwork for enhanced interoperability among national, regional and international 
+capacities and aspires to create a shared language and approach across diverse 
+disciplines to further develop a comprehensive and coordinated response to burn care 
+in MCIs. In doing so, it champions the mission of saving lives, alleviating suffering and 
+protecting the most vulnerable during times of crisis. This publication marks a significant 
+stride towards building resilient health-care systems that can effectively navigate the 
+challenges presented by MCIs, ensuring a world better prepared to face the unexpected.
+Dr Nedret Emiroglu
+Director
+Country Readiness Strengthening Department
+WHO Health Emergencies Programme
+1010
+Standards and recommendations for burns care in mass casualty incidents
+viii
+Acknowledgements
+WHO EMT Technical Working Group Burns (2017–2019): 
+Roger Alcock, Calin Alexandru, Nikki Allorto, Stian Kreken Almeland, Amanda Baumgartner, 
+Margaret Brennan, Delphine Chedorge, Resa Crestani, Janecke Dyvi, Merete Ellefsen, Josef Haik, 
+Minoru Hayashi, Amy Hughes, Khaled Mansour, Emily McMullen, Jody Anne Mills, Ravi Prakash 
+Narayan, Richard E. Nnabuko, Ian Norton, Takayuki Ogura, Nelson Olim, Tom Potokar, Mike Roriz, 
+Anne Constance Sartiaux, Opoku Ware Ampomah, Remy Zilliox
+WHO Steering Group Members (2023): 
+John Appiah, Latifa Arfaoui, Ep Assidi, Thierno Balde, Sean Casey, Jorge Durand, Luis de la Fuente, 
+Sabri Gmach, Kai-Hsun Hsiao, Camila Philbert Lajolo, Sophie Laroche, Jan Erik Larsen, Katherine 
+Littler, Nelson Olim, Jerry Jonas Mbasha, Lazaro Martinez, John Prawira, Andreas Alois Reis, Pryanka 
+Relan, Kris Ronsin, Jamie Rylance, Flavio Salio, Andre Sanz, Pete Skelton, Oleg Storozhenko, Nadine 
+Vahedi, Lee Wallis
+WHO EMT Technical Working Group Burns (2020–2023): 
+Mohana Amirtharajah, Mercy Ama Amuah Agtuahene, Yodit Assefa, Pauline Convocar, Mansour Fall, 
+Sheona Grant, Omar Hussein, Alberta Rockson, Mark Sherlock, Rojina Shilpkar, Ziphilly Sichinga, 
+Barclay Stewart, Stuart Watson, Richard Wong
+Guideline Development Group (GDG) Members (2023): 
+Mercy Ama Amuah Agtuahene, Pauline Convocar, Heike Geduld, Minoru Hayashi, Omar Hussein, Tom 
+Potokar, Alberta Rockson, Richard Wong She, Rojina Shilpkar, Ziphilly Sichinga, Barclay Stewart, 
+Stuart Watson
+GDG Methodologist: Srinivas Murthy
+GDG Clinical Chair: Stuart Watson
+GDG Observers: Daniel Cuetos, Joanna Drogowska, Amy Hughes 
+Special thanks to the following collaborators for systematic reviews for the fluid management section: 
+Kai-Hsun Hsiao, Joseph Kalanzi, Kavita Kothari, Ani Movsisyan
+Special thanks to external reviewers (2023): Members of the EMT Strategic Advisory Group
+Funding: Directorate-General for European Civil Protection and Humanitarian Aid Operations
+1111
+ix
+CBRN  Chemical, biological, radiological and nuclear
+BAT  Burn Assessment Team            
+BST  Burn Specialist Team
+EMT  Emergency Medical Team
+EMTCC  EMT Coordination Cell 
+GDG  Guideline Development Group
+GRADE  Grading of Recommendations, Assessment, Development and Evaluation
+IV  intravenous 
+MCI  mass casualty incident
+MEDEVAC  medical evacuation
+ORS  Oral Rehydration Salts
+RCT  randomized controlled trial
+SCT  Specialized Care Team
+SMD  standardized mean difference
+TWG  Technical Working Group
+TBSA  total body surface area
+WASH  water, sanitation and hygiene
+WHO  World Health Organization
+                
+Abbreviations
+1212
+Standards and recommendations for burns care in mass casualty incidents
+Executive summary
+TOPIC
+Technical standard
+Recommendation 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+General
+General
+General
+General
+General
+Coordination
+Coordination
+Triage
+Triage
+Triage
+x
+As part of their mass casualty or disaster plan, it is recommended that 
+Member States include specific provisions for a potential mass burn incident.
+Burn Assessment Teams (BATs) serve advisory, clinical and coordination 
+roles while Burn Specialist Teams (BSTs) serve a primary clinical role.
+Member States should consider creating a national BAT or having bilateral 
+or regional agreements to request BATs from neighbouring countries as part 
+of their national EMT system and their national emergency response plan.
+BSTs may be best shared regionally among multiple countries, either 
+sourced from one larger country, and/or with contributions from experts and 
+resources in nearby countries within the region.
+Medical evacuation (MEDEVAC) may be a subset of coordination activities 
+requiring specialized clinical support. Countries must consider the inclusion of a 
+MEDEVAC coordination function within their national coordination mechanisms.
+While primary responsibility of coordination of EMTs remains with the 
+appropriate national authority, during mass burn incidents, BATs and BSTs 
+can support coordination at national and regional levels.
+In the event of a mass burn incident, and when national capacities are 
+exceeded or specialized care support is required, countries should consider 
+activation of mechanisms for possible international medical evacuation.
+During a mass burn incident, three phases of triage should occur: (1) on-
+scene; (2) on arrival at the first receiving health facility; and (3) definitive 
+triage after surgical scrub/wound cleaning.
+On-scene, a standardized triage system for mass casualty incidents (MCIs) 
+should be utilized, followed by a burn injury severity assessment determined 
+mainly from percent total body surface area (%TBSA) burn estimation rather 
+than depth assessment, as appropriate.
+The %TBSA burn estimation tool utilized on-scene should reflect the tool 
+most familiar to first responders. However, should guidance be required, the 
+Wallace Rule of Nines estimation tool can be used for adults and the modified 
+Rule of Nines for children.
+1313
+TOPIC
+Technical standard
+Recommendation 
+The decision to assign a patient to the “expectant” or “non-survivable” triage 
+category should be made no earlier than when the patient arrives at the first 
+receiving health facility.
+For patients in mass burn incidents, treat with oral fluid resuscitation and 
+where possible, supplement with intravenous (IV) fluid depending on patient 
+need, clinical resources and provider discretion.
+For patients in mass burn incidents, treat with oral fluid compared to no fluid.
+For patients in mass burn incidents, give fluids as early as possible, on-scene 
+or at a health facility.
+For patients in mass burn incidents, use standard formulae for calculation of 
+fluid resuscitation requirements.
+For patients in mass burn incidents, no recommendation on optimal timing in 
+calculation of fluid resuscitation requirements.
+First aid for burns should include cooling, analgesia, cleaning, dressing and 
+tetanus considerations.
+Cooling of the burn wound can occur from 10 minutes to three hours after 
+the injury was sustained using potable/drinking water at room or cool 
+temperatures.
+Basic wound cleaning includes removing debris and irritants from the 
+wound. Advanced cleaning should occur on arrival at the first receiving 
+hospital with appropriate analgesia and/or sedation. If further extensive 
+cleaning is required, a surgical scrub can be undertaken in the operating 
+theatre with anaesthesia.
+Choice of dressing should be based on the characteristics of the wound, 
+point of application, availability of dressing type, resource requirements of 
+dressing and the ability of a patient to return for follow-up visits.
+Tetanus vaccination should be up to date as per local guidelines and 
+practices. Booster and/or immunoglobulin should be given as indicated.
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+Triage
+Fluid 
+management
+Fluid 
+management
+Fluid 
+management
+Fluid 
+management
+Fluid 
+management
+First aid
+Cooling
+Cleaning
+Dressing
+Tetanus
+Executive Summary
+xi
+1414
+Standards and recommendations for burns care in mass casualty incidents
+xii
+TOPIC
+Technical standard
+Recommendation 
+22
+23
+24
+25
+26
+27
+28
+29
+Antibiotics
+Referral
+Surgical 
+interventions
+Rehabilitation
+Rehabilitation
+Rehabilitation
+Rehabilitation
+CBRN
+Antibiotics should not be routinely given prophylactically to burns patients 
+unless otherwise specifically clinically indicated.
+Patients with < 20 % TBSA superficial/partial thickness burns and no special 
+area burns may be discharged with adequate outpatient support, such as 
+social and community support, with a clear care pathway communicated.
+Patients with > 20 % TBSA and/or deep dermal or special area burns should 
+be evaluated by an experienced burn care specialist as they may require 
+ongoing in-patient care. Consider transferring these patients to a specialist 
+burn care centre.
+Procedures that may be performed by non-burn surgeons include advanced 
+wound cleaning, surgical scrub, escharotomy and fasciotomy. Excision, 
+enzymatic debridement, grafting, local tissue rearrangements, flaps and 
+contracture releases are examples of procedures that should be performed 
+by surgeons skilled in burns care and/or by surgeons supported by relevant 
+clinical expertise.
+Rehabilitation requirements should be considered for all patients (based 
+on burn severity and location of the burn) on arrival at the first receiving 
+hospital.
+Active and passive exercises, positioning, splinting and functional retraining 
+should commence at the earliest phase of care, once vital functions 
+are stable and considering precautions such as related trauma, wound 
+breakdown, graft frailty, attached wires, low blood pressure, or infection.
+Adequate analgesia should be administered prior to rehabilitation 
+interventions as pain can reduce participation and performance.
+Compression therapy and massage should be used early to minimize 
+scarring and manage oedema.
+It is recommended that BATs and BSTs have the capability to support the 
+initial care of chemical, biological, radiological and nuclear (CBRN) patients 
+in the event of a CBRN MCI.
+1515
+xiii
+1616
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 1
+Introduction
+© WHO/ Nare Shahinyan, Armenia refugee response: EMT Rehabilitation Training of Trainers
+11
+1.1   Background
+Introduction1
+Health and operational support needs in emergencies have been well recognized 
+(1). In recent years the world has witnessed improving professionalization and 
+standardization of care for communities affected by health emergencies – a change 
+which has been brought about in part by the World Health Organization (WHO) 
+Emergency Medical Teams (EMT) Initiative (1, 2). The EMT initiative supports and 
+encourages trained and appropriately skilled teams of national and international 
+multidisciplinary personnel to deliver a coordinated approach to targeted clinical 
+needs while adhering to minimum standards of care. 
+The evolving nature and changing definition of humanitarian emergencies has 
+highlighted the need for a widened scope of practice for EMTs and more specialist 
+teams able to target specific health needs. With origins in climate-related disasters, in 
+recent years EMTs have had an increasing and influential role in outbreaks, conflicts 
+and other man-made disasters (3, 4). 
+Smaller scale but high-impact emergencies, such as mass burn incidents, have 
+highlighted a need for specialist EMTs. Burn injury frequency following a mass 
+casualty incident (MCI) should not be underestimated. The nature of burn injuries 
+often results in a protracted clinical journey for the patient, commonly resulting in 
+long-term health consequences affecting functioning, quality of life and mental health 
+(5, 6). Recent examples of MCIs with multiple burn-injured patients (Table 1) have 
+demonstrated the extensive demands placed on health-care workers, health facilities 
+and the overall health system – resulting in high, preventable morbidity and mortality 
+(7–10). In one example, a study of 455 casualties from the mass burn incident found 
+mean treatment cost was US$ 48 977 per patient (with total medical cost from the 
+incident estimated at US$ 38.5 million), mean length of hospital stay was 63 days, and 
+mean time to school or social re-entry was 39 weeks (6).  
+Specialist burn EMTs are well placed to help target specific needs which arise, 
+particularly in building local burn resource capacity and capability. However, these 
+teams must adhere to minimum standards of care. Standard-setting has proven a 
+crucial strategy for health-care system strengthening, improving both patient safety 
+and quality of care, and remains a core objective of the EMT 2030 Strategy (11). As 
+burn care capability varies globally, providing guidance to standardize burn care 
+for mass burn incidents helps provide a platform for strengthening burns care for 
+specialist EMTs, as well as health systems generally. 
+22
+Standards and recommendations for burns care in mass casualty incidents
+1.2   Scope and purpose
+1.3   Document structure
+1.4   Target audience
+This document provides practical guidance for building capacity and capability for 
+burns care from clinical, human resources and operational perspectives. Caring 
+for burns patients from the incident scene to definitive treatment can be a complex, 
+resource-consuming process with the potential to overwhelm health system capacity. 
+It is therefore recommended that guidance in this document be applied to any 
+contexts in which the local health system might struggle to cope and require surge 
+support. The objective is to ensure the establishment and enhancement of specialist 
+burn EMTs and surge capacities that are ready and able to deliver timely, effective 
+and high-quality burns care in response to mass burn incidents, ultimately saving 
+lives and alleviating suffering.
+This document is intended to be an all-in-one, practical resource for the building 
+and operationalization of specialist burn EMTs and surge capacities. It encompasses 
+operational requirements (Chapters 3 and 4), technical standards (Chapter 5), and 
+clinical recommendations (Chapter 6). The clinical recommendations chapter focuses 
+on fluid management as this is a key aspect of major burns care for which certain 
+clinical practice adaptations for mass burn incidents have been contemplated. As 
+clinical recommendations, their development followed additional methods and 
+processes in accordance with the WHO Handbook for Guideline Development, 2 nd 
+edition (12) and the Guideline Review Committee. 
+The target audience for this document ranges from health-care professionals 
+and EMTs providing direct clinical care to burns patients to organizations and 
+governments seeking to establish burns specialist teams. The document applies to 
+professionals, teams and organizations responding to mass burn incidents nationally 
+and/or internationally.
+33
+Year Event Location Estimated number of 
+burn injuries (deaths)
+Table 1.  Examples of recent mass burn incidents
+Vinnytsia missile strike
+Fuel depot explosion Armenia 300 (170)
+100 (28)
+> 200 (49)
+> 450 (151)
+125
+> 200
+140
+499
+144 (64)
+230
+> 50
+> 200 (112)
+> 200
+Ukraine
+Bangladesh
+Sierra Leone
+Democratic 
+Republic of the Congo
+Guatemala
+Taiwan, China
+Romania
+China
+Brazil
+Bangladesh
+Indonesia
+United Kingdom of Great Britain 
+and Northern Ireland
+BM Inland container 
+depot explosion
+Wellington petroleum 
+tanker explosion
+MBUBA gas tanker explosion
+Fuego Volcano eruption
+Grenfell tower fire
+Formosa fun 
+coast park ignition
+Colectiv nightclub fire
+Kunshan factory 
+aluminium dust explosion
+Fire at a Kiss nightclub
+Tazreen Fashions 
+factory explosion
+Mount Merapi volcano eruption
+2022
+2023
+2022
+2021
+2018
+2018
+2017
+2015
+2015
+2014
+2013
+2013
+2010, 
+1994
+1  Introduction
+44
+Standards and recommendations for burns care in mass casualty incidents
+On 25 September 2023, a devastating 
+explosion occurred at a fuel depot in Ar-
+menia, resulting in a significant number 
+of casualties. The Government of Arme-
+nia reported 170 fatalities and nearly 
+300 injuries. The majority of the injured 
+were male patients with severe burns, 
+leading to a high demand for advanced 
+and specialized burn care. The National 
+Burns Center, with 80 beds, was fully 
+occupied. Eight other hospitals in Ye-
+revan also actively provided care. The 
+Ministry of Health issued a request for 
+international assistance, specifically for 
+Burn Specialist Team (BST) and medical 
+evacuation (MEDEVAC) capacity. 
+WHO, in coordination with the Ministry 
+of Health of Armenia, established an 
+EMT Coordination Cell (EMTCC) to en -
+sure the smooth operation of EMTs on 
+the ground, and the coordination of in-
+coming teams and MEDEVAC activities.
+Several EMTs expressed their willing-
+ness to support Armenia in this crisis. 
+An Israeli Burn Assessment Team (BAT) 
+arrived in Armenia and concluded that 
+there were 200 severely burned pa-
+tients, with 60 of them in severe and 
+critical condition. BSTs, including Israel 
+EMT, Samaritan’s Purse, UK MED, and 
+Italy EMT, in coordination with the Min-
+istry of Health, deployed to hospitals 
+where most patients were admitted. To-
+gether, these EMTs performed over 500 
+procedures, including escharotomies, 
+skin grafts and surgical debridements. 
+At the same time, discussions took place 
+between the Ministry of Health, WHO 
+and the EMTCC to identify how best to 
+address the post-response rehabilita-
+tion needs of patients, given the limita-
+tions of the health system. As part of the 
+EMT exit strategy, a specialized train the 
+trainer course was held through a col-
+laborative effort engaging the Ministry 
+of Health, WHO, EMTCC and EMTs. Co-
+ordinating capacity-building efforts as 
+part of the exit plan of EMTs provided 
+an opportunity to deliver a high level of 
+training, resulting in a wider reach to 
+health-systems strengthening over the 
+recovery-filled months ahead.
+Mass burn incident in Armenia – September 2023
+Spotlight 
+© WHO, Armenia refugee response: 
+EMT Rehabilitation Training of Trainers
+55
+The initial request from the Ministry of 
+Health included MEDEVAC of burn pa-
+tients as well as BSTs. A total of 19 pa-
+tients were evacuated in collaboration 
+with the Emergency Response Coordi-
+nation Centre. Six countries (Belgium, 
+Bulgaria, France, Italy, Spain and the 
+United States of America) offered hos-
+pital capacity. Some of the countries 
+organized their own MEDEVAC capacity 
+while Romania and Luxemburg operat-
+ed MEDEVAC flights under European 
+Civil Protection Pool agreements.  
+Spotlight
+© WHO / Spartak Avetisyan, medical evacuation of burns survivors in Yerevan, Armenia
+66
+Standards and recommendations for burns care in mass casualty incidents
+On 14 July 2022, a Russian cruise mis-
+sile launched against the city of Vinnyt-
+sia in central Ukraine struck a private 
+civilian hospital killing 28 people, with 
+over another 100 injured. Managing 
+such a large number of severe burns 
+patients, who also had other significant 
+trauma-related injuries, placed enor-
+mous pressure on an already overbur-
+dened health-care system due to the 
+impact of the war. 
+The Ukraine Ministry of Health request-
+ed support for the safe transfer of pa-
+tients to the national tertiary level adult 
+and paediatric burn centre in Lviv and 
+beyond, into European regional spe-
+cialized clinics. Artesans-ResQ, in col-
+laboration with the Ministry of Health, 
+conducted a rapid evacuation of these 
+severe burn patients. 
+Navigating patient transfers and evacu-
+ations in Ukraine posed daunting chal-
+lenges. Patient flow from the affected 
+city to the medical evacuation hub in 
+Lviv was uncoordinated, making prop-
+er referrals difficult. Additionally, no 
+available aeromedical evacuation ca-
+pabilities existed. Consequently, hybrid 
+evacuation strategies were devised, 
+combining ground patient transfers into 
+Poland to access aeromedical evacua-
+tion there.
+Addressing such challenges necessi-
+tates an extended preparatory phase 
+and the deployment of specially trained 
+teams. Ensuring continuous safe pa-
+tient care during transport becomes 
+paramount, underscoring the need for 
+standardized procedures and special-
+ized training. This becomes particular-
+ly crucial in the context of burn injuries 
+where time frames for transportation 
+are critical. The evacuation process also 
+underscores the vital need for overarch-
+ing coordination with clearly defined re-
+sponsibilities, standardization of patient 
+pathways and triage criteria.
+Illustrative patient case
+Following the missile attack, a 10-year-
+old male sustained combined blast and 
+heat trauma with extensive burns en-
+compassing 65 % TBSA of 2 nd and 3 rd 
+degree with his face, extremities and 
+airway affected. Dislocated fractures in 
+the left upper arm further complicated 
+the situation.
+Patient case from a mass burn incident in Ukraine – 
+July 2022
+Spotlight 
+77
+The patient was initially transferred 
+to Lviv by an ambulance team lacking 
+appropriate intensive care capacities. 
+Upon arrival in Lviv, his condition was 
+critical and marked by inadequate re-
+suscitation efforts. Four days after the 
+initial injury, Artesans-ResQ conducted 
+the first assessment visit in the paedi-
+atric burn centre in Lviv. Advanced burn 
+care was provided, including analgesia, 
+fluids, dressings, intensive care, surgi-
+cal procedures and nutritional support. 
+The patient was later transferred from 
+Lviv to Rzeszow, Poland via ambulance 
+(a 4.5-hour ground journey) followed by 
+a 1.5-hour flight to Dresden, Germany.
+The patient underwent hospitalization 
+in a specialized burn centre in Dresden, 
+where he received intensive care for an 
+extended duration of six months. Subse-
+quently, in August 2023, he successfully 
+returned to his home town in Ukraine. As 
+of November 2023, he remains engaged 
+in daily rehabilitation activities while 
+also attending school. The overall out-
+come of the patient’s recovery is highly 
+satisfactory, serving as a testament to 
+the kind of success stories swift medical 
+evacuation in the context of mass burn 
+incidents can achieve.
+Spotlight
+© Artesans-ResQ / Jonathan Vinke, 
+medical evacuation of burns survivors
+88
+Standards and recommendations for burns care in mass casualty incidents
+On 5 November 2021, a large explosion 
+involving a loaded fuel tanker colliding 
+with a truck occurred in Freetown, Si-
+erra Leone. The resulting inferno killed 
+over 101 people and injured more than 
+450. The local township hospital was 
+overwhelmed, receiving 82 severely 
+injured patients and 87 corpses on the 
+first night, with only three doctors and 
+eight nurses on duty in the emergency 
+department.
+There were immense gaps in managing 
+such a huge MCI at the national level. 
+The National Emergency Medical Ser-
+vices team and a disaster response 
+unit were notified following the inci-
+dent; however, the Ministry of Health 
+and Sanitation did not harmonize coor-
+dination well, resulting in further loss 
+of lives as patients were not properly 
+triaged at the scene nor appropriately 
+transferred to facilities. Some patients 
+were transported via buses, motorbikes, 
+taxis and private vehicles. Most died on 
+arrival. Nationally, there were few gen-
+eral surgeons, only one reconstructive 
+surgeon, no trauma surgeon and few 
+emergency and critical care nurses. As 
+there was no burns unit, patients had to 
+be treated either in intensive care units 
+or makeshift high dependency units.
+The Government requested support 
+from EMTs to augment available hu-
+man resources and provide much-need-
+ed clinical care. On 6 November, WHO 
+requested assistance from BATs and 
+BSTs, with the WHO Regional Office for 
+Africa leading guidance and support of 
+the EMT deployment process. The Gov-
+ernment accepted early offers from the 
+Mass burn incident in Sierra Leone – November 2021Spotlight 
+© WHO, Senegalese EMT
+99
+Italy BAT and Senegalese EMT. Having 
+had a similar experience in DRC in 2018, 
+the Senegalese EMT was mobilized and 
+deployed 72 hours after the disaster. By 
+12 November, 10 experts, including plas-
+tic surgeons, anaesthesiologists, nurses 
+and civil protection officers, had arrived.
+EMTs were tasked to three different 
+hospitals where patients were admitted 
+to provide burns care, including recon-
+structive surgery, pain management, 
+palliative care, wound dressings, reha-
+bilitation, physiotherapy and psycho-
+social counselling. EMTs also provided 
+on-the-job training to other clinical col-
+leagues in burns management and pal-
+liative care. Of 155 patients admitted to 
+the three facilities, 87 were discharged 
+home.
+Daily coordination meetings effectively 
+managed the activities of the local team 
+and the EMTs with technical updates by 
+the team providing briefings to senior 
+management from the Ministry of Health 
+and Sanitation. Constraints in coordina-
+tion processes, such as the legal and 
+regulatory requirements of registering 
+EMT members with the Sierra Leone 
+Medical and Dental Council to secure 
+practising licenses to enable work in 
+the country, hampered timeliness of the 
+response and delays in providing care 
+to patients. This experience advises that 
+EMT members’ future credentialing pa-
+perwork be forwarded immediately after 
+they are contacted for deployment while 
+other preparatory procedures, such as 
+travel arrangements, are ongoing.
+The EMT team dispensed their clinical 
+functions with high professionalism 
+and maintained flexibility in adapting 
+to a chaotic situation and few available 
+resources. Local community members 
+showed great appreciation for the work 
+done by the team and this was part-
+ly attributed to having common back-
+grounds, with the EMT team coming 
+from a similar lower-middle-income 
+setting on the same continent. 
+For the Sierra Leone Ministry of Health, 
+the response highlighted a need to 
+strengthen coordination among part-
+ners, with better provision, allocation 
+and use of resources (both donor and 
+government). It also became apparent 
+that there was an urgent need to train 
+health-care workers, set up national 
+EMTs and establish a burns unit with 
+support from WHO and other partners.
+Spotlight
+© WHO, provision of specialized burns care
+1010
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 2
+Methods
+© WHO/ Spartak Avetisyan, medical evacuation of burns survivors in Yerevan, Armenia
+1111
+Methods2
+The Technical Working Group (TWG) on Burns (2017–2019) conducted broad literature 
+searches using key themes, including published and grey literature. Clinicians and 
+experts from the global EMT community convened a TWG in 2017 to draft initial 
+recommendations based on experiential practice and literature. Expert opinion 
+played a major role in drafting recommendations. A draft document was circulated to 
+the TWG and a survey subsequently circulated to the wider EMT community with a 
+request to agree, partially agree or disagree with each recommendation, with space 
+for comments. A second TWG meeting was convened in 2018 to review the updated 
+document and attain consensus on survey results and comments. Another survey 
+was sent to the EMT community and international burns organizations. A third TWG 
+meeting was convened later in 2018 and the document updated.
+Following both the development of a final draft of the TWG on Burns document from 
+2017–2019, and routine WHO Quality Assurance, Norms and Standards procedures 
+for development of WHO normative products (13), an external review of the final 
+document was sought. Given newer global experiences in mass burn incidents and 
+the recommendation to review new evidence under guidance of WHO headquarters, 
+Science Division, Quality Norms and Standards Department, the external review 
+group was expanded to a TWG. The TWG met virtually from 2021–2023 and updated 
+technical standards on a shared document. This group evolved to become a guideline 
+development group as it also sought to develop clinical recommendations.
+The Guideline Development Group (GDG) 2023 followed the established standards 
+and methods for the generation of trustworthy WHO guidelines as outlined in 
+the WHO Handbook for Guideline Development, 2nd Edition (12), and Grading of 
+Recommendations, Assessment, Development and Evaluation (GRADE) methodology 
+(14). This approach can be summarized as: development and convening of a WHO 
+steering group; a GDG; an external review group and a systematic review team, 
+including methodologists; identifying and managing conflicts of interest; formulating 
+clinical questions; selecting and rating key outcomes (conducted by online survey); 
+formulating values and preferences; conducting systematic reviews and evidence 
+assessment; and developing and writing recommendations using the GRADE 
+approach.
+1212
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 3
+Country-level capacities 
+for mass burn incidents
+© WHO, Flames and smoke billow during air strikes in Gaza, October 9, 2023
+1313
+Country-level capacities for mass burn 
+incidents
+3
+As part of their mass casualty or disaster plan, it is recommended that Member 
+States include specific provisions for a potential mass burn incident. This portion of 
+the plan would ideally be drafted in collaboration with members of the burn specialist 
+community. Similar to other parts of the mass casualty or disaster plan, the plan 
+should be tested with relevant local, national and regional stakeholders and regular 
+simulation exercises conducted at least every 2–3 years. 
+The mass burn incident portion of the plan should include: (i) type(s) of possible 
+burn events and expected resulting types of injuries; (ii) response pillars, including 
+coordination of EMTs; (iii) mechanisms to mobilize national teams/personnel 
+(including ideally local/national EMT and BAT: (iv) mechanisms to receive 
+international teams/personnel (including EMTs of all types); (v) approaches to care 
+including communication pathways with transferring and receiving health facilities; 
+(vi) specific provisions for possible requirement of MEDEVAC of patients within 
+country or to other countries); (vii) written standard operating procedures; and (viii) 
+resources available and possible sources for additional resources. Consideration 
+should be given to the support and use of local and regional trauma teams (not burn 
+specialized) and MEDEVAC teams, for example, EMTs specialized in MEDEVAC in 
+augmenting some of the clinical work required. The integration of such teams is likely 
+in the event of a large or mixed blast incident.
+All countries should consider creating a BAT or having bilateral or regional agreements 
+to request BAT from neighbouring countries as part of their national EMT system and 
+their national emergency response plan. Should a country have few burns specialists, 
+or prefer to retain these at the national referral centres, then BATs may be required 
+from surrounding countries. BSTs may be best shared regionally among multiple 
+countries, either sourced from one larger country, and/or with the contribution of 
+experts and resources from nearby countries within the region.
+
+1414
+Standards and recommendations for burns care in mass casualty incidents
+3.1   Coordination
+Ideally, coordination of an MCI should be led entirely by local government personnel 
+experienced in operationalizing the coordination requirements as part of a health 
+emergency operations centre. However, support is often required via external 
+expertise to bridge gaps, support operationalization and help guide delivery. Thus, 
+while the primary responsibility remains with the Ministry of Health or other 
+appropriate national authority, coordination can be supported at a national and 
+regional level by expertise from a BAT (see section below on BAT service provision). 
+Mass burn incidents present a number of unique challenges regarding coordination. 
+In addition to the influx of high numbers of critically unwell patients to overburdened 
+health facilities, existing burns services and relevant resources in many regions 
+can often be sparse and/or already fully occupied. Clinical expertise may only be 
+available at the capital city or tertiary level health facility, and the number of clinicians 
+experienced in burn care minimal. Focus of coordination should include strategies to 
+decompress specialist centres and harness additional resources where available. 
+Additionally, specific considerations must be taken for an expected large number of 
+MEDEVAC patients from the site or country. MEDEVAC may be a subset of coordination 
+activities requiring specialized clinical support. This can be a function established 
+within the EMTCC structure, which is purposed to provide overall coordination of 
+all clinical surge capacities and responding medical teams (both national and 
+international) to best meet additional health-care needs. The MEDEVAC function 
+within will be to support the coordination of medical evacuation, with experienced 
+clinical and coordination team members to inform operation support and logistics 
+requirements. Countries should consider the inclusion of a MEDEVAC coordination 
+function within their national coordination mechanisms.
+Since the overall scope of coordination activities required is often broad, the 
+requirement for efficient pooling and tasking of resources is vital. BATs and/
+or BSTs can provide an important resource in the form of technical and clinical 
+expertise experienced in coordination and burns care who can help establish and 
+strengthen coordination hubs. To ensure an effective response from EMTs and BSTs, 
+coordination should be centralized and engage all relevant stakeholders, led through 
+an established and nationally-led EMTCC. 
+1515
+General EMTs refer to the classic Type 1 (mobile and fixed), Type 2 and Type 3 teams 
+that respond to conflict, outbreaks and climate-related disasters. Specialized care 
+teams (SCTs) such as BATs and BSTs or for MEDEVAC, highly infectious diseases and 
+spinal cord injuries, may embed into general EMTs or into local hospitals. Depending 
+on their composition, expertise and infrastructure, EMTs may have the capability of 
+delivering basic to intermediate level burns care (1). However, EMTs that are not 
+BSTs are recommended to support the care of a burn-injured patient only to within 
+their existing capability. EMTs may host BATs and BSTs should a need arise (for 
+example, if local hospitals are overwhelmed or unable to support a burns response). 
+This situation is most likely to arise when a mass burn incident occurs while EMTs 
+are already in-country, or following an event resulting in extensive burn and non-
+burn trauma injuries where there is a requirement for both EMT and BST support. In 
+the presence of a BAT and/or BST, burn care capability of an EMT Type 2 or 3 can be 
+strengthened, in a similar manner to the resultant increased capability of a local first 
+receiving or tertiary hospital. 
+3  Country-level capacities for mass burn incidents
+1616
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 4
+Burn Assessment Teams (BATs) and 
+Burn Specialist Teams (BSTs) configuration 
+and service provision 
+© WHO/ Spartak Avetisyan, medical evacuation of burns survivors in Yerevan, Armenia
+1717
+Burn Assessment Teams (BATs) and Burn 
+Specialist Teams (BSTs) configuration and 
+service provision 
+4
+The role of BATs and BSTs are distinct but complimentary (see Table 2). The 
+development of BATs is encouraged within all countries as a critical step in developing 
+surge capacity for burns care.
+BATs play a pivotal role in the early phase of a response (see Table 3 for required 
+team members). It is recommended that the BAT be national and capable of deploying 
+quickly and efficiently following a mass burn incident with the capacity to fulfil a 
+number of roles and support the local health system in the following functions:
+1. advisory
+2. clinical
+3. coordination
+- Estimate patient numbers and their initial estimation of severity; and 
+- provide a comprehensive check on resource availability in the first 
+receiving health facility and specialist burn facilities.
+4.1   BATs
+4.1.1  Advisory function of BATs
+Table 2.  Overview of BAT and BST
+Functions
+Timing of 
+deployment
+Logistical 
+considerations
+Source
+Advisory; clinical; coordination
+Deploy within hours; 
+stay for two weeks
+Light, portable; self-sufficient 
+for at least three days
+National; regional if needed
+Clinical; coordination if requested
+Deploy within days; 
+stay for six weeks
+Self-sufficient for two weeks prior 
+to resupply
+Regional; global if needed
+BSTBAT
+1818
+Standards and recommendations for burns care in mass casualty incidents
+- Support local health-care workers with the clinical (re)assessment, (re)
+triage and on-going care of patients at the first receiving health facility;
+- ensure appropriate and adequate early resuscitation of burn-injured 
+patients, including analgesia, fluid management and escharotomy if 
+indicated;
+- provide support and guidance to local health-care workers in the delivery of 
+surgical interventions for burn care, including decision-making, performing 
+scrub and early surgical interventions (for example, early debridement and 
+grafting);
+- provide support and guidance to local health-care workers in early 
+rehabilitation of patients; and
+- support the care of patients receiving palliative care.
+- If requested, provide direct support to local coordinating teams centrally 
+(ministry of health or similar) and hospitals;
+- support decision-making regarding patient transfer, patient evacuation and 
+patient (re)distribution;
+- assist local authorities to determine the need for additional expertise in the 
+form of BST;
+- liaise with local coordinating bodies to assist with patient and resource 
+coordination strategies; and
+- ensure weekly activities are reported to the relevant authorities throughout 
+their deployment and a final exit report. 
+4.1.2  Clinical function of BATs
+4.1.3  Coordination function of BATs
+4.1.4  Timing and duration of deployment for BATs
+BATs ideally deploy immediately (within hours) following a request from the affected 
+local health authority. BATs are not expected to assist on-scene and are best placed 
+to focus their support centrally or at first non-specialist receiving hospitals, subject 
+to local authority guidance. This mechanism also helps preserve the country’s burn 
+expertise at their relevant specialist hospitals (those individuals who are not part of 
+the BAT). BATs are recommended to remain in place for two weeks with integration 
+into the BST, as required.
+1919
+4.1.6  Recommended composition of BATs
+4.1.5  BATs logistical considerations
+BATs should ideally be self-sufficient in specialized equipment, consumables, 
+communication tools, food, water and habitat and also be self-sufficient for their own 
+needs in order to perform their function for a minimum of three days. Mass burn 
+incidents are unlikely to have damaged all local infrastructure, thus large caches of 
+tents and logistical equipment are not required, so teams should be light and portable 
+to facilitate rapid deployment. Self-sufficiency in terms of food, water and habitat for 
+teams can be sustained through the use of local hotels and resources if these are 
+unaffected by the incident, but the team should expect to be self-sufficient in terms of 
+paying their own bills or have this covered through their deploying agency and not 
+burden the local system.
+Number 
+per team Skill requirement
+Table 3.  BAT required team members
+1
+1 For example, emergency response manager 
+experience (this is a non-clinical role)
+Minimum five years experience in 
+burns care and multiple contexts
+Minimum five years experience in 
+burns care in various contexts
+Minimum five years experience in 
+burns care across various contexts
+Minimum five years experience 
+in acute burns rehabilitation
+With water, sanitation and hygiene (WASH) 
+and waste management experience
+1
+1
+1
+1
+Burns specialist surgeon
+Team Leader
+Burns experienced 
+anaesthetist
+Burns experienced nurse
+Rehabilitation specialist
+Logistician
+4  Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) configuration and service provision 
+2020
+Standards and recommendations for burns care in mass casualty incidents
+4.1.7  Source of BATs
+All countries should consider creating a BAT or having bilateral or regional 
+agreements to request BATs from neighbouring countries as part of their national 
+EMT system and their national emergency response plan. Should a country have 
+few burns specialists, or prefer to retain these at national referral centres, then 
+BATs may be required from surrounding countries. These would need to comply with 
+international EMT standards, and be self-sufficient/self-caring for up to two weeks, 
+but arrangements for such self-sufficiency in terms of team welfare is likely to be 
+relatively easy to arrange locally, such as the use of local hotels and restaurants, 
+without the need to bring large stocks of food and water. International BATs should 
+be aware that they will likely be deployed into a hospital lacking burns service and 
+therefore need to bring burns care equipment and consumables.
+4.2   BSTs
+BSTs are larger teams comprised of multidisciplinary, burn-experienced health-
+care workers (Table 4 lists recommended composition). Whether nationally or 
+internationally-based, BST’s have a number of important functions, not only in the 
+clinical management of patients, but also in a coordinating role. 
+- provide additional experienced personnel to provide support, advice and 
+guidance to local health-care teams in the on-going clinical care of burn 
+patients; and
+- provide expertise, particularly regarding rehabilitation and long-term 
+treatment plans for patients.
+The main role of a BST has been recognized as capacity building, particularly for 
+an existing health facility. It may be preferable to keep national health-care staff 
+and expertise in their familiar place of work, rather than redistributing personnel to 
+support other facilities – a role that can be supported by a BST. It is recommended 
+that resource allocation be determined on a case-by-case basis, dependent on local 
+context and resources, BST availability and type of incident.
+4.2.1  Clinical function of BSTs
+2121
+BSTs are expected to deploy following an invitation from the local health authority 
+after initial assessment by the BAT(s), which may be 48–72 hours or more post-event. 
+International BSTs are not likely to arrive in-country for several days after the initial 
+incident but should remain for six weeks. BSTs should support strategies to ensure a 
+smooth handover of patients requiring on-going care and follow up.
+In line with BATs and the minimum standards and core principles for EMTs, BSTs 
+must be self-sufficient for a minimum of two weeks prior to resupply. BATs and 
+BSTs are not expected to provide their own field infrastructure as teams are most 
+likely to be co-located within an existing facility.
+- Strengthen the capability of the BAT if required; and
+- ensure weekly activities are reported to relevant authorities throughout 
+their deployment and that a final exit report is filed.
+4.2.3  Timing and duration of deployment for BSTs
+4.2.4  BSTs logistical considerations
+4.2.5  Recommended composition of BSTs
+4.2.2  Coordination function of BSTs
+Table 4.  Recommended composition of a BST
+Essential experience/
+Core skillsSkill set Number per 
+team Desirable experience
+1 Experience in disaster managementTeam leader
+Experience working 
+in health emergency 
+response coordination 
+(this is a non-clinical role)
+2 Experience working in trauma 
++/- mass burns or mass casualty
+Burns specialist 
+surgeon
+> 5 years burns 
+experience with general 
+trauma experience
+With burns experience 
+(> 5 years) and ICU 
+experience
+Austere environment 
+experience/course2Anaesthetists
+4  Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) configuration and service provision 
+2222
+Standards and recommendations for burns care in mass casualty incidents
+Essential experience/
+Core skillsSkill set Number per 
+team Desirable experience
+Burns training
+Experience in emergency 
+deployments, including managing 
+team self-sufficiency, as well as 
+the ability to support power, water, 
+sanitation, environmental cleaning 
+and waste management. 
+Experience in nutritional 
+support for burns patients in 
+resource-limited settings.
+Experience in emergency health 
+deployments, managing medical 
+stock specific for burns care.
+5
+1
+1
+2
+1
+With burns experience 
++/- paediatric experience 
+(2–5 years). Nurses 
+should have experience 
+in burns dressings, 
+autoclaving, operating 
+theatre nursing and 1–2 
+years clinical leadership 
+experience.
+For management of 
+consumables and 
+pharmacy
+Includes logistics and 
+WASH experience
+Experience in nutrition 
+support in intensive 
+care settings or limited-
+resource settings.
+With > 3 years burns 
+experience, including 
+splinting and respiratory 
+care.
+Nurses
+General 
+operational 
+support specialist
+Nutritionist/
+dietician
+Rehabilitation 
+specialist
+Medical 
+logistician
+4.2.6  Source of BSTs
+BSTs are potentially less likely to be deployed, more difficult to put together (especially 
+for long deployments) and may be best shared regionally among multiple countries, 
+either sourced from one larger country, and/or with contributions of experts and 
+resources from nearby countries within the region.
+2323
+4.3   Equipment and supplies for BATs/BSTs
+As noted above, all BATs and BSTs are expected to be self-sufficient for their own 
+needs and for the equipment and consumables required for the surgical and burns 
+care they provide. 
+Following an initial situational assessment by BATs, any additional resources required 
+can be sourced and provided by tasked BSTs. Consideration should also be given to 
+the tasking of other specialist EMTs such as those supporting logistics or medical 
+evacuation. These may be requested by BATs or local health authorities should this 
+be identified as a need. 
+Recommendations regarding the equipment teams should deploy with are detailed in 
+Table 5. A modularized approach to equipment is recommended. A modular system 
+supports a standardized and simplified framework for burns equipment and expedites 
+resupply. Thought should be given to the fact that burns treatment can continue for 
+many months when considering stock volumes for each module.
+The WHO Trauma and Emergency Surgery Kit (TESK 2019), WHO Major Trauma 
+Backpack 2021 and other WHO kits provide several modules which may replace or 
+supplement those below (15).
+Table 5.  Recommended equipment/supplies modules
+- Infrastructure module
+- Resuscitation module 
+- Dressing module
+- Laboratory module
+- Pharmacy module
+- Blood module
+- Surgical module
+- Nutrition module
+- Rehabilitation module
+4  Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) configuration and service provision 
+2424
+Standards and recommendations for burns care in mass casualty incidents
+4.3.1  Infrastructure module
+Since mass burn incidents are, in general, not likely to damage health facility 
+infrastructure on a large scale, BATs and BSTs are expected to co-locate with an 
+existing facility. Although self-sufficiency of burns teams is required, they are not 
+expected to be self-sufficient in the same manner as EMTs Types 1, 2, and 3 having 
+full infrastructure support.
+However, there are exceptions to this and consideration should be given to required 
+self-sufficiency in such instances. These include the following.
+- Conflict: infrastructural damage may exist due to conflict, and conflict 
+settings may result in thermal and non-thermal burns (for example, 
+chemical) to a large population, especially if health facilities are specifically 
+targeted.
+- Climate-related disaster: in the case of a mass burn incident as a 
+consequence of a climate-related disaster, local and regional functioning 
+health facilities and EMTs (national and international) may provide an 
+infrastructural platform for delivery of health care. BATs and/or BSTs can 
+co-locate with either. 
+- Radiation: gas plumes or other forms of contamination, such as radiation, 
+may make it unsafe to use nearby health facilities and temporary EMT 
+facilities may have to be erected in another safer area.
+- Explosion within a health facility: surrounding health facilities may not be 
+impacted and with external support, are able to provide needed burns care 
+and facilities where burns teams can co-locate.
+Consideration should be given to:
+- airway equipment, such as nasopharyngeal and oropharyngeal airways
+- suction
+- supply of medical oxygen
+- oxygen delivery tubing, masks and cannulae
+- equipment for advanced respiratory support, including intubation, 
+ventilation and tracheostomy
+- urinary catheters and urine collection supplies
+- observation and recording charts
+- WHO checklists.
+4.3.2  Resuscitation module
+2525
+4.3.3  Dressing module
+It is likely that the requirement for burn dressing equipment will far exceed the local 
+supply in most settings after a mass burn incident. Accordingly, a dressings module of 
+equipment should be available to be implemented as soon as possible after the incident. 
+This module should include sufficient dressings, antiseptics and other basic equipment 
+for undertaking regular dressing treatments on a large number of injured people.
+BATs and BSTs should aim to augment laboratory equipment available locally. 
+Information on receiving hospitals existing laboratory capability should be determined 
+by BATs and equipment needed to augment laboratory capability communicated to 
+BSTs prior to their arrival. 
+Standard questions regarding the availability of blood transfusion services, basic 
+laboratory, autoclave and radiology (chest X-ray in particular) are required. If not 
+present, teams should consider bringing these capacities or liaising with local 
+authorities to ensure they are on-site.
+Quantity of pharmaceutical items should be estimated based on a two-week resupply 
+and thus in line with recommendations for EMTs (1). Though it is likely that the 
+requirement for analgesics and anaesthetic agents will exceed the local supply in 
+most settings, adjustments can be made to quantity and items according to local 
+needs. Logistical measures should be in place among burns teams to ensure cold 
+chain transport is available if required.
+Analgesics and anaesthetics
+Consideration should be given to augmenting the analgesics and anaesthetics 
+commonly used within local hospitals. This may vary across contexts. Transportation 
+of any controlled pharmaceutical agents, such as opiates, must follow international 
+custom and country guidelines. Provisions for safe anaesthesia care with appropriate 
+monitoring capacity must be considered if anaesthetics are brought.
+Antiemetic and gastroprotective agents
+Consideration should be given to augmenting the local supply of antiemetics and 
+gastroprotective agents such as proton pump inhibitors, especially for the critically ill.
+4.3.4  Laboratory module
+4.3.5  Pharmacy module
+4  Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) configuration and service provision 
+2626
+Standards and recommendations for burns care in mass casualty incidents
+Antibiotics
+Unless specifically clinically indicated, antibiotics should not routinely be given 
+prophylactically to burn patients after a mass burn incident (16). However, antibiotics 
+may be required to treat secondary infections. Teams should consider bringing 
+appropriate burns-specific antibiotics to commence therapy in the case of infection.
+Oral and intravenous (IV) fluids
+A large quantity of Oral Rehydration Salts (ORS) is recommended as nearly all burn 
+patients will receive oral fluids. A supply of clean drinking water may be limited locally, 
+therefore consideration should be given to providing bottled water along with ORS 
+to avoid the need to boil water. Teams should also consider establishing a portable 
+water purification system. This can serve as a backup if local supplies are insufficient 
+or compromised, thereby providing a sustainable source of clean water for both 
+drinking and medical purposes. Crystalloids are recommended for IV fluids, although 
+consideration should be given to the logistics required for the weight and volume 
+carried as deployed kit. Oral and IV fluids may be available locally, which the deploying 
+team should try to determine prior to deployment and if so, their expiration dates, 
+quantity available and storage conditions to ensure they meet required standards for 
+medical use.
+Tetanus
+Tetanus vaccination is likely to be available in some quantity at local hospitals. Teams 
+should also deploy with tetanus vaccine and immunoglobulin surge supplies if local 
+stocks are unavailable.
+Nutritional supplements and supplies
+Nutritional supplements should form an essential part of pharmaceutical stocks. 
+Recommendations include: multivitamins; zinc; vitamin C; supplementary feed options 
+and a guide to calculating nutritional requirements in major burns (17). Equipment 
+supporting a nutritional focus should include mid-upper arm circumference tape, 
+weighing scales and hanging paediatric scales. Nasogastric feeding tubes and syringes 
+are vital for delivery of adequate ORS, oral and/or enteral nutrition. Nutritional intake 
+monitoring charts should also be considered.
+Post-exposure prophylaxis
+As per EMT staff safety requirements, teams are recommended to carry a short 
+course of HIV PEP for team members inadvertently exposed. The choice of drugs and 
+regimen for HIV PEP should be in line with established national and/or international 
+guidelines.
+2727
+A blood module may be required. As part of their initial assessment, the BAT should 
+help determine the availability of safe blood for use and confirm the likely need 
+for deployment of a blood module. Procedures to reduce the risk of bleeding are 
+encouraged, for example, the use of local anaesthetic with adrenaline.
+Although a BST should deploy with enough personnel to technically support a second 
+operating theatre, it is more likely that the additional team members will be performing 
+a wide range of roles, including supporting ward work, post-operative care, out-
+patient care, or second-assisting on complex cases. Specific considerations for surgical 
+equipment should consider local capacity to engage in advanced wound cleaning, 
+surgical scrub, escharotomy, fasciotomy, excision, enzymatic debridement, grafting, 
+local tissue rearrangements, flaps and contracture releases, among others. Safe 
+surgery checklists and patient documentation charts should also be part of this module. 
+Plaster of Paris and other splinting materials such as polyvinyl chloride pipes should 
+be sourced, as well as bandages to secure them in place. Pillows, rolls and wedges for 
+positioning should also be considered.
+4.3.6  Blood module
+4.3.7  Surgical module
+4.3.8  Rehabilitation module
+4  Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) configuration and service provision 
+2828
+Standards and recommendations for burns care in mass casualty incidents
+4.4   BAT/BST training
+All BAT and BST team members should have completed general EMT team member 
+training followed by specialist training for burns. Team leaders and senior clinicians 
+should also have training in coordination and emergency management. Specific 
+training for BATs and BSTs should include:
+- assessment, coordination and leadership in MCIs with burn injuries
+- clinical care, including resuscitation and safe patient transfer
+- decision-making regarding the management of multiple burn patients
+- lessons learnt, best practices and WHO standards and recommendations 
+for mass burn incidents.
+Globally, utilization should be made of existing courses (see Table 6) which meet the 
+required learning outcomes, ensuring training is regionally accessible, open access 
+and economically viable. Training for BATs is recommended to be delivered at a 
+national level. Training specific for BSTs can be delivered centrally at a regional level.
+Training for teams in low resource contexts should be sensitive and responsive to 
+local and cultural needs, relevant to the type of health-care professional working with 
+burns patients and tailored to meet the basic, intermediate and advanced levels of 
+burn care (18,19).
+Table 6.  Examples of burn care course topics
+- Pre-hospital burn evaluation and care
+- Basic burns nursing
+- Basic/essential burns care
+- Advanced burn care
+- Advanced surgical burn care
+- Burn anaesthesia and peri-operative care in austere circumstances
+- Emergency management of severe burns
+- Management of the critically ill burns patient
+- Rehabilitation for burns
+- Innovation in burns care
+- Awareness/basic training in CBRN
+- Nutrition for the burn patient in limited-resource settings
+2929
+4  Burn Assessment Teams (BATs) and Burn Specialist Teams (BSTs) configuration and service provision 
+3030
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 5
+Technical standards
+© WHO/ Spartak Avetisyan, medical evacuation of burns survivors in Yerevan, Armenia
+3131
+Technical standards5
+Burn-injured patients require timely and appropriate care from the scene of the 
+incident onwards.
+5.1   Patient flow overview
+On-scene First receiving hospital Transfer/referral
+Phase 1. On-scene: The scene of the incident and the site where first responders 
+are most likely to attend to patients. First responders may include passers-by, local 
+community members, emergency service personnel and health-care workers. Patients 
+should be moved from the scene to the first receiving hospital/s by any form of 
+transport available. Neither BAT nor BST should assist at the scene of the incident 
+unless specifically requested. The roles of BATs and BSTs are deemed most suitable 
+from the first receiving hospital onwards in the patient journey. 
+Where applicable, a health post should be considered an extension of the scene.
+Phase 2. First receiving hospital: This facility is ideally a district-level hospital 
+although it may be a tertiary hospital depending on the site of the incident and 
+self-presentation of patients. Existing burn care capability, such as the presence of 
+experienced health-care workers, burn care beds and appropriate operating facilities, 
+is likely to be highly varied; however, all are likely to have the capability to deliver 
+basic burns care of pain relief, wound cleaning and dressing. Some district hospitals 
+may have the capability of delivering an intermediate level of burns care without 
+additional support from BATs and/or BSTs. 
+To ensure early, appropriate and optimal patient care and support for local health-
+care teams, it is recommended that all first receiving hospitals attain intermediate 
+burn-care capability, as needed, with support from deployed BATs and/or BSTs. 
+Phase 3. Transfer and referral: To target and utilize resources efficiency, referral 
+and transfer of burn-injured patients should be viewed as multi-directional rather 
+than a unidirectional “step-up” transfer from a district hospital to a tertiary hospital. 
+Burn-injured patients requiring higher acuity and more specialist care should be 
+transferred from the first receiving health facility to a tertiary hospital capable of 
+delivering a higher level of burn care. Generally, these are patients with > 20 % TBSA 
+burns and/or deep dermal or “special area” burns (see section on special area burns). 
+3232
+Standards and recommendations for burns care in mass casualty incidents
+Consideration should also be given to decompress tertiary hospitals by transferring 
+less severely injured burn patients (and non-burn-injured patients) to a district 
+hospital to maximize specialist bed availability and preserve specialist resources. 
+Decisions regarding patient referral and transfer are recommended to occur only after 
+definitive triage has been undertaken by the first receiving hospital (with support from 
+BATs and/or BSTs, as required). The burn care provision of a receiving health facility 
+can be strengthened by incoming BATs and/or BSTs who can support the scale up of 
+resources required to manage a large influx of patients while maintaining adequate 
+level of burn care capability (Table 7).
+Any transfer of a patient between hospitals should only occur once the patient is 
+clinically stable and there has been appropriate communication between the referring 
+and receiving hospital. Support from a central coordination hub may also be required.
+Table 7.  Suggested provision of burn care during a mass burn incident by level of 
+health facility
+Role
+Burn care 
+capability 
+level
+Burn care capability
+Analgesia; wound cleaning; 
+simple dressing; fluids
+Analgesia; wound cleaning; surgical 
+scrub; fluids; dressings; limb positioning; 
+excision and grafting (burns less than 
+20 % TBSA); emergency procedures 
+(escharotomy); nutritional support; early 
+rehabilitation
+Analgesia; wound cleaning; surgical 
+scrub; fluids; dressings; limb positioning; 
+excision and grafting; emergency 
+procedures (escharotomy); intensive 
+care; special burn management; 
+reconstructive surgery; nutritional 
+support; burn specific rehabilitation
+Analgesia; wound cleaning; 
+simple dressing; fluids
+Basic
+Intermediate
+Advanced
+Basic
+First aid
+Extension of scene/
+patients may self-present
+First receiving hospital
+Referral hospital (or first 
+receiving hospital from 
+self-presentations or 
+scene vicinity)
+On-scene
+District 
+(secondary)
+Tertiary
+Primary 
+(health post)
+3333
+A three-phased triage approach is important, in part to ensure accurate patient 
+assessment following an evolving injury, but also to ensure patients are provided 
+the most suitable interventions for their burn injury in a timely manner. The three-
+phase triage approach also helps target limited national and international resources 
+to needs, such as specialist beds and intensive care. 
+5.2.1  On-scene at site of incident
+The first phase of triage occurs at the site of the incident. The first responder pool will 
+vary in their experience of assessing injured patients and thus guidance should be 
+familiar, simple and practical in its approach. BATs may support this as requested by 
+local authorities.
+General triage
+Existing and conventional triage systems such as the WHO/ICRC/MSF/IFRC Integrated 
+Interagency Triage Tool (20) or other standardized tools such as the Simple Triage And 
+Rapid Treatment (START) (21) system should be applied to identify life-threatening 
+injuries such as those compromising the airway (including inhalational burns, head 
+and neck injuries), breathing (such as circumferential full thickness chest burns) or 
+circulation (such as those causing massive haemorrhage). Patients are assigned an 
+appropriate triage category according to the tool used.
+The decision to assign a patient to the “expectant” or “non-survivable” or similar 
+triage category is often difficult and sensitive within cultures and communities. Due to 
+the dynamic nature of burn size  estimation and potential on-scene estimation error, 
+5.2   Triage
+Triage is a dynamic process and will likely occur multiple times for the same patient, 
+especially in an MCI. In MCIs, both trauma and/or burns may result and thus a rapid 
+assessment and triage of injuries is required.
+ In general, three phases of triage are suggested to occur:
+On-scene On-arrival Definitive
+5  Technical standards
+3434
+Standards and recommendations for burns care in mass casualty incidents
+decision-making regarding survivability of a burn injury is recommended to occur at 
+the first receiving health facility, ideally under expert guidance rather than on-scene. 
+General triage
+Existing and conventional triage systems such as the WHO/ICRC/MSF/IFRC Integrated 
+Interagency Triage Tool (20) or other standardized tools such as the Simple Triage And 
+Rapid Treatment (START) (21) system should be applied to identify life-threatening 
+injuries such as those compromising the airway (including inhalational burns, head 
+and neck injuries), breathing (such as circumferential full thickness chest burns) or 
+circulation (such as those causing massive haemorrhage). Patients are assigned an 
+appropriate triage category according to the tool used.
+The decision to assign a patient to the “expectant” or “non-survivable” or similar 
+triage category is often difficult and sensitive within cultures and communities. Due to 
+the dynamic nature of burn size  estimation and potential on-scene estimation error, 
+decision-making regarding survivability of a burn injury is recommended to occur at 
+the first receiving health facility, ideally under expert guidance rather than on-scene. 
+Burn specific triage: %TBSA burn estimation
+Following conventional triage, assessment of burn severity can occur. On-scene 
+assessment of burn severity should be determined mainly from %TBSA burn size 
+estimation rather than depth assessment.
+Estimation of %TBSA burn at scene supports a simple but early effective approach 
+to initial burn triage. Mortality from burns is multifactorial although the relationship 
+between %TBSA burn and survival is well known (22). Depth should not be used as a 
+severity assessment factor as scene responders may not be experienced nor trained 
+in burn injury depth assessment. Additionally, the depth of a burn changes over time 
+and can be difficult to assess even by burns specialists in the first 24 hours (23).  Over 
+and underestimation of %TBSA burn is likely to occur on-scene, and environmental 
+and cultural constraints may impact on how easily burn size estimation can occur (24). 
+A 2019 systematic literature review identified %TBSA burn miscalculations from 5 % 
+to 339 % regardless of provider level with < 20 % TBSA burns being disproportionately 
+overestimated (25). Thus, reassessment and re-triage on arrival at the first receiving 
+hospital, and subsequently by burn-experienced staff, is essential. 
+3535
+The %TBSA burn size estimation tool utilized on scene should reflect the tool most 
+familiar to the first responder. This is likely to reduce error and support an easy-
+to-use assessment for first responders to determine %TBSA burn. However, should 
+guidance be required, the Wallace Rule of Nines %TBSA burn estimation tool should 
+be used for adults (with the accompanying modified version for children) (26). This 
+method is simple, applicable across a variety of contexts, and is a commonly used 
+burn size estimation tool used in pre-hospital environments (27). On arrival at the first 
+receiving health facility, additional tools and burn-experienced health-care workers 
+may be available to re-estimate %TBSA burn as part of the overall reassessment and 
+triage of the patient.
+For an approach to further simplify %TBSA-based burn specific triage (which occurs 
+only after general triage as appropriate), the guide below in Table 8 may be considered, 
+taking into account additional special considerations such as age of the patient.
+Table 8.  Guide to %TBSA-based burn specific triage
+Triage Category Estimated 
+%TBSA burn Additional comments
+Inhalational injuries; circumferential 
+chest wall burns irrespective of %TBSA
+Circumferential limb burns; 
+special area burns
+< 20 %
+> 40 %
+20–40 %
+Priority 3
+Priority 2
+Priority 1
+5  Technical standards
+3636
+Standards and recommendations for burns care in mass casualty incidents
+5.2.2  On-arrival at first receiving health facility 
+The second phase of triage is recommended to occur at the first receiving facility 
+immediately on patient arrival. BATs and/or BSTs are well placed to support both 
+arrival and definitive triage. 
+On-arrival triage supports a re-evaluation of each patient with consideration given 
+to survivability factors such as %TBSA burn, age, depth and site of burn, and patient 
+comorbidities (Table 9). Burn size %TBSA recalculation at this stage may be completed 
+using additional tools. 
+It should be noted that across all contexts paediatric burns are routinely difficult to 
+assess and may result in over-estimation of burn size by the first receiving hospital 
+compared to a specialist burns unit thus impacting transfer decisions (28). Regular 
+reassessment and re-triage supported by burns expertise is critical.
+Table 9.  Factors to consider during on-arrival and definitive triage
+-  %TBSA burn
+-  Depth of burn
+-  Site of burn
+-  Age of patient
+-  Comorbidities
+-  Resource availability
+-  Systems infrastructure: availability of specialist burns bed; 
+    capacity at national burns centres
+-  Accessibility to skilled burn care clinicians.
+On arrival at the first receiving health facility the decision to assign a patient to the 
+“Expectant” or “Non-survivable” or similar triage category remains difficult and 
+sensitive. Support for such decision-making is recommended and can be offered by 
+the BAT and/or BST. Once a decision has been made by the treating health-care team, 
+implementation of palliative care interventions (see Table 10) is essential to ensure 
+the patient’s dignity and comfort. Consideration should also be given to the needs of 
+the patient’s family. 
+Patients with non-survivable injuries should be nursed at the health facility where 
+they have been initially received. However, this decision should be at the discretion 
+of the treating clinicians and may be influenced by availability of nursing care and 
+locality of patient family.
+3737
+Table 10.  Palliative care recommendations
+-  basic airway management
+-  analgesia
+-  simple dressings
+-  oral fluids
+-  catheter
+-  vector control interventions (for example, mosquito nets)
+-  mental health and bereavement support.
+Minimum provision of palliative care should include:
+5.2.3  Definitive (after surgical scrub/wound cleaning)
+The third phase of triage should also be undertaken at the first receiving health facility. 
+Definitive triage should occur after extensive wound cleaning and/or surgical scrub, 
+meaning when the extent, site and severity of burn injuries can be more accurately 
+determined. BATs and/or BSTs are well placed to support both arrival and definitive 
+triage.
+A three-phased triage approach is important in part to ensure accurate patient 
+assessment following an evolving injury, but also to ensure patients are provided with 
+the most suitable interventions for their burn injury in a timely manner. The three-
+phase triage approach also helps in timely recruitment of national and international 
+resources to appropriately deal with higher-care resource needs such as specialist 
+beds and intensive care.
+On-arrival and definitive triage should include an assessment of burn depth. Other 
+survivability factors including patient age and comorbidities should also be considered 
+during these phases of triage (Table 9). Decisions regarding onward clinical care 
+and redistribution of patients can then be considered once a more accurate patient 
+assessment has been completed. Paediatric burns > 10 % TBSA (determined after 
+definitive triage), inhalational burns, special area burns and specific chemical burns 
+should be triaged and managed in a tertiary hospital when possible.
+5  Technical standards
+3838
+Standards and recommendations for burns care in mass casualty incidents
+5.3   Special area burns
+Burns affecting the face, neck, perineum, genitalia, joints, hands and feet are designated 
+special area burns. Burn expertise with BAT and/or BST support may be required 
+to manage patients sustaining these kinds of burn injuries, regardless of %TBSA 
+affected. Access of such patients to specialist care (such as rehabilitation specialists) 
+is recommended to expedite and optimize recovery.
+5.4   Inhalation injury
+Inhalational injuries can cause significant morbidity and mortality (29). Early recognition 
+and intervention of likely airway compromise or respiratory failure is an important 
+step towards improving patient outcome. First responders and those at the initial 
+receiving health facility are advised to be observant for early signs and symptoms of 
+a thermal inhalational injury. The type of incident and mechanism of a burn injury will 
+also provide additional indications of the risk of inhalational injury. Signs of inhalational 
+injury include soot in the mouth, facial burns, stridor, hoarseness and confusion (29). 
+Evaluation of inhalational injury is a critical step in the triage process.
+Consideration should also be given to the possibility of chemical inhalational injuries, 
+such as those resulting from mustard gas, phosphorus and chlorine following MCIs. 
+Appropriate personal protective equipment is advised when managing patients 
+suspected of being victims of a chemical incident. Additionally, awareness of the often 
+delayed effects of the agent is important (for example, mustard agents) (30). Industrial 
+accidents can also give rise to inhalational injuries such as cyanide poisoning from 
+acrylics (31).
+Early and appropriate interventions and referral of patients with suspected 
+inhalational injuries to specialized burn centres can help support improved outcome. 
+Early interventions include airway protection, oxygenation, cautious fluid management 
+and respiratory rehabilitation. 
+Respiratory complications from inhalation injuries affect each patient differently. 
+These may include: pain, anxiety, increased work of breathing and secretion retention. 
+Early respiratory rehabilitation and optimal early patient positioning can help 
+alleviate symptoms and prevent future complications in addition to ensuring the 
+patient is equipped to manage their symptoms on discharge. Where possible, early 
+3939
+mobilization should be encouraged to enable the patient to clear secretions and 
+maintain cardiorespiratory system function. For children, this may take the form of 
+play. A programme of breathing exercises and manual techniques should be used to 
+support the patient to maximize lung function and chest expansion.
+Advanced airway management (intubation and ventilation) is resource intense and 
+thus this intervention should be considered at the earliest possible phase of care.
+5.5   First aid and dressings
+First aid for burn injury influences the clinical course and severity of the burn (32–34). 
+Basic first aid can be continued from on-scene into the first receiving hospital and 
+includes the following.
+5.5.1  Cooling
+Cooling of the burn wound can occur from 10 minutes to three hours after the injury 
+was sustained using potable/drinking water of room or cool temperature. Cooling is 
+associated with improvement in re-epithelialization over the first two weeks post-
+burn and decreased scar tissue at six weeks (33, 35). Consideration should be given 
+to patients who are at risk of hypothermia, in which cases resuscitation efforts should 
+be prioritized over burn cooling.
+5.5.2  Analgesia 
+Provision of pain relief is critical for patients with burn injuries and should be offered 
+in conjunction with cooling and/or just before cleaning if possible.
+5.5.3  Cleaning
+Basic cleaning involves removing debris and irritants from the wound using potable/
+drinking water of room or cool temperature. Rings, watches or any other jewellery/
+clothing should be removed from the burned area as swelling will ensue.
+Advanced (thorough) cleaning should occur on arrival at the first receiving hospital 
+with appropriate analgesia and/or sedation. 
+5  Technical standards
+4040
+Standards and recommendations for burns care in mass casualty incidents
+5.5.4  Dressing
+A basic non-circumferential, light, clean dressing or plastic wrap may be applied after 
+basic cleaning. Application of substances such as eggs, butter, toothpaste or similar 
+should be avoided.
+More extensive understanding of the pathophysiology of wound healing and 
+developments in dressing technology has resulted in significant advances in burn 
+wound care and dressings (36). There are a number of modernized dressings available 
+that are designed to be left in place for a longer duration than simple daily or alternate 
+day dressings. However, the former may be considerably more expensive. 
+After wound cleaning, options for dressings should be considered according to:
+(a) the wound characteristics (for example, infected versus non-infected); 
+(b) point of application (on-scene or health facility); 
+(c) availability of dressings, including routine dressings and/or specialist 
+     dressings likely to be externally sourced; 
+(d) cost-benefit implications and resource requirements (such as staffing); and 
+(e) ability of patient to return for follow up.
+In a mass burn incident, availability of staff to regularly change dressings and 
+dressing availability (potentially affected by lack of local and international resupply) 
+are likely to be compromised. Consideration also needs to be given to the logistical 
+requirement of transporting dressings if brought to the health facility by a BAT and/
+or BST, including packaging weight and volume, air transport costs, clinical waste 
+disposal requirements and local transportation.
+5.5.5  Tetanus considerations
+Confirm if a patient has had their tetanus vaccination and it is up to date as per local 
+guidelines and practices. Give booster and/or immunoglobulin as indicated.
+If extensive wound cleaning is required, the surgical scrub of burn wounds can 
+be undertaken in the operating theatre by clinicians while the patient is under 
+anaesthesia. This intervention can be supported by burn experts from the BAT and/
+or BST.
+4141
+5.6   Out-patient burn management
+Effective out-patient care of the burn-injured patient requires patient compliance 
+and adherence to treatment. Clear communication, easily accessible clinics and 
+simple burn care pathways should be made available to patients and their families. 
+Community engagement in burn care and burn prevention is also important and helps 
+provide support for patient recovery. 
+Patients with < 20 % TBSA superficial/partial thickness burns and no special area 
+burns may be discharged with adequate outpatient support (for example, social and 
+community support and clear care pathway communicated).
+Patients with > 20 % TBSA and/or deep dermal or special area burns should be 
+evaluated by an experienced burn care specialist as they may require ongoing in-
+patient care. Consider transferring these patients to a specialist burn care centre.
+5.7   Surgical interventions
+Surgical interventions that the local surgical teams are unfamiliar with or inexperienced 
+in should be supported by clinical expertise from BAT and/or BST, supplementing the 
+use of existing procedural guidance and checklists.
+Procedures that may be performed by non-burn surgeons include advanced wound 
+cleaning, surgical scrub, escharotomy and fasciotomy. As limb-salvaging and life-
+saving interventions, escharotomies and/or fasciotomies are deemed to be an 
+important part of the initial management and stabilization approach to burn patients. 
+These may be performed at a first receiving hospital provided infrastructure and local 
+skill sets are available.
+Excision, enzymatic debridement, grafting, local tissue rearrangements, flaps and 
+contracture releases are examples of procedures that should be performed by 
+surgeons skilled in burns care and/or by surgeons supported by clinical expertise. 
+Full thickness burns should ideally be managed (excised) within the first week of 
+injury while partial thickness may be managed beyond the first week. Excisions of 
+burns < 20 % TBSA in adults and < 10 % in children may be may be performed at a first 
+receiving hospital, supported by burns expertise, provided infrastructure and local 
+skill sets are available. Only skilled burn surgeons (supporting a district or tertiary 
+hospital) should undertake excision in patients with > 20 % TBSA burn (adult) and 
+> 10 % TBSA burn (children).
+5  Technical standards
+4242
+Standards and recommendations for burns care in mass casualty incidents
+5.8   Rehabilitation
+Early access to rehabilitation can have a significant impact on patient outcomes and 
+reduce the risk of secondary complications, such as immobility and contractures. The 
+hypermetabolic response from severe burns, coupled with prolonged bed rest make 
+patients vulnerable to secondary complications (37, 38). This is especially critical in the 
+context of limited in-patient bed availability during a mass burn incident.
+Active and passive exercises, positioning, splinting and functional retraining should 
+commence at the earliest phase of care, once vital functions are stable and considering 
+precautions such as related trauma, wound breakdown, graft frailty, attached wires, 
+low blood pressure or infection. Adequate analgesia should be administered prior to 
+rehabilitation interventions as pain can reduce participation and performance.
+In the context of burn injuries, the focus of rehabilitation is on:
+-  reducing oedema
+-  managing pain
+-  encouraging early mobilization
+-  preventing or reducing disfigurement 
+-  supporting functional recovery 
+-  minimizing the impact of scarring on range of movement.
+Rehabilitation specialists have specific skills to target these objectives. Rehabilitation 
+specialists are potentially also well-suited to take over the care of burns patients 
+once surgical intervention and wound care has been completed. However, improving 
+patient outcomes from burn injury through effective rehabilitation strategies remains 
+the responsibility of the entire treating team in collaboration with the patient (39). 
+Rehabilitation requirements should be considered for all patients (based on burn 
+severity and location of the burn) on their arrival at the first receiving hospital. 
+Depending on need, rehabilitation interventions may include:
+ -  respiratory physiotherapy (see section on inhalation injuries)
+ -  stretching and range of movement exercises 
+ -  strength and coordination exercises
+ -  ambulation
+ -  activity of daily living/functional retraining 
+ -  anti-contracture positioning.
+4343
+Burn contractures can develop within weeks. Splinting and positioning are essential 
+for maintaining tissue length during wound healing and to maximize functioning. 
+Oedema post-burn injury can be aggravated by limb dependency and can restrict wound 
+healing and movement, as well as exacerbate pain (40). Elevated positioning facilitates 
+lymphatic drainage and, along with massage and compression, can be used to effectively 
+manage oedema. When burns are grafted or deep partial or full thickness burns are 
+being managed expectantly, position the burnt/grafted skin to counteract contractile 
+forces, using splints when indicated, to prevent contracture and manage oedema.
+-  Splinting
+Splinting can be used post-skin grafting to immobilize the limb. The typical 
+regime post-skin graft is to continually immobilize the affected joint area(s) 
+for five to seven days (depending on the state of the graft take), followed by 
+night-wear of splints. However, this should be decided in consultation with 
+the surgeon. Splints may be applied in theatre while the patient is under 
+anaesthesia or during post-operative recovery to minimize discomfort. The 
+indication for splinting is based on the severity and location of the burn, 
+and the patient’s ability to move actively. Splinting should be particularly 
+considered for young children and sedated patients who may not be able 
+to actively participate in stretching and exercises. Photographs or pictures 
+can be used to illustrate ideal positioning.
+Splinting and anti-contracture positioning should be considered for 
+conservatively managed wounds that do not heal within two weeks, as the 
+risk of scarring increases. Thermoplastic is the ideal splinting material as it 
+can be remoulded over time and achieve good conformality, but alternative 
+materials, such as Plaster of Paris and PVC piping may also be considered 
+in more resource-scarce settings. Innovative resources can also be used 
+for mouth (wooden spatula) and neck splint (suction tubes wrapped with 
+cotton and gauze).
+-  Scar management
+Compression therapy and massage should be used to minimize scarring and 
+manage oedema. In the context of moderate and severe burns, compression 
+therapy can reduce scar height, and alleviate some of the discomfort of 
+immature scars, such as blood rush and itching. Scar massage similarly 
+works to soften scars and can improve skin movement and reduce 
+hypersensitivity (37).
+5  Technical standards
+4444
+Standards and recommendations for burns care in mass casualty incidents
+Compression can be achieved with bandaging, tubular elastic stockings and 
+pressure garments. While customized compression garments may not be 
+available in resource-scarce settings, compression should aim to achieve 
+a pressure of 24 mmHg. Compression bandages or garments should be 
+worn 23 hours a day, with regular monitoring, until scar maturation. Scar 
+maturation can continue for 12–18 months and complications can arise for 
+years following discharge from acute care. 
+As patients with severe burns will continue to use compression and massage 
+well beyond discharge, education in correct use/technique is critical in 
+addition to education about on-going scar care. Encouraging participation 
+during inpatient stay is important to improving chances of continuity post-
+discharge. Identification and coordination with local rehabilitation providers 
+and disability organizations is an important aspect of discharge planning, 
+particularly in a mass burn incident. This is especially critical for paediatric 
+patients who will require on-going intervention due to the impact of growth 
+on scar tissue. 
+4545
+5.9   Chemical, biological, radiological and 
+         nuclear (CBRN) considerations
+BATs and BSTs are recommended to have the capability to support the initial care of 
+CBRN patients in the event of a CBRN MCI. They are not expected to deliver care to 
+patients in hot zones, nor involve themselves in scene decontamination but should 
+have provision to provide an early basic package of care to include basic airway 
+management, analgesia, oral rehydration, urinary catheterization, dressings and 
+antibiotics as required (and potentially in the form of patient self-administered kits). 
+Mental health and bereavement support is also suggested. Team members should 
+have good awareness and basic training in CBRN but do not require specialist or 
+higher-level training. Specific knowledge on chemical burns, thermonuclear and 
+radiation burns is recommended when possible.
+The general principles of burn care offered by BATs and BSTs can be applied to 
+CBRN incidents. For example, in the event of a thermonuclear mega-event, analgesia, 
+hydration and wound care can be provided by burn teams to support victims.
+5  Technical standards
+4646
+Standards and recommendations for burns care in mass casualty incidents
+© WHO, deployed EMT burns care experts at the National Burn Center in Yerevan, Armenia
+Chapter 6
+Clinical recommendations: 
+fluid management
+Standards and recommendations for burns care in mass casualty incidents
+
+4747
+Clinical recommendations: 
+fluid management
+6
+Unlike trauma injuries resulting in massive haemorrhage and where early “fluid” 
+(often packed red cells and clotting agents in addition to or instead of crystalloids) 
+is required to preserve life, the fluid shifts resulting from burn injuries is slower, 
+thus giving time for extended fluid management. IV fluids are routinely used in the 
+management of the systemic inflammatory response and capillary leak syndrome 
+following a severe burn injury, with complications such as haemoglobinuria and 
+myoglobinuria from renal failure secondary to burn injuries being avoidable with 
+early administration of fluids (41). However, broad evidence also exists detailing the 
+complications of excessive fluid administration in patients with burn injuries (42). 
+Reported complications include abdominal compartment syndrome, pulmonary 
+oedema, interstitial tissue leakage, airway compromise, and acute respiratory 
+distress syndrome, among others (43–45). Excessive fluid resuscitation in the first 
+24 hours after a burn can occur and increases the chances of developing many of the 
+complications listed above (42, 43).
+Complications such as those listed above affecting just one individual will impact the 
+resource and skill requirement for the patient’s on-going management – a scenario 
+amplified significantly in a mass casualty situation where multiple burns patients are 
+at risk of developing resource intense complications if inappropriate fluid regimes 
+are used.
+What triggered these recommendations?
+These recommendations on fluid management of patients in mass burn incidents 
+were triggered by the 2020–2023 TWG on Burns. While initial draft recommendations 
+were developed from 2017–2019, the 2020–2023 group sought to review them as part 
+of an external review. During those discussions, it became evident that:
+-   new experiences from mass burn incidents between 2019–2023 around the 
+world had formulated new opinions about fluid management in these 
+contexts;
+-  new evidence was available regarding fluid management in low-resource 
+contexts; and
+-  the previous recommendations did not follow WHO normative procedures, 
+including GRADE methodology for clinical recommendations and other 
+procedures outlined in the WHO Handbook for Guideline Development.
+
+4848
+Standards and recommendations for burns care in mass casualty incidents
+Values and preferences
+Given the high volume of patients and constrained resources during MCIs, the GDG 
+panel placed a relatively high priority on interventions that are feasibly and rapidly 
+implemented across a large number of acutely ill patients by often inexperienced 
+burn care providers, and a lower value on interventions that have high degrees of 
+uncertainty with respect to clinical benefit and are unlikely to be feasible. The GDG 
+acknowledged that substantial variability in these values and preferences across 
+patients are likely to exist, and that frequently reassessing the available resources 
+will be important.
+Selecting and rating the importance of outcomes
+GDG members selected and then prioritized outcomes from the perspective of 
+patients via an online survey, as per Table 11 below.
+Table 11.  GDG outcome rating from the perspective of patients who are part of a 
+mass burn incident
+1
+2
+3
+4
+5
+6
+7
+Mortality
+Pulmonary oedema†
+Aspiration event
+Acute kidney injury
+Abdominal compartment syndrome*†
+Urine output*
+Ability to swallow
+* tied for ranking
+†  subsequently grouped together as complications of fluid over-resuscitation
+Ranking
+1 - most important; 7 - least important Outcome
+Standards and recommendations for burns care in mass casualty incidents
+
+4949
+6.1   Oral versus IV fluids
+Practical information
+Oral fluid can be provided as potable drinking water with ORS. This approach to 
+patient fluid management should be continued beyond arrival at the first receiving 
+hospital and guided by the patient's clinical response. If IV fluids are indicated, oral 
+supplementation can continue.
+Consideration should be given to oral fluid intake for patients requiring surgical 
+interventions, thus requiring sedation and/or anaesthesia. It is recommended that 
+if fasting is required prior to a planned surgical intervention then oral fluids may 
+be temporarily halted. If an emergency procedure is required then, as per standard 
+guidance, airway precautions are important. 
+For patients in mass burn incidents, treat with oral fluid resuscitation, and 
+where possible, supplement with IV fluid depending on patient need, clinical 
+resources and provider discretion. (Conditional recommendation, very low 
+certainty evidence)
+RECOMMENDATION
+6  Clinical recommendations: fluid management6  Clinical recommendations: fluid management
+
+5050
+Standards and recommendations for burns care in mass casualty incidents
+Evidence to decision
+Benefits and harms
+IV fluid resuscitation is the standard of care when there are available clinical resources, 
+and should be considered as the preferred option for patients. There are possible 
+harms of oral fluid resuscitation in mass burn incidents, such as the possible risk of 
+aspiration and under-resuscitation. There was no human data to inform the GDG on 
+further harms, and the benefits mostly relate to the feasibility of implementation in 
+mass burn incidents. 
+Certainty of the evidence
+There is very low certainty that oral fluid resuscitation may increase in-hospital 
+mortality compared to IV fluid resuscitation, but the available evidence is uncertain. 
+The effects on other outcomes are only available for acute kidney injury, where the 
+effect of oral fluid resuscitation is not estimable. There is moderate certainty evidence 
+that oral fluid resuscitation results in slight to no reduction in urine output during the 
+first 24 hours post-injury. Data was not available for any other outcomes. 
+Values and preferences
+The GDG, deriving from their expertise and experience as providers in MCIs and/or in the 
+care of patients with burns, placed higher priority on interventions that could be feasibly 
+and rapidly delivered to a large number of acutely ill patients, often by inexperienced burn 
+care providers, and made a conditional recommendation for oral fluid resuscitation in specific 
+circumstances. The panel acknowledged that the context may rapidly change, whereby 
+providers and resources may alter, leading to transitioning to IV fluid resuscitation at the 
+earliest possible opportunity. 
+Resources and other considerations
+The GDG emphasized the principle of equity, where it is ensured that all patients involved 
+in the mass burn incident have access to the best possible outcome. Additionally, the GDG 
+emphasized adequate resources must be available for adequate monitoring such as urine 
+output monitoring of individual patients who may require further management options. 
+Standards and recommendations for burns care in mass casualty incidents
+
+5151
+Additional considerations noted by the TWG
+-   There are likely to be multiple, competing demands for first responders’ time 
+on scene of an MCI.
+-   Logistically, the volume and weight of IV fluid that would need to be 
+transported by first responders or brought on-scene if IV fluids were 
+instigated during this phase may be impractical. Oral/enteral fluid 
+resuscitation may provide comparative logistical advantages, such as lower 
+weight and volume of ORS sachets, less equipment and less expertise for 
+administration, but there are still some practicalities to be considered: 
+potable water and ORS sachets need to be sourced, delivered and 
+constituted, and some expertise is still required to monitor clinical response 
+and tolerance.
+-   The accuracy of administration of IV fluid may easily be overlooked (for 
+example, ensuring an appropriate volume of fluid is titrated) and the 
+attention to detail lacking. The risk of administering an inappropriate 
+volume of IV fluid to a patient is thus high and the resultant fluid-related 
+complications increased. This would be particularly hazardous in the pre-
+hospital environment within this context to all patients but particularly those 
+sustaining inhalational injuries. 
+-   If extended delays in transporting the patient from the scene to a health 
+facility are likely, fluids may be considered, including judicious IV fluids using 
+the formulae suggested. The risks of fluid overload and other complications 
+from over resuscitation by IV fluid must be considered and mitigated for, 
+particularly with a wide range of provider skills in responding to mass burn 
+incidents.
+-   In patients with concurrent trauma injuries, on-scene IV fluids should be 
+considered on a case-by-case basis as per standard trauma protocols 
+according to type of injury, injury severity and the clinical status of the 
+patient.
+6  Clinical recommendations: fluid management
+
+5252
+Standards and recommendations for burns care in mass casualty incidents
+Subgroup analysis
+There is insufficient data to inform on potential subgroup effects. Specific subgroups that the 
+GDG were interested in were children and severity of burn, as measured by %TBSA affected. 
+Clinical discretion was emphasized by the GDG, as described in the recommendation, where 
+children who would not be able to follow instructions for oral resuscitation and those with a 
+high severity of burn would more likely benefit from IV fluid resuscitation during mass burn 
+incidents. Additionally, those severely injured with compromised mental status are at a high 
+risk from complications with oral fluid resuscitation.
+Clinical question/PICO
+Population:     patients with major burns (≥ 15 % TBSA for adults, ≥ 10 % TBSA for 
+children)
+Intervention:  initial (first 24–72 hours post-burn injury) fluid resuscitation via the oral 
+route
+Comparator:   initial fluid resuscitation via the IV route.
+Summary of findings
+The summary of findings from human studies on the effect of oral/enteral fluid resuscitation 
+compared to IV fluid resuscitation is presented in Table 12. Based on three randomized 
+controlled trials (RCTs) totalling 100 participants, oral/enteral fluid resuscitation is associated 
+with a statistically insignificant increased risk of mortality, but the evidence is very uncertain, 
+and little to no difference in urine output at 24 hours, with moderate certainty of evidence.   
+Standards and recommendations for burns care in mass casualty incidents
+
+5353
+Mortality
+(in-hospital)
+Acute kidney 
+injury
+(within 72 h 
+post-burn injury)
+Urine output 
+(during first 24 h 
+post-burn injury)
+Complications 
+of fluid over-
+resuscitation
+- not reported
+Aspiration 
+events 
+- not reported
+Anticipated absolute effects* 
+(95 % CI)
+143 per 1000
+0 per 1000
+-
+-
+-
+181 per 1000
+(52 to 472 per 1000)
+0 per 1000
+(0 to 0 per 1000)
+SMD 0.17 SD 
+lower (0.65 lower 
+to 0.31 higher)
+-
+-
+OR 1.33
+(0.33 to 5.36)
+not 
+estimable
+-
+-
+-
+70
+(2 RCTs)
+24
+(1 RCT)
+70
+(2 RCTs)
+-
+-
+Very low 
+Due to serious 
+risk of bias1, 
+indirectness2 and 
+imprecision3
+Very low
+Due to serious 
+risk of bias1, 
+indirectness2 and 
+imprecision3
+Moderate
+Due to indirectness2 
+-
+-
+The evidence is very 
+uncertain about 
+whether oral/enteral 
+fluid resuscitation 
+increases in-hospital 
+mortality compared to 
+IV fluid resuscitation.
+The effect of oral/
+enteral fluid 
+resuscitation on the 
+occurrence of acute 
+kidney injury within 72 h 
+post-major burn injury 
+cannot be determined 
+from available evidence. 
+Oral/enteral fluid 
+resuscitation likely 
+results in little to no 
+difference in urine 
+output during the first 
+24 hours post-major 
+burn injury.
+Outcomes Risk with 
+intravenous 
+fluid 
+resuscitation
+Risk with 
+oral/
+enteral fluid 
+resuscitation
+Relative 
+effect
+(95 % CI)
+№ of 
+participants
+(studies)
+Certainty 
+of the 
+evidence
+(GRADE)
+Plain language 
+summary
+* The risk in the intervention group (and its 95 % confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95 % CI).
+CI: confidence interval; OR: odds ratio; SMD: standardized mean difference
+Explanations
+1. Risk of bias: serious. Overall high risk due to high risk of bias in predominant study, which had significant deviations from intended intervention with 9/15 (60 %) of oral fluid 
+(intervention) group crossing to IV fluids due to gastrointestinal intolerance such as nausea or vomiting.
+2. Indirectness: serious. Findings from clinical trial setting of individual burn care may not be directly applicable to setting of mass casualty incidents, which likely have (1) less clinical 
+attention per patient, (2) greater proportion of delayed presentations or interventions, and (3) include patients with multiple injuries, inhalational injuries and comorbidities, who were 
+excluded for some of these trials.
+3. Imprecision: serious. Few total events. Result with wide confidence interval which includes both no effect and large effect.
+Source: Hsiao KH, Kalanzi J, Watson SB, Murthy S, Movsisyan A, Kothari K, et al. Oral/enteral resuscitation in the initial management of major burns: A systematic review and 
+meta-analysis of human and animal studies. Burns Open. 2024. doi: 10.1016/j.burnso.2024.100364 (46).
+6  Clinical recommendations: fluid management
+Table 12.  Summary of Findings: oral/enteral compared to IV fluid resuscitation 
+for initial management of major burns (human studies) (46) 
+
+5454
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+6.2   Oral fluids versus no fluid
+Evidence to decision
+Benefits and harms
+Providing fluid, of any sort, to patients with burns, was deemed by the GDG to likely 
+have greater benefits over potential harms in mass burn incidents based on indirect 
+evidence from the burns literature that has established the importance of fluid 
+resuscitation in major burns in general, the accepted standards of care for burns under 
+routine (meaning non-mass casualty) circumstances, and scientific understanding of 
+the pathophysiology of burn injuries and burn shock. 
+Certainty of the evidence
+There is no published human evidence to inform this recommendation. The GDG 
+examined animal evidence, which was downrated substantially for indirectness. 
+Values and preferences
+The GDG, deriving from their expertise and experience as providers in MCIs and/or 
+in the care of patients with burns, placed higher priority on interventions that could 
+be feasibly and rapidly delivered to a large number of acutely ill patients, often by 
+inexperienced burn care providers, and stated that providing oral fluid, compared to 
+no fluid, would be preferred. 
+Resources and other considerations
+The GDG emphasizes the principle of equity, where it is ensured that all patients 
+involved in the mass burn incident have access to the best possible outcome. Oral 
+fluid was deemed to be widely available, even in the most austere of circumstances. 
+For patients in mass burn incidents, treat with oral fluid compared to no fluid 
+(Best practice statement).
+RECOMMENDATION
+
+5555
+6  Clinical recommendations: fluid management6  Clinical recommendations: fluid management
+Clinical question/PICO
+Population:    patients with major burns (≥ 15 % TBSA for adults, ≥ 10 % TBSA for 
+children)
+Intervention: initial (first 24–72 hrs post-burn injury) fluid resuscitation via the 
+oral route
+Comparator: no initial fluid resuscitation
+Summary of findings
+Available evidence on the effect of enteral fluid resuscitation compared to no fluid 
+resuscitation for major burns is only from animal studies. The summary of findings is 
+presented in Table 13. The evidence is very uncertain, but enteral fluid resuscitation 
+is associated with a statistically insignificant reduction in mortality, improved serum 
+creatinine levels and increased urine output compared to no fluid resuscitation.  
+
+5656
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+Table 13.  Summary of findings: enteral compared to no fluid resuscitation for 
+initial management of major burns (animal studies)
+Mortality
+(at 24 h post-burn 
+injury)
+Acute kidney 
+injury
+(serum creatinine 
+level at 24 h post-
+burn injury)
+Urine output 
+(during first 48 h 
+post-burn injury)
+Complications 
+of fluid over-
+resuscitation
+- not reported
+Aspiration 
+events 
+- not reported
+Anticipated absolute effects* 
+(95 % CI)
+674 per 1000
+-
+Mean urine 
+output (first 
+48 h post-burn 
+injury) was 
+0.52 mL/kg/h
+-
+-
+375 per 1000
+(142 to 693 per 1000)
+SMD 3.48 SD 
+lower
+(4.69 lower 
+to 2.28 lower)
+MD 
+0.55 mL/kg/h 
+higher 
+(0.38 higher to 0.72 
+higher)
+-
+-
+OR 0.29
+(0.08 to 1.09)
+-
+-
+-
+-
+90
+(4 RCTs)
+32
+(2 RCTs)
+12
+(1 RCT)
+-
+-
+Very low 
+Due to very serious 
+indirectness1 and 
+serious imprecision2
+Low
+Due to very serious 
+indirectness1
+Very low 
+Due to very serious 
+indirectness1 and 
+serious imprecision3
+-
+-
+Enteral fluid 
+resuscitation compared 
+to no fluid resuscitation 
+may reduce mortality 
+at 24 h post-major burn 
+injury, but the available 
+evidence is very 
+uncertain.
+Enteral fluid 
+resuscitation compared 
+to no fluid resuscitation 
+may result in better 
+serum creatinine levels 
+at 24 h post-major burn 
+injury.
+Enteral fluid 
+resuscitation compared 
+to no fluid resuscitation 
+may increase urine 
+output during the first 
+48 h post-major burn 
+injury, but the available 
+evidence is very 
+uncertain. 
+Outcomes
+Risk with no 
+fluids
+Risk with 
+enteral fluid 
+resuscitation
+Relative 
+effect
+(95 % CI)
+№ of 
+participants
+(studies)
+Certainty 
+of the 
+evidence
+(GRADE)
+Plain language 
+summary
+* The risk in the intervention group (and its 95 % confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95 % CI).
+CI: confidence interval; MD: mean difference; OR: odds ratio; SMD: standardized mean difference
+Explanations
+1. Indirectness: very serious. Laboratory-based study using animal models therefore significant indirectness in applicability to (1) human patients in (2) real-world clinical 
+setting with (3) mass casualties. 
+2. Imprecision: serious. Wide confidence interval that includes no effect.
+3. Imprecision: serious. Single study with small sample size. Optimal information size not met.
+Source: Hsiao KH, Kalanzi J, Watson SB, Murthy S, Movsisyan A, Kothari K, et al. Oral/enteral resuscitation in the initial management of major burns: A systematic review and 
+meta-analysis of human and animal studies. Burns Open. 2024. doi: 10.1016/j.burnso.2024.100364 (46).
+
+5757
+6  Clinical recommendations: fluid management
+6.3   Timing of fluids
+Evidence to decision
+Benefits and harms
+Early initiation of fluids for patients with burns was deemed by the GDG to likely 
+have greater benefits over potential harms in mass burn incidents based on indirect 
+evidence from the burns literature on timeliness of fluid resuscitation in major burns 
+in general, the accepted standards of care for burns under routine (meaning non-
+mass casualty) circumstances, and scientific understanding of the pathophysiology of 
+burn injuries and evolution of burn shock. 
+The only harm mentioned related to feasibility of implementation, where on-scene 
+implementation was deemed potentially challenging. Further work to ensure that 
+oral fluid is available in sufficient quantities by first responders would be beneficial.
+Certainty of the evidence
+There is very low-certainty evidence that delayed (at health facility) initiation of IV 
+fluid resuscitation may increase the occurrence of acute kidney injury following major 
+burn injury, based on one observational study. There was no evidence to inform the 
+GDG on other clinical outcomes of relevance. Given this, a best practice statement was 
+issued based on the overall importance of this guidance to health practice, indirect 
+evidence of benefits over harms, and low likelihood of direct evidence to emerge.
+For patients in mass burn incidents, give fluids as early as possible, on-scene 
+or at health facility (Best practice statement).
+RECOMMENDATION
+
+5858
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+Values and preferences
+The GDG, deriving from their expertise and experience as providers in MCIs and/or 
+in the care of patients with burns, placed higher priority on interventions that could 
+be feasibly and rapidly delivered to large number of acutely ill patients, often by 
+inexperienced burn care providers, and stated that providing early fluid, compared to 
+later fluid, was consistent with these values. 
+Resources and other considerations
+Providing early fluid, compared to later fluid, can be considered in the context of 
+recommendations for oral fluid, when compared with IV fluid. This approach 
+incorporates provider discretion, patient needs and clinical resources available.
+Decision-making between oral fluid and IV fluid, supplemented with decision-making 
+between early fluid versus later fluid, will necessarily be driven by the context that 
+the care providers are facing.
+The GDG emphasizes principles of equity, where the aim is that all patients involved 
+in the mass burn incident have access to the best possible outcome. This approach, 
+where early fluid is recommended, compared with later fluid, is consistent with this 
+focus on seeking equity in clinical outcomes. 
+Clinical question/PICO
+Population:   patients with major burns (≥ 15 % TBSA for adults and ≥ 10 % TBSA  
+for children) in resource-limited settings, defined as: (i) low- or 
+middle-income countries, (ii) battlefield/far-forward combat 
+casualty settings, or (iii) austere or wilderness environments.
+Intervention: delayed (at health facility) initiation of IV fluid
+Comparator:  on-scene initiation
+Summary of findings
+The summary of findings for delayed (at health facility) initiation of IV fluids compared 
+to on-scene initiation is presented in Table 14. The available evidence is very limited 
+and is derived from a single observational study with 34 patients. The evidence is 
+very uncertain about whether delayed IV fluid resuscitation is associated with an 
+increased risk of acute kidney injury compared to on-scene initiation. 
+
+5959
+6  Clinical recommendations: fluid management
+Table 14.  Summary of findings: delayed (at health facility) initiation of IV fluid 
+resuscitation compared to on-scene initiation for major burns
+Mortality
+– not reported
+Acute kidney 
+injury
+Urine output 
+– not reported
+Complications 
+of fluid over-
+resuscitation
+- not reported
+Anticipated absolute effects* 
+(95 % CI)
+-
+267 per 1000
+-
+-
+-
+474 per 1000
+(174 to 794 per 1000)
+-
+-
+-
+OR 2.48
+(0.58 to 10.62)
+-
+-
+-
+34
+(1 observational 
+study)
+-
+-
+-
+Very low
+Due to serious 
+risk of bias1, 
+indirectness2 and 
+imprecision3
+-
+-
+-
+The evidence is very 
+uncertain regarding 
+whether delayed (at 
+health facility) initiation 
+of IV fluid resuscitation 
+compared to on-scene 
+initiation increases the 
+occurrence of acute 
+kidney injury following 
+major burn injury.
+-
+-
+Outcomes Risk with 
+on-scene 
+initiation
+Risk with delayed 
+(at health facility) 
+initiation of IV 
+fluid resuscitation
+Relative 
+effect
+(95 % CI)
+№ of 
+participants
+(studies)
+Certainty 
+of the 
+evidence
+(GRADE)
+Plain language 
+summary
+* The risk in the intervention group (and its 95 % confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95 % CI).
+CI: confidence interval; OR: odds ratio
+Explanations
+1. Risk of bias: serious. Some concerns due to lack of clarity on the measure and time frame for outcome of acute kidney injury used in this study. Baseline comparison of 
+intervention and exposure groups unavailable, therefore unclear as to whether there were any differences and biases within these groups. Included numbers in each group 
+were only a sub-set of total study participants.
+2. Indirectness: serious. Findings based on individual care in battlefield/combat casualty care setting. While there may be similarities to MCI in terms of resource constraints, 
+there are also key differences such as high level of attention due to individual cases, less delay to presentation, and higher access to resources on arrival at military hospital. 
+3. Imprecision: serious. Single study with small sample size.
+Source:  Hsiao KH, Kalanzi J, Watson SB, Murthy S, Movsisyan A, Kothari K, et al. Adapted approaches to initial fluid management of patients with major burns in resource-
+limited settings: A systematic review. Burns Open. 2024. doi: 10.1016/j.burnso.2024.100365 (47). 
+
+6060
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+6.4   Formulae for calculation of fluid resuscitation 
+         requirements
+Practical information
+There are several standard formulae for calculation of fluid resuscitation requirements 
+in burns patients. Due to lack of evidence, the panel could not make a recommendation 
+regarding use of one formula versus another. The formula utilized by health workers 
+in an MCI should ideally be what is most familiar. An example calculation is described 
+in Table 15.
+For patients in mass burn incidents, use standard formulae for calculation of 
+fluid resuscitation requirements (Best practice statement).
+RECOMMENDATION
+Table 15.  Example calculation of fluid resuscitation requirements using different 
+formulae
+Parkland (Baxter) 
+formula 
+(%TBSA dependent)
+4 mL × %TBSA 
+× weight (kg) 
+= volume (mL) 
+over 24 hours 
+– ½ in first 8 hours, 
+½ over subsequent 
+16 hours
+Modified Brooke 
+formula
+(%TBSA dependent)
+2 mL × %TBSA × 
+weight (kg) 
+= volume (mL) over 
+24 hours
+Modified Parkland 
+formula 
+(%TBSA dependent)
+3 mL × %TBSA × 
+weight (kg) 
+= volume (mL) 
+over 24 hours 
+– ½ in first 8 hours, 
+½ over subsequent 
+16 hours
+Simplified formula
+(non-%TBSA 
+dependent)
+100 mL × weight 
+(kg) = volume (mL) 
+over 24 hours
+
+6161
+6  Clinical recommendations: fluid management
+Volume delivered 
+over 24 hours 
+would be:
+4 × 50 × 70 = 
+14 000 mL
+Volume delivered 
+over 24 hours 
+would be:
+2 × 50 × 70 = 
+7000 mL
+Volume delivered 
+over 24 hours 
+would be:
+3 × 50 × 70 = 
+10 500 mL
+Volume delivered 
+over 24 hours 
+would be:
+100 × 70 = 
+7000 mL
+Example: patient weighing 70 kg with 50 % TBSA burns
+Evidence to decision
+Benefits and harms
+The benefits of a modified or simplified formula are through the ease of implementation 
+across a large number of patients, where a calculation of, for example, 100 mL/kg/hr 
+for the first 24 hours would be implemented for every arriving patient with > 40 % TBSA 
+burn. The harms of implementing a simplified formula are a failure to incorporate the 
+diversity of patients and their severity of burn injury, along with a lack of familiarity of 
+the formula for health workers already under duress from a MCI, with the possibility 
+of over- or under-resuscitating patients. This is potentially most challenging in small 
+children, where the simplified non-%TBSA-based formula provides much less fluid in 
+the first 8 hours of the resuscitation period across most range of %TBSA burn sizes 
+than do standard %TBSA-based formulae. 
+Certainty of the evidence
+There were no studies that met the search criteria comparing outcomes from using 
+simplified (non-%TBSA dependent) formulae versus standard (%TBSA-dependent) 
+formulae for calculating fluid resuscitation requirements. Modelling studies were 
+found, but these were not deemed sufficient by the GDG. Given the importance to 
+health practice of actionable recommendation on this matter, and that comparative 
+evidence was unlikely to emerge, a best practice statement on using standard 
+formulae was issued. 
+Parkland (Baxter) 
+formula 
+(%TBSA dependent)
+Modified Brooke 
+formula
+(%TBSA dependent)
+Modified Parkland 
+formula 
+(%TBSA dependent)
+Simplified formula
+(non-%TBSA 
+dependent)
+6262
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+Values and preferences
+The GDG emphasized providing each patient the best opportunity to achieve the best 
+possible outcome. Concerns regarding inappropriate resuscitation strategies with a 
+simplified formula, in the absence of any comparative evidence suggesting benefit, 
+coupled with ease of calculation, generally of %TBSA-based formulae, led the GDG to 
+consider that the current standard of care that is used in non-mass casualty situations 
+be considered for mass burn incidents. 
+Resources and other considerations
+Standard formulae for fluid resuscitation requirements reflect %TBSA involvement. 
+This is often difficult to assess precisely, and the GDG emphasized that while a 
+simplified fluid resuscitation formula to ease feasibility of implementation might be 
+useful, the risks of over-simplifying resuscitation strategies could not be justified due 
+to the absence of evidence.
+Further research on the safety of simplified (non-%TBSA dependent) formulae for 
+fluid resuscitation requirements are required. 
+Clinical question/PICO
+Population:    patients with major burns (≥ 15 % TBSA for adults and ≥ 10 % TBSA 
+for children) in resource-limited settings, defined as: (i) low- or 
+middle-income countries, (ii) battlefield/far-forward combat 
+casualty settings, or (iii) austere or wilderness environments.
+Intervention: simplified 100mL/kg/24h formula (non-%TBSA dependent)
+Comparator:  standard %TBSA-dependent formula
+Summary of findings
+No studies found
+
+6363
+6  Clinical recommendations: fluid management
+6.5   Timing in calculation of fluid resuscitation 
+          requirements
+Practical information
+The use of standard formulae to calculate fluid resuscitation requirements is best 
+practice, as recommended in the preceding section. When using these formulae, 
+there is established practice of calculating fluid resuscitation requirements from time 
+of injury. However, in the context of mass burn incidents, no recommendation could 
+be made on the optimal timing to be used. 
+Evidence to decision
+Benefits and harms
+In MCIs the time of injury may be either unknown or specifically known, assuming 
+common time of injury across patients. As in all situations, there may be delays 
+in receiving medical attention and thus delays in initiating fluid resuscitation. The 
+benefits of calculating from the time of injury is the avoidance of a possibility of under-
+resuscitation by providing catch-up fluids. The harms of calculating from the time of 
+injury include the feasibility of knowing the relevant information or the possibility of 
+having the wrong information as well as potential for large-volume catch-up fluids 
+when there are significant delays to initiation, leading to either fluid over- or under-
+resuscitation.
+The confidence in the effect estimates was so low, especially with no comparative 
+evidence, that the GDG felt any recommendation on this would be too speculative. 
+Given this lack of evidence, the lack of knowledge relating to downstream effects of 
+relevant comparators, and the criteria for issuing a best practice statement not being 
+fulfilled, it was elected to issue no recommendation.
+For patients in mass burn incidents, there is no recommendation on the optimal 
+timing in calculation of fluid resuscitation requirements (No recommendation).
+RECOMMENDATION
+
+6464
+Standards and recommendations for burns care in mass casualty incidents
+Standards and recommendations for burns care in mass casualty incidents
+Certainty of the evidence
+There is no evidence to inform the GDG on clinical outcomes of relevance, with one 
+observational study available that was not informative on the relevant outcomes. 
+Values and preferences
+Incorporating the values and preferences helped inform the GDG to come to a “No 
+recommendation”. Acknowledging the evidence base, established clinical practice, 
+and values and preferences led to highly speculative recommendations, which the 
+GDG felt it better left as “No recommendation”.
+Resources and other considerations
+Clinical teams can consider the local context when considering implementing varied 
+approaches to catch-up fluid resuscitation strategies. As discussed in previous 
+recommendations, fluids should be initiated as early as possible, hopefully obviating the 
+need for this recommendation and limiting the relevance of catch-up fluid resuscitation 
+strategies. However, mass burn incidents vary greatly, and standardizing fluid 
+resuscitation protocols across a group of patients who arrive simultaneously will assist 
+with implementation. Regardless of timing for calculation, fluid status of the patient 
+should be regularly assessed and adjusted using standard measures of urine output, 
+capillary refill time, heart rate, respiratory rate, oxygen saturation and other parameters.
+Clinical question/PICO
+Population:    patients with major burns (≥ 15 % TBSA for adults and ≥ 10 % TBSA 
+for children) in resource-limited settings, defined as: (i) low- or 
+middle-income countries, (ii) battlefield/far-forward combat 
+casualty settings, or (iii) austere or wilderness environments.
+Intervention: fluid requirements calculated from time of arrival
+Comparator:   fluid requirements calculated from time of injury
+Summary of findings
+The available evidence on calculating fluid requirements from time of arrival (see 
+Table 16) at the first receiving health facility compared to from time of injury is 
+extremely limited and very uncertain. Based on a sole, single-armed intervention 
+study, calculating from time of arrival maintained adequate urine output and had no 
+complications of fluid over- or under-resuscitation. The intervention effect remains 
+unknown as there was no comparison group. 
+
+6565
+6  Clinical recommendations: fluid management
+Table 16.  Summary of findings: fluid requirements calculated from time of 
+arrival compared to time of injury for major burns
+Mortality
+- not reported
+Acute kidney 
+injury
+Adequate urine 
+output 
+(> 0.5 mL/kg/h 
+during first 24 h of 
+admission)
+Complications 
+of fluid over-
+resuscitation
+Anticipated absolute effects* 
+(95 % CI)
+-
+-
+-
+-
+-
+0 per 1000
+(0 to 0 per 1000)
+0 per 1000
+(0 to 0 per 1000)
+0 per 1000
+(0 to 0 per 1000)
+not 
+estimable
+not 
+estimable
+not 
+estimable
+10 
+(1 observational 
+study)
+10 
+(1 observational 
+study)
+10 
+(1 observational 
+study)
+Very low
+Due to serious 
+risk of bias1, 
+indirectness2 and 
+imprecision3
+Very low
+Due to serious 
+risk of bias1, 
+indirectness2 and 
+imprecision3
+Very low
+Due to serious 
+risk of bias1, 
+indirectness2 and 
+imprecision3
+Effect of calculating 
+fluid requirements 
+from time of arrival, 
+compared to calculating 
+from time of injury, on 
+the occurrence of acute 
+kidney injury cannot 
+be determined from 
+available evidence.
+Effect on adequate 
+urine output cannot 
+be determined from 
+available evidence.
+Effect on occurrence 
+of complications of 
+fluid over-resuscitation 
+cannot be determined 
+from available evidence.
+Outcomes Risk with fluid 
+requirements 
+calculated from 
+time of injury
+Risk with fluid 
+requirements 
+calculated from 
+time of arrival
+Relative 
+effect
+(95 % CI)
+№ of 
+participants
+(studies)
+Certainty 
+of the 
+evidence
+(GRADE)
+Plain language 
+summary
+* The risk in the intervention group (and its 95 % confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95 % CI).
+CI: confidence interval
+Single-arm observational cohort study with 10 participants. Occurrence of acute kidney injury 0/10 (0 %), adequate urine output 10/10 (100 %), and complications of fluid over-
+resuscitation 0/10 (0 %).
+Explanations
+1. Risk of bias: serious. Some concerns due to lack of identification of potential confounders as well as lack of clarity on measurement and time frames for outcomes of acute 
+kidney injury and fluid over-resuscitation.
+2. Indirectness: serious. Paediatric population, and in context of individual care, which may differ from expected level of care during a mass casualty incident.
+3. Imprecision: serious. Single study with small sample size. Optimal information size not met.
+Source: Hsiao KH, Kalanzi J, Watson SB, Murthy S, Movsisyan A, Kothari K, et al. Adapted approaches to initial fluid management of patients with major burns in resource-
+limited settings: A systematic review. Burns Open. 2024. Doi: 10.1016/j.burnso.2024.100365 (47).
+
+6666
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 7
+Research needs
+© WHO/ Nare Shahinyan, 
+physiotherapist demonstrating functional movements after skin grafting at the "Essential Burn Rehabilitation” training of trainers in Yerevan, Armenia
+6767
+Research needs7
+The following areas for further research on mass burn incidents were highlighted by 
+the TWG:
+-  burn injury triage for mass burn incidents; 
+-  studies evaluating efficacy and outcomes of using non-%TBSA dependent 
+formulae for fluid calculation;
+-  efficacy and availability of impregnated dressings (such as silver) and 
+anti-septic agents (such as povidone-iodine, alcohol, chlorhexidine, and 
+honey) in lower- middle-income countries and mass burn incidents; and
+-  open wound management during mass burn incidents, including 
+frequency of showering, application of topical agents, and splinting/
+rehabilitation manoeuvres.
+6868
+Standards and recommendations for burns care in mass casualty incidents
+Chapter 8
+References
+© WHO/ NOOR, Sebastian Liste, Wildfires in Spain
+6969
+References8
+1 World Health Organization (WHO). Classification and minimum standards for emergency medical 
+teams. Geneva: WHO; 2021. https://iris.who.int/handle/10665/341857 
+2 Cranmer HH, Biddinger PD. Typhoon Haiyan and the professionalization of disaster response. 
+N Engl J Med. 2014;370(13):1185–7. 
+3 World Health Organization (WHO). Global health emergency workforce: Report by the Director-
+General. In: Sixty-Eighth World Health Assembly A68/27. Provisional agenda item 16.1. Geneva; 
+WHO; 2015. Available from: https://apps.who.int/gb/ebwha/pdf_files/WHA68/A68_27-en.pdf
+4 Ravi SJ, Snyder MR, Rivers C. Review of international efforts to strengthen the global outbreak 
+response system since the 2014-16 West Africa Ebola Epidemic. Health Policy Plan. 2019;34(1):47–54. 
+5 Kao HK, Loh CYY, Kou HW, Kao KC, Hu HC, Chang CM, et al. Optimizing mass casualty burns 
+intensive care organization and treatment using evidence-based outcome predictors. Burns 
+J Int Soc Burn Inj. 2018;44(5):1077–82. 
+6 Ma H, Tung KY, Tsai SL, Neil DL, Lin YY, Yen HT, et al. Assessment and determinants of global 
+outcomes among 445 mass-casualty burn survivors: A 2-year retrospective cohort study in 
+Taiwan. Burns. 2020;46(6):1444–57. Available from: https://linkinghub.elsevier.com/retrieve/
+pii/S0305417919300749
+7 World Health Organization (WHO). "The situation is critical.” Emergency Medical Teams (EMTs) 
+caring for severely burned refugees shoulder to shoulder with Armenian doctors. [Internet]. 
+WHO; 2024 [cited 2024 May 28]. Available from: https://www.who.int/europe/news-room/
+feature-stories/item/the-situation-is-critical.--emergency-medical-teams-(emts)-caring-for-
+severely-burned-refugees-shoulder-to-shoulder-with-armenian-doctors
+8 Kamara RF, Oyugi B, Kamara IF, Kabba M, Relan P, Baldé T. Review of the Senegalese Military 
+Emergency Medical Team (EMT) Deployment Following a Tanker Explosion in Freetown, Sierra 
+Leone. Prehospital Disaster Med. 2022;37(S2):s84–s84. Available from: https://www.cambridge.
+org/core/product/identifier/S1049023X22001832/type/journal_article
+9 Chuang S, Woods DD, Ting HW, Cook RI, Hsu JC. Coping With a Mass Casualty: Insights into a 
+Hospital’s Emergency Response and Adaptations After the Formosa Fun Coast Dust Explosion. 
+Disaster Med Public Health Prep. 2020;14(4):467–76. Available from: https://www.cambridge.
+org/core/product/identifier/S1935789319000697/type/journal_article
+10 Almeland SK, Depoortere E, Jennes S, Sjöberg F, Lozano Basanta JA, Zanatta S, et al. Burn 
+mass casualty incidents in Europe: A European response plan within the European Union Civil 
+Protection Mechanism. Burns. 2022;48(8):1794–804. Available from: https://linkinghub.elsevier.
+com/retrieve/pii/S0305417922001917
+11 World Health Organization (WHO). Emergency Medical Teams 2030 strategy. Geneva: WHO; 
+2023. https://iris.who.int/handle/10665/372867
+12 World Health Organization (WHO). WHO handbook for guideline development. 2nd ed. Geneva: 
+WHO; 2014. https://iris.who.int/handle/10665/145714
+13 World Health Organization (WHO). Quality Assurance, Norms and Standards [Internet]. 
+2024 [cited 2024 Mar 14]. Available from: https://www.who.int/our-work/science-division/
+quality-assurance-norms-and-standards
+14 Schünemann H, Brożek J, Guyatt G, Oxman A, editors. GRADE handbook for grading quality of 
+evidence and strength of recommendations. Updated October 2013. The GRADE Working Group; 
+2013. Available from: https://gdt.gradepro.org/app/handbook/handbook.html
+15 World Health Organization (WHO). Emergency health kits. [Internet]. 2024 [cited 2024 Mar 14]. 
+Available from: https://www.who.int/emergencies/emergency-health-kits
+16 Ramos G, Cornistein W, Cerino GT, Nacif G. Systemic antimicrobial prophylaxis in burn patients: 
+systematic review. J Hosp Infect. 2017 Oct;97(2):105–14. 
+17 Chapter 15: Burn Injuries. In: Giannou C, Balden M (Eds.). War Surgery. Working with limited 
+resources in armed conflict and other situations of violence. Volume 1. Geneva: International 
+Committee of the Red Cross; 2010. Available from: https://www.icrc.org/en/doc/assets/
+files/other/icrc-002-0973.pdf
+18 Potokar T, Moghazy A, Peck M, Bendell R, Fanstone R. Setting standards for burn care services 
+in low and middle income countries. Interburns; 2013. Available from: https://www.medbox.
+org/document/setting-standards-for-burn-care-services-in-low-and-middle-income-countries
+19 Amat Camacho N, Hughes A, Burkle FM, Ingrassia PL, Ragazzoni L, Redmond A, et al. Education 
+and Training of Emergency Medical Teams: Recommendations for a Global Operational Learning 
+Framework. PLoS Curr. 2016 Oct 21;8:ecurrents.dis.292033689209611ad5e4a7a3e61520d0. 
+20 World Health Organization (WHO). Clinical care for severe acute respiratory infection: toolkit: 
+COVID-19 adaptation, update 2022. Geneva; WHO: 2022. https://iris.who.int/handle/10665/352851
+21 Super G. START: A triage training module. Newport Beach CA Hoag Meml Hosp Presbyt. 1984; 
+22 Capek KD, Sousse LE, Hundeshagen G, Voigt CD, Suman OE, Finnerty CC, et al. Contemporary 
+Burn Survival. J Am Coll Surg. 2018;226(4):453–63. Available from: https://journals.lww.
+com/00019464-201804000-00020
+23 Monstrey S, Hoeksema H, Verbelen J, Pirayesh A, Blondeel P. Assessment of burn depth and 
+burn wound healing potential. Burns. 2008;34(6):761–9. Available from: https://linkinghub.
+elsevier.com/retrieve/pii/S0305417908000417
+24 Lin CH, Lin CH, Tai CY, Lin YY, Shih FFY. Challenges of Burn Mass Casualty Incidents in the 
+Prehospital Setting: Lessons From the Formosa Fun Coast Park Color Party. Prehosp Emerg 
+Care. 2019;23(1):44–8. Available from: https://www.tandfonline.com/doi/full/10.1080/10
+903127.2018.1479473
+25 Pham C, Collier Z, Gillenwater J. Changing the Way We Think About Burn Size Estimation. J Burn 
+Care Res. 2019;40(1):1–11. Available from: https://academic.oup.com/jbcr/article/40/1/1/5104866
+26 Wallace AB. The exposure treatment of burns. Lancet. 1951;1(6653):501–4. 
+27 Thom D. Appraising current methods for preclinical calculation of burn size - A pre-hospital 
+perspective. Burns J Int Soc Burn Inj. 2017;43(1):127–36. 
+28 Face S, Dalton S. Consistency of total body surface area assessment in severe burns: Implications 
+for practice. Emerg Med Australas EMA. 2017;29(4):429–32. 
+29 Badulak JH, Schurr M, Sauaia A, Ivashchenko A, Peltz E. Defining the criteria for intubation of 
+the patient with thermal burns. Burns J Int Soc Burn Inj. 2018;44(3):531–8. 
+30 Seth R, Chester D, Moiemen N. A review of chemical burns. Trauma. 2007;9(2):81–94. Available 
+from: http://journals.sagepub.com/doi/10.1177/1460408607083960
+31 Reade MC, Davies SR, Morley PT, Dennett J, Jacobs IC, Australian Resuscitation Council. Review 
+article: management of cyanide poisoning. Emerg Med Australas EMA. 2012;24(3):225–38. 
+32 Guilabert P, Usúa G, Martín N, Abarca L, Barret JP, Colomina MJ. Fluid resuscitation management 
+in patients with burns: update. Br J Anaesth. 2016;117(3):284–96. Available from: https://
+linkinghub.elsevier.com/retrieve/pii/S0007091217337881
+33 Read DJ, Tan SC, Ward L, McDermott K. Burns first aid treatment in remote Northern 
+Australia. Burns. 2018;44(2):481–7. Available from: https://linkinghub.elsevier.com/retrieve/
+pii/S0305417917303984
+34 Wood FM, Phillips M, Jovic T, Cassidy JT, Cameron P, Edgar DW, et al. Water First Aid Is Beneficial 
+In Humans Post-Burn: Evidence from a Bi-National Cohort Study. Latus J, editor. PLOS ONE. 
+2016;11(1):e0147259. Available from: https://dx.plos.org/10.1371/journal.pone.0147259
+35 Nguyen NL, Gun RT, Sparnon AL, Ryan P. The importance of initial management: a case series 
+of childhood burns in Vietnam. Burns J Int Soc Burn Inj. 2002;28(2):167–72. 
+36 Baartmans MGA, de Jong AEE, van Baar ME, Beerthuizen GIJM, van Loey NEE, Tibboel D, et al. 
+Early management in children with burns: Cooling, wound care and pain management. Burns 
+J Int Soc Burn Inj. 2016;42(4):777–82. 
+37 European Burns Association (EBA). European Practice Guidelines for Burns Care. 4th ed. 
+’s-Hertogenbosch: EBA; 2017. Available from: https://www.euroburn.org/documents/
+38 ISBI Practice Guidelines Committee, Steering Subcommittee, Advisory Subcommittee. ISBI 
+Practice Guidelines for Burn Care. Burns J Int Soc Burn Inj. 2016;42(5):953–1021. 
+39 Gosselin RA, Kuppers B. Open versus closed management of burn wounds in a low-income 
+developing country. Burns J Int Soc Burn Inj. 2008;34(5):644–7. 
+40 Rowan MP, Cancio LC, Elster EA, Burmeister DM, Rose LF, Natesan S, et al. Burn wound healing 
+and treatment: review and advancements. Crit Care. 2015;19(1):243. Available from: https://
+ccforum.biomedcentral.com/articles/10.1186/s13054-015-0961-2
+41 Klein MB, Hayden D, Elson C, Nathens AB, Gamelli RL, Gibran NS, et al. The association 
+between fluid administration and outcome following major burn: a multicenter study. Ann 
+Surg. 2007;245(4):622–8. 
+42 Parvizi D, Kamolz LP, Giretzlehner M, Haller HL, Trop M, Selig H, et al. The potential impact 
+of wrong TBSA estimations on fluid resuscitation in patients suffering from burns: things to 
+keep in mind. Burns J Int Soc Burn Inj. 2014;40(2):241–5. 
+43 Peeters Y, Lebeer M, Wise R, Malbrain MLNG. An overview on fluid resuscitation and 
+resuscitation endpoints in burns: Past, present and future. Part 2 - avoiding complications 
+by using the right endpoints with a new personalized protocolized approach. Anaesthesiol 
+Intensive Ther. 2015;47 Spec No:s15-26. 
+44 Tejiram S, Tranchina SP, Travis TE, Shupp JW. The First 24 Hours. Surg Clin North 
+Am. 2023;103(3):403–13. Available from: https://linkinghub.elsevier.com/retrieve/pii/
+S0039610923000166
+45 Saffle JR. Fluid Creep and Over-resuscitation. Crit Care Clin. 2016;32(4):587–98. Available from: 
+https://linkinghub.elsevier.com/retrieve/pii/S0749070416300598
+46 Hsiao KH, Kalanzi J, Watson SB, Murthy S, Movsisyan A, Kothari K, et al. Oral/enteral resuscitation 
+in the initial management of major burns: A systematic review and meta-analysis of human 
+and animal studies. Burns Open. 2024. doi: 10.1016/j.burnso.2024.100364. 
+47 Hsiao KH, Kalanzi J, Watson SB, Murthy S, Movsisyan A, Kothari K, et al. Adapted approaches to 
+initial fluid management of patients with major burns in resource-limited settings: A systematic 
+review. Burns Open. 2024. doi: 10.1016/j.burnso.2024.100365. 
+48 Guyatt GH, Alonso-Coello P, Schünemann HJ, Djulbegovic B, Nothacker M, Lange S, et al. 
+Guideline panels should seldom make good practice statements: guidance from the GRADE 
+Working Group. J Clin Epidemiol. 2016;80:3–7. Available from: https://linkinghub.elsevier.
+com/retrieve/pii/S0895435616302311
+7070
+Standards and recommendations for burns care in mass casualty incidents
+Annexes 
+© Norway EMT, Greece fire response 
+7171
+Annex 1. List of example triage systems
+TRIAGE TOOL CORRESPONDING CATEGORIES
+WHO/ICRC/MSF/IFRC Interagency 
+Integrated Triage Tool (IITT) Red, Yellow, Green
+South African Triage Scale (SATS) Red, Orange, Yellow, Green, Blue
+Australian Triage Scale Category 1, Category 2, Category 3, 
+Category 4, Category 5
+Canadian Triage and Acuity Scale 
+(CTAS) Level I, Level II, Level III, Level IV, Level V
+Manchester Triage Scale
+Immediate (Red, 1), Very urgent (Orange, 2), 
+Urgent (Yellow, 3), Standard (Green, 4), 
+Non-urgent (Blue, 5)
+Sort, Assess, Life-saving Intervention, 
+Treatment/Transport (SALT)
+Minor (Green), Delayed (Yellow), Immediate 
+(Red), Expectant (Gray), Deceased (Black)
+Emergency Severity Index (ESI) Level 1, Level 2, Level 3, Level 4, Level 5
+Triage Sieve and Sort Priority 1, Priority 2, Priority 3, Dead
+Simple Triage and Rapid Treatment 
+(START)
+Expectant (Black), Immediate (Red), 
+Delayed (Yellow), Minor (Green)
+Soterion Rapid Triage System Level 1, Level 2, Level 3, Level 4, Level 5
+7272
+Standards and recommendations for burns care in mass casualty incidents
+Annex 2. List of example formulae for %TBSA burn calculation
+FORMULA NAME FORMULA
+Wallace Rule of Nines 
+(adults)
+9% full head and neck (anterior and posterior surfaces); 
+9% anterior and posterior surfaces of each upper limb 
+(18% for both); 9% anterior torso; 9% lower abdomen/trunk; 
+9% upper back; 9% lower back; 18% anterior and posterior 
+surfaces of each lower limb (36% for both); 1% perineum. 
+Wallace Rule of Nines 
+(children)
+18% full head and neck (anterior and posterior surfaces); 
+9% anterior and posterior surfaces of each upper limb 
+(18% for both); 9% anterior torso; 9% lower abdomen/trunk; 
+9% upper back; 9% lower back; 13.5% anterior and posterior 
+surfaces of each lower limb (27% for both); 1% perineum.
+Wallace Rule of Nines 
+(infants)
+21% full head and neck (anterior and posterior surfaces); 
+10% anterior and posterior surfaces of each upper limb 
+(20% for both); 13% anterior torso/trunk; 13% back; 
+13.5% anterior and posterior surfaces of each lower limb 
+(27% for both); 5% buttocks; 1% perineum.
+Rule of Palm (Palmer)
+Patient’s palm represents  1%.  
+Estimate from fingers positioned together.
+Lund-Browder Chart
+(adults)
+3.5% anterior head; 3.5% posterior head; 1% anterior neck; 
+1% posterior neck; 2% upper anterior arm; 2% upper posterior 
+arm; 1.5% lower anterior arm; 1.5% lower posterior arm; 
+1.5% anterior palm; 1.5% posterior palm; 13% anterior trunk/
+abdomen; 13% back; 4.75% anterior thigh; 4.75% posterior thigh; 
+3.5% anterior shin; 3.5% posterior calf; 1.75% anterior foot; 
+1.75% posterior foot; 2.5% each buttock; 1% perineum.
+Lund-Browder Chart
+(age variation – 0, 1, 5, 10, 15)
+Modifications to above for each 
+age variation of age 0, 1, 5, 10, 15
+Smartphone applications Various integrated formulae utilizing predefined 
+device or object dimensions as representative percentage.
+7373
+Annex 3. List of example formulae for fluid calculation
+FORMULA NAME FORMULA
+Parkland Formula 
+(Baxter formula)
+4 mL/kg/%TBSA
+50% given in first 8 hours
+50% given in next 16 hours
+Modified Parkland formula 2 mL/kg/%TBSA
+Brooke Formula 1.5 mL/kg/%TBSA crystalloid and 0.5 mL/kg per %TBSA burn 
++ 2 L free water
+Cincinnati Formula 4 mL/kg/%TBSA + 1500 mL/m2 BSA
+Galverston Formula 5000 mL/m2 TBSA + 2000 mL/m2 BSA
+USA ISR Burn Centre
+Estimate the burn size to the nearest 10; %TBSA x 10 = initial 
+rate for fluid resuscitation. Every 10 kg above 80 kg the fluid 
+rate should be increased by 100 mL/hr
+Evans Formula
+In the first 24 hours gives 1 mL/kg/% burn plus 
+colloids at 1 mL/kg/% burn plus 2000 mL glucose in water. 
+Next 24 hours gives crystalloids at 0.5 mL/kg/% burn, 
+colloidal at 0.5 mL/kg/% burn and the same amount of 
+glucose in water as in first 24 hours
+7474
+Standards and recommendations for burns care in mass casualty incidents
+Organization Name:
+ 
+Team Name:
+ 
+Team Type:
+ 
+Contact person:
+ 
+Email address of contact person:
+ 
+Date of activity (dd/mm/yy):
+ 
+Latitude:
+ 
+Longitude:
+ 
+Region where deployed:
+ 
+City where deployed:
+ 
+Facility name (if relevant):
+ 
+Number of new consultations today:
+Number of adults consultations today:
+ 
+Number of children (< 19 years of age) today:
+ 
+New admissions today:
+ 
+Number of patients discharged today:
+ 
+Number of referrals today:
+Number of dead on arrival:
+ 
+Number of deaths within facility:
+ 
+Total patients with injuries:
+ 
+Total procedures:
+ 
+Total dressing changes:
+ 
+Escharotomies:
+ 
+Skin grafts:
+ 
+Surgical debridements:
+ 
+Other procedures:
+ 
+Other comments/concerns:
+EMT Burns Response Daily Data Form – October 2023
+Annex 4. Example burns data form (EMTCC use)
+
+7575
+INITIAL BURN INJURY ASSESSMENT & EVALUATION
+Annex 5. Example initial burns injury assessment form (EMT or facility use)
+Copyright © 2024 Merck & Co., Inc., Rahway, NJ, USA and its aﬃliates. All rights reserved.
+(Redrawn from Artz CP, JA Moncrief: The Treatment of Burns, ed. 2. Philadelphia, WB Saunders
+Company, 1969; used with permission.)
+In these topics
+Burns >
+MSD MANUAL
+Professional Version
+24.09.24, 11:40 Image:(A) Rule of nines (for adults) and (B) Lund-Browder chart (for children) for estimating extent of burns-MSD Manual Professional Edition
+https://www.msdmanuals.com/en-gb/professional/multimedia/image/a-rule-of-nines-for-adults-and-b-lund-browder-chart-for-children-for-estimating-extent-of-b… 1/1
+Date: 
+ 
+Name of Assessing Staff (print): 
+Position (i.e. nurse, doctor):
+ 
+Signature:
+INITIAL FIRST AID: INITIAL WOUND MANAGEMENT:
+Patient ID:
+ 
+Family Name:
+ 
+First Name:
+ 
+Date of Birth:
+TIME of Injury: 
+ 
+TIME of Arrival:
+ 
+WHAT Happened: 
+BURN Type:
+Suspected Inhalation Injury
+Circumferential Burn
+Other Injuries
+IV Fluid Resuscitation 
+Oral Fluid Tolerated
+Pain Management
+Tetanus Status Established 
+(A) Rule of nines (for adults) and 
+(B) Lund-Browder chart (for children) for estimating extent of burns
+https://www.msdmanuals.com/en-gb/professional/multimedia/figure/a-rule-of-nines-for-adults-and-b-lund-browder-chart-for-children-for-estimating-extent-of-burns
+BURN % TBSA CHART
+Draw skin loss areas you see.  
+DO NOT include simple erythema in the % TBSA estimation.
+Copyright © 2024 Merck & Co., Inc., Rahway, NJ, USA and its aﬃliates. All rights reserved.
+(Redrawn from Artz CP, JA Moncrief: The Treatment of Burns, ed. 2. Philadelphia, WB Saunders
+Company, 1969; used with permission.)
+In these topics
+Burns >
+MSD MANUAL
+Professional Version
+24.09.24, 11:40 Image:(A) Rule of nines (for adults) and (B) Lund-Browder chart (for children) for estimating extent of burns-MSD Manual Professional Edition
+https://www.msdmanuals.com/en-gb/professional/multimedia/image/a-rule-of-nines-for-adults-and-b-lund-browder-chart-for-children-for-estimating-extent-of-b… 1/1
+BURN % TBSA        1st Assessment                      2nd Assessment
+ 
+Time 
+ 
+Signature
+Discharge Home                          Wound Clinic                          Admit                          Refer & Transfer    
+7676
+Standards and recommendations for burns care in mass casualty incidents
+Annex 6. Example medical evacuation/referral form
+BURN PATIENTS MEDEVAC PATIENT REFERRAL FORM
+Full Name:
+Patient ID number:
+Date of birth:
+Address of discharge destination: (if known)
+Accompanied by escort       Yes            No            Full Name:
+  
+Referral to: Name of facility or service
+Contact: Full name
+Location: Address/Site/District 
+Referring from: Name of facility or service
+Contact: Full name 
+Location: Address/Site/District
+MEDEVAC Team:
+Flight info:
+Inbound:    
+ 
+Destination for this patient:
+Outbound:
+Phone:  
+Email: 
+Phone: 
+Email: 
+Phone:
+Language:
+Gender:
+Date: 
+PATIENT INFORMATION
+TASKING INFORMATION
+MEDEVAC INFORMATION
+Time:
+Priority   1   2   3   Dependency   1   2   3
+Transfer type:    Primary                 Interhospital transfer                 Repatriation
+
+7777
+Annex 6
+Mechanism of injury or illness: 
+Primary diagnoses:    1.        
+   
+     2.        
+   
+     3. 
+Past medical history:
+Allergies:
+Treatments initiated: (including medication/oxygen/procedures/lines/drains/fluids)
+-
+-
+-
+-
+CLINICAL INFORMATION
+Ongoing
+Ongoing
+Ongoing
+Ongoing
+NOTE: Please attach copy of medication chart at discharge or list of current medications 
+(including dose and time of last dose and ensure at least 72 hours supply of regular medications)
+Patient observations: 
+Date Time HR RR GCS AVPUTemp Cap refill FiO2BP SpO2 BGL Other 
+weight
+WBC         ___   Leucopenia         ___   Hemoglobin          ___   Electrolytes         ___    Creatinine         ___
+Special cases:          Obstetrics          Burns          Paediatrics          Vulnerable group (disability/elderly/SGBV)
+Precautions:           Infectious disease/MDRO           Spinal precautions           Behavioural           Altitude
+Additional considerations:             Bariatric             DNR             Other
+  Reason for referral: Such as higher level of care required/specialist care required/limited hospital capacity
+  Transportation needs: Transfer using basic, advanced or critical care platform
+  Follow-up requirements: surgical review, removal of cast, or removal of external fixator
+Other:
+7878
+Standards and recommendations for burns care in mass casualty incidents
+FUNCTIONAL STATUS
+Mobility        Bed bound        Wheelchair        Crutches        Walking frame        Requires assistance        Independent
+Self-care        Carer dependent        Requires assistance with activities of daily living/hygiene/meals         Independent  
+  Cognitive impairment          No          Yes  Define key features if dementia-related or intellectual impairment
+  Nutritional requirements: 
+  Assistive devices(s) provided or required:
+  Compiled by:    Signature: 
+  Position:
+  Patient fit-for-transfer:        No        Yes Details if applicable
+  Patient care funding:        Insurance Details if applicable
+  Patient or carer consent:       Signature if possible
+NOTE: This form must accompany the patient’s medical file and a copy of the form should be retained by the referring team. 
+Patient ventilated:          Yes          No          Non-invasive ventilation          Mechanical ventilation        
+ 
+      FiO2:               Tidal volume               mL    PEEP              cm H 2O   RR:               breaths/min
+  
+  Other ventilation settings:
+7979
+Additional considerations – Burns
+Diagnosis            Confirmed             Clinical            Close contact
+  Vaccination details
+Additional considerations – Chemical, Biological, Nuclear, Radiological
+Diagnosis           Confirmed           Clinical           Close contact
+ Vaccination details
+NOTE: This form must accompany the patient’s medical file and a copy of the form should be retained by the referring team.
+A copy should be transmitted to the Ministry of Health through EMTCC.
+END OF REFERRAL FORM
+8080
+Standards and recommendations for burns care in mass casualty incidents
+Annex 7. Parts of existing WHO kits applicable to burn care
+Module Sets from existing WHO kits
+Resuscitation
+Dressings
+Pharmacy
+Surgical
+Rehabilitation
+-  KMEDTESM1BA–A1 (TESK 2017 module 1B) SET, RENEWABLES, ANAESTHESIA,  
+BASIC MATERIAL
+-  KMEDTESM1CA–A1 (TESK 2017 module 1C) SET, SUPPLEMENTARY, ANAESTHESIA 
+MATERIAL
+-  KMEDTESM1CS–A1 (TESK 2017 module 1C) SET, INTUBATION & LARYNGOSCOPE
+-  KMEDTESM1BD–A1 (TESK 2017 module 1B) SET, RENEWABLES, DRESSING 
+MATERIAL
+-  KMEDTESM1BDB–A1 (TESK 2017 module 1B) SET, RENEWABLES, DRESSING 
+MATERIAL, BURNS
+-  KMEDTESM1BG–A1 (TESK 2019 module 1B) SET, RENEWABLES, GLOVES
+-  KMEDTESM1BI–A1 (TESK 2019 y module 1B) SET, RENEWABLES, INJECTION 
+MATERIAL
+-  KMEDTESM1AB–A1 (TESK 2019 module 1A) SET, DRUGS, BASIC
+-  KMEDTESM1AC–A1 (TESK 2019 module 1A) SET, DRUGS, CONTROLLED
+-  KMEDTESM1AI–A1 (TESK 2019 module 1A) SET, DRUGS, INFUSIONS
+-  KMEDTESM1ADG–A1 (TESK 2019 module 1A) SET, DRUGS, DANGEROUS GOODS
+-  KMEDTESM1ACC–A1 (TESK 2019 module 1A) SET, DRUGS, COLD CHAIN
+-  (TESK 2022 mod 2A) SET, GENERAL SURGERY INSTRUMENTS, DRESSING
+-  (TESK 2022 mod 2A) SET, GENERAL SURGERY INSTRUMENTS, SKIN GRAFT
+-  KMEDTESKM2A01A1 (TESK 2022 mod 2A) SET, GENERAL SURGERY INSTRUMENTS, 
+BASIC SURGERY
+-  KMEDTESKM2A05A1 (TESK 2022 mod 2A) SET, GENERAL SURGERY INSTRUMENTS, 
+DPC (suture)
+-  KMEDTESKM2A06A1 (TESK 2022 mod 2A) SET, GENERAL SURGERY INSTRUMENTS, 
+DEBRIDEMENT
+-  KMEDTESKM2A08A1 (TESK 2022 mod 2A) SET, GENERAL SURGERY INSTRUMENTS, 
+FINE(pediat), complementary
+-  (TESK – 2024*) MODULE 3, Essential Rehabilitation equipment
+8181
+Annex 8
+Annex 8. Clinical recommendations development process and methods
+This annex provides further details on the process and methods used in the 
+development of the clinical recommendations in Chapter 6. This followed the process 
+and methods outlined in the WHO Handbook for Guideline Development, 2 nd edition, 
+with oversight of the WHO Guideline Review Committee.
+Evidence synthesis and assessment
+The priority questions to be addressed by the clinical recommendations were 
+identified by the GDG. These were formulated into PICO-structured review questions 
+by the systematic review team with input from the methodologist, clinical chair, 
+GDG and technical members of the WHO Steering Group. The important outcomes of 
+interest were rated and selected by the GDG. The systematic reviews were conducted 
+in accordance with pre-defined protocols and the Preferred Reporting Items for 
+Systematic reviews and Meta-Analyses (PRISMA) guidelines. The available evidence 
+was synthesized with outcome-based intervention effect estimates, where amenable, 
+and evidence certainty assessed using GRADE methodology. These were presented 
+to the GDG using GRADE summary of findings tables.
+Formulation of recommendations
+The GRADE approach was used to formulate recommendations. GDG deliberations on 
+the direction and strength of recommendations were facilitated by the methodologist 
+and clinical chair. In their formulation, the GDG considered the balance of benefits 
+and harms (with reference to the GRADE summary of findings tables, including effect 
+estimates and confidence intervals), certainty of evidence, values and preferences, 
+resource implications, and other considerations such as equity, acceptability, 
+and feasibility. As recognized in the limitations of the GRADE approach, there 
+were circumstances in which the GDG was unable to issue a GRADE-formulated 
+recommendation, particularly due to lack of direct evidence, but for which actionable 
+statements were deemed necessary for health practice and where there were certainty 
+of benefits outweighing undesirable effects supported by indirect evidence. In such 
+circumstances, an ungraded Best Practice Statement was issued in accordance 
+with the five criteria set out by the GRADE Working Group (48). Decisions and 
+recommendations were made by consensus. Pre-defined rules for decision-making 
+had specified a voting process in case consensus could not be reached: 80 % of GDG 
+members was required to formulate a strong recommendation, and a simple majority 
+for conditional recommendations. However, in the end, voting was not needed for 
+any of the recommendations. The final recommendation statements were drafted by 
+the responsible technical officer according to the GDG’s decisions and formulations, 
+approved by the GDG, and shared with the WHO Steering Group.
+8282
+Standards and recommendations for burns care in mass casualty incidents
+External review
+The clinical recommendations (and full document) were reviewed by an external 
+review group composed of members of the EMT Strategic Advisory Group, with 
+balanced representation of geographical regions and gender. Any feedback and 
+comments were considered by the GDG, and incorporated as appropriate by the 
+responsible technical officer. The clinical recommendations section (Chapter 6) of 
+the final document was then reviewed and approved by the WHO Guideline Review 
+Committee.
+Contributors and affiliations
+GDG clinical chair: 
+-  Stuart Watson, Canniesburn Plastic Surgery and Burns Unit, Glasgow Royal 
+    Infirmary, United Kingdom of Great Britain and Northern Ireland
+GDG guideline methodologist:
+-  Srinivas Murthy, University of British Columbia, Canada
+GDG members:
+-  Mercy Ama Amuah Agtuahene, University of Ghana, Ghana
+-  Pauline Convocar, Philippines College of Emergency Medicine, Philippines
+-  Heike Geduld, University of Capetown, South Africa
+-  Minoru Hayashi, Red Cross Maebashi Hospital, Japan
+-  Omar Hussein, Ministry of Health, Palestinian Authority
+-  Tom Potokar, International Committee of the Red Cross, Switzerland
+-  Alberta Rockson, University of Ghana/Interburns, Ghana
+-  Richard Wong She, NZMAT, New Zealand
+-  Rojina Shilpkar, Sushma Koirala Memorial Hospital, Nepal
+-  Ziphilly Sichinga, Interburns, Malawi
+-  Barclay Stewart, University of Washington, United States of America
+External Review Group members (as part of EMT Strategic Advisory Group):
+-  Gabriel Garcia, Ministry of Health, Mexico
+-  Alegnta Gebreyesus, Permanent Mission of the Federal Democratic Republic of 
+   Ethiopia to the United Nations Office and other international organizations in 
+   Geneva, Ethiopia
+-  Gregory Hynes, International Federation of Red Cross and Red Crescent Societies, 
+   Switzerland 
+-  Ridzuan Isa, Ministry of Health, Malaysia
+-  Len Notaras, National Critical Care and Trauma Response Centre, Australia
+-  Florian Schwoebel, Robert Koch Institute, Germany
+8383
+Annexes
+Management of conflicts of interest
+All contributors were required to complete and return the standard WHO Declaration 
+of Interests forms for experts along with their CVs. These were evaluated by the 
+responsible technical officer for relevance of any declared interests, and for 
+significance of any potential conflicts of interest based on their nature, number and 
+value, scope of relationship, and extent of discretion. The approach to managing 
+any significant conflicts of interest was partial or total exclusion from participation, 
+assessed and/or consulted on a case-by-case basis. The contributing experts’ names 
+and their brief biographies were compiled and made publicly available.
+8484
+Standards and recommendations for burns care in mass casualty incidents
+Annexes
+Emergency Medical Teams
+World Health Organization
+Avenue Appia 20
+CH-1211 Geneva
+Switzerland
+Email: emteams@who.int
+Web: https://extranet.who.int/emt/
