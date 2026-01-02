@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>FineMed-LLM</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='app.css') }}">
+</head>
+
+<body>
+  <!-- Topbar -->
+  <header class="topbar">
+    <div class="brand">
+      <img class="brand__logo" src="{{ url_for('static', filename='img/logo.jpg') }}" alt="FineMed-LLM">
+      <div class="brand__text">
+        <div class="brand__name">FineMed-LLM</div>
+        <div class="brand__tagline">Clinical Intelligence</div>
+      </div>
+    </div>
+
+    <div class="badges">
+      <span class="pill"><span id="apiDot" class="dot dot--idle"></span><span id="apiText">API: —</span></span>
+      <span class="pill">Latence: <strong id="latency">—</strong></span>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="hero">
+      <div class="hero__kicker">ASSISTANT MÉDICAL ACADÉMIQUE</div>
+      <h1 class="hero__title">Analyse de situations médicales</h1>
+      <p class="hero__sub">
+        Décris un cas clinique. L’interface envoie la requête vers <span class="codepill">POST /generate</span> et affiche la réponse du modèle.
+      </p>
+    </section>
+
+    <section class="layout">
+      <!-- Colonne gauche -->
+      <aside class="left">
+        <div class="card">
+          <div class="card__head">
+            <div class="card__title">Scénarios rapides</div>
+            <div class="card__sub">Pré-remplissage en un clic</div>
+          </div>
+          <div class="chips">
+            <button class="chip" data-scenario="urgence">Urgence cardiaque</button>
+            <button class="chip" data-scenario="auto">Automédication</button>
+            <button class="chip" data-scenario="misinfo">Désinformation</button>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card__head">
+            <div class="card__title">À propos</div>
+            <div class="card__sub">Ce que fait FineMed-LLM</div>
+          </div>
+
+          <p class="about">
+            FineMed-LLM est une interface de démonstration connectée à un modèle médical affiné par <strong>QLoRA</strong>
+            à partir de cas réels anonymisés. Elle vise une réponse <strong>prudente</strong>, <strong>structurée</strong>
+            et orientée sécurité.
+          </p>
+
+          <div class="miniGrid">
+            <div class="mini">
+              <div class="mini__k">USAGE</div>
+              <div class="mini__v">Support éducatif, pas un diagnostic.</div>
+            </div>
+            <div class="mini">
+              <div class="mini__k">BON RÉFLEXE</div>
+              <div class="mini__v">En cas de doute : consulter.</div>
+            </div>
+            <div class="mini">
+              <div class="mini__k">DONNÉES</div>
+              <div class="mini__v">Historique local (dans la page).</div>
+            </div>
+            <div class="mini">
+              <div class="mini__k">SÉCURITÉ</div>
+              <div class="mini__v">Priorité aux signes d’alerte.</div>
+            </div>
+          </div>
+
+          <div class="urgentBox">
+            <div class="urgentBox__title">URGENCES</div>
+
+            <div class="urgentItem">
+              <div class="badgeNum">150</div>
+              <div class="urgentItem__txt">
+                <div class="urgentItem__main">Maroc</div>
+                <div class="urgentItem__sub">SAMU / Urgences</div>
+              </div>
+            </div>
+
+            <div class="urgentItem">
+              <div class="badgeNum">112</div>
+              <div class="urgentItem__txt">
+                <div class="urgentItem__main">International</div>
+                <div class="urgentItem__sub">Numéro d’urgence standard (selon pays)</div>
+              </div>
+            </div>
+          </div>
+
+          <p class="footnote">
+            Si symptômes graves (douleur thoracique, essoufflement, faiblesse brutale, malaise, saignement important) : appelle immédiatement.
+          </p>
+        </div>
+      </aside>
+
+      <!-- Colonne droite -->
+      <section class="right">
+        <div class="rightStack">
+          <!-- STATUT -->
+          <div class="statusCard">
+            <div class="statusCard__k">STATUT</div>
+            <div class="statusCard__row">
+              <span id="statusDot" class="dot dot--ok"></span>
+              <div>
+                <div id="statusMain" class="statusCard__main">Prêt</div>
+                <div id="statusSub" class="statusCard__sub">API accessible</div>
+              </div>
+            </div>
+            <div id="workLine" class="workLine" style="display:none;">
+              <span class="spinner"></span>
+              <span>Le modèle répond…</span>
+            </div>
+          </div>
+
+          <!-- CONVERSATION (GRAND BLOC comme ton dessin) -->
+          <div class="card convoCard">
+            <div class="convoHead">
+              <div>
+                <div class="card__title">Conversation</div>
+                <div class="card__sub">Réponse = ton modèle QLoRA</div>
+              </div>
+              <button id="clearBtn" class="btn btn--ghost">Effacer</button>
+            </div>
+
+            <!-- grand rectangle messages -->
+            <div id="convo" class="convo"></div>
+
+            <!-- bloc bas : question + bouton à gauche -->
+            <div class="ask">
+              <div class="ask__label">VOTRE QUESTION</div>
+              <textarea id="prompt" rows="4" placeholder="Décris la situation (symptômes, durée, âge, antécédents, médicaments...)"></textarea>
+              <div class="ask__actions">
+                <button id="sendBtn" class="btn btn--primary">
+                  <span id="sendText">Envoyer</span>
+                </button>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
