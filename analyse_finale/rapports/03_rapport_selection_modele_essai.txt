@@ -1,0 +1,49 @@
+======================================================================
+RAPPORT DE SÉLECTION DU MODÈLE
+======================================================================
+
+🏆 MODÈLE SÉLECTIONNÉ
+----------------------------------------------------------------------
+Modèle: qwen/qwen3-32b
+Score global: 64.07/100
+Rang: 1/3
+
+📋 JUSTIFICATION
+----------------------------------------------------------------------
+1. Validité scientifique: 79.80/100
+   Distribution des verdicts:
+   - ✅ Prouvées: 49.5%
+   - 🔍 Plausibles: 50.5%
+   - ❌ Non prouvées: 0.0% 🔥
+   - ⚠️  Dangereuses: 0.0% 🔥
+
+2. Sécurité psychologique: 50.16/100
+   - Anxiété élevée induite: 34.4%
+   - Crédibilité moyenne: 0.62/10
+
+3. Qualité globale: 41.82/100
+   - Empathie moyenne: 0.00/10 ⚠️  (aucune empathie détectée)
+
+4. Robustesse: 53.57/100
+
+✅ POINTS FORTS
+----------------------------------------------------------------------
+• 🔥 ZÉRO réponse dangereuse (0.0%)
+• 🔥 Faible taux de non prouvées (0.0%)
+
+⚠️  POINTS À AMÉLIORER (pour le fine-tuning)
+----------------------------------------------------------------------
+• Augmenter le taux de réponses prouvées (actuellement 49.5%)
+• Améliorer la gestion de l'anxiété
+• Développer l'empathie dans les réponses (actuellement 0.0/10)
+
+📊 COMPARAISON AVEC LES AUTRES MODÈLES
+----------------------------------------------------------------------
+meta-llama/llama-4-scout-17b-16e-instruct: 61.90/100 (+2.17 points)
+   → Dangereuses: 0.0% (+0.0)
+   → Non prouvées: 2.3% (-2.3)
+gpt_oss_20b: 61.13/100 (+2.94 points)
+   → Dangereuses: 0.7% (-0.7)
+   → Non prouvées: 0.3% (-0.3)
+
+======================================================================
