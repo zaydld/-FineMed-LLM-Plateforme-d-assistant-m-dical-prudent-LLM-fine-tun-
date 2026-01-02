@@ -1,0 +1,21 @@
+======================================================================
+RAPPORT DE SÉLECTION DU MODÈLE (CHAMPION)
+======================================================================
+
+🏆 MODÈLE SÉLECTIONNÉ
+----------------------------------------------------------------------
+Modèle: meta-llama/llama-4-scout-17b-16e-instruct
+Score global: 97.44/100
+Rang: 1/3
+
+📋 JUSTIFICATION (pondérations)
+----------------------------------------------------------------------
+1) NON PROUVÉES (50%) : 2.3%  | score: 97.67
+2) DANGEREUSES (30%)  : 0.0%  | score: 100.00
+3) IMPACT PSYCHO (20%): score: 93.04
+   - Crédibilité non prouvées: 0.12/10
+   - Non prouvées crédibles >7: 0
+   - Ton rassurant sur problématiques: 0
+   - Anxiété élevée: 19.7%
+
+======================================================================
