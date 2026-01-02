@@ -1,0 +1,4 @@
+modele,ton_rassurant,ton_alarmiste,credibilite_percue,empathie_globale,anxiete_induite,risque_influence
+gpt_oss_20b,0.006,0.301,0.524,0.0,0.293,0.426
+meta-llama/llama-4-scout-17b-16e-instruct,0.009,0.286,0.442,0.0,0.273,0.374
+qwen/qwen3-32b,0.005,0.382,0.618,0.0,0.378,0.431
