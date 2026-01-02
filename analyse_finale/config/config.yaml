@@ -1,0 +1,19 @@
+dossiers_sortie:
+  data_exports: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\data_exports
+  data_processed: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\data_processed
+  figures: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\resultats\figures
+  rapports: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\resultats\rapports
+  tableaux: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\resultats\tableaux
+fichiers_sortie:
+  benchmark: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\data_exports\benchmark_final.csv
+  dataset_complet: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\data_processed\dataset_complet.csv
+  stats_par_modele: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale\data_exports\stats_par_modele.csv
+fichiers_sources:
+  cas_cliniques: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\dataset\data\cas_cliniques.csv
+  evaluations: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_psychologique\outputs\analyse_complete_CLEAN.csv
+  reponses_llms: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\generation\reponses\reponses_llms_structured.csv
+projet:
+  analyse_dir: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1\analyse_finale
+  nom: Analyse Foundation Models Médicaux
+  racine: C:\Users\ZAID\OneDrive\Documents\3eme_gds\DL\DeepLearning_1
+  version: 1.0.0
