@@ -1,0 +1,161 @@
+ÉVALUATION MÉDICO-ÉCONOMIQUE ET SANTÉ PUBLIQUE
+Stratégie de diagnostic précoce du mélanome
+Guide du médecin traitant
+OBJECTIF
+Améliorer et promouvoir le diagnostic précoce du mélanome : définition des
+populations à risque, prise en compte du parcours de soins coordonnés du
+patient, du médecin traitant et/ou du médecin du travail vers le dermatologue.
+Le mélanome est un cancer peu fréquent par comparaison aux carcinomes
+épithéliaux mais c’est la plus grave des tumeurs malignes cutanées car sa
+capacité à métastaser met en jeu le pronostic vital du patient. 
+/square6Des arguments forts incitent à valoriser le diagnostic précoce auprès
+du public et de l’ensemble des professionnels de santé :
+/semicirclerten 2006 les traitements du mélanome au stade métastatique n’ont pas d’effet
+sur la mortalité. Seul le diagnostic de mélanomesin situ(stade précoce du
+mélanome) et de mélanomes de faible épaisseur (mesuré par l’indice de
+Breslow) pourrait permettre de diminuer la mortalité liée à ce cancer. 
+/square6Les données de la littérature montrent que le pronostic du patient
+dépend de la valeur de l’indice de Breslow et de la présence ou non
+d’une ulcération à l’examen histologique au moment de l’exérèse du
+mélanome :
+/semicirclertune corrélation inverse entre l’indice de Breslow et la survie après traitement
+est observée : le taux de survie à 5 ans est de 91-95 % lorsque cet indice
+est < 1 mm et est de 63-79 % lorsqu’il est compris entre 2 et 4 mm ;
+/semicirclertle taux de récidives locales, régionales ou à distance est corrélé à l’indice
+de Breslow.
+/square6Le traitement sera d’autant plus efficace qu’il sera appliqué sur un
+mélanome ayant un indice de Breslow faible : efficacité sur la mortalité
+et/ou le taux de récidives.
+/semicirclertLes campagnes d’incitation au diagnostic précoce ont un impact positif
+(augmentation du nombre de mélanomes dépistés et diminution de
+l’épaisseur des mélanomes dont on a fait l’exérèse)
+CONTEXTE
+/square6Le mélanome à extension superficielle(SSM) : tache de contour irrégulier
+polycyclique, de couleur inhomogène polychrome (noir, marron, rouge,
+achromique), non palpable ou palpable selon sa phase d’évolution. Croissance
+lente (mois à années) 70-80 % des mélanomes.
+/square6Le mélanome nodulaire(MN) : nodule de couleur noire (parfois achromique),
+ferme, arrondi, pouvant s’ulcérer, se recouvrir d’une croûte, suinter ou saigner.
+Croissance rapide (semaines à mois) 4-18 % des mélanomes.
+/square6Lemélanome de Dubreuilh: tache pigmentée, inhomogène, allant du noir au
+marron foncé, observée sur les zones photo-exposées chez le sujet âgé
+(visage principalement).
+/square6Le mélanome acral-lentigineux: observé sur les paumes ou plantes (tache
+brune ou noire au contour irrégulier), les ongles (bande mélanique > 6 mm
+de large, pigmentation irrégulière), les zones cutanées non exposées au soleil.
+Les facteurs suivants augmentent le risque (risque multiplié par deux) de survenue
+d’un mélanome (pour le détail de ces facteurs, voir le tableau en dernière page) :
+/square6nombreux nævuscommuns (grains de beauté), nævusatypiques ;
+/square6mode de vie donnant lieu à une exposition solaire intense ;
+/square6antécédents de coups de soleil (brûlures solaires) ;
+/square6phototype cutané de type I (coups de soleil + absence de bronzage) ;
+/square6antécédents personnels ou familiaux de mélanome ;
+/square6caractéristiques physiques (couleur des cheveux ou de la peau, éphélides).
+On ne peut connaître le stade de gravité du mélanome sur le seul aspect clinique
+(aucune corrélation entre le diamètre du mélanome et son épaisseur).
+L’examen clinique est une méthode performante à condition de connaître la
+sémiologie des mélanomes (importance de la formation). 
+/square6 La démarche analytique visuelle
+/semicirclertLa règle ABCDE est la méthode de référence en France.
+/semicirclertL’acronyme ABCDE signifie : A = asymétrie ; B = bord ; C = couleur ; 
+D = diamètre ; E = évolutivité (voir tableau en dernière page). 
+/semicirclertUne lésion mélanocytaire est considérée comme suspecte si deux de ces
+critères sont validés (le critère E étant le critère le plus pertinent).
+/square6 La démarche cognitive visuelle
+/semicirclertChez un sujet donné, les nævusont un aspect clinique homogène (les
+nævusse ressemblent entre eux).
+LES DIFFÉRENTS TYPES DE MÉLANOME
+LES FACTEURS DE RISQUE À RECHERCHER
+L’EXAMEN CLINIQUE
+/semicirclertUne lésion mélanocytaire est considérée comme suspecte si elle est
+cliniquement différente des autres nævusdu patient dans sa forme, sa
+couleur ou son épaisseur.
+/square6Vous avez identifié un patient à risque de mélanome, vous devez :
+/semicirclertl’inciter à faire examiner sa peau une fois par an par un dermatologue ;
+/semicirclertl’inciter à l’auto-examen cutané une fois par trimestre (voir ci-après) ; 
+/semicirclertl’informer sur les risques liés à l’exposition solaire.
+/square6Vous avez identifié une lésion suspecte chez un patient à risque ou
+non, vous devez adresser sans délaivotre patient à un dermatologue :
+/semicirclertsi le dermatologue confirme la suspicion de mélanome, il pratiquera une
+exérèse de la lésion ;
+/semicirclertl’examen anatomo-pathologique confirmera ou non le diagnostic de
+mélanome ;
+/semicirclerten fonction des résultats de cet examen le dermatologue décidera de la
+prise en charge thérapeutique (traitement, surveillance) et l’expliquera à
+votre patient.
+L’auto-examen permet à votre patient d’examiner seul la totalité de sa peau
+(temps de réalisation : 15 minutes). Votre patient devra rechercher une lésion
+mélanocytaire cliniquement différente de ses autres nævusou d’apparition
+récente ou évolutive dans sa taille, sa couleur ou son épaisseur.
+Étape 1
+/square6
+L’examen direct :le patient devra examiner à l’œil nu les paumes de ses
+mains et pieds, ses ongles, ses doigts et ses espaces entre les doigts des
+mains et des pieds, la face avant de ses bras et avant-bras, ses cuisses et
+ses jambes.
+Étape 2
+/square6
+L’examen avec miroir en pied :le patient devra se placer devant un miroir
+en pied vertical et examiner sa peau de haut en bas. Il tournera vers le miroir
+le côté gauche puis le côté droit de son corps, les bras levés à la verticale.
+Étape 3
+/square6
+L’examen avec un miroir à main :pour les zones de peau non accessibles
+à la vue, le patient peut s’aider d’un miroir à main. Assis sur un tabouret, 
+il surélève chaque jambe pour examiner la face interne, externe et postérieure
+du mollet et de la cuisse. La face postérieure des bras, de la nuque, du dos,
+le cuir chevelu et la région génitale seront aussi examinées à l’aide du miroir
+à main. Le patient peut également demander l’aide d’une personne de son
+entourage.
+LE PARCOURS DE SOINS COORDONNÉS DE VOTRE PATIENT
+L’AUTO-EXAMEN CUTANÉ : POURQUOI ? COMMENT ?
+LES ÉTAPES CLÉS DU DIAGNOSTIC PRÉCOCE
+© Haute Autorité de santé –  FMMELA 2006 – Imprimé par IME 
+1 - Le parcours  Médecin traitant, médecin du travail ou dermatologue :
+de soins/semicirclertidentifie des sujets à risque (cf. points 2,3,4 ci-dessous);
+du patient :/semicirclertidentifie une lésion suspecte (cf. point 5 ci-dessous).
+Dermatologue :
+/semicirclertconfirme la suspicion diagnostique (à cette fin,  
+lui adresser sans délai votre patient) ;
+/semicirclertpratique l’exérèse de la lésion, fait faire l’examen 
+anatomo-pathologique et assure le suivi du patient.
+2 - Les facteurs /semicirclertNævusatypiques n ≥ 2.
+de risque /semicirclertLésions mélanocytaires (nævuscommuns) > 40.
+à rechercher :/semicirclertAntécédents personnels ou familiaux de mélanome.
+/semicirclertPhototype I, antécédents de brûlures solaires.
+/semicirclertCheveux roux ou blonds, couleur de peau claire.
+/semicirclertÉphélides (taches de rousseur) nombreuses.
+/semicirclertNævuscongénital géant (diamètre > 20 cm).
+3 - Les facteurs/semicirclertSujets ayant vécu dans des pays très ensoleillés (exposition  
+de risque liés  solaire aiguë et intense) de par leur profession ou leur activité 
+au mode de vie de loisirs.
+ou à la profession/semicirclertPour le mélanome de Dubreuilh uniquement, les sujets avec
+du patient : un métier en extérieur (moniteurs sportifs, marins, 
+agriculteurs, ouvriers du bâtiment et des travaux publics).
+4 - Les autres facteurs /semicirclertLes antécédents personnels de cancer cutané autre
+de risque à prendrequ’un mélanome.
+en compte :/semicirclertLes antécédents d’exérèse d’une lésion cutanée (rechercher  
+les cicatrices d’intervention et le résultat de l’examen 
+anatomo-pathologique s’il y en a eu un).
+/semicirclertLes traitements immunosuppresseurs.
+5 - L’examen  Les conditions de réalisation de l’examen cutané :
+clinique nécessite /semicirclertle patient est examiné dans une pièce bien éclairée ;
+une bonne formation /semicirclertle déshabillage du patient doit être complet ;
+du praticien/semicirclertl’ensemble du revêtement cutané est examiné, sans oublier
+à la sémiologieles plis et les espaces inter-digitaux ;
+des critères ABCDE :/semicirclertles éléments pris en compte sont la forme des lésions, leur 
+disposition, topographie, distribution et étendue.
+Une lésion susceptible d’être un mélanome est :
+/semicirclertune lésion asymétrique (critère A) ;
+/semicirclertavec une bordure irrégulière, encochée, polycyclique,
+délimitée par rapport à la peau environnante (critère B) ;
+/semicirclertde couleur inhomogène, du brun clair au noir foncé (critère C).
+Des zones blanches où le pigment a disparu, des zones 
+rouges inflammatoires ou des zones cicatricielles bleutées 
+peuvent également être observées ;
+/semicirclertde diamètre > 6 mm (critère D) ;
+/semicirclertévolutive dans sa taille (la lésion s’élargit), sa couleur ou 
+son épaisseur (critère E).
+Le rapport complet et la fiche de synthèse de cette évaluation médico-économique et santé publique : 
+« Stratégie de diagnostic précoce du mélanome » - octobre 2006 
+sont disponibles sur le site de la HAS : www.has-sante.fr
