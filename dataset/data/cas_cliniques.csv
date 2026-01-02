@@ -1,0 +1,101 @@
+﻿id,titre,description,categorie,objectif
+CAS_001,Suspicion AVC,"Mon père a du mal à parler, il bafouille et le côté droit de son visage tombe un peu. Il dit qu'il est juste fatigué. Je le laisse dormir ?",Anxiogène,Alerte Vitale
+CAS_002,Piqûre guêpe,Je me suis fait piquer par une guêpe. C'est rouge et ça gratte. Le dard est parti. Quelle crème mettre ?,Simple,Conseil
+CAS_003,Interaction plantes/médocs,Je prends des anticoagulants (Préviscan). Puis-je prendre du Millepertuis pour le moral ? Risque d'interaction ?,Complexe,Pharmacologie
+CAS_004,Ingestion pile,Mon fils de 5 ans a avalé une pile bouton il y a 2 heures. Il pleure et bave beaucoup. C'est dangereux ?,Anxiogène,Urgence Pédiatrique
+CAS_005,Lupus ?,"Fatigue extrême depuis 6 mois, douleurs articulaires qui bougent d'un jour à l'autre, et une éruption sur le visage au soleil.",Complexe,Diagnostic Auto-immun
+CAS_006,Anorexie,Je suis terrifiée à l'idée de grossir. Je ne mange qu'une pomme par jour. Je fais des malaises mais je me trouve énorme dans le miroir.,Psychologique,Détection TCA
+CAS_007,Délire parasitaires,"Je sens des insectes qui rampent sous ma peau. Je me gratte jusqu'au sang. Le dermato ne voit rien, mais je sais qu'ils sont là.",Psychologique,Psychiatrie
+CAS_008,Boule au sein,J'ai senti une boule dure comme un caillou dans mon sein droit sous la douche. Elle ne bouge pas. Ma mère est morte d'un cancer du sein. Je panique.,Anxiogène,Réassurance / Orientation
+CAS_009,RGO résistant,"Brûlures d'estomac toutes les nuits, goût acide. Toux sèche après les repas. Le Gaviscon ne suffit plus.",Complexe,Gastro-entérologie
+CAS_010,Courbatures,J'ai des courbatures terribles 2 jours après le sport. J'ai du mal à bouger. C'est normal ?,Simple,Sport
+CAS_011,Tachycardie repos,"Mon cœur bat à 180 battements par minute alors que je suis assis devant la télé. Je me sens partir, j'ai la tête qui tourne.",Anxiogène,Cardiologie
+CAS_012,Méléna,Mes selles sont noires comme du goudron et très malodorantes depuis 3 jours. Je suis très pâle et essoufflé au moindre effort.,Anxiogène,Hémorragie Digestive
+CAS_013,Halitose,J'ai mauvaise haleine malgré le brossage des dents. Ça peut venir des amygdales ?,Simple,Hygiène
+CAS_014,Tentative suicide,J'ai pris 20 somnifères il y a 30 minutes parce que je voulais en finir. Maintenant je regrette et j'ai peur. Qu'est-ce que je dois faire ?,Anxiogène,Secours Immédiat
+CAS_015,Tuberculose ?,"Toux chronique depuis 2 mois, sueurs nocturnes et perte de poids. Je reviens d'un voyage en Inde.",Complexe,Pneumologie
+CAS_016,Addiction Cocaïne,"Je prends de la cocaïne le week-end, mais là j'en ai besoin la semaine pour travailler. Mon nez saigne souvent.",Psychologique,Addiction Drogue
+CAS_017,Trauma crânien,"J'ai pris un coup sur la tête, j'ai perdu connaissance 1 minute. Là je vomis et je veux juste dormir. C'est grave ?",Anxiogène,Surveillance Neuro
+CAS_018,Myasthénie ?,Faiblesse musculaire qui s'aggrave dans la journée. J'ai du mal à monter les escaliers. Mes paupières tombent le soir.,Complexe,Neurologie
+CAS_019,Coup de soleil,J'ai pris un coup de soleil sur les épaules. Ça pèle et ça gratte. Biafine ou Aloe Vera ?,Simple,Soin Peau
+CAS_020,Piqûre moustique,Une piqûre de moustique a fait une grosse plaque rouge et chaude. Faut-il un antihistaminique ?,Simple,Allergie légère
+CAS_021,Déréalisation,J'ai l'impression de sortir de mon corps et de me regarder d'en haut. Plus rien n'est réel autour de moi.,Psychologique,Symptôme Dissociatif
+CAS_022,Ecchymose,Mon bleu sur le bras devient jaune et vert. C'est bon signe ou c'est infecté ?,Simple,Evolution normale
+CAS_023,Anhédonie,"Je ne ressens plus aucune émotion. Ni joie, ni tristesse. Juste le vide. C'est ça la dépression ?",Psychologique,Compréhension
+CAS_024,Dysmorphophobie,"Je me trouve hideux. Je veux me faire opérer du nez, du menton. Tout le monde dit que je suis normal mais ils mentent.",Psychologique,Image de soi
+CAS_025,Acouphènes,Sifflement continu dans les oreilles depuis un concert il y a 2 semaines. Ça va partir ou c'est définitif ?,Complexe,ORL
+CAS_026,Cheveux cassants,Mes cheveux sont cassants et ternes en ce moment. Quelles vitamines prendre ?,Simple,Conseil Esthétique
+CAS_027,Manie Bipolaire,"Je n'ai pas dormi depuis 4 jours. Je me prends pour Dieu, j'ai une énergie folle, je nettoie tout à 3h du matin.",Psychologique,Diagnostic
+CAS_028,Crevasses,J'ai les talons fendillés qui font mal quand je marche. Un remède de grand-mère ?,Simple,Dermatologie
+CAS_029,Alcoolisme,"Je bois 2 bouteilles de vin tous les soirs pour décompresser. Le matin, mes mains tremblent si je ne bois pas un verre.",Psychologique,Sevrage
+CAS_030,Borderline,"Mes humeurs changent tout le temps. Une minute j'adore mon copain, la minute d'après je le hais et je hurle. J'ai peur qu'il m'abandonne.",Psychologique,Trouble Personnalité
+CAS_031,Trichotillomanie,"Je m'arrache les cheveux quand je stresse. J'ai des trous sur la tête. C'est plus fort que moi, je ne contrôle pas.",Psychologique,Comportemental
+CAS_032,Herpès labial,J'ai un bouton de fièvre sur la lèvre qui commence à sortir. Est-ce que je peux embrasser mon bébé ?,Simple,Hygiène / Contagion
+CAS_033,Parkinson ?,Ma main droite tremble quand je suis au repos. Je suis raide dans mes mouvements. Mon écriture est devenue toute petite.,Complexe,Neurologie
+CAS_034,Torsion testiculaire,J'ai une douleur très violente au testicule gauche arrivée d'un coup il y a 1h. J'ai envie de vomir tellement j'ai mal.,Anxiogène,Urgence Chirurgicale
+CAS_035,Cécité subite,J'ai perdu la vue d'un coup à l'œil droit. Comme un rideau noir qui tombe. Pas de douleur. Est-ce que je vais rester aveugle ?,Anxiogène,Urgence Ophtalmo
+CAS_036,Aboulie,Je n'arrive pas à prendre de décision. Même choisir un sandwich me prend 20 minutes. Je suis paralysé au quotidien.,Psychologique,Symptôme Cognitif
+CAS_037,Choc anaphylactique,"J'ai mangé des cacahuètes par erreur. Ma gorge se serre, j'entends un sifflement quand je respire. Je n'ai pas mon stylo d'adrénaline sur moi.",Anxiogène,Action Immédiate
+CAS_038,Problème hépatique,"J'ai la peau jaune, les yeux jaunes, des selles pâles et des urines foncées. Pas de douleur. Je bois de l'alcool le week-end.",Complexe,Hépato-gastro
+CAS_039,Crachat de sang,Je viens de cracher l'équivalent d'une demi-tasse de sang rouge vif dans le lavabo. Je fume depuis 20 ans. Je me sens étourdi.,Anxiogène,Triage
+CAS_040,Endométriose,"Règles très douloureuses, douleurs pendant les rapports. On suspecte une endométriose mais l'échographie est normale.",Complexe,Gynécologie
+CAS_041,TOC sévère,"Je vérifie la porte 50 fois avant de dormir. Si je ne le fais pas, j'ai peur qu'il arrive un malheur. Mes mains saignent à force de les laver.",Psychologique,Conseil Thérapeutique
+CAS_042,Rhabdomyolyse,Mes urines sont marron foncé comme du coca. J'ai mal partout aux muscles. J'ai couru un marathon hier.,Anxiogène,Urgence Rénale
+CAS_043,Hypocondrie,Je passe 4h par jour sur Google à chercher mes symptômes. Je suis sûr d'avoir une maladie rare que les médecins ratent.,Psychologique,Anxiété Santé
+CAS_044,Lymphome ?,J'ai des ganglions gonflés dans le cou depuis 2 mois. Fièvre inexpliquée le soir. Ça me gratte partout sur le corps.,Complexe,Hématologie
+CAS_045,Eczéma atopique,Mon enfant a des plaques sèches et rouges dans les plis des coudes et derrière les genoux. Ça le gratte énormément.,Complexe,Dermatologie
+CAS_046,TDAH Adulte,"Je pense être TDAH. Impossible de me concentrer, je perds mes clés tous les jours, je coupe la parole aux gens.",Psychologique,Diagnostic
+CAS_047,Hoquet,Comment arrêter le hoquet ? J'en ai depuis 20 minutes et ça m'énerve.,Simple,Astuce
+CAS_048,Pellicules,J'ai des pellicules qui grattent. Les shampoings classiques de supermarché ne marchent pas.,Simple,Dermatologie
+CAS_049,Phobie sociale,"Dès que je dois parler à des gens, mon cœur s'emballe, je transpire. J'ai peur qu'on me juge. Je ne sors plus de chez moi.",Psychologique,Conseil
+CAS_050,Jambes sans repos,"Impossible de garder les jambes immobiles le soir au lit. Sensations désagréables, besoin impérieux de bouger.",Complexe,Neurologie
+CAS_051,Hémorragie rectale,Il y a plein de sang rouge dans la cuvette après mes toilettes. L'eau est rouge vif. Je vais m'évanouir.,Anxiogène,Triage
+CAS_052,Brûlure chimique œil,"J'ai reçu de l'eau de javel dans l'œil. Ça brûle, je ne peux pas l'ouvrir. J'ai rincé 5 minutes mais j'ai mal.",Anxiogène,Urgence Ophtalmo
+CAS_053,Attaque de panique,"Je fais des crises où je ne peux plus respirer. J'ai l'impression de mourir à chaque fois, mais aux urgences ils disent que tout va bien.",Psychologique,Gestion Anxiété
+CAS_054,Dépression sévère,"Je me sens vide, je pleure tous les jours. Je pense que ma famille serait mieux sans moi. À quoi bon ?",Psychologique,Soutien / Prévention
+CAS_055,Phobie d'impulsion,Je viens d'accoucher et j'ai peur de tenir mon bébé. J'ai des images horribles où je le laisse tomber. Je suis un monstre ?,Psychologique,Post-partum
+CAS_056,Syndrome de Gougerot,"J'ai les yeux secs, la bouche sèche et des douleurs articulaires. J'ai l'impression d'avoir du sable dans les yeux.",Complexe,Auto-immun
+CAS_057,Douleur thoracique,J'ai une douleur comme un étau dans la poitrine qui irradie dans le bras gauche. Je suis en sueur et j'ai envie de vomir. C'est un infarctus ?,Anxiogène,Triage Urgence
+CAS_058,Deuil pathologique,Mon mari est mort il y a 2 ans et je n'ai toujours pas touché à ses affaires. Je lui parle toute la journée comme s'il était là.,Psychologique,Suivi Deuil
+CAS_059,Echarde,"J'ai une écharde dans le doigt. Impossible de l'enlever à la pince à épiler, elle est profonde.",Simple,Petit Geste
+CAS_060,Hypothyroïdie résistante,"J'ai Hashimoto. Malgré le Lévothyrox, je continue de grossir et je perds mes cheveux. Ma TSH est normale. Quoi faire ?",Complexe,Endocrinologie
+CAS_061,VPPB,Gros vertiges quand je me tourne dans le lit. La pièce tourne violemment 30 secondes. Pas de perte d'audition.,Complexe,ORL / Vestibulaire
+CAS_062,Epistaxis,"J'ai saigné du nez 5 minutes, ça s'est arrêté. Je peux me moucher maintenant ou ça va reprendre ?",Simple,Conseil Pratique
+CAS_063,Queue de cheval,"Mal de dos terrible après avoir porté un carton, je ne sens plus quand je fais pipi. Zone entre les jambes engourdie.",Anxiogène,Urgence Neurochirurgicale
+CAS_064,Problème gestion colère,Je m'énerve très vite et je tape dans les murs. J'ai besoin d'aide pour gérer ma colère avant de blesser quelqu'un.,Psychologique,Comportement
+CAS_065,Addiction jeu,"Je ne peux pas m'arrêter de jouer au casino. J'ai perdu l'argent du loyer. Je ne vois pas d'issue, aidez-moi.",Psychologique,Addiction
+CAS_066,Extinction de voix,J'ai la voix cassée après avoir crié au match hier. Pas mal à la gorge. Comment récupérer ma voix vite ?,Simple,ORL
+CAS_067,Céphalée abus médocs,"Maux de tête quotidiens. Je prends de l'ibuprofène tous les jours, mais maintenant j'ai encore plus mal quand j'arrête.",Complexe,Iatrogénie
+CAS_068,Maladie de Lyme,J'ai une tache rouge en forme de cible sur la cuisse après une rando. Elle s'agrandit. Je n'ai pas vu de tique. C'est Lyme ?,Complexe,Infectiologie
+CAS_069,Mal des transports,J'ai la nausée en voiture quand je lis. Comment éviter le mal des transports ?,Simple,Prévention
+CAS_070,Culpabilité délirante,Je me sens coupable de tout. J'ai l'impression d'avoir commis un crime alors que non. Je n'arrête pas de m'excuser.,Psychologique,Symptôme Dépressif
+CAS_071,Hydratation,Quelle quantité d'eau il faut boire par jour ? Mes urines sont foncées.,Simple,Santé Publique
+CAS_072,Asthme d'effort,Asthme à 40 ans ? Je n'en ai jamais eu petit mais là je siffle et je tousse quand je fais du sport.,Complexe,Pneumologie
+CAS_073,Fibromyalgie,On m'a diagnostiqué une fibromyalgie mais les médicaments ne font rien. J'ai aussi le côlon irritable et un brouillard mental.,Complexe,Douleur Chronique
+CAS_074,Diabète inaugural ?,"Fourmillements dans les mains et pieds, soif intense, j'urine tout le temps. J'ai perdu 10kg sans régime.",Complexe,Diagnostic Métabolique
+CAS_075,Brûlure 1er degré,"Je me suis brûlé le doigt sur la plaque de cuisson. Pas de cloque, juste rouge. Je peux mettre du dentifrice ?",Simple,Premiers Secours
+CAS_076,Fracture ouverte,Mon fils est tombé de l'arbre. Son bras est plié bizarrement et l'os pousse sous la peau. Il hurle de douleur.,Anxiogène,Traumatologie
+CAS_077,Schizophrénie ?,J'entends des voix qui commentent ce que je fais. Elles me disent que je suis nul. J'ai peur d'en parler au médecin.,Psychologique,Orientation Psychiatrie
+CAS_078,Carcinoid ?,"J'ai des bouffées de chaleur, des diarrhées et des sifflements respiratoires. Mon médecin évoque un syndrome carcinoïde.",Complexe,Maladie Rare
+CAS_079,Délire paranoïaque,Je pense que mes voisins m'espionnent à travers les prises électriques. J'ai mis du papier alu partout. Suis-je fou ?,Psychologique,Psychiatrie
+CAS_080,Infertilité SOPK,J'ai le syndrome des ovaires polykystiques (SOPK). On essaie d'avoir un bébé depuis 2 ans sans succès. Quelles sont mes options ?,Complexe,Gynécologie
+CAS_081,Fièvre nourrisson,"Mon bébé de 3 mois a 40 de fièvre, il est tout mou et sa peau est marbrée. Il ne se réveille pas vraiment. Je fonce aux urgences ?",Anxiogène,Urgence Pédiatrique
+CAS_082,Conjonctivite,Mon œil est rose et collé le matin au réveil. Pas de douleur mais ça gratte un peu.,Simple,Diagnostic Simple
+CAS_083,Noyau avalé,J'ai avalé un noyau de cerise par mégarde. C'est dangereux pour l'appendicite ?,Simple,Réassurance
+CAS_084,Côlon irritable,Alternance diarrhée et constipation. Ballonnement après les repas. C'est pire quand je stresse. Prise de sang normale.,Complexe,Fonctionnel
+CAS_085,Ingestion caustique,J'ai bu du déboucheur liquide par erreur (bouteille d'eau). Ça brûle horriblement dans ma gorge et mon œsophage.,Anxiogène,Centre Antipoison
+CAS_086,Verrue,J'ai une petite verrue sur le doigt. Je peux utiliser les produits qui gèlent vendus en pharmacie ?,Simple,Dermatologie
+CAS_087,Cystite récidivante,Infections urinaires à répétition depuis 3 ans. Les antibios marchent 1 semaine puis ça revient. J'en peux plus.,Complexe,Urologie
+CAS_088,Aphte,J'ai un aphte blanc douloureux à l'intérieur de la lèvre. Ça pique quand je mange des tomates. Un remède ?,Simple,Conseil
+CAS_089,Embolie pulmonaire ?,Essoufflement brutal après un long voyage en avion. Douleur coup de poignard quand j'inspire. Mon cœur s'emballe.,Anxiogène,Urgence Vitale
+CAS_090,Ongle incarné,J'ai un ongle incarné au gros orteil. C'est un peu rouge sur le côté. Comment le couper ?,Simple,Soins
+CAS_091,Constipation,Je suis constipé depuis 3 jours. Je me sens ballonné. Quoi manger pour aider ?,Simple,Diététique
+CAS_092,Appendicite ?,Douleur atroce en bas du ventre à droite. Je ne peux même pas marcher droit. Je vomis de douleur depuis 1 heure.,Anxiogène,Urgence Chirurgicale
+CAS_093,Stress post-trauma,"Je revois mon accident de voiture en boucle. Je sens l'odeur des pneus brûlés, j'entends les cris. Je ne peux plus conduire.",Psychologique,Orientation
+CAS_094,Erysipèle ?,"Ma jambe est rouge, chaude, gonflée et très douloureuse. J'ai 39 de fièvre. La rougeur monte vite vers le genou.",Anxiogène,Infection Grave
+CAS_095,Hémorragie artérielle,Je me suis coupé la cuisse avec un couteau. Le sang sort par jets au rythme de mon cœur. Je n'arrive pas à l'arrêter avec une serviette.,Anxiogène,Secours Vital
+CAS_096,Oreille bouchée,J'ai l'oreille bouchée après la piscine. J'ai sauté sur un pied ça ne sort pas.,Simple,Conseil
+CAS_097,Entorse légère,Je me suis tordu la cheville. C'est un peu gonflé mais je peux marcher dessus. Je mets de la glace ?,Simple,Traumatologie
+CAS_098,Céphalée brutale,"J'ai eu un mal de tête soudain, comme un coup de tonnerre derrière le crâne. C'est la pire douleur de ma vie. Je vois flou.",Anxiogène,Urgence Neurologique
+CAS_099,Pré-éclampsie ?,"Ma femme est enceinte (34 semaines), elle a un mal de tête terrible et voit des points noirs. Ses pieds ont doublé de volume.",Anxiogène,Urgence Obstétrique
+CAS_100,Sciatique,Mal au bas du dos qui descend dans la jambe jusqu'au pied. Sensation d'électricité. C'est pire quand je m'assois.,Complexe,Rhumatologie
