@@ -1,0 +1,30 @@
+======================================================================
+RAPPORT DU DATASET DE FINE-TUNING
+======================================================================
+
+📊 Statistiques:
+   • Total exemples: 37
+   • Corrections (non prouvée → prouvée): 7
+   • Exemples positifs: 30
+
+✂️  Split:
+   • Train: 29 exemples (80%)
+   • Validation: 8 exemples (20%)
+
+📁 Fichiers créés:
+   • 02_dataset_finetuning.jsonl
+   • 02_dataset_train.jsonl
+   • 02_dataset_validation.jsonl
+
+🎯 Objectifs du fine-tuning:
+   1. Éliminer les réponses non prouvées
+   2. Toujours citer des sources scientifiques
+   3. Maintenir l'empathie et le ton approprié
+
+📋 Format du dataset:
+   • Format: JSONL (JSON Lines)
+   • Structure: messages conversationnels
+   • Système prompt: instructions pour validation scientifique
+
+🔧 Prochaine étape:
+   Script 3 - Configuration et lancement du fine-tuning

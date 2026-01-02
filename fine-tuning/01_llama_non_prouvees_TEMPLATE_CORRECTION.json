@@ -1,0 +1,268 @@
+[
+  {
+    "cas_id": 18,
+    "cas_id_original": "CAS_018",
+    "numero": 1,
+    "categorie": "Complexe",
+    "titre": "Myasthénie ?",
+    "description_cas": "Faiblesse musculaire qui s'aggrave dans la journée. J'ai du mal à monter les escaliers. Mes paupières tombent le soir.",
+    "reponse_actuelle": {
+      "texte": "**Analyse du cas**\\n\\nVous décrivez des symptômes de faiblesse musculaire qui s'aggravent au cours de la journée, avec des difficultés à monter les escaliers et une chute des paupières (ptosis) le soir. Ces symptômes peuvent être évocateurs d'une maladie neuromusculaire.\\n\\n**Hypothèses diagnostiques possibles**\\n\\nPlusieurs conditions peuvent être responsables de ces symptômes, notamment :\\n\\n1. **Myasthénie** : maladie auto-immune chronique caractérisée par une faiblesse musculaire fluctuante qui s'aggrave avec l'activité et s'améliore avec le repos. Les muscles oculaires sont souvent touchés, entraînant une ptose et une diplopie (vision double).\\n2. **Myasthénie oculaire** : forme localisée de myasthénie qui n'affecte que les muscles oculaires.\\n3. **Lambert-Eaton** : syndrome myasthénique paranéoplasique rare qui peut simuler une myasthénie.\\n4. **Distrophies musculaires** : groupe de maladies génétiques affectant les muscles.\\n\\n**Conseils pour le patient**\\n\\nIl est essentiel de consulter un médecin, notamment un neurologue, pour une évaluation approfondie et un diagnostic précis. En attendant la consultation médicale, voici quelques conseils :\\n\\n* Prenez des notes détaillées sur vos symptômes, leur durée et leur intensité.\\n* Essayez de maintenir une activité régulière sans vous épuiser.\\n* Évitez les situations qui pourraient aggraver vos symptômes (par exemple, monter les escaliers si vous éprouvez des difficultés).\\n\\n**Niveau d'urgence**\\n\\nLa situation décrite nécessite une **consultation médicale** dans les plus brefs délais. Bien que les symptômes puissent être invalidants, ils ne semblent pas mettre immédiatement la vie en danger.\\n\\n**Limites de la réponse**\\n\\nCette réponse ne remplace pas une consultation médicale en présentiel. Le diagnostic et le traitement nécessitent une évaluation clinique approfondie, des examens complémentaires et une discussion personnalisée avec un professionnel de santé. Il est crucial de ne pas autodiagnostiquer ou de s'autotraiter sur la base de ces informations.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "Les symptômes décrits — faiblesse musculaire qui s’aggrave au cours de la journée, difficulté à monter les escaliers et paupières qui tombent le soir — sont typiques de la myasthénie grave. Cette maladie neuromusculaire auto-immune se caractérise par une faiblesse musculaire fluctuante et fatigable, qui augmente avec l’effort et s’améliore au repos. L’atteinte fréquente des muscles proximaux (cuisses) explique la difficulté à monter les escaliers, tandis que la ptose vespérale (chute des paupières en fin de journée) est un signe clinique très évocateur, largement décrit dans la littérature médicale.",
+      "sources_ajoutees": [
+        "HAS",
+        "PubMed",
+        "OMS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  },
+  {
+    "cas_id": 19,
+    "cas_id_original": "CAS_019",
+    "numero": 2,
+    "categorie": "Simple",
+    "titre": "Coup de soleil",
+    "description_cas": "J'ai pris un coup de soleil sur les épaules. Ça pèle et ça gratte. Biafine ou Aloe Vera ?",
+    "reponse_actuelle": {
+      "texte": "**Réponse structurée au cas \"Coup de soleil\"**\\n\\n### 1. Analyse du cas\\n\\nVous avez mentionné avoir pris un coup de soleil sur les épaules, caractérisé par une peau qui pèle et gratte. Les coups de soleil sont des lésions cutanées causées par une exposition excessive aux rayons ultraviolets (UV) du soleil ou d'autres sources, comme les lits de bronzage. Ils peuvent varier en gravité, allant d'une légère rougeur à des brûlures plus sévères nécessitant des soins médicaux.\\n\\n### 2. Hypothèses diagnostiques possibles\\n\\n- **Coup de soleil léger à modéré** : Caractérisé par une rougeur, une sensation de chaleur, et parfois une légère douleur. La peau peut peler après quelques jours.\\n- **Brûlure solaire** : Plus sévère, elle peut inclure des symptômes tels que des cloques, une douleur intense, et dans les cas graves, de la fièvre et des frissons.\\n\\n### 3. Conseils pour le patient\\n\\nPour les coups de soleil légers à modérés comme celui que vous décrivez :\\n\\n- **Hydratation** : Buvez beaucoup d'eau pour aider votre peau à se réhydrater de l'intérieur.\\n- **Soin de la peau** :\\n  - **Biafine** : La pommade Biafine est souvent recommandée pour les coups de soleil. Elle aide à apaiser la douleur et favorise la cicatrisation de la peau.\\n  - **Aloe Vera** : L'Aloe Vera est connu pour ses propriétés apaisantes et hydratantes. Il peut aider à réduire la douleur et l'inflammation. Vous pouvez appliquer du gel d'Aloe Vera directement sur la peau affectée.\\n- **Évitez** :\\n  - De vous exposer de nouveau au soleil jusqu'à ce que votre coup de soleil soit complètement guéri. Utilisez un écran solaire avec un indice de protection élevé lorsque vous sortez.\\n  - De gratter ou d'arracher les peaux mortes pour éviter les infections et les cicatrices.\\n\\n### 4. Niveau d'urgence\\n\\n- **Auto-surveillance** : La plupart des coups de soleil peuvent être traités avec des soins personnels. Cependant, surveillez vos symptômes. Si vous observez des signes d'infection (comme une augmentation de la douleur, du gonflement, de la fièvre) ou si les symptômes s'aggravent, il est conseillé de consulter un professionnel de santé.\\n\\n### 5. Limites de la réponse\\n\\n- Cette réponse ne remplace pas une consultation médicale en présentiel. Si vous avez des inquiétudes quant à la gravité de votre coup de soleil ou si vous présentez des symptômes inhabituels, il est crucial de consulter un professionnel de santé.\\n- Les conseils prodigués sont généraux et peuvent varier en fonction de l'âge, de l'état de santé général et d'autres facteurs. \\n\\nEn cas de doute ou de symptômes persistants, n'hésitez pas à contacter un professionnel de santé pour obtenir des conseils personnalisés.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "En cas de coup de soleil avec desquamation (ça pèle) et démangeaisons, l’Aloe vera est généralement préférable à la Biafine lorsque la peau n’est pas à vif. L’Aloe vera hydrate, apaise les démangeaisons et favorise la réparation cutanée grâce à ses propriétés anti-inflammatoires et cicatrisantes. La Biafine est surtout indiquée pour les brûlures superficielles non infectées, notamment lorsque la peau est très irritée ou douloureuse, mais elle est moins efficace pour calmer les démangeaisons une fois la phase aiguë passée. Dans tous les cas, il faut éviter toute nouvelle exposition au soleil jusqu’à guérison complète.",
+      "sources_ajoutees": [
+        "PubMed",
+        "OMS",
+        "HAS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  },
+  {
+    "cas_id": 51,
+    "cas_id_original": "CAS_051",
+    "numero": 3,
+    "categorie": "Anxiogène",
+    "titre": "Hémorragie rectale",
+    "description_cas": "Il y a plein de sang rouge dans la cuvette après mes toilettes. L'eau est rouge vif. Je vais m'évanouir.",
+    "reponse_actuelle": {
+      "texte": "**Réponse structurée :**\\n\\n**1. Analyse du cas**\\n\\nVous avez constaté la présence de sang rouge vif dans l'eau des toilettes après votre passage, ce qui peut être une source d'inquiétude. Il est important de rester calme et de chercher à comprendre les causes potentielles de ce symptôme.\\n\\n**2. Hypothèses diagnostiques possibles**\\n\\nL'hémorragie rectale, ou rectorragie, peut avoir plusieurs origines. Voici quelques-unes des causes possibles :\\n\\n- **Hémorroïdes** : Une des causes les plus fréquentes de saignement rectal, les hémorroïdes sont des veines gonflées dans la région anale qui peuvent saigner, surtout lors de la défécation.\\n- **Fissure anale** : Une petite déchirure dans la peau autour de l'anus peut provoquer un saignement.\\n- **Diverticulite** : Des diverticules (petits sacs) dans le côlon peuvent s'inflammer et saigner.\\n- **Infection intestinale** : Une infection gastro-intestinale peut causer des saignements.\\n- **Polypes ou cancer colorectal** : Des polypes (excroissances) ou un cancer du côlon ou du rectum peuvent également provoquer des saignements.\\n\\n**3. Conseils pour le patient**\\n\\n- **Restez calme** : Il est crucial de garder votre calme pour prendre les bonnes décisions.\\n- **Évaluez la quantité de sang** : Essayez d'évaluer la quantité de sang que vous avez perdue. Si c'est abondant ou si vous avez des signes de choc (pâleur, sueurs, faiblesse, accélération du rythme cardiaque), il est crucial de contacter immédiatement les services d'urgence.\\n- **Ne pas utiliser de coton ou de papier toilette pour essayer de stopper le saignement**, cela pourrait aggraver la situation.\\n\\n**4. Niveau d'urgence**\\n\\nÉtant donné la description d'une hémorragie rectale avec du sang rouge vif et la mention de sentiments d'évanouissement, cela **relève de l'urgence**. Il est conseillé de **consulter un médecin ou de contacter les services d'urgence** dès que possible. Si vous ressentez des symptômes tels que des étourdissements, une faiblesse extrême, une accélération du rythme cardiaque, une pâleur ou des sueurs, **appelez immédiatement les services d'urgence**.\\n\\n**5. Limites de la réponse**\\n\\nCette réponse ne remplace en aucun cas une consultation médicale en présentiel. Seul un professionnel de santé peut évaluer personnellement votre état et fournir un diagnostic précis ainsi que des soins appropriés. L'objectif ici est de fournir des informations générales et des conseils provisoires en attendant une évaluation médicale. La situation médicale peut nécessiter une attention immédiate, et il est crucial de suivre les conseils des professionnels de santé pour votre sécurité.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "La présence de beaucoup de sang rouge vif dans la cuvette après les selles, surtout si l’eau devient rouge et qu’il existe une sensation de malaise ou de risque d’évanouissement, évoque une hémorragie digestive basse potentiellement grave. Ce tableau peut correspondre à une cause fréquente comme des hémorroïdes ou une fissure anale, mais la quantité importante de sang et les signes généraux (malaise, faiblesse) sont des signes de gravité. Dans cette situation, les recommandations médicales indiquent qu’il faut consulter en urgence (SAMU / urgences) afin d’évaluer la perte de sang et d’en identifier la cause",
+      "sources_ajoutees": [
+        "PubMed",
+        "HAS",
+        "OMS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  },
+  {
+    "cas_id": 52,
+    "cas_id_original": "CAS_052",
+    "numero": 4,
+    "categorie": "Anxiogène",
+    "titre": "Brûlure chimique œil",
+    "description_cas": "J'ai reçu de l'eau de javel dans l'œil. Ça brûle, je ne peux pas l'ouvrir. J'ai rincé 5 minutes mais j'ai mal.",
+    "reponse_actuelle": {
+      "texte": "**Réponse médicale virtuelle**\\n\\n**1. Analyse du cas**\\n\\nVous avez reçu de l'eau de javel dans l'œil, ce qui peut provoquer une brûlure chimique oculaire. L'eau de javel est un produit caustique qui peut entraîner des lésions graves aux yeux. Vous avez déjà rincé votre œil pendant 5 minutes, ce qui est un bon réflexe.\\n\\n**2. Hypothèses diagnostiques possibles**\\n\\nLes brûlures chimiques oculaires peuvent être classées en fonction de leur gravité :\\n\\n* Brûlure chimique légère : irritation conjonctivale et légère douleur\\n* Brûlure chimique modérée : ulcération de la cornée et conjonctive, avec douleur et photophobie\\n* Brûlure chimique grave : lésion de la cornée et de la conjonctive avec risque de perte de vision\\n\\n**3. Conseils pour le patient**\\n\\nIl est essentiel de continuer à rincer votre œil avec de l'eau tiède pendant au moins 15 à 20 minutes pour éliminer les résidus de produit caustique. Vous pouvez utiliser un robinet ou une douche, en faisant attention à ne pas propager le produit à l'autre œil.\\n\\nEnsuite, il est recommandé de consulter un ophtalmologue en urgence pour évaluer la gravité de la lésion et recevoir un traitement approprié. Il est possible que vous ayez besoin de médicaments pour soulager la douleur et prévenir les complications.\\n\\n**4. Niveau d'urgence**\\n\\nUrgence. Il est important de consulter un ophtalmologue le plus rapidement possible pour éviter des complications graves.\\n\\n**5. Limites de la réponse**\\n\\nCette réponse médicale virtuelle ne remplace pas une consultation médicale en présentiel. Il est essentiel de consulter un professionnel de santé pour obtenir un diagnostic et un traitement adaptés à votre situation spécifique. Les brûlures chimiques oculaires peuvent entraîner des complications graves, voire permanentes, si elles ne sont pas traitées rapidement et correctement.\\n\\nRendez-vous chez un ophtalmologue en urgence pour une évaluation et un traitement appropriés.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "La projection d’eau de Javel dans l’œil provoque une brûlure chimique oculaire, qui est une urgence médicale. La douleur intense, la difficulté à ouvrir l’œil et la persistance des symptômes après 5 minutes de rinçage indiquent que l’irritation peut être sévère. Les recommandations médicales stipulent qu’il faut rincer immédiatement et abondamment l’œil pendant au moins 15 à 30 minutes avec de l’eau ou du sérum physiologique, sans interrompre le lavage, puis consulter en urgence (urgences ou ophtalmologie). Une prise en charge rapide est essentielle pour éviter des lésions graves et parfois irréversibles de la cornée.",
+      "sources_ajoutees": [
+        "PubMed",
+        "HAS",
+        "OMS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  },
+  {
+    "cas_id": 53,
+    "cas_id_original": "CAS_053",
+    "numero": 5,
+    "categorie": "Psychologique",
+    "titre": "Attaque de panique",
+    "description_cas": "Je fais des crises où je ne peux plus respirer. J'ai l'impression de mourir à chaque fois, mais aux urgences ils disent que tout va bien.",
+    "reponse_actuelle": {
+      "texte": "**Réponse structurée :**\\n\\n**1. Analyse du cas**\\n\\nVous décrivez des épisodes de crises où vous ressentez une grande anxiété, des difficultés respiratoires et la peur de mourir. Malgré les examens aux urgences, aucun problème médical grave n'a été détecté. Ces symptômes peuvent être très inquiétants et perturbants.\\n\\n**2. Hypothèses diagnostiques possibles**\\n\\nSur la base de votre description, plusieurs hypothèses diagnostiques peuvent être envisagées :\\n- **Crise de panique** : Les crises de panique sont des épisodes soudains de peur intense qui peuvent provoquer des symptômes physiques tels que des palpitations, des sueurs, des tremblements, des difficultés respiratoires, et la peur de mourir ou de perdre le contrôle. Elles peuvent survenir dans le cadre d'un trouble panique.\\n- **Trouble anxieux** : Les troubles anxieux, comme le trouble anxieux généralisé, les phobies spécifiques ou l'agoraphobie, peuvent également provoquer des crises d'anxiété.\\n\\n**3. Conseils pour le patient**\\n\\n- **Consultez un professionnel de santé mentale** : Il est essentiel de consulter un psychologue ou un psychiatre qui peut évaluer vos symptômes et proposer un diagnostic précis. Un professionnel pourra également vous aider à développer des stratégies pour gérer votre anxiété.\\n- **Apprenez des techniques de relaxation** : Des techniques telles que la respiration profonde, la méditation et la relaxation progressive peuvent aider à réduire l'anxiété.\\n- **Tenez un journal** : Notez les moments où les crises surviennent, ce que vous faisiez avant, et comment vous vous sentiez. Cela peut aider à identifier des déclencheurs potentiels.\\n\\n**4. Niveau d'urgence**\\n\\n- **Consultation** : Bien que les crises de panique ne mettent pas la vie en danger à court terme, il est crucial de consulter un professionnel de santé pour obtenir une aide appropriée. N'attendez pas que les symptômes s'aggravent.\\n\\n**5. Limites de la réponse**\\n\\n- **Cette réponse ne remplace pas une consultation médicale** : Les conseils prodigués ici sont généraux et ne constituent pas un diagnostic ou un traitement médical. Chaque situation est unique, et seul un professionnel de santé qualifié peut fournir des conseils adaptés à votre situation spécifique.\\n- **Importance d'une évaluation médicale** : Même si les urgences n'ont rien trouvé d'anormal, il est possible que vous ayez besoin d'une évaluation plus approfondie par un spécialiste de la santé mentale pour identifier la cause de vos crises et proposer un traitement approprié.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "Des crises soudaines avec sensation d’étouffement, impression de mort imminente, alors que les examens aux urgences sont normaux, correspondent très souvent à des attaques de panique (ou trouble panique). Ces crises provoquent une hyperventilation, une oppression thoracique et une peur intense, donnant l’impression de ne plus pouvoir respirer, sans danger vital réel, ce qui explique les bilans normaux aux urgences. Même si elles sont très impressionnantes, elles sont d’origine anxieuse et nécessitent une prise en charge médicale et psychologique, surtout si elles se répètent.",
+      "sources_ajoutees": [
+        "PubMed",
+        "HAS",
+        "OMS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  },
+  {
+    "cas_id": 54,
+    "cas_id_original": "CAS_054",
+    "numero": 6,
+    "categorie": "Psychologique",
+    "titre": "Dépression sévère",
+    "description_cas": "Je me sens vide, je pleure tous les jours. Je pense que ma famille serait mieux sans moi. À quoi bon ?",
+    "reponse_actuelle": {
+      "texte": "Je suis désolé de lire que vous vous sentez ainsi. Il est important de parler de ce que vous traversez.\\n\\n**1. Analyse du cas**\\n\\nVous exprimez des sentiments de tristesse profonde, de vide et de désespoir, avec des pensées négatives sur votre valeur et votre présence dans votre famille. Ces sentiments et pensées sont persistants, avec des pleurs quotidiens. Cela suggère une détresse émotionnelle significative.\\n\\n**2. Hypothèses diagnostiques possibles**\\n\\nSur la base de votre description, il pourrait s'agir d'un épisode dépressif majeur, caractérisé par une tristesse profonde, une perte d'intérêt pour les activités, des sentiments de culpabilité ou de dévalorisation, et des pensées pessimistes ou même suicidaires. Cependant, seul un professionnel de la santé mentale qualifié, tel qu'un psychologue ou un psychiatre, peut établir un diagnostic précis après une évaluation complète.\\n\\n**3. Conseils pour le patient**\\n\\n- **Parlez-en à quelqu'un** : Il est crucial de partager vos sentiments avec un proche de confiance ou un professionnel de la santé mentale. Cela peut vous aider à vous sentir soutenu et compris.\\n- **Cherchez de l'aide professionnelle** : Un professionnel de la santé mentale peut vous offrir des stratégies pour gérer vos symptômes et travailler à travers vos sentiments.\\n- **Restez connecté** : Essayez de maintenir des liens avec vos proches, même si cela vous semble difficile.\\n- **Prenez soin de vous** : Faites des activités qui vous apportent du réconfort et essayez de maintenir une routine quotidienne.\\n\\n**4. Niveau d'urgence**\\n\\nÉtant donné que vous exprimez des pensées selon lesquelles votre famille serait mieux sans vous, cela constitue une **alerte vitale**. Il est crucial de contacter immédiatement un service d'urgence ou un professionnel de la santé mentale.\\n\\nDans de nombreux pays, il existe des lignes d'assistance téléphonique pour les personnes en détresse, par exemple :\\n- En France : 15 (SAMU) ou 112 (urgence européenne), ou le 01 45 39 40 00 (SOS Amitié) pour un soutien psychologique.\\n- Au Québec (Canada) : 911 (urgence) ou 1-866-277-3553 (Tel-Écoute).\\n\\n**5. Limites de la réponse**\\n\\nCette réponse ne remplace pas une consultation médicale ou un suivi par un professionnel de la santé mentale. Les conseils donnés sont généraux et doivent être adaptés à votre situation spécifique par un professionnel. Il est essentiel de consulter un médecin ou un thérapeute pour obtenir un soutien et un traitement appropriés.\\n\\nPrenez soin de vous et cherchez de l'aide dès que possible.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "Se sentir vide, pleurer quotidiennement et penser que sa famille irait mieux sans soi correspondent à des symptômes centraux d’un épisode dépressif, tels que décrits par les classifications médicales internationales. Ces pensées traduisent une altération de l’humeur, une perte d’espoir et une auto-dévalorisation, fréquentes dans la dépression, et ne reflètent pas la réalité de ta valeur. Les autorités de santé soulignent que ces symptômes nécessitent une évaluation médicale et une prise en charge adaptée, car la dépression est une maladie traitable et un accompagnement précoce améliore nettement le pronostic.",
+      "sources_ajoutees": [
+        "PubMed",
+        "HAS",
+        "OMS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  },
+  {
+    "cas_id": 55,
+    "cas_id_original": "CAS_055",
+    "numero": 7,
+    "categorie": "Psychologique",
+    "titre": "Phobie d'impulsion",
+    "description_cas": "Je viens d'accoucher et j'ai peur de tenir mon bébé. J'ai des images horribles où je le laisse tomber. Je suis un monstre ?",
+    "reponse_actuelle": {
+      "texte": "Je suis là pour vous aider et vous offrir des informations générales sur votre situation. Il est essentiel de rappeler que ma réponse ne remplace pas une consultation médicale en présentiel avec un professionnel de la santé.\\n\\n**1. Analyse du cas**\\n\\nVous venez de donner naissance et vous éprouvez des pensées angoissantes et des images inquiétantes concernant votre bébé, notamment la peur de le laisser tomber. Ces pensées peuvent être très perturbantes et vous font vous sentir coupable ou même vous qualifier de \"monstre\". Il est important de comprendre que ces pensées et sentiments peuvent être liés à votre état émotionnel actuel, qui peut être influencé par les changements hormonaux, la fatigue et le stress liés à l'accouchement et au post-partum.\\n\\n**2. Hypothèses diagnostiques possibles**\\n\\nLes pensées intrusives et angoissantes que vous décrivez pourraient être liées à plusieurs conditions, notamment :\\n- La dépression post-partum (DPP) : une condition qui affecte certaines femmes après l'accouchement, caractérisée par des sentiments de tristesse, d'anxiété et parfois des pensées négatives envers soi-même ou envers le bébé.\\n- Les troubles anxieux : qui peuvent inclure des phobies d'impulsion, des pensées obsessives ou des compulsions, bien que ces conditions puissent nécessiter des critères diagnostiques plus spécifiques.\\n\\n**3. Conseils pour le patient**\\n\\n- **Parlez-en** : Il est crucial de partager vos sentiments et pensées avec votre partenaire, un ami proche ou un membre de votre famille. Cependant, il est encore plus important de discuter avec un professionnel de la santé, comme votre gynécologue, votre médecin généraliste ou un psychologue.\\n- **Cherchez de l'aide professionnelle** : Un professionnel de la santé pourra évaluer vos symptômes, discuter de vos sentiments et fournir un soutien approprié. Dans certains cas, une thérapie ou un traitement médicamenteux pourrait être proposé.\\n- **Pratiquez l'auto-compassion** : Rappelez-vous que vous n'êtes pas seule et que beaucoup de femmes éprouvent des sentiments similaires après l'accouchement. Vous n'êtes pas un \"monstre\" ; vous traversez simplement une période difficile qui peut être surmontée avec le soutien adéquat.\\n\\n**4. Niveau d'urgence**\\n\\n- **Consultation** : Bien que votre situation ne semble pas constituer une urgence vitale, il est important de planifier une consultation avec un professionnel de la santé dès que possible. Les sentiments et pensées que vous éprouvez peuvent s'aggraver ou s'améliorer avec le temps, mais obtenir de l'aide permettra d'aborder ces problèmes de manière constructive.\\n\\n**5. Limites de la réponse**\\n\\n- **Cette réponse est informative et ne constitue pas un diagnostic médical**. Les diagnostics et les plans de traitement sont spécifiques à chaque individu et nécessitent une évaluation par un professionnel de la santé.\\n- **La réponse fournie ne remplace pas une consultation médicale en présentiel**. Pour toute préoccupation concernant votre santé ou celle de votre bébé, il est essentiel de consulter un professionnel de la santé qualifié.\\n\\nPrenez soin de vous et n'hésitez pas à chercher de l'aide.",
+      "probleme": "Non prouvée scientifiquement",
+      "justification_probleme": "Erreur lors de l'évaluation: Connection error."
+    },
+    "reponse_corrigee": {
+      "texte": "Après un accouchement, le fait d’avoir peur de tenir son bébé et d’avoir des images intrusives violentes (le laisser tomber) correspond très fréquemment à une anxiété post-partum, parfois associée à des pensées obsessionnelles. Ces pensées sont involontaires, vécues comme choquantes et angoissantes, et ne signifient absolument pas que tu veux faire du mal à ton bébé ni que tu es une mauvaise mère. Les autorités de santé expliquent que ces symptômes sont courants après l’accouchement et nécessitent une prise en charge médicale, car un accompagnement précoce permet une amélioration rapide",
+      "sources_ajoutees": [
+        "PubMed",
+        "HAS",
+        "OMS"
+      ],
+      "modifications_effectuees": [
+        "Ajout de validation scientifique",
+        "Citation de sources fiables",
+        "Reformulation pour plus de précision"
+      ]
+    },
+    "impact_psycho": {
+      "credibilite": 0.12,
+      "ton": "neutre",
+      "anxiete": "faible"
+    },
+    "instructions_correction": [
+      "1. Rechercher des sources scientifiques fiables (PubMed, HAS, OMS, Cochrane)",
+      "2. Vérifier la validité de l'information",
+      "3. Réécrire la réponse en citant les sources",
+      "4. Conserver le ton empathique si présent",
+      "5. Ajouter les références dans 'sources_ajoutees'"
+    ]
+  }
+]

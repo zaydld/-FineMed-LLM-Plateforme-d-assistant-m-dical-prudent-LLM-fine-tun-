@@ -1,0 +1,255 @@
+======================================================================
+ANALYSE DES RÉPONSES NON PROUVÉES DE LLAMA
+======================================================================
+
+
+======================================================================
+CAS #1
+======================================================================
+
+📋 Titre: Myasthénie ?
+📂 Catégorie: Complexe
+🎯 Objectif: Neurologie
+
+📝 Description du cas:
+Faiblesse musculaire qui s'aggrave dans la journée. J'ai du mal à monter les escaliers. Mes paupières tombent le soir.
+
+🤖 Réponse de Llama:
+**Analyse du cas**\n\nVous décrivez des symptômes de faiblesse musculaire qui s'aggravent au cours de la journée, avec des difficultés à monter les escaliers et une chute des paupières (ptosis) le soir. Ces symptômes peuvent être évocateurs d'une maladie neuromusculaire.\n\n**Hypothèses diagnostiques possibles**\n\nPlusieurs conditions peuvent être responsables de ces symptômes, notamment :\n\n1. **Myasthénie** : maladie auto-immune chronique caractérisée par une faiblesse musculaire fluctuante ...
+   Longueur: 2045 caractères
+   Mots: 265
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=6 | has:#chunk=235 | has:#chunk=33 | has:#chunk=0 | has:#chunk=200 | has:#chunk=44
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
+
+
+======================================================================
+CAS #2
+======================================================================
+
+📋 Titre: Coup de soleil
+📂 Catégorie: Simple
+🎯 Objectif: Soin Peau
+
+📝 Description du cas:
+J'ai pris un coup de soleil sur les épaules. Ça pèle et ça gratte. Biafine ou Aloe Vera ?
+
+🤖 Réponse de Llama:
+**Réponse structurée au cas "Coup de soleil"**\n\n### 1. Analyse du cas\n\nVous avez mentionné avoir pris un coup de soleil sur les épaules, caractérisé par une peau qui pèle et gratte. Les coups de soleil sont des lésions cutanées causées par une exposition excessive aux rayons ultraviolets (UV) du soleil ou d'autres sources, comme les lits de bronzage. Ils peuvent varier en gravité, allant d'une légère rougeur à des brûlures plus sévères nécessitant des soins médicaux.\n\n### 2. Hypothèses dia...
+   Longueur: 2687 caractères
+   Mots: 420
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=0 | has:#chunk=6 | has:#chunk=25 | has:#chunk=1 | has:#chunk=1 | has:#chunk=33
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
+
+
+======================================================================
+CAS #3
+======================================================================
+
+📋 Titre: Hémorragie rectale
+📂 Catégorie: Anxiogène
+🎯 Objectif: Triage
+
+📝 Description du cas:
+Il y a plein de sang rouge dans la cuvette après mes toilettes. L'eau est rouge vif. Je vais m'évanouir.
+
+🤖 Réponse de Llama:
+**Réponse structurée :**\n\n**1. Analyse du cas**\n\nVous avez constaté la présence de sang rouge vif dans l'eau des toilettes après votre passage, ce qui peut être une source d'inquiétude. Il est important de rester calme et de chercher à comprendre les causes potentielles de ce symptôme.\n\n**2. Hypothèses diagnostiques possibles**\n\nL'hémorragie rectale, ou rectorragie, peut avoir plusieurs origines. Voici quelques-unes des causes possibles :\n\n- **Hémorroïdes** : Une des causes les plus fr...
+   Longueur: 2635 caractères
+   Mots: 373
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=235 | has:#chunk=33 | has:#chunk=92 | has:#chunk=367 | has:#chunk=6 | has:#chunk=379
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
+
+
+======================================================================
+CAS #4
+======================================================================
+
+📋 Titre: Brûlure chimique œil
+📂 Catégorie: Anxiogène
+🎯 Objectif: Urgence Ophtalmo
+
+📝 Description du cas:
+J'ai reçu de l'eau de javel dans l'œil. Ça brûle, je ne peux pas l'ouvrir. J'ai rincé 5 minutes mais j'ai mal.
+
+🤖 Réponse de Llama:
+**Réponse médicale virtuelle**\n\n**1. Analyse du cas**\n\nVous avez reçu de l'eau de javel dans l'œil, ce qui peut provoquer une brûlure chimique oculaire. L'eau de javel est un produit caustique qui peut entraîner des lésions graves aux yeux. Vous avez déjà rincé votre œil pendant 5 minutes, ce qui est un bon réflexe.\n\n**2. Hypothèses diagnostiques possibles**\n\nLes brûlures chimiques oculaires peuvent être classées en fonction de leur gravité :\n\n* Brûlure chimique légère : irritation con...
+   Longueur: 1945 caractères
+   Mots: 282
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=6 | has:#chunk=0 | has:#chunk=235 | has:#chunk=33 | has:#chunk=25 | has:#chunk=1
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
+
+
+======================================================================
+CAS #5
+======================================================================
+
+📋 Titre: Attaque de panique
+📂 Catégorie: Psychologique
+🎯 Objectif: Gestion Anxiété
+
+📝 Description du cas:
+Je fais des crises où je ne peux plus respirer. J'ai l'impression de mourir à chaque fois, mais aux urgences ils disent que tout va bien.
+
+🤖 Réponse de Llama:
+**Réponse structurée :**\n\n**1. Analyse du cas**\n\nVous décrivez des épisodes de crises où vous ressentez une grande anxiété, des difficultés respiratoires et la peur de mourir. Malgré les examens aux urgences, aucun problème médical grave n'a été détecté. Ces symptômes peuvent être très inquiétants et perturbants.\n\n**2. Hypothèses diagnostiques possibles**\n\nSur la base de votre description, plusieurs hypothèses diagnostiques peuvent être envisagées :\n- **Crise de panique** : Les crises d...
+   Longueur: 2529 caractères
+   Mots: 363
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=6 | has:#chunk=33 | has:#chunk=25 | has:#chunk=24 | has:#chunk=235 | has:#chunk=0
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
+
+
+======================================================================
+CAS #6
+======================================================================
+
+📋 Titre: Dépression sévère
+📂 Catégorie: Psychologique
+🎯 Objectif: Soutien / Prévention
+
+📝 Description du cas:
+Je me sens vide, je pleure tous les jours. Je pense que ma famille serait mieux sans moi. À quoi bon ?
+
+🤖 Réponse de Llama:
+Je suis désolé de lire que vous vous sentez ainsi. Il est important de parler de ce que vous traversez.\n\n**1. Analyse du cas**\n\nVous exprimez des sentiments de tristesse profonde, de vide et de désespoir, avec des pensées négatives sur votre valeur et votre présence dans votre famille. Ces sentiments et pensées sont persistants, avec des pleurs quotidiens. Cela suggère une détresse émotionnelle significative.\n\n**2. Hypothèses diagnostiques possibles**\n\nSur la base de votre description, i...
+   Longueur: 2554 caractères
+   Mots: 377
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=6 | has:#chunk=33 | has:#chunk=25 | has:#chunk=235 | has:#chunk=0 | has:#chunk=257
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
+
+
+======================================================================
+CAS #7
+======================================================================
+
+📋 Titre: Phobie d'impulsion
+📂 Catégorie: Psychologique
+🎯 Objectif: Post-partum
+
+📝 Description du cas:
+Je viens d'accoucher et j'ai peur de tenir mon bébé. J'ai des images horribles où je le laisse tomber. Je suis un monstre ?
+
+🤖 Réponse de Llama:
+Je suis là pour vous aider et vous offrir des informations générales sur votre situation. Il est essentiel de rappeler que ma réponse ne remplace pas une consultation médicale en présentiel avec un professionnel de la santé.\n\n**1. Analyse du cas**\n\nVous venez de donner naissance et vous éprouvez des pensées angoissantes et des images inquiétantes concernant votre bébé, notamment la peur de le laisser tomber. Ces pensées peuvent être très perturbantes et vous font vous sentir coupable ou même...
+   Longueur: 3161 caractères
+   Mots: 456
+
+❌ Verdict: non_prouvee
+
+📖 Justification:
+Erreur lors de l'évaluation: Connection error.
+
+📚 Sources utilisées:
+has:#chunk=6 | has:#chunk=0 | has:#chunk=33 | has:#chunk=9 | has:#chunk=25 | has:#chunk=235
+
+💭 Impact Psychologique:
+   • Crédibilité perçue: 0.12/10
+   • Certitude: 0.00/10
+   • Empathie: 0.00/10
+   • Ton dominant: neutre
+   • Anxiété induite: faible
+
+🔧 ACTION REQUISE: Corriger cette réponse manuellement
+   → Ajouter validation scientifique
+   → Citer sources fiables (HAS, OMS, PubMed)
