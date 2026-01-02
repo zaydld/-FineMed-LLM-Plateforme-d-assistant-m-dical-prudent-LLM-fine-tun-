@@ -1,0 +1,1975 @@
+1 
+ 
+ 
+Protocole National de Diagnostic et de Soins 
+ 
+PNDS 2018 
+ 
+ 
+ 
+ 
+ 
+ 
+Ce PNDS a été dirigé par le Docteur Véronique HENTGEN 
+ 
+Centre de Référence des Maladies Autoinflammatoires et de 
+l’Amylose inflammatoire (CeRéMAIA) 
+ 
+Sous l'égide et avec le partenariat de la 
+Filière de Santé des Maladies Auto-Immunes et Auto-
+Inflammatoires Rares (FAI²R) 
+ 
+                           
+ 
+ 
+TRAPS : Tumor necrosis factor-Receptor-
+Associated Periodic Syndrome 
+Ou  
+Syndrome de fièvre récurrente lié au 
+récepteur du facteur de nécrose tumorale 
+ 
+2 
+ 
+Liste des personnes ayant collaboré à l’élaboration du 
+PNDS TRAPS  
+ 
+ 
+Ce travail a été coordonné par le Docteur Véronique HENTGEN , sous l’égide du CeRéMAIA et 
+avec le partenariat de FAI²R. 
+ 
+ 
+1. Groupe rédactionnel :  
+ 
+Dr Sophie GEORGIN-LAVIALLE, médecine interne, AP-HP Tenon, Paris 
+Dr Véronique HENTGEN, pédiatrie, CH Versailles, Le Chesnay 
+Pr Isabelle KONE-PAUT, rhumatologie pédiatrique, AP-HP Kremlin-Bicêtre 
+Pr Isabelle TOUITOU, génétique, CHU Montpellier 
+ 
+2. Groupe multidisciplinaire de relecture :  
+ 
+Pr Achille AOUBA, médecine interne et immunologie clinique, CHU Caen 
+Dr Alexandre BELOT, pédiatrie, CHU Lyon 
+Dr Valérie DELSOL, médecin généraliste, Armentières 
+Pr Gilles GRATEAU, médecine interne, AP-HP Tenon, Paris 
+Dr Ingrid HERNANDEZ, médecin généraliste, Faches Thumesnil 
+Dr Hélène MAILLARD, médecine interne, CHU Lille 
+Dr Maryam PIRAM, dermatologie pédiatrique, AP-HP Kremlin-Bicêtre 
+Dr Karine RETORNAZ, pédiatrie, AP-HM, Marseille 
+Dr Thierry SCHAEVERBEKE, rhumatologie, CHU Bordeaux 
+Mme Daphné SOFFER, vice-présidente de AFFMF 
+Mme Anne-Sophie TAVERNIER, IDE puéricultrice, CH Versailles, Le Chesnay 
+ 
+ 
+ 
+Déclarations d’intérêt 
+Tous les participants à l’élaboration du PNDS ont rempli une déclaration d’intérêt. Les déclarations 
+d’intérêt sont en ligne et consultables sur le site internet de FAI²R. 
+  
+3 
+ 
+Sommaire 
+Liste des personnes ayant collaboré à l’élaboration du PNDS TRAPS..............................  2 
+1 Introduction ................................ ................................ ................................ ................... 9 
+2 Objectifs du protocole national de diagnostic et de soins ................................ ........ 10 
+3 Diagnostic et évaluation initiale ................................ ................................ ................... 11 
+3.1 Objectifs 11 
+3.2 Professionnels impliqués et modalités de coordination 11 
+3.3 Circonstances de découverte / Suspicion du diagnostic 11 
+3.3.1 Arguments cliniques 11 
+3.3.2 Arguments para-cliniques 12 
+3.4 Confirmation du diagnostic / diagnostics différentiels 13 
+3.4.1 Diagnostic post-symptomatique 13 
+3.4.2 Diagnostic pré-symptomatique 14 
+3.4.3 Diagnostic prénatal (DPN) et pré-implantatoire (DPI) 14 
+3.4.4 Diagnostics différentiels 14 
+3.5 Evaluation de la sévérité / extension de la maladie / recherche de comorbidités / évaluation du 
+pronostic 15 
+3.5.1 Evaluation du score d’activité (AIDAI) (Annexe 4) 15 
+3.5.2 Evaluation de séquelles 15 
+3.5.3 Evaluation de co-morbidités 16 
+3.6 Recherche de contre-indications au traitement 16 
+3.6.1 Vaccinations 16 
+3.6.2 Corticoïdes 16 
+3.6.3 Traitement inhibiteur de l’IL1 16 
+3.7 Annonce du diagnostic et information du patient 17 
+3.8 Conseil génétique 17 
+4 Prise en charge thérapeutique ................................ ................................ ..................... 18 
+4.1 Objectifs 18 
+4.1.1 A court et moyen terme : 18 
+4.1.2 A long terme 18 
+4.2 Professionnels impliqués (et modalités de coordination) 18 
+4.3 Prise en charge thérapeutique (pharmacologique et autre) 19 
+4.3.1 Remarque préliminaire 19 
+4.3.2 Le traitement des accès inflammatoires 19 
+4.3.3 Le traitement de fond 21 
+4.3.4 Vaccinations 23 
+4.3.5 Traitements non pharmacologiques 23 
+4.4 Éducation thérapeutique 24 
+4.4.1 Chez l’adulte 24 
+4.4.2 Chez l’enfant 25 
+4.5 Recours aux associations de patients 25 
+5 Suivi ................................ ................................ ................................ ...............................  26 
+5.1 Objectifs 26 
+5.2 Professionnels impliqués (et modalités de coordination) 26 
+5.3 Rythme et contenu des consultations 26 
+5.4 Examens complémentaires 27 
+5.4.1 Examens biologiques à la recherche d’un TRAPS mal équilibré et/ou compliqué (bilan 
+annuel) : 27 
+5.4.2 Examens biologiques à la recherche d’effets secondaires d’un éventuel traitement de fond
+ 27 
+5.5 Prise en charge de certaines situations particulières 28 
+4 
+ 
+5.5.1 Fertilité, grossesse et allaitement 28 
+5.5.2 Amylose inflammatoire 29 
+Annexe 1. Liste des centres de référence, des centres de compétences et de 
+l’association de patients pour les maladies auto-inflammatoires ................................ ...... 30 
+Annexe 2. Arbre décisionnel en vue du diagnostic biologique/génétique ........................ 34 
+Annexe 3. Réseau national du diagnostic Genétique des Maladies Auto-Inflammatoires 
+héréditaires (GenMAI) ................................ ................................ ................................ ............ 34 
+Annexe 4 : score AIDAI ................................ ................................ ................................ .......... 36 
+Annexe 5 : score de dommages/séquelles MAI (score ADDI) ................................ ............. 37 
+Références bibliographiques ................................ ................................ ................................  39 
+ 
+ 
+ 
+5 
+ 
+ 
+Liste des abréviations 
+ 
+ADDI Auto-Inflammatory Diseases Damage Index 
+AIDAI Auto-Inflammatory Diseases Activity Index 
+AINS Anti-Inflammatoires Non Stéroïdiens 
+ALAT Alanine Aminotransférase 
+ALD Affection de Longue Durée 
+AMM Autorisation de Mise sur le Marché 
+ANPGM Association Nationale des Praticiens de Génétique Moléculaire 
+ANSM Agence Nationale de Sécurité du Médicament et des produits de santé  
+ASAT Aspartate aminotransférase  
+CeRéMAIA Centre de Référence des Maladies Auto-Inflammatoires et de l’Amylose inflammatoire 
+CRMR Centre de Référence Maladies Rares 
+CRP Protéine C Réactive 
+DPI Diagnostic Pré-Implantatoire 
+DPN Diagnostic Pré-Natal 
+GenMAI Réseau national du diagnostic GENétique des Maladies Auto-Inflammatoires héréditaires 
+HAS Haute Autorité de Santé 
+HCSP Haut Conseil de la Santé Publique 
+IDE Infirmière Diplômée d’Etat 
+IL1 Interleukine 1 
+IMC Indice de Masse Corporelle 
+MDPH Maison Départementale des Personnes Handicapées 
+NFS Numération Formule Sanguine 
+OMS Organisation Mondiale de la Santé 
+PNDS Protocole National de Diagnostic et de Soins 
+RTU Recommandation Temporaire d’Utilisation 
+SAA Sérum Amyloid A 
+TNFR1 Récepteur 1 du TNF 
+TRAPS TNF Receptor Associated Periodic Syndrome, syndrome périodique lié au récepteur 1 du 
+TNF 
+VIH Virus de l’Immunodéficience Humaine 
+γGT Gamma Glutamyl Transférase 
+  
+6 
+ 
+Synthèse à destination du médecin traitant 
+Le syndrome de fièvre récurrente lié  au récepteur 1 du facteur de nécrose tumorale (TRAPS) est 
+une maladie ubiquitaire mais exceptionnelle qui appartient au groupe des fièvres récurrentes auto-
+inflammatoires monogéniques. La prévalence  de cette ma ladie autosomique dominante est  
+estimée à 1/1 000 000. Il n’y a pas de différence significative de répartition entre les hommes et les 
+femmes attei nts de TRAPS. La  précocité du diagnostic et  de la mise en route des traitements  
+spécifiques est le garant d’une modification d’emblée significative de la qualité de vie des patients 
+et pourrait prévenir les possibles séquelles à long terme de la maladie (amylose secondaire).  
+ 
+Le TRAPS se caractérise par une succession de périodes d’activité et de rémission spontanée de 
+la maladie dont les durées et nombre s sont éminemment variables. Les périodes d’activité de la 
+maladie correspondent à des accès récurrents de fièvre d’une durée classique d’au moins 7 jours, 
+d’arthromyalgies, de douleurs abdominales, et/ou d’éruptions cutanées et parfois de signes 
+oculaires. Il existe toujours un syndrome inflammatoire biologique en poussée. L’âge de débu t des 
+signes cliniques peut se situer au cours de l’enfance comme à l’âge adulte. Le TRAPS est causé 
+par des mutations du gène codant le récepteur 1 du TNF ( TNFRSF1A). Ces mutations ont été 
+décrites de manière ubiquitaire et dans la majorité des cas , il s’agit de cas familiaux, même si les 
+cas sporadiques existent. Les patients suspects de TRAPS doivent être adressés par leur médecin 
+traitant (médecin généraliste, pédiatre, autre médecin spécialiste) vers un centre de référence ou 
+de compétences, où le diagnostic pourra être confirmé ou infirmé.  
+ 
+Une fois le diagnostic établi, il faut : 
+ définir les atteintes présentes en séparant si possible les atteintes inflammatoires 
+réversibles des séquelles irréversibles ; 
+ mesurer l’activité, et la sévérité de la maladie, ainsi que la qualité de vie du patient ; 
+ adapter l’environnement scolaire et socioprofessionnel du malade ; 
+ proposer des cycles d’éducation thérapeutique au sein des centres de référence  ou de 
+compétences ; 
+ établir un premier pronostic ; 
+ poser les indications thérapeutiques ; 
+ faire une enquête familiale et donner des éléments de conseil génétique. 
+ 
+La prise en charge du TRAPS reposera le plus souvent sur  un traitement symptomatique par 
+corticoïdes au cours  des accès inflammatoires. Seul s les cas les plu s sévères nécessite ront une 
+prise en charge par biothérapie (dont en premier lieu les inhibiteurs de l’interleukine 1). L’indication 
+de ces traitements spécifiques sera posé e par le centre de référence/compétence s, idéalement 
+lors d’une réunion de concerta tion pluridisciplinaire . En cas de traitement par biothér apie, des 
+vaccinations spécifiques du patient immunodéprimé sont nécessaires  et doivent être administré es 
+sans retard. 
+ 
+Le pronostic du TRAPS est généralement bon, le risque principal étant l’appari tion d’une amylose 
+inflammatoire secondaire. Une surveillance clinique et biologique régulière est indispensable dans 
+le suivi d’un patient atteint de TRAPS.  Nous recommandons une consultation tous les 6 mois au 
+moins, avec un contact avec un centre de réf érence/compétences au minimum tous les ans. Des 
+consultations plus fréquentes peuvent être nécessaires pour les patients ayant une maladie difficile 
+à contrôler ou présentant des complications sévères.  
+7 
+ 
+Le suivi biologique se fera au minimum annuellement avec recherche d’un syndrome inflammatoire 
+résiduel, contrôle de la  fonction rénale et hépatique et  recherche d’une protéinurie. L’apparition 
+d’une protéinurie doit faire craindre l’apparition d’une amylose secondaire. 
+Le suivi biologique  d’un patient sous biothérapie inhibitrice de l’IL1  devra être effectué tous les 3 
+mois, comprenant NFS, CRP, ASA T, ALAT, γGT, bilirubine totale ; le  bilan lipidique avec 
+cholestérol total , LDL et HDL ser a effectué tous les  6 mois ; la SAA et un  rapport 
+protéinurie/créatininurie sur échantillon sont recommandés 2 fois par an. 
+ 
+Certains patients seront susceptibles d’être admis en ALD hors liste, en particulier ceux qui 
+présentent des formes sévères ou handicapantes de TRAPS, et ceux justifiant d’un traitement par 
+biothérapie. L’attribution de l’ALD en dehors de ces situations n’est pas systématique et sera 
+toujours discutée au cas par cas. 
+ 
+► Contacts utiles (Annexe 1) 
+ 
+Liste des Centres de Compétences en Annexe 1 
+ 
+  
+ 
+  
+  
+Centre de référence des maladies auto-inflammatoires  
+et de l’amylose inflammatoire (CeRéMAIA) 
+ 
+ 
+Site coordonnateur : CHU de Bicêtre 
+(pédiatrie) 
+Service de rhumatologie, hématologie et 
+dermatologie pédiatriques 
+ 
+Secretariat de coordination 
+ 01 45 21 32 47 
+Fax 01 45 21 33 43 
+Courriel : centre.ceremai@aphp.fr 
+Site constitutif de Versailles 
+Hôpital André Mignot  
+(pédiatrie) 
+ 
+Infirmière de coordination  : 
+ 01 39 63 83 62 
+Courriel : ceremaia@ch-versailles.fr 
+ 
+ 
+Site constitutif du CHRU de Montpellier 
+(enfant et conseil génétique) 
+ 
+Unité médicale des maladies auto-
+inflammatoires 
+ 04 67 33 58 57 
+Courriel : ceremai@chu-montpellier.fr 
+Site : https://umai-montpellier.fr 
+ 
+Site constitutif de Tenon (adulte) 
+Service de Médecine interne 
+ 
+ 01 56 01 60 77 
+ 
+Site constitutif de la Pitié-Salpêtrière (adulte) 
+Département de médecine Interne et 
+Immunologie clinique 
+ 
+ 01 42 17 80 09 
+ 
+
+8 
+ 
+ 
+ 
+ 
+  
+  
+ 
+Association Française de la Fièvre Méditerranéenne 
+Familiale (AFFMF) et des fièvres récurrentes 
+héréditaires 
+ 06.64.11.60.37 
+Courriel : affmf@orange.fr  
+Site : https://www.mai-patient.com/  
+  https://www.fai2r.org/ 
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+Filière de santé des maladies auto-inflammatoires et 
+auto-immunes rares (FAI²R) 
+ 03.20.44.46.97 
+Courriel : contactfair2r@gmail.com 
+Site : https://www.fai2r.org/ 
+ 
+  https://www.fai2r.org/ 
+  
+
+9 
+ 
+1 Introduction 
+ 
+L’objectif de ce protocole national de diagnostic et de soins (PNDS) est de présenter, pour les 
+professionnels de santé, la prise en charge optimale et le parcours de soins d’un malade atteint 
+d’un syndrome de fièvre récurrente li é au récepteur 1 du TNF (TNF re ceptor associated periodic 
+syndrome) encore appelé TRAPS.  
+ 
+Le TRAPS est une maladie rarissime, avec une prévalence de 1 à 9 sur 1 million. Cette affection 
+reste décrite essentiellement dans la population caucasienne, mais elle est ubiquitaire car aussi 
+rapportée dans l es populations afro-américaine, japonaise et chez des sujets du pourtour 
+méditerranéen. Le TRAPS est lié à des mutations dominantes faux sens entre les exons 2 et 4 du 
+gène TNFRSF1A, impliquant le domaine extracellulaire de la protéine TNFR1 (récepteur 1 du 
+TNF) dont la structure tridimensionnelle et la fonction sont profondément altérées.  Ces anomalies 
+protéiques sont à l'origine de plusieurs anomalies  : anomalies du trafic intracellul aire avec 
+accumulation des proté ines mutées en intra -cellulaire et déclenchement du stress du réticulum 
+endoplasmique, diminution de l’expression du récepteur à la membrane cel lulaire, diminution de 
+l’apoptose. 
+La description initiale de la maladie dans une famille irlando-écossaise comprenait des accès 
+inflammatoires pouvant durer jusqu’à plusieurs semaines, faits d’une fièvre en pics, de myalgies, 
+de douleurs abdominales inten ses avec parfois une éruption cutanée maculeuse migratrice, une 
+rougeur oculaire avec œdème périorbitaire, des ganglions périphériques et une péricardite. Au 
+cours des accès, les protéines de phase aiguë de l’inflammation comme la CRP et la SAA sont 
+très a ugmentées ce qui fait que les patients sont à haut risque de développer une amylose 
+secondaire. Avec le temps, le spectre clinique du TRAPS apparait nettement plus hétérogène et le 
+diagnostic génétique plus complexe du fait de l’existence de variants du gè ne TNFRSF1A 
+responsable de signes cliniques plus frustes, de la possibilité de mosaïques somatiques ou encore 
+de tableaux cliniques ressemblants , liés à des mutations dans un gène de même classe, le 
+TNFRSF11A. Un suivi régulier dans le réseau des centres de référence/compétences en lien avec 
+le médecin traitant est donc indispensable pour assurer au patient l a meilleure prise en charge  
+possible.  
+ 
+Ce PNDS est limité au TRAPS , les autres fièvres récurrentes auto-inflammatoires font l’objet 
+d’autres PNDS.  
+ 
+  
+10 
+ 
+2 Objectifs du protocole national de diagnostic et de soins  
+ 
+L’objectif de ce protocole national de diagnostic et de soins (PNDS) est d’expliciter aux 
+professionnels concernés la prise en charge diagnostique et thérapeutique optimale actuelle et le 
+parcours de soins d’un patient atteint de TRAPS. Il a pour but d’opt imiser et d’harmoniser la prise 
+en charge et le suivi de la maladie rare sur l’ensemble du territoire. Il permet également d’identifier 
+les spécialités pharmaceutiques utilisées dans une indication non prévue dans l’Autorisation de 
+mise sur le marché (AMM) ainsi que les spécialités, produits ou prestations nécessaires à la prise 
+en charge des patients mais non habituellement pris en charge ou remboursés. 
+ 
+Ce PNDS peut servir de référence au médecin traitant (médecin désigné par le patient auprès de 
+la Caiss e d’ Assurance Maladie) en concertation avec le médecin spécialiste notamment au 
+moment d’établir le protocole de soins conjointement avec le médecin conseil et le patient, dans le 
+cas d'une demande d'exonération du ticket modérateur au titre d'une affection hors liste. 
+ 
+Le PNDS ne peut cependant pas envisager tous les cas spécifiques, toutes les comorbidités ou 
+complications, toutes les particularités thérapeutiques, tous les protocoles de soins hospitaliers, 
+etc. Il ne peut pas revendiquer l’exhaustivité d es prises en charge possibles, ni se substituer à la 
+responsabilité individuelle du médecin vis -à-vis de son patient. Le protocole décrit cependant la 
+prise en charge de référence d’un patient atteint de TRAPS. Il sera mis à jour en fonction des 
+données nouvelles validées. 
+ 
+Le présent PNDS a été élaboré selon la «  Méthode d’élaboration d’un protocole national de 
+diagnostic et de soins pour les maladies rares  » publiée par la Haute Autorité de Santé en 2012 
+(guide méthodologique disponible sur le site de la HAS : www.has-sante.fr). 
+ 
+  
+11 
+ 
+3 Diagnostic et évaluation initiale 
+ 
+3.1 Objectifs    
+Rechercher les arguments anamne stiques, cliniques, paracliniques et familiaux permettant 
+d’établir le diagnostic en réalisant un bilan complet dès qu’il existe une suspicion diagnostique 
+suffisante. 
+Annoncer le diagnostic et ses conséquences pour l’entourage. 
+Proposer un conseil génétique pour la famille. 
+Proposer au patient une prise en charge adaptée et l’accompagner ainsi que son entourage. 
+ 
+3.2 Professionnels impliqués et modalités de coordination 
+La suspicion de TRAPS est le plus souvent du domaine du médecin traitant ou du pédiatre devant 
+la répétition d’épisodes stéréotypés de fièvres spontanément régressifs.  
+ 
+Selon le cas elle peut aussi être du domaine des professionnels suivants :  
+ Médecin interniste pour les patients dont le diagnostic n’a pas été posé à l’âge 
+pédiatrique ou dont la maladie était jusque-là asymptomatique ; 
+ Urgentiste, le plus souvent en situation de poussée de la maladie, notamment devant un 
+abdomen aigu récurrent ; 
+ Rhumatologue ou orthopédiste devant des manifestations articulaires à répétition 
+(arthralgies et myalgies répétées) ; 
+ Cardiologue devant des épisodes récurrents de péricardite ; 
+ Gastro-entérologue devant des douleurs abdominales à répétition ; 
+ Dermatologue devant des manifestations cutanées récidivantes ; 
+ Endocrinologue devant un retard de croissance en raison de l’inflammation chronique ; 
+ Néphrologue devant une amylose secondaire ou une autre néphropathie ; 
+ Généticien devant l’histoire familiale ; 
+ Ophtalmologue devant des œdèmes orbitaires récidivants et une rougeur oculaire. 
+ 
+En cas de supicion clinique de TRAPS, une consultation dans le réseau du CeRéMAIA est 
+indispensable : en effet , le TRAPS est l a fièvre récurrente autoinflammatoire dont le tableau 
+clinique et la périodicité sont les moins stéréotypés et un avis spécialisé est nécessaire pour en 
+affiner au mieux l’orientation diagnostique.  La coordination de la prise en charge du patient sera 
+assurée par le médecin traitant avec l’aide du médecin  issu du centre de référence ou de ses 
+centres de compétences (Annexe 1). 
+ 
+3.3 Circonstances de découverte / Suspicion du diagnostic 
+C’est un faisceau d’arguments cliniques appuyés par des arguments paracliniques qui permet 
+d’aboutir au diagnostic de TRAPS. Très souvent en pratique, le patient est vu en dehors d’une 
+poussée inflammatoire fébrile. C’est donc  l’histoire reconstituée et un ifiée des différents accès de 
+la maladie par  l’anamnèse, l’examen du carnet de santé chez l’enfant et l’analyse d’éventuelles 
+hospitalisations qui permettra d’assembler les éléments de présomption. 
+3.3.1 Arguments cliniques 
+Le TRAPS est une maladie ubiquitaire, car décrite dans toutes les populations, dont celles du 
+pourtour méditerranéen.  
+12 
+ 
+Le début des accès inflammatoires peut correspondre à un large éventail d’  âges (âge adulte ou 
+pédiatrique), avec un âge médian à 4 ans (0.5-63 ans). 
+Le TRAPS est une maladie autosomique dominante, des sympt ômes similaires étant retrouvés à 
+l’interrogatoire chez les ascendants/descendants du patient dans 2/3 des cas. 
+La durée médiane d’une poussée inflammatoire est de 11 jours avec d’importantes variations : la 
+fièvre est prése nte chez la majorité des patients au moins pendant les 3 premiers jours de la 
+poussée inflammatoire, mais elle peut manquer parfois chez l’adulte (importance alors de contrôler 
+l’inflammation sanguine), alors qu’elle persiste au -delà de 15 jours chez 25% d es patients. La 
+fièvre apparait brutalement avec des frissons dans 30% des cas, et un quart des patients identifie 
+un facteur déclenchant (stress, fatigue, émotion, menstruation, exercice physique et plus rarement 
+vaccination). 
+La fréquence médiane des accès inflammatoires est de 7 par an ( extrêmes de 2 à 12 par an ). 
+Certains patients (environ 10% des patients adultes) peuvent présenter une forme chronique avec 
+présence de sympt ômes liés à la maladie de manière quotidienne. Le nombre médian de jours 
+symptomatiques par an est d’environ 70 pour les patients ne recevant pas de traitement.  
+En dehors de la fièvre, les poussées inflammatoires s’accompagnent de manière prédominante de 
+signes musculo-squelettiques : myalgies, arthralgies voire arthrites asymétriques non érosives et 
+parfois ténosynovites. 
+Les signes cutanéo-muqueux sont variables, mais concernent 80% des patients. L’atteinte cutanée 
+caractéristique comporte des lésions érythémateuses œdémateuses, de taille variable, à bo rds 
+mal définis, chaudes, sensibles, débutant à la racine des membres et qui migrent vers l’extrémité 
+des membres puis disparaissent . Des lésions confluentes plus ou moins urticariennes peuvent 
+également être présentes sur le tronc et les membres  ainsi qu’ un pseudo-érysipèle. L’œdème 
+périorbitaire initialement considéré comme un signe cardinal de la maladie n’est finalement 
+observé que dans 20% des cas. 
+Les autres signes majeurs sont les douleurs abdominales et plus rarement thoraciques (avec ou 
+sans pleurésie ou péricardite). Certains patients se plaignent d’adénopathies cervicales au cours 
+des poussées inflammatoires, néanmoins ce signe clinique est moins fréquemment observé chez 
+l’adulte et pourrait être associé à des variants de séquence de pathogénicité incertaine (voir infra). 
+Quelques cas de TRAPS se révèlent d’emblée par une amylose secondaire AA. Dans ce cas 
+l’interrogatoire permet souvent de retrouver des épisodes inflammatoires considérés comme 
+mineurs par le patient. Le TRAPS doit donc être évoqué  devant une amylose secondaire 
+inexpliquée. 
+ 
+Devant un tableau évocateur  (épisodes inflammatoires répétés et à chaque fois inexpliqués) , la 
+confirmation diagnostique se fera par analyse génétique (voir infra). La demande de test génétique 
+peut être optimisée en utilisant le score développé par l’hôpital Gaslini à Gênes (disponible à cette 
+adresse : https://www.printo.it/periodicfever/index.asp), qui calcule une probabilité de positivité à 
+partir de l’âge de début et de la présence/fréquence de 5 items cliniques (jamais, parfois, souvent 
+ou toujours présents). Ce score est accompagné d’un arbre décisionnel qui pour le TRAPS exige 
+un accès de la maladie durant au moins 7 jours.  
+ 
+3.3.2 Arguments para-cliniques 
+Une élévation des protéines  sériques de la phase aigue  de l’inflammation  durant un accès de 
+TRAPS est obligatoire pour évoquer ce diagnostic. Ces signes biologiques sont en rapport 
+essentiellement avec la sécrétion inappropri ée d’IL1 : augmentation de la CRP ou des autres 
+protéines inflammatoires et polynucléose neutrophile (non constante). En pratique, la discordance 
+13 
+ 
+entre l’importance du syndrome inflammatoire biologique et l’absence d’autres orient ations 
+étiologiques permettant de l’expliquer est évocatrice d’u ne maladie auto inflammatoire, a fortiori si 
+l’inflammation tend à régresser spontanément et que le tableau est ancien  et apparait stéréotypé. 
+L’absence d’auto -anticorps à taux significatif si gne l’absence de stimulation anormale de 
+l’immunité adaptative et permet de fournir un argument supplémentaire en faveur d’une fièvre 
+récurrente auto -inflammatoire. En général , la NFS est normale, en dehors d’ une anémie  
+microcytaire, de relatives polynuclé ose et/ou thrombocytose qui peuvent être présentes, 
+secondaires à l’inflam mation et d’autant plus que cette dernière est chronique ou persistante. La 
+normalisation complète de ces anomalies entre les crises est habituelle, mais non constante. Une 
+protéinurie doit faire évoquer une complication du TRAPS, l’amylose secondaire. La présence au 
+cours des poussées inflammatoires d’épa nchements des séreuses objectivé s par imagerie  en 
+échographie (arthrite, péricardite, pleurésie, péritonite, orchite …), régressant spontanément, peut 
+apporter un argument supplémentaire en faveur du diagnostic d’une maladie auto -inflammatoire. 
+La place des dosages cytokiniques et du marqueur inflammatoire S100A12 ( en cours de 
+développement en France en 2018) reste encore à définir dans ce cadre diagnostique. 
+ 
+3.4 Confirmation du diagnostic / diagnostics différentiels 
+3.4.1 Diagnostic post-symptomatique    
+La confirmation diagnostique du TRAPS se fait obligatoirement , après la phase de suspicion 
+clinique, par un examen génétique  pratiqué de préfé rence dans un laboratoire appartenant au 
+réseau national du diagnostic génétique des maladies auto -inflammatoires héréditaires (GenMAI) 
+(Annexe 3). Le TRAPS est une maladie de transmission dominante, c'est -à-dire que la présence 
+d’une seule mutation pathogène est suffisante pour que la maladie s’exprime. 
+► Interprétation des tests génétiques 
+L’identification d’une mutation hétérozygote dans le gène TNFRSF1A est indispensable à la 
+confirmation moléculaire du diagnostic, mais il faut prouver sa causalité dans la maladie, ce qui 
+n’est pas toujours aisé. La ségrégation de la mutation dans la famille (mutation présente chez les 
+sujets atteints et mutation absente chez les sujets sains de la famille)  constitue un des arguments 
+les plus importants. Les mutations dont le caractère délétère est le plus certain sont les mutations 
+susceptibles de modifier la structure de la protéine TNFR1: substitution d’une cystéine (importante 
+dans les ponts disulfure), les mutations induisant un décalage du cadre de lecture, un a rrêt 
+prématuré de la synthèse de la protéine, ou un changement conformationnel important. La 
+pénétrance de ces mutations est habituellement complète, même l’expression intrafamiliale peut 
+être variable . Certa ines peuvent apparaitre de novo et un  cas de mos aïcisme a été décrit très 
+récemment. La plupart des mutations pathogènes observées (voir le registre des mutations en 
+ligne infevers, https://fmf.igh.cnrs.fr/ISSAID/infevers/) sont de type faux -sens (substitution d’un 
+acide aminé par un autre) et ne modifient pas la longueur et/ou la quantité de la protéine. Les 
+mutations non-sens (codons stop), délétions ou insertions entraînant une altération importante de 
+la taille de la protéine, sont très peu observées dans le TRAPS. 
+ 
+Beaucoup de variants de séquence posent des problèmes d’interprétation. Il s’agit :  
+- Soit de variants initialement décrits comme pathogènes comme R92Q  ou P46L  mais 
+ultérieurement retrouvés dans la population générale. Ils ne sont pro bablement pas 
+suffisants pour déclencher une forme héréditaire de la maladie, mais pourraient agir 
+comme des co-facteurs prédisposants à certaines maladies inflammatoires en fonction des 
+contextes génétiques et/ou environnementaux particuliers à un  patient donné. R92Q par 
+14 
+ 
+exemple est retrouvé plus fréquemment dans certaines maladies multifactorielles comme la 
+sclérose en plaque que dans la population générale. Par ailleurs ce génotype a été associé 
+à la présence de fièvres récurrentes transitoires chez l’enfant, avec disparition spontanée 
+de la symptomatologie clinique avant l’adolescence. Un patient avec un variant de ce type 
+ne doit donc pas se faire annoncer le diagnostic de TRAPS sur la foi seule de l’examen 
+génétique. Un avis spécialisé dans le réseau du CRMR est vivement conseillé.   
+- Soit de variants de séquence rares voire privés (trouvés chez un seul patient), d’autant qu’il 
+n’existe pas de test fonctionnel en routine diagnostique. Comme dans le cas précédent, un 
+avis spécialisé dans le réseau du CRMR est vivement conseillé, avant annonce 
+diagnostique au patient. 
+ 
+3.4.2 Diagnostic pré-symptomatique 
+Le diagnostic moléculaire avant l’apparition de tout symptôme est en général déconseillé, et 
+actuellement interdit en France pour les mineurs en dehors d’un contexte encadré nécessitant 
+l’avis d’un comité de protection des personnes. Il peut être discuté pour certaines familles (TRAPS 
+très invalidant confirmé génétiquement chez un membre, présence d’amylose rénale…). En cas de 
+positivité du test génétique  dans ce contexte pré -symptomatique, des questions éthiques, comme 
+la pertinence de traiter le patient de façon prophylactique, sont loin d’avoir des réponses 
+consensuelles. 
+3.4.3 Diagnostic prénatal (DPN) et pré-implantatoire (DPI) 
+DPN et DPI sont exceptionnellement indiqués. En effet, de nouvelles thérapeutiques ciblées 
+comme les anti-IL1 permettent souvent de limiter les morbidité et mortalité du TRAPS. 
+3.4.4 Diagnostics différentiels 
+Les différentes facettes du TRAPS peuvent amener à rechercher d’autres diagnostics.  Ces 
+diagnostics différentiels sont souvent des maladies fréquentes, ou en tout cas plus fréquentes que 
+le TRAPS (en pratique maladies infectieuses ou auto-immunes), qui devraient idéalement avoir été 
+exclues avant d’évoquer ce dernier.  
+► Signes digestifs au premier plan  
+Il faudra éliminer des causes fréquentes d’inflammations abdominales avec péritonite comme une 
+appendicite, une  diverticulite, une cholécystite, une pancréatite. Contrairement au TRAPS, ces 
+étiologies dans les formes les plus communes entrainent très rarement des manifestations 
+récurrentes persistantes sur des années.  
+En l’absence de péritonite, mais devant des douleurs abdominales récurrentes, on peu t évoquer 
+en fonction de l’âge , un ulcère gastrique, une endométriose, un côlon irritable , des douleurs 
+fonctionnelles. Contrairement au TRAPS , ces maladies ne donnent pas de syndrome 
+inflammatoire et la durée des douleurs est moins longue. 
+► Fièvre récurrente au premier plan 
+En cas de poussées fébriles récurrentes avec éruption érythémateuse, il faut bien sûr éliminer une 
+néoplasie solide ou de type hémopathique, une infection persistante (paludisme, fièvre Q) mais la 
+durée d’évolution de ces affecti ons ne remonte pas à la tendre enfance comme cela peut l’être 
+pour le TRAPS.  
+Si la fièvre récurrente est associée à au moins 2 atteintes d’appareil (digestif et locomoteur avec 
+arthromyalgies) avec augmentatio n des marqueurs inflammatoires,  il faut penser  aux maladies 
+15 
+ 
+inflammatoires chroniques de l’intestin (des endoscopies avec biopsies et un dosage de la 
+calprotectine fécale peuvent être utiles), et aux autres fièvres récurrentes  auto-inflammatoires 
+monogéniques comme : 
+- la fièvre méditerranéenne familiale, mais les accès sont beaucoup plus courts ; 
+- le déficit en mévalonate kinase , mais dans ce dernier, il y a volontiers de la diarrhée , des 
+aphtes buccaux et des adénopathies cervicales  le plus souvent absents dans le tableau 
+clinique de TRAPS ; 
+ou non monogéniques avec en premier lieu:  
+- le PFAPA chez les enfants (syndrome de fièvre périodique avec des aphtes buccaux, une 
+pharyngite et des adénopathies cervicales) , mais les accès sont plus courts et très 
+stéréotypées (angine, aphtes et adénopathies cervicales).  
+Enfin, parmi les maladies systémiques inflammatoires non génétiques , il faut citer la maladie de 
+Still (poussées fébriles longues avec arthromyalgies, éruption érythémateuse et syndrome 
+inflammatoire biologique sans douleur abdominale ) et la maladie de Castleman , qui en général 
+sont responsable d’une inflammation continue et non récurrente.  
+ 
+3.5 Evaluation de la sévérité / extension de la maladie / recherche de 
+comorbidités / évaluation du pronostic   
+Une fois le diagnostic de TRAPS posé, il est essentiel d’évaluer l’activité de la maladie et de faire 
+le bilan d’extension des éventuelles comorbidités et séquelles. Des échelles d’évaluation de 
+l’activité et des séquelles ont été développé es au niveau int ernational afin de standardiser cette 
+évaluation. 
+3.5.1 Evaluation du score d’activité (AIDAI) (Annexe 4) 
+Il s’agit d’un score validé, simple d’utilisation, à remplir par le patient à la manière d’un journal de 
+bord qui permet de suivre l’activité de la maladie. Cet outil est par ailleurs très utile pour évaluer de 
+manière objective l’efficacité d’un traitement de fond . Le score se présente sous forme d’une grille 
+mensuelle. Le patient rempli t une grille différente chaque mois et indique, au moment des 
+poussées, les symptômes présents sur la ligne correspondant à la date de survenue. 
+Cette  grille  permet d’objectiver les symptômes du patient, leurs fréquences et leurs durées.  Si la 
+somme des symptômes dans le mois (1  = symptôme présent ; 0  = symptôme absent) ou la  
+moyenne  mensuelle sur la période d’observation est ≥ 9, la maladie est considérée comme active. 
+Le  score  AIDAI  peut  être  utilisé  sans  restriction  pour  la  pratique  clinique  courante.  Il  est 
+protégé par un brevet pour l’utilisation dans le cadre de la recherche . Une version électronique de 
+ce score est accessible via une web app (https://www.mai-patient.com/fr)  
+3.5.2 Evaluation de séquelles 
+La recherche de séquelles liées au TRAPS doit évaluer plus particulièrement  :  
+– L’appareil reproductif : recherche d’infertilité, aménorrhée. 
+– L’appareil rénal : recherche d’amylose secondaire, de protéinurie et d’insuffisance rénale. 
+– Le développement physique  : recherche d’un retard de croiss ance et /ou d’un  retard 
+pubertaire. 
+– L’appareil digestif : recherche de brides péritonéales. 
+– L’appareil loco -moteur : raideurs articulaires, douleurs musculaires chroniques, 
+ostéoporose et déformations osseuses.  
+Pour l’évaluation des séquelles on peut s’aid er du score ADDI, une échelle d’évaluation des 
+séquelles spécialement développ é pour les maladies auto -inflammatoires. Il s’agit d’un score 
+16 
+ 
+préliminaire, non encore validé  définitivement au moment de l’écriture de ce PNDS, mais déjà 
+utilisable en pratique clinique courante (Annexe 5) 
+3.5.3 Evaluation de co-morbidités 
+Comme toutes les maladies chroniques, le TRAPS peut entraîner des répercussions plus 
+générales sur la vie du patient. Celles-ci doivent être systématiquement recherchées :  
+– Dégradation de la qualité de vie. 
+– Dépression ou tout autre trouble psychiatrique induit. 
+– Désinsertion scolaire ou sociale. 
+ 
+3.6 Recherche de contre-indications au traitement 
+La recherche de contre-indications dépend du type de traitement envisagé.  
+3.6.1 Vaccinations  
+Noter que la mise à jou r du calendrier vaccinal selon les recommandations de la population 
+générale est recommandée pour chaque patient atteint de TRAPS. Des recommandations 
+vaccinales spécifiques ne s’appliquent que pour des patients recevant des traitements par 
+biothérapie (voir infra).  
+3.6.2 Corticoïdes 
+Les précautions standard avant la mise en route d’un traitement par corticoïdes sont à appliquer , 
+en sachant que dans le cadre du TRAPS, la corticothérapie prolongée n’est pas indiquée (voir 
+infra).  
+3.6.3 Traitement inhibiteur de l’IL1 
+Avant d’envisager la mise en route d’une biothérapie, il conviendra : 
+– de s’assurer de l’absence d’infection intercurrente  et de l’absence d’antécédents  
+d’infections bactériennes sévères récurrentes ; 
+– de s’assurer de l’absence d’une infection virale chronique (VIH, hépatite B, hépatite C) ; 
+– de s’assurer de l’absence d’anomalies hépatiques (dosage des transaminases, bilirubine et  
+γGT) ; 
+– de vérifier le calendrier vaccinal avec mise à jour de celui -ci selon les recommandations de 
+la population générale. Par ailleurs les patients recevant une biothérapie nécessiteront une 
+vaccination annuelle contre la grippe, une vaccination spécifique contre le pneumocoque 
+(selon le schéma du patient immuno -déprimé) et une vaccination contre la varicelle en 
+l’absence d’antécédent de varicelle. Les vaccins vivants doivent être effectués au moins 3 
+semaines avant le traitement anti-IL1 ; 
+– de vérifier l’absence de tuberculose  latente par la réalisation d’une IDR  et/ou d’un test 
+interféron gamma (Quantiféron® ou T -SPOT®) et en cas de doute d’une radiographie du 
+thorax ; 
+– de vérifier l’absence de neutropénie. Les patients présentant une leucopénie significative 
+ne doivent pas être mis sous traitement par anti-IL1 ;  
+– de vérifier l’absence de grossesse chez la femme en âge de procréer (précaution 
+standard ; en cours de réévaluation, voir infra). 
+ 
+ 
+ 
+17 
+ 
+3.7 Annonce du diagnostic et information du patient  
+En raison de la complexité d’interprétation des examens génétiques et de l’absence de critères 
+cliniques fiables, l’annonce diagnosti que d’un TRAPS doit être organisée par un centre de 
+référence ou de compétences (Annexe 1). L’envoi systématique au patient et aux correspondants 
+désignés par le patient d’un compte -rendu de cette consultation d’annonce (précisant l’information 
+délivrée et le résultat des analyses) est essentiel. 
+Au-delà de la transmission d’informations médicales, l’entretien d’annonce réclame une écoute 
+active et un accompagnement tenant compte des caractéristiques personnelles, socio -
+professionnelles et environnementales  du patient. L’annonce du diagnostic d’un TRAPS  peut 
+parfois justifier l’intervention d’un psychologue clinicien, comme pour toute annonce de maladie 
+héréditaire chronique.  
+ 
+3.8 Conseil génétique 
+Au cours de la consultation de conseil génétique, plusieurs éléments doivent être abordés : 
+– informations sur les risques des apparentés et les informations à leur transmettre ; 
+– informations sur les risques pour la descendance  (le risque pour la descendance d’un 
+couple dont l’un des parents est malade est de ½) ; 
+– suggestion d’une enquête familiale chez les apparentés malades sans proposition de 
+dépistage des sujets asymptomatiques, en précisant qu’il n’y a pas d’indication au 
+diagnostic prénatal. 
+► Attitude vis-à-vis d’une demande d’étude génétique chez les apparentés 
+Bien que le TRAPS soit une maladie autosomique dominante, il n’est pas recommandé de réaliser 
+un dépistage génétique systématique avant la procréation ni dans la fratrie d’un enfant ayant la 
+maladie. L’espérance de vie d’un enfant à naitre avec un TRAPS de nos jours n’est pas différente 
+de la population générale . Par contre, dans les familles avec un TRAPS, lorsqu’un  enfant vient à 
+naitre, les parents doivent savoir reconnaître rapidement les signes de la maladie afin de conduire 
+au diagnostic et à sa prise en charge adaptée et précoce. 
+ 
+  
+18 
+ 
+4 Prise en charge thérapeutique  
+  
+4.1 Objectifs  
+En l’absence de traitement curatif, la prise en charge se fixe plusieurs objectifs, prenant en compte 
+le facteur temps : 
+4.1.1 A court et moyen terme : 
+ Permettre le confort quotidien, 
+ Prendre en charge les crises, 
+ Prévenir au moins partiellement les poussées, 
+ Préserver la qualité de vie et l’insertion socio-professionnelle. 
+ 
+Chez l’enfant et l’adolescent, d’autres objectifs se rajoutent aux précédents :  
+ Préserver l’insertion scolaire, 
+ Préserver le développement psychosocial et affectif, 
+ Surveiller le développement statural et pubertaire et discuter de traitements spécifiques en 
+cas d’anomalies, 
+ Assurer la transition pédiatrie/médecine d’adulte, 
+ Aider à l’orientation professionnelle en prenant en compte les contraintes liés à la maladie. 
+4.1.2 A long terme  
+ Maintenir le patient sous traitement (observance et tolérance), 
+ Eviter l’amylose secondaire, complication majeure du TRAPS et  la prendre en charge le 
+cas échéant,  
+ Limiter les séquelles de la maladie.  
+ 
+4.2 Professionnels impliqués (et modalités de coordination) 
+La prise en charge est multidisciplinaire et coordonnée par le médecin (ou pédiatre) traitant de ville 
+sous la direction du médecin spécialiste (pédiatre ou interniste en fonction de l’âge du patient) issu 
+du CRMR et de ses centres de compétence s. Les patients les plus sévères peuvent nécessiter 
+des réunions de concertation avec tous les intervenants (médicaux, para -médicaux et sociaux), 
+afin d’optimiser leur prise en charge globale. 
+Les spécialistes le plus souvent impliqués sont  les mêmes que  ceux répertoriés dans la section 
+évaluation initiale (chapitre 3.2). Il faut rajouter à cette liste , les professionnels de santé suivants  
+qui peuvent être impliqués dans la prise en charge en fonction du tableau clinique présenté : 
+ 
+ Recours à des consultations spécialisées d’algologie ; 
+ Recours à de s professionnels paramédicaux : personnel d’éducation thérapeutique, 
+infirmière diplômée d’état (IDE), masseur-kinésithérapeute, ergothérapeute ; 
+ Recours à d’autres professionnels : psychologue, aide scolaire (soutien scolaire à domicile 
+ou dans l’établissement scolaire), éducateur sportif sport -santé, assistante sociale et  plus 
+rarement professionnels de la Maison Départementale des Personnes Handicapées 
+(MDPH) ; 
+ Médecin du travail. 
+ 
+19 
+ 
+Ces prestations non remboursé es peuvent faire l’objet d’une prise en charge ou d’un 
+remboursement par l’Assurance Maladie, à titre dérogatoire et pour une durée limit ée, après avis 
+ou recommandation de la HAS et consultation de l’ANSM, s’il n’existe pas d’alternative appropriée 
+et à condition qu’elles soient indispensables à l'amélioration de l'état de santé du patient ou pour 
+éviter sa dégradation. 
+ 
+4.3 Prise en charge thérapeutique (pharmacologique et autre) 
+4.3.1 Remarque préliminaire  
+Plusieurs spécialités pharmaceutiques mentionnées dans ce PNDS sont utilisées dans une 
+indication ou des conditions d’utilisation non prévues dans l’AMM  française. Néanmoins certaines 
+de ces spécialités ont une AMM européenne et les démarches pour l’obtention de l’AMM française 
+sont en cours au moment de la rédaction de ce PNDS (2018).  
+ 
+Il est rappelé que : 
+• la prescription hors AMM de la spécialité est possible 1, en l'absence d'alternative 
+médicamenteuse appropriée, si l'indication (ou les conditions d'utilisation) a(ont) fait l'objet 
+d'une recommandation temporaire d'utilisation (RTU) ou si le prescripteur juge 
+indispensable, au regard des données acquises de la science, le recours à cette spéci alité 
+pour améliorer ou stabiliser l'état clinique du patient. Dans ce cas : 
+- le patient doit être informé du caractère hors AMM de la prescription, «  de l’absence 
+d’alternative médicamenteuse appropriée, des risques encourus et des contraintes et 
+bénéfices susceptibles d’être apportés par le médicament  », des conditions de prise 
+en charge par l’Assurance Maladie ; 
+- la mention "Prescription hors autorisation de mise sur le marché” doit figurer sur 
+l’ordonnance ;  
+- la prescription doit être motivée dans le dossier médical du patient. 
+• l’Agence Nationale de Sécurité du Médicament et des produits de santé (ANSM) peut 
+s’appuyer sur le PNDS pour élaborer une RTU de la spécialité dans l’indication hors 
+AMM, s’il n’existe pas d’alternative médicamenteuse appropriée. 
+ 
+La spécialité peut faire l’objet d’une prise en charge ou d’un remboursement par l’ Assurance 
+Maladie dans l’indication hors AMM, à titre dérogatoire et pour une durée limitée, après avis de la 
+HAS, à condition qu’elle ait fait l’objet au préalable d’une  RTU et que son utilisation soit 
+indispensable à l'amélioration de l'état de santé du patient ou pour éviter sa dégradation2. 
+ 
+4.3.2 Le traitement des accès inflammatoires  
+Le traitement de l’accès inflammatoire du  TRAPS repose sur un traitement symptomatique 
+exclusivement. Les accès inflammatoires nécessitent le repos et justifient un arrêt de travail ou des 
+activités scolaires pendant la durée des symptômes. Les principales molécules pour soulager les 
+accès inflammatoires sont : 
+► Les anti-inflammatoires non stéroïdiens (AINS) et antipyrétiques (paracétamol) 
+Les AINS associés au paracétamol peuvent être efficaces sur la fièvre mais ont une efficacité très 
+limitée sur  les autres symptômes du TRAPS. Ils seront essentiellemen t utilisés en traitement 
+                                                
+1 Article L. 5121-12-1 du code de la santé publique 
+2 Article L. 162-17-2-1 du code de la sécurité sociale (CSS).  
+20 
+ 
+d’appoint. En cas de sympt ômes douloureux i ntenses, les AINS et le parac étamol peuvent être 
+associés aux antalgiques de niveau 2 (tramadol, dérivés codéinés) voire 3 (morphiniques).  
+Les précautions d’usage sont à respecter lors de la prescription de ces molécules.  
+► Les corticoïdes « à la demande »  
+Les corticoïdes s ont efficaces sur l’ensemble des symptômes et sur la durée de l’accès 
+inflammatoire. Le traitement par corticoïdes à la demande est le seul traitement nécessaire pour 
+plus de 50% des patients. Les corticoïdes doivent être utilisés per os à la dose de 0,5 à 1mg/kg /j 
+équivalent de prednisolone sans dépasser la dose de 60 mg/jour.  Ils seront à débuter le premier 
+jour de l’accès inflammatoire et à poursuivre en une prise le m atin pendant une durée courte de 2 
+à maximum 10 jours. L’arrêt de la corticothérapie peut se faire  brutalement sans décroissance et 
+un traitement identique est à reprendre lors de l’accès inflammatoire suivant. Si les accès 
+inflammatoires nécessitent un traitement par corticoïdes trop fréquent (en moyenne plus de 1 tous 
+les 2 mois, soit plus de 6 cures de corticoïdes par an ), un traitement alternatif doit se discuter afin 
+d’éviter les effets secondaires à long terme de la corticothérapie répétée.  
+► Inhibiteur de l’IL1 de courte durée d’action (anakinra) « à la demande » (hors AMM) 
+Le traitement «  à la demande  » par un inhibiteur de l’IL1 de courte durée d’action (anakinra) est 
+une option thérapeutique intéressante chez les patients présentant d es accès bien identifiés 
+séparés par des périodes complètement asymptomatiques. Par rapport à un traitement de fond par 
+biothérapie (voir chapitre 4.3.3), u n tel traitement à la demande  offre l’avantage de limiter les 
+périodes pendant lesquelles le patient est sous trai tement immunosuppresseur et donc de réduire 
+le risque de complications infectieuses.   
+Dans l’arsenal thérapeutique du traitement du TRAPS , l’anankinra «  à la demande  » doit  être 
+proposé au patient : 
+– En cas de contre-indication aux corticoïdes 
+– En cas d’effets secondaires des corticoïdes 
+– En cas d’accès inflammatoires trop fréquents ( c’est à dire  au minimum plus de 6 accès 
+inflammatoires par an) pour permettre un traitement par corticoïdes « à la demande ». Il est 
+nécessaire de vérifier l’absence d’inflammation intercritique, dont la présence nécessiterait 
+un traitement de fond (voir chapitre 4.3.3).  
+Modalités pratiques  
+ Bilan préthérapeutique (voir chapitre 3.6.2) 
+ Inclusion souhaitable du patient dans la cohorte prospective nationale de surveillance du 
+CRMR (JIRcohorte) : l’inclusion des patients avec une maladie rare dans des cohortes 
+prospectives est en effet d’une importance capitale pour améliorer la prise en charge des 
+générations futures. 
+ Anakinra : 2 mg/kg par jour sans dépasser 1 00 mg/j our en 1 inject ion sous -cutanée. 
+Débuter le premier jour de l’accès inflammatoire et poursuivre en une injection par jour  
+pendant une durée courte de 3 à 7 jours si l’option du trait ement à la demande est celle 
+retenue.  
+ Répéter le traitement à l’identique lors des accès inflammatoires suivants. 
+ 
+Si les accès inflammatoires nécessitent un traitement par anakinra plus souvent que 1 fois par 
+mois et/ou s’il persiste un syndrome inflammatoire intercritique  (c’est à dire  hors accès 
+inflammatoire) se définissant par un d osage sanguin de la CRP et/ou SAA au -dessus des valeurs 
+hautes du laboratoire, un traitement de fond doit se discuter (voir chapitre 4.3.3). 
+21 
+ 
+4.3.3 Le traitement de fond 
+Au jour d’aujourd’hui , aucun traitement de fond n’est complètement validé dans le T RAPS, 
+principalement en raison du faible nombre de patients évalués à cet effet au niveau mondial. Il 
+paraît donc essentiel que les indications d’ un traitement de fond soi ent discutées dans le réseau 
+du CRMR et que le patient soit inclus dans une base de données prospective permettant de suivre 
+l’évolution, l’efficacité et les éventuels effets secondaires de tous les traitements entrepris 
+(JIRcohorte). 
+► Hors biothérapies 
+Plusieurs traitements de fond ont été proposés dans le TRAPS, mais aucun n’a fait la preuve de 
+son efficacité formelle. 
+Colchicine 
+Par analogie avec la fièvre méditerranéenne familiale , la colchicine est souvent prescrite dans le 
+TRAPS pour diminuer le nombre d’accès inflammatoires. Seul un petit nombre de patients (entre 
+20 et 50% selon les séries) pourrait en tirer un bénéfice  clinique. Il s’agit préférentiellement des 
+patients porteurs du variant de séquence R92Q, alors que les  accès inflammatoires des  patients 
+porteurs de mutations structurelles (mutations cystéine) ne semblent aucunement influencés par 
+cette thérapeutique.   
+Ainsi la proposition d’un traitement au long cours par colchicine devrait être réservée aux patients 
+porteurs d’un variant mineur dans le gène TNFRSF1A (R92Q et P46L) avec une évaluation de son 
+efficacité au bout de 6 mois de traitement pour savoir si le traitement doit être poursuivi (score 
+AIDAI – chapitre 3.5.2). 
+Les modalités pratiques de prescription de colchicine doivent suivre les recommandations de la 
+fièvre méditerranéenne familiale :  
+ Posologie : 1 mg/jour chez l’enfa nt de plus de 5 ans et l’adulte  ; 0.5 mg/jour chez l’enfant 
+de moins de 5 ans.   
+ Contre-indication à la co -prescription de médicaments inhibiteurs du transporteur ABCB1 
+et/ou du cytochrome CYP3A4. 
+ Evaluation régulière de la fonction rénale et hépatique. 
+ Boîtes de colchicine à conserver hors de vue et de portée des jeunes enfants. 
+ Education thérapeutique du patient afin de vérifier avec un médecin la compatibilité d’une 
+éventuelle association médicamenteuse. 
+Traitements immunomodulateurs 
+Les autres immunomod ulateurs classiques (méthotrexate, azathioprine, mycophénolate mofétil, 
+ciclosporine, cyclophosphamide, thalidomide, chlorambucil, immunoglobulines intra -veineuses et 
+disulone) ont été essayé s de manière empirique mais il n’existe aucune preuve de leur eff icacité. 
+Ils ne doivent donc pas être proposés dans la prise en charge d’un patient atteint de TRAPS. 
+ 
+► Traitement de fond par biothérapie 
+Les inhibiteurs de l’IL1 
+Anakinra (hors AMM) 
+L’anakinra, antagoniste des récepteurs de l’interleukine 1, a montré son excellente efficacité dans 
+le TRAPS avec des résultats prometteurs sur la fréquence de survenue des crises, leur durée et 
+leur intensité.  
+22 
+ 
+Les modalités pratiques d’un traitement au long cours par anakinra seront les suivantes :  
+ Bilan préthérapeutique (voir chapitre 3.6.2) 
+ Inclusion du patient dans la cohorte prospective nationale de surveillance du CRMR 
+(JIRcohorte) 
+ Anakinra : 2 mg/kg par jour sans dépasser 100 mg/jour en 1 injection sous-cutanée 
+En cas de persistance d’une inflammation intercritique, les posologies d’anakinra peuvent 
+être auhmentées progressivement jusqu’à la dose maximale de 4 mg/kg chez l’enfant  ou 
+200 mg/jour chez l’adulte. 
+Canakinumab (AMM européenne  ; mais pas de remboursement défini en France lors de l’écriture de ce 
+PNDS) 
+Le ca nakinumab, anticorps humain monoclonal contr e l’interleukine 1ß, a montré d’excellents 
+résultats aussi bien dans  une étude de phase II ouverte que dans une étude de phase III 
+randomisée en double aveugle.  
+Les modalités pratiques d’un traitement au long cours par canakinumab seront les suivantes :  
+ Bilan préthérapeutique (voir chapitre 3.6.2) 
+ Inclusion du patient dans la cohorte prospective nationale de surveillance du CRMR 
+(JIRcohorte) 
+ Canakinumab : 1 injection sous-cutanée toutes les 8 semaines 
+o 150 mg chez les patients pesant strictement plus de 40 kg 
+o 2 mg/kg chez les patients pesant entre 15 kg et 40 kg 
+o 4 mg/kg chez les patients pesant entre 7,5 kg et 15 kg 
+o Adaptation de l’intervalle des injections, puis de la posologie de la dose unitaire en 
+fonction des marqueurs inflammatoires résiduels. En cas de persistance des signes 
+inflammatoires, rapprochement progressif des injections jusqu’à toutes les 4 
+semaines, puis – si persistance des signes inflammatoires  – augmentation de la 
+dose unitaire de canakinumab  ; posologie maximale de canakinumab : 4 mg/kg ou 
+300 mg toutes les 4 semaines.  
+Prescription d’un inhibiteur de l’IL1 : problèmes non résolus 
+Se pose actuellement la question de l’intérêt du canakinumab par rapport à l’anakinra : il n’y a 
+aucune donnée comp arant les deux molécules, qui semblent  dans la littérature  toutes les deux 
+efficaces et équivalentes dans le TRAPS. La mise sous inhibiteurs de l’IL 1 relève des centres de 
+référence et de compétence s des maladies auto inflam matoires, notamment en raison d es 
+difficultés de remboursement de ces molécules onéreuses par la sécurité sociale sauf dans des 
+cas très particuliers. 
+L’indication, puis le choix d’utiliser un ou plutôt l’autre des 2 traitements inhibiteurs de l’IL1 
+disponibles sur le marché (ana kinra ou canakinumab) doit se faire en réunion de concertation 
+pluridisciplinaire organisée par le CRMR  et/ou la filière FAI²R. Par ailleurs , afin de p ouvoir 
+répondre à l’avenir à la question du meilleur traitement pour les patients atteint s de TRAPS, le 
+patient doit être inclus dans une cohorte prospective permettant de suivre l’évolution, l’efficacité et 
+les éventuels effets secondaires de tous les traitements entrepris (JIRcohorte).  
+Les inhibiteurs du TNF (hors AMM) 
+Bien qu’initialement prometteuse du p oint de vue physiopathologique, l’ utilisation des anti -TNF 
+alpha dans le TRAPS s’est montrée décevante. Les études récentes montrent que le traitement 
+par protéine de fusion du récepteur soluble du TNF -alpha (etanercept) peut certes induire une 
+amélioration clinique, mais celle -ci est le plus souvent transitoire avec épuisement, voire 
+23 
+ 
+échappement complet avec le temps. L’étanercept reste cependant indiqué pour les rares patients 
+qui seraient en échec thérapeutique des options thérapeutiques décrites ci-dessus. 
+Les anticorps solubles du TNF (adalimumab et l’infliximab) ne doivent par contre pas être utilisés 
+dans le cas particulier du TRAPS  : outre leur efficacité décevante, il existe un risque important de 
+réactions paradoxales, particulièrement chez les patients avec un génotype T50M.  
+ 
+Implication du patient dans les décisions thérapeutiques 
+La prise en chagre du TRAPS étant encore très peu codifiée et laissant de larges plages 
+d’incertitude, il est essentiel d’informer de manière éclairée le patient de ces  incertitudes. Il 
+apparait important d’adapter les propositions thérapeutiques aux souhaits et gênes exprimés par le 
+patient. Afin que le patient puisse prendre des décisions éclairées, il est préférable que les 
+différentes options thérapeutiques puissent lui être exposées par un médecin habitué à prendre en 
+charge des patients atteints de TRAPS.  
+ 
+4.3.4 Vaccinations 
+ Le calendrier vaccinal reste identique à celui de la population générale. 
+ Adaptation du calendrier vaccinal en cas de traitement par inhibiteurs de l’IL1 ou 
+d’immunosuppression selon les recommandations du HCSP. 
+4.3.5 Traitements non pharmacologiques  
+► Prise en charge psychologique  
+Comme toute maladie chronique , le TRAPS et/ou son tra itemement peut avoir un retentissement 
+sur le bien-être psychologique du patient.  
+Les patients en difficulté sociale et en conflit familial ou professionnel sont susceptibles de faire un 
+plus grand nombre de crises même si le lien de causalité n’est parfo is pas évident. Par ailleurs , 
+l’adolescence est une période délicate dans le développement psychologique de chaque enfant et 
+la maladie chronique est un élément perturbateur de ce développement. Ainsi une prise en charge 
+psychologique devrait être proposée à chaque patient :  
+ Au moment de l’adolescence afin d’aider le jeune patient  à s’approprier et à investir son 
+corps en changement, à accepter la comparaison à ses pairs et à renoncer aux bénéfices 
+secondaires créés par la relation de soins e t ainsi faciliter la découverte du monde et son 
+autonomisation.  
+ En cas de souffrance psychologique lié à la maladie ou son traitement. 
+ En cas de TRAPS avec un fort retentissement social et familial et/ou de manière généra le 
+en cas de TRAPS déséquilibré. 
+ A chaque fois q u’il existe des éléments orientant vers une participation psychologique aux 
+manifestations somatiques du TRAPS. 
+ Par ailleurs, une consultation auprès d’un psychologue clinicien peut être proposée par le 
+médecin spécialiste au moment de l’annonce diagnostique.  
+► Prise en charge de la fatigue et des douleurs  
+ En cas de sympt ômes douloureux au premier plan, une prise en charge spécifique de la 
+douleur par des moyens non médicamenteux peut s’avérer nécessaire (consultation en 
+algologie, hypnose et auto-hypnose médicale, thérapie cognitive et comportementale…).  
+24 
+ 
+ Une activité physique et sportive régulière paraît essentielle dans le TRAPS, comme dans 
+toute maladie chronique inflammatoire : amélioration de la fatigue, amélioration de l’estime 
+de soi, diminution probable des cytokines pro -inflammatoires. Néanmoins cette activité 
+sportive nécessite parfois une adapta tion à l’état de santé du patient, surtout si l’activité  
+physique est un facteur déclenchant des accès inflammatoires et douloureux. Ces patients 
+devraient donc pouvoir avoir accès à une activité physique adaptée  sur prescription 
+médicale, dispensée par un éducateur sportif sport-santé.  
+► Rééducation articulaire 
+Une rééducation articulaire peut être nécessaire en cas d’atteinte articulaire chronique.  
+ 
+4.4 Éducation thérapeutique  
+L’éducation thérapeutique comprend des activités (sensibilisation, information, apprentissage et 
+accompagnement psychosocial) destinées à aider le patient (et ses proches) à comprendre la 
+maladie et les traitements, participer aux soins, maintenir ou améliorer la qualité de vie et ainsi 
+maintenir les ressources nécessaires pour gérer de façon optimale sa vie avec la maladie. Les 
+malades doivent être rassurés vis -à-vis de leurs craintes, exprimées ou non. Différents moyens 
+sont mis à  disposition des professionnels de santé pour aider leur projet d’éducation 
+thérapeutique, notamment grâce aux CRMR et à la filière de santé FAI ²R. Les associations de 
+malades peuvent avoir un rôle de conseil important (voir infra). 
+4.4.1 Chez l’adulte  
+L’éducation thérapeutique portera essentiellement sur les points suivants :  
+ Connaissance et apprentissage de la gestion des facteurs déclenchant des crises. 
+ Connaissance des prodromes et des symptômes de la maladie en précisant les signes qui 
+doivent conduire à une consultation urgente. 
+ Connaissances des personnes ressources, ainsi que de l’utilisation d’internet pour 
+retrouver des information de santé pertinentes. 
+ Profil évolutif du TRAPS et objectifs thérapeutiques qui en découlent. Le patient doit 
+pouvoir reconnaître seul les signes cliniques d’un TRAPS déséquilibré et demander une 
+consultation en conséquence. 
+ Connaissance du risque d'amylose rénale et la surveillance (protéinurie/24h tous les 6 à 12 
+mois). 
+ Importance de l’observance du traitement et de la surveillance régulière. 
+ Planification des consultations et examens de routine. 
+ Compétences d’auto-soin en fonction du type de traitement reçu: gestion des traitements 
+antalgiques, de la corticothérapie à la demande, de s biothérapies ( pratique d’auto -
+injections, modalités de transport/conservation, etc)… 
+ Adaptation des traitements en fonction des situations cliniques. 
+ Encouragement quant à l’activité physique d’entretien. 
+ Sensibilisation au respect du calendrier vaccinal  ; connaissance des besoins vaccinaux 
+spécifiques pour les patients recevant une biothérapie. 
+ Effets indésirables possibles des traitements prescrits, risques liés à l’arrêt de ces 
+traitements. 
+ Gestion d’une éventuelle grossesse avec nécessité d’un suivi obstétrical en lien étroit avec 
+les spécialistes hospitaliers du centre de référence/compétences. 
+25 
+ 
+ Favoriser l’expression du patient, sa réflexion pour un meilleur engagement dans 
+l’observance des thérapeutiques, le suivi de sa maladie. 
+     
+4.4.2 Chez l’enfant  
+L’éducation thérapeutique doit veiller à la bonne compréhension de la maladie , des traitements et 
+des complications par l’enfant et ses parents. L’éducation thérapeutique à destination de l’enfant 
+doit donc être adaptée à l’âge et l’état de maturité de l’enfant, même si les aspects globaux sont  
+les mêmes que chez l’adulte. Les objectifs de l’éducation thérapeutique pour les parents sont les 
+mêmes que ceux de l’adulte. Les objets spécifiques de l’éducation thérapeutique de l’enfant sont 
+les suivants :  
+ Aménagement des activités scolaires en fonction des manifestations de la maladie. 
+ Orientation scolaire et professionnelle. 
+ Aménagement des activités sportives en fonction des manifestations de la maladie. 
+ Importance de l’observance du traitement. 
+ Programme complet de transition pour l’adolescent(e) afin de permettre une 
+autonomisation par rapport à la famille et d’aborder les points spécifiques tels que fertilité, 
+grossesse, conseil génétique, observance thérapeutique. 
+ 
+4.5 Recours aux associations de patients 
+Un cadre associatif dédié est souvent utile,  en particulier pour aider certains malades à sortir de 
+leur isolement. Les professionnels de santé et les patients doivent être informés de l’existence des 
+associations de patients par les centres de référence/compétences, les sites internet institutionnels 
+et Orphanet. Ces associations contribuent à une meilleure prise en charge globale de la maladie 
+en favorisant la coopération entre les patients et les soignants. 
+Les coordonnées de l’association de patients concernées par le TRAPS doivent être transmises au 
+patient ou à la famille lors des consultations de diagnostic et/ou de premier contact avec un centre 
+spécialisé prenant en charge les patients atteints de TRAPS. 
+ 
+Association de patients 
+ 
+  
+  
+ 
+Association Française de la Fièvre Méditerranéenne 
+Familiale (AFFMF) et des fièvres récurrentes 
+héréditaires 
+ 06.64.11.60.37 
+Courriel : affmf@orange.fr  
+Site : https://www.mai-patient.com/  
+  https://www.fai2r.org/ 
+  
+ 
+  
+
+26 
+ 
+5 Suivi    
+ 
+5.1 Objectifs  
+Les principaux objectifs du suivi sont : 
+ de prévenir autant que possible le nombre de crises de TRAPS afin de permettre au patient 
+de mener une vie la plus normale possible ; 
+ de dépister et traiter les complications liées à la maladie ou aux traitements ; 
+ de dépister et prendre en charge précocement et de façon adaptée les éventuels échecs 
+du traitement ;  
+ d’éviter, puis le cas échant, dépister et prendre en charge p récocement les séquelles liées 
+à la maladie (ou aux traitements) ;  
+ d’assurer l’éducation thérapeutique du patient (voir chapitre dédié) ; 
+ d’évaluer le retentissement psychologique, familial , scolaire  et socioprofessionnel de la 
+maladie, et d’en limiter les conséquences négatives ; 
+ de maintenir le patient dans une activité physique et sportive selon les recommandations 
+de l’OMS. 
+ 
+5.2 Professionnels impliqués (et modalités de coordination) 
+La prise en charge est multidisciplinaire et coordonnée par le médecin (ou pédiatre) traitant sous la 
+direction du médecin spécialiste (pédiatre ou interniste en fonction de l’âge du patient) issu du 
+CRMR et de ses centres de compétences.  
+Les spécialistes le plus souvent impliqués sont identiques à ceux répertoriés dans la s ection 
+évaluation initiale (chapitre 3.2). Il faut rajouter à cette liste, les professionnels de santé suivants 
+qui peuvent être impliqués dans la prise en charge en fonction du tableau clinique présenté : 
+ 
+ Recours à des consultations spécialisées d’algologie ; 
+ Recours à des professionnels paramédicaux : personnels d’éducation thérapeutique, 
+infirmière diplômée d’état (IDE), masseur-kinésithérapeute, ergothérapeute ; 
+ Recours à d’autres professionnels : psychologue, aide scolaire (soutien scolaire à domicile  
+ou dans l’établissement scolaire), éducateur sportif sport -santé, assistante sociale et plus 
+rarement professionnels de la Maison Départementale des Personnes Handicapées 
+(MDPH) ; 
+ Médecin du travail ; 
+ Le pharmacien. 
+ 
+Ces prestations non remboursé es peuven t faire l’objet d’une prise en charge ou d’un 
+remboursement par l’Assurance Maladie, à titre dérogatoire et pour une durée limitée, après avis 
+ou recommandation de la HAS et consultation de l’ANSM, s’il n’existe pas d’alternative appropriée 
+et à condition qu’elles soient indispensables à l'amélioration de l'état de santé du patient ou pour 
+éviter sa dégradation. 
+ 
+5.3 Rythme et contenu des consultations 
+Les consultations nécessaires dans le parcours de soin sont fonction de l’équilibre global de la 
+maladie. De manière générale, les patients atteints de TRAPS non compliqué et bien équilibré 
+devraient être reçus en consultation deux fois par an pour examen clinique et dépistage de 
+complications et d’effets indésirables liés au traitement. Ce suivi peut être assuré  par le médecin 
+27 
+ 
+ou le pédiatre traitant, mais un contact avec un centre de référence ou de compétence s au 
+minimum tous les ans est recommandé. Le rythme des consultations au centre de 
+référence/compétences peut se révéler plus important pour les patients i nstables ou avec une 
+forme sévère de la maladie.  
+ 
+Les autres spécialistes n’interviennent généralement qu’à la demande des médecins sus-cités.  
+Les consultations de suivi doivent contenir au minimum :  
+ Une évaluation de l’activité de la maladie grâce à un  score d’activité validé (score AIDAI – 
+chapitre 3.5.1) et des séquelles de la maladie (possibilité de s’aider du score  score ADDI – 
+chapitre 3.5.2) ; 
+ Un examen clinique complet ; 
+ Une évaluation de la croissance et du développement psycho-moteur chez l’enfant ; 
+ Evaluation de l’impact de la maladie sur la vie quotidienne et le fonctionnement social ; 
+ Vérification du calendrier vaccinal ; 
+ Evaluation de l’activité physique et sportive. 
+ 
+En cas de traitement de fond par inhibiteurs de l’IL1, il conviendra  en plus : 
+ D’évaluer l’IMC tous les 3-6 mois ; 
+ De surveiller la tolérance locale des injections et la survenue éventuelle de vertiges ; 
+ De proposer la vaccination anti-grippe chaque début d’hiver. 
+ 
+En cas d’infection sévère avérée ou suspicion (fièvre durant p lus de 3 jours), il faut arrêter les 
+injections et prendre l’avis du médecin expert prescripteur. Les vaccins vivants sont contre 
+indiqués, les autres vaccins devront être administrés selon les recommandations de vaccination de 
+la population générale. 
+ 
+5.4 Examens complémentaires 
+5.4.1 Examens biologiques à la recherche d’un TRAPS mal équilibré et/ou compliqué 
+(bilan annuel) :  
+ Numération formule sanguine ; 
+ Recherche de syndrome inflammatoire biologique avec un dosage annuel de la C RP et de 
+la SAA. Les limites de la SAA restent à définir en cas de transplantation rénale, car les taux 
+sont modérément élevés chez tout patient transplanté rénal ; 
+ Bilan rénal avec créatininémie et recherche d’une protéinurie sur échantillon urinaire ; 
+ Bilan hépatique ; 
+ Bilan musculaire. 
+ 
+Un suivi plus soutenu et des examens complémentaires supplémentaires peuvent s’avérer 
+nécessaire pour des patients atteints d’une forme sévère  (accès inflammatoires très fréquents 
+et/ou inflammation chronique) ou compliquée (amylose secondaire, etc) de TRAPS.  
+5.4.2 Examens biologiques à la recherche d’effets secondaires d’un éventuel traitement de 
+fond  
+Se référer aux recommandations spécifiques en fonction du traitement de fond reçu.  
+En cas de traitement par inhibiteur de l’IL1 , le bilan 5.4.1 doit être effect ué à 1 puis 3 mois puis 
+tous les les 6 mois après le début du traitement. Il conviendra de rajouter les examens suivants à 
+la liste précédente :  
+28 
+ 
+ Cholestérol total, LDL et HDL et triglycérides, tous les 6 mois. 
+ 
+5.5 Prise en charge de certaines situations particulières 
+5.5.1 Fertilité, grossesse et allaitement 
+► Fertilité 
+En l’absence d’amylose secondaire, la fertilité ne semble pas altéré e chez les patients atteints de 
+TRAPS, que ce soit chez l’homme ou chez la femme sous ou sans traitement par inhibiteurs de 
+l’IL1. En cas d’infertilité, il conviendra dans un premier temps d’éliminer l’amylose secondaire, puis  
+de rechercher les causes d’infertilité habituelles. 
+► Grossesse 
+Le déroulement de la grossesse chez une patiente atteinte de TRAPS est variable et imprévisible : 
+certaines n’ont aucune crise pendant leur grossesse, pour d’autres les crises inflammatoires sont 
+plus fréquentes et plus intenses pendant la grossesse ou en post partum  ; enfin, l’état peut rester 
+stationnaire. Les crises inflammatoires abdominales fa vorisent les contractions utérines et les 
+fausses-couches. 
+  
+Les AINS sont contre-indiqués pendant le 3e trimestre de la grossesse en raison de leur action sur 
+la fermeture prématurée du canal artériel chez l’enfant à naître. Les corticoïdes et la colchici ne 
+peuvent être poursuivis au cours de la grossesse. En cas de doute sur la possibilité de poursuivre 
+ou non un traitement pendant la grossesse, se reférer au centre de référence des agents 
+thératogènes (https://lecrat.fr/)  
+ 
+Le traitement au long cours par inhibiteurs de l’IL1 ne semble pas exposer la mère et le bébé à des 
+risques supplémentaires. Pour les femmes qui ne peuvent pas arrêter le s anti IL1 en raison d’une 
+inflammation trop importante à l’arrêt, ou les femmes qui ne souhaite nt pas arrêter le traitement 
+par inhibiteur de l’IL1 en raison d’un impact trop important sur la qualité de vie, l’utilisation 
+d’anakinra est privilégiée. Par principe de précaution, le canakinumab doit être évité si possible 
+pendant la grossesse et surtout après 22 semaines de gestation  en raison de sa longue durée de 
+vie et de ses effets inconnus sur le système immunitaire de l’enfant à naître. 
+ 
+► Précautions à prendre chez un enfant issu d’une grossesse sous traitement par anti IL1 
+Allaitement   
+L’allaitement d’un enfant né d’une mère atteinte d’un TRAPS peut être poursuivi, même en 
+présence d’un traitement par inhibiteur de l’IL1  : en effet , dans l’hypothèse où ce médicament 
+passerait significativement dans le lait maternel, il est peu probable qu’il y ait un passage sanguin 
+et donc des effets systémiques chez  l’enfant allaité, en raison de la nature protéique des 
+inhibiteurs de l’IL1 (dégradation par les enzymes gastriques). 
+Vaccination 
+En revanche, des précautions de principe concernant l’enfant né d’une mère traité par inhibiteur de 
+l’IL1 seront à prendre concernant les vaccinations. En effet, l e passage transplacentaire du 
+traitement n’est pas exclu, ce qui pourrait entraîner une immunodépression transitoire chez l’enfant 
+pendant les 3 à 6 premiers mois de la vie. Pendant cette période , les vaccin s vivant s (BCG, 
+rotavirus, rougeole, oreillons, rubéole, fièvre jaune) sont contre-indiqués de principe. 
+29 
+ 
+5.5.2 Amylose inflammatoire  
+Le TRAPS peut se compliquer d ’amylose inflammatoire (ou amylose AA) en cas de syndrome 
+inflammatoire prolongé non dépisté ou non maitrisé. Environ 10% des patients pourraient être 
+touchés par cette complication qui résulte le plus souvent d’un contrôle imparfait de la maladie. 
+Chez les patients avec un suivi et une observance satisfaisants, le risque de cette complication est 
+faible, mais  pourrait encore subsister,  essentiellement chez les patients avec une mutation 
+structurelle (mutation cystéine) .  
+La recherche d’une amylose AA secondaire au TRAPS comprend l’évaluation de la fonction rénale 
+(créatinine) et la recherche d’une protéinurie (dépistage par bandelette urinaire , confirmation par 
+un dosage du rapport protéines urinaires sur créatinine urinaire sur échantillon ou protéinurie des 
+24 heures) au moins annuellement. 
+ 
+En cas de protéinurie permanente ou d’insuffisance rénale inexpliquée, il faut rechercher une 
+amylose par un prélèvement histologique. Ce prélèvement ne doit pas être fixé mais porté 
+rapidement au laboratoire pour per mettre l’analyse précise des dépôts amyloïdes par le rouge 
+Congo et l’examen immunohistochimique. 
+Les sites de la biopsie sont en première intention : 
+ Les glandes salivaires accessoires labiales.  
+ La muqueuse et sous muqueuse digestive haute et basse. 
+La biopsie rénale se discute en seconde intention. 
+Rarement l’amylose AA se révèle par des troubles digestifs ou un goitre. 
+ 
+La présence d’une amylose se condaire est une indication à un traitement de fond afin de réduire 
+les marqueurs inflammatoires sanguins.  
+Les données de la littérature actuelle plaident pour un traitement par inhibiteur de l’IL1 (chapitre 
+4.3.3), molécules qui semblent être le traitement le plus efficace sur le TRAPS compliqué 
+d’’amylose AA.  
+  
+30 
+ 
+Annexe 1. Liste des centres de référence, des centres de 
+compétences et de l’association de patients pour les maladies 
+auto-inflammatoires 
+ 
+Centres de Référence Pédiatriques Animateurs 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose inflammatoire 
+CeRéMAIA (site coordonnateur) 
+Le Kremlin-Bicêtre KONE-PAUT Isabelle 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose inflammatoire 
+CeRéMAIA (site constitutif) 
+Le Chesnay HENTGEN Véronique 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose inflammatoire 
+CeRéMAIA (site constitutif) 
+Montpellier TOUITOU Isabelle 
+ 
+Centres de Référence Adultes Animateurs 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose inflammatoire 
+CeRéMAIA (site constitutif) 
+Paris GRATEAU Gilles 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose inflammatoire 
+CeRéMAIA (site constitutif) 
+Paris SAADOUN David 
+ 
+ 
+ 
+Centres de Compétences Pédiatriques Animateurs 
+Centre de compétences pédiatrique CeRéMAIA Bordeaux PILLET Pascal 
+Centre de compétences pédiatrique CeRéMAIA Caen DESDOITS Alexandre 
+Centre de compétences pédiatrique CeRéMAIA Clermont-Ferrand MERLIN Etienne 
+Centre de compétences pédiatrique CeRéMAIA Dijon BOTTOLLIER Elodie 
+Centre de compétences pédiatrique CeRéMAIA Grenoble PAGNIER Anne 
+Centre de compétences pédiatrique CeRéMAIA Lille REUMAUX Héloïse 
+Centre de compétences pédiatrique CeRéMAIA Lyon BELOT Alexandre 
+Centre de compétences pédiatrique CeRéMAIA Marseille RETORNAZ Karine 
+31 
+ 
+Centre de compétences pédiatrique CeRéMAIA Nancy LEMELLE Irène 
+Centre de compétences pédiatrique CeRéMAIA Nîmes TRAN Tu-Anh 
+Centre de compétences pédiatrique CeRéMAIA Reims PIETREMENT Christine 
+Centre de compétences pédiatrique CeRéMAIA Rennes DESPERT Véronique 
+Centre de compétences pédiatrique CeRéMAIA Saint-Etienne STEPHAN Jean-Louis 
+Centre de compétences pédiatrique CeRéMAIA Strasbourg TERZIC Joëlle 
+Centre de compétences pédiatrique CeRéMAIA Toulouse DECRAMER Stéphane 
+Centre de compétences pédiatrique CeRéMAIA Tours HOARAU Cyrille 
+ 
+Centres de Compétences Adultes Animateurs 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares  Angers LAVIGNE Christian 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Amiens DUHAUT Pierre 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Annecy-Genevois BEREZNE Alice 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Besançon MAGY-
+BERTRAND Nadine 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Boulogne-sur-Mer BATAILLE Pierre 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Caen AOUBA Achille 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Clermont-Ferrand AUMAITRE Olivier 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Colmar KIEFFER Pierre 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Créteil GODEAU Bertrand 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Dijon BONNOTTE Bernard 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Tours DIOT Élisabeth 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Grenoble BOUILLET Laurence 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Guadeloupe CORDEL Nadège 
+32 
+ 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares 
+Saint Denis, Ile de 
+la Réunion RAFFRAY Loïc 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Limoges FAUCHAIS Anne-Laure 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Lyon HOT Arnaud 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Marseille HARLE Jean-Robert 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Montpellier MOREL Jacques 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Nancy WAHL Denis 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Nantes HAMIDOU Mohamed 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Nice FUZIBET Jean-Gabriel 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Paris UZUNHAN Yurdagul 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Paris PAPO Thomas 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Paris ZIZA  Jean-Marc 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Paris KARRAS Alexandre 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Paris FAIN Olivier 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Paris MAHR Alfred Dominique 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Saint-Denis LHOTE  François 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Poitiers ROBLOT Pascal 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Reims PENNAFORTE Jean-Loup 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Rennes JEGO Patrick 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Rouen LEVESQUE Hervé 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Saint-Étienne CATHEBRAS Pascal 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Toulouse CHAUVEAU Dominique 
+Centre de compétences adulte pour les maladies 
+auto-immunes et systémiques rares Valenciennes QUEMENEUR Thomas 
+33 
+ 
+ 
+► Association de patients 
+ 
+  
+  
+ 
+Association Française de la Fièvre Méditerranéenne 
+Familiale (AFFMF) et des fièvres récurrentes 
+héréditaires 
+ 06.64.11.60.37 
+Courriel : affmf@orange.fr  
+Site : https://www.mai-patient.com/  
+  https://www.fai2r.org/ 
+  
+
+34 
+ 
+Annexe 2. Arbre décisionnel en vue du diagnostic 
+biologique/génétique 
+ 
+Le réseau national des laboratoires labélisés pour les maladies autoinflammatoires (GenMAI) 
+propose le diagnostic génétique du TRAPS. GenMAI a émis un arbre décisionnel, disponible sur le 
+site de l’ANPGM (association nationale des praticiens de génétique moléculaire). 
+ 
+Avec critères cliniques spécifiques?
+Arbre décisionnel pour le diagnostic génétique des maladies autoinflammatoires (MAI)
+Autres phénotypes MAI +
+CRP élevée
+SANGER 
+• MEFV 
+Exon 10 +/-
+exons 2-3-5
+NGS Panel
+OUI NON
+>3 récurrences fièvre inexpliquée + 
+début pédiatrique + 
+CRP élevée pendant les crises
+Au moins une origine à risque de la FMF*?
+OUI NON
+SANGER 
+• MVK tous exons
+• TNFRSF1A exon 2-3-4
+• NLRP3: exon 3
+SANGER  disponible?
+SANGER 
+• gène suspecté 
+tous exons
+Validations CRMR/CCMR + biologiste
+En fonction de la 
+clinique 1 ou  2 gènes
+Confirmation génétique?
+NON
+OUI NON
+* Les 4 principales sont: Arménienne, Turque, Juifs séfarades, Maghrébins
+35 
+ 
+Annexe 3. Réseau national du diagnostic Genétique des 
+Maladies Auto-Inflammatoires héréditaires (GenMAI) 
+ 
+ 
+  
+ 
+Trois laboratoires de génétique moléculaire soutenus par le Ministère 
+de la Santé : 
+ 
+  
+CHRU Montpellier 
+Hôpital A de Villeneuve 
+UMAI (Unité Médicale des Maladies Auto-
+Inflammatoires) 
+ 
+Professeur Isabelle TOUITOU 
+Coordinatrice 
+ 
+Dr Guillaume SARRABAY 
+  
+CHRU Paris 
+Hôpital Cochin 
+Laboratoire de biochimie génétique 
+ 
+Pr Michel VUDAUD 
+Dr Catherine COSTA 
+Dr Catherine DODE 
+  
+CHRU Paris 
+Hôpital Trousseau 
+Service de génétique et d'embryologie 
+médicale 
+Pr Serge AMSELEM 
+  
+ 
+ 
+ 
+
+36 
+ 
+Annexe 4 : score AIDAI 
+ 
+ 
+Nom: Age: Mois: Année: 
+Symptomatologie  des maladies auto-inflammatoires 
+Jours Fièvre 
+≥38°C 
+Symptomatologie 
+générale 
+Douleurs 
+abdominales 
+Nausées/ 
+vomissements Diarrhée Céphalées Douleurs 
+thoraciques* 
+Ganglions 
+douloureux 
+Douleurs 
+articulaires 
+ou 
+musculaires 
+Gonflement 
+des 
+articulations 
+Manifestations 
+oculaires 
+Eruption 
+cutanée Antalgiques** 
+Cotation 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1  
+1              
+2              
+3              
+…              
+31              
+ 
+Madame, Monsieur 
+Chaque grille représente un mois et les lignes les jours correspondants.  Veuillez remplir la grille au moment des poussées en y cochant vos 
+symptômes et ceci pendant toute la durée de la poussée. Veuillez remplir une grille différente chaque mois. Dans le cas où vous n’avez pas de 
+poussée dans le mois, ramener la grille vide à votre médecin référent. Ne coter que les symptômes dus à votre maladie auto-inflammatoire. 
+* les douleurs thoraciques sont les douleurs dans la poitrine 
+** les traitements antalgiques sont les traitements pris pour calmer la douleur (ex le paracétamol (Doliprane®, Efferalgan®),  l’aspirine et autres 
+anti-inflammatoire non stéroïdien (AINS), la codéine… 
+ 
+ 
+D’après Piram M, et al. Ann Rheum Dis 2014;73:2168–2173 
+ 
+ 
+ 
+37 
+ 
+Annexe 5 : score de dommages/séquelles MAI (score ADDI) 
+Score ADDI préliminaire (traduit par les auteurs de ce PNDS) 
+ 
+Définition des dommages/séquelles : Les dommage/séquelles sont définis comme un 
+changement persistant ou irréversible de la structure ou de la fonction depuis au moins 6 
+mois. Les items intervenant dans le score ne devraient pas être cotés s'ils sont liés à l'activité 
+de la maladie  et révers ibles avec un bon contr ôle de celle -ci. Les dommages/séquelles 
+peuvent être le résultat d'une activité antérieure de la maladie, de complications du traitement 
+ou de comorbidités qui se sont développées après l'apparition des signes et symptômes de la 
+maladie autoinflammatoire. Si les dommage/séquelles sont présents depuis plus de 6 mois, 
+mais qu'ils disparaissent plus tard, il faut quand même les coter afin de saisir les dommages 
+qui étaient présents à un moment donné de la vie du patient.. 
+ 
+ 
+Système atteint Grade Points 
+Reproduction  Max. 3 
+Sub/infertilité  2 
+Aménorrhée  1 
+Amylose rénale  Max. 6 
+Amylose Amylose limitée 2 
+ Amylose étendue 3 
+Protéinurie  1 
+Insuffisance rénale Insuffisance rénale légère à modérée 2 
+ Insuffisance rénale sévère 3 
+Développement  Max. 3 
+Retard de croissance  2 
+Retard pubertaire  1 
+Séreuses  Max. 1 
+Cicatrice séreuse  1 
+Neurologique  Max. 6 
+Retard de développement*  2 
+Déficience cognitive  3 
+Hypertension intracrânienne  2 
+Atteinte du système nerveux central  3 
+Auditif  Max. 2 
+Surdité Perte auditive modérée de la meilleure oreille 1 
+ Perte auditive sévère de la 
+meilleure oreille 
+2 
+Oculaire  Max. 3 
+Atteinte oculaire Atteinte oculaire légère du meilleur œil 1 
+ Atteinte oculaire modérée du meilleur œil 2 
+ Atteinte oculaire sévère du 
+meilleur œil 
+3 
+Musculo-squelettique  Max. 4 
+Limitation articulaire  2 
+Déformation osseuse  2 
+Ostéoporose  1 
+Douleur musculo-squelettique  1 
+ 
+38 
+ 
+ 
+ 
+Glossaire des termes 
+Infertilité : Une maladie de l'appareil reproducteur définie par l'échec d'une grossesse clinique après ≥ 12 mois de rapports 
+sexuels réguliers non protégés, non dus à des troubles connus chez le partenaire non affecté.  
+Aménorrhée : Aménorrhée primaire : absence de règles à l'âge de 16 ans ou absence de règl es 5 ans après le début de la 
+puberté.  Aménorrhée secondaire : absence des règles pendant six mois consécutifs ou plus chez une femme qui avait 
+auparavant des cycles menstruels.  
+Amylose limitée : Amylose symptomatique affectant un organe et confirmée par l'examen anatomopathologiq ue par coloration 
+au rouge Congo ou d'une scintigraphie du composant amyloïde sérique P (SAP).  
+Amylose étendue  : Amylose symptomatique affectant plus d'un organe et confirmée par l'examen de coupes de tissus par 
+coloration rouge Congo ou scintigraphie SAP. 
+Protéinurie : Rapport protéine/créatinine urinaire persistant de >20 mg/mmol sur les premières urines du matin et/ou une 
+excrétion quotidienne de protéine >0,3 g/24 heures, ou un rapport albumine urinaire/créatinine >15 mg/mmol.  
+Insuffisance rénale modérée  : Taux de filtration glomérulaire (TFG) entre 15 et 60 mL/min/1,73 m 2. 
+Insuffisance rénale sévère : TFG<15 mL/min/1,73 m 2, dialyse ou transplantation.  
+Retard de croissance : Défini comme la présence d'au moins deux des trois car actéristiques : 
+ taille inférieure au 3e percentile pour l'âge.  
+ Vitesse de croissance sur 6 mois inférieure au 3e percentile pour l'âge.  
+ Croisement d'au moins deux centiles (5%, 10%, 25%, 25%, 50%, 75%, 90%, 95%) sur la courbe de croissance.  
+Pour les patien ts de plus de 18 ans : Taille finale pathologique (p. ex. inférieure au 3e percentile pour une population ethnique 
+normale). 
+Retard de puberté : Un stade Tanner inférieur à -2 SD pour l'âge. 
+Cicatrice séreuse  : Adhésions ou fibrose affectant le péricarde, la plèvre, le péritoine et/ou le rétropéritoine, confirmées par 
+des techniques d'imagerie, d'endoscopie ou de chirurgie.  
+Retard de développement  : Défaut d'atteinte des étapes de développement normaux pour l'âge, y compris retard de langage, 
+les étapes motrices, sociales/émotionnelles et cognitives. Dès qu'il y a un retard dans l'une des catégories de développement , 
+cet élément doit être noté. 
+Déficience cognitive : Nécessité d'une éducation spécialisée en r aison d'une déficience cognitive ou d'un QI <70 tel que défini 
+par une évaluation neuropsychologique (p. ex., Wechsler Intelligence Scale for Children (WISC) ou autres) adaptés à l'âge.  
+Hypertension intracrânienne  : Signes et/ou symptômes de pression intra crânienne élevée étayés p ar des techniques 
+appropriées. 
+Atteinte du système nerveux central : Déficits focaux (sensorimoteur grossier et/ou fin), déficits diffus (ex. mémoire, 
+comportement), convulsions et atteintes de la moelle épinière.  
+Perte auditive mo dérée : Déficience auditive neurosensorielle confirmée par audiométrie ou par une autre technique adaptée 
+à l'âge, sans prothèse auditive ou implant cochléaire.  
+Perte auditive sévère  : Déficience auditive neurosensorielle confirmée par audiométrie ou par u ne autre technique adaptée à 
+l'âge et nécessitant des prothèses auditives ou un implant cochléaire.  
+Atteinte oculaire légère  : Dommages oculaires (p. ex. atrophie du nerf optique, pression intraoculaire élevée ou cataracte) 
+documentés par un ophtalmologist e, sans déficience visuelle. Atteinte oculaire modérée  : Dommages oculaires (p. ex. 
+atrophie du nerf optique, pression intraoculaire élevée ou cataracte) documentés par un ophtalmologiste, entraînant une 
+déficience visuelle. Atteinte oculaire grave  : Domma ges oculaires (p. ex. atrophie du nerf optique, pression intraoculaire 
+élevée ou cataracte) documentés par un ophtalmologiste, entraînant la cécité légale.  
+Limitation articulaire  : Limitation fixe de l'amplitude des articulations, avec ou sans arthropathie  destructrice ou nécrose 
+avasculaire. 
+Déformation osseuse : Déformation ou excroissance osseuse lors d'examens cliniques et/ou d'études d'imagerie.  
+Ostéoporose : Densité minérale osseuse réduite avec tassement vertébral et/ou fractures pathologiques confir mées par 
+imagerie, ce qui peut inclure la densitométrie osseuse. Exige à la fois la preuve d'une diminution de la densité osseuse et d 'une 
+fracture, une " faible densité osseuse " est insuffisante en soi.  
+ 
+ 
+Source : ter Haar et al. Ann Rheum Dis 2016, doi:10.1136/annrheumdis-2016-210092  
+39 
+ 
+Références bibliographiques 
+Revues générales 
+ 
+1.  Messina M, Daidola G, Restagno G, 
+Lavacca A, Ranghino A, Biancone L, et 
+al. A case report of AA amyloidosis 
+associated with familial periodic fever 
+syndrome diagnosed after kidney 
+transplantation: never say never. 
+Transplant Proc. sept 2013;45(7):2778 ‑
+81.  
+2.  Cigni A, Ledda F, Satta AE. A complex 
+case of renal amyloidosis with a rare co-
+occurrence o f 2 mutations in separate 
+hereditary periodic fever syndrome -
+related genes. J Nephrol. août 
+2006;19(4):543‑9.  
+3.  Lane T, Loeffler JM, Rowczenio DM, 
+Gilbertson JA, Bybee A, Russell TL, et 
+al. AA amyloidosis complicating the 
+hereditary periodic fever syndr omes. 
+Arthritis Rheum. avr 2013;65(4):1116 ‑
+21.  
+4.  Dinc A, Erdem H, Rowczenio D, Simsek 
+I, Pay S, Bahce M, et al. Autosomal 
+dominant periodic fever with AA 
+amyloidosis: tumor necrosis factor 
+receptor-associated periodic syndrome 
+(TRAPS) in a Turkish family. J Nephrol. 
+oct 2005;18(5):626‑9.  
+5.  Jadoul M, Dodé C, Cosyns JP, 
+Abramowicz D, Georges B, Delpech M, 
+et al. Autosomal-dominant periodic fever 
+with AA amyloidosis: Novel mutation in 
+tumor necrosis factor receptor 1 gene 
+Rapid Communication. Kidney Int. mai 
+2001;59(5):1677‑82.  
+6.  Ravet N, Rouaghe S, Dodé C, Bienvenu 
+J, Stirnemann J, Lévy P, et al. Clinical 
+significance of P46L and R92Q 
+substitutions in the tumour necrosis 
+factor superfamily 1A gene. Ann Rheum 
+Dis. sept 2006;65(9):1158‑62.  
+7.  Gentileschi S, Rigante D, Vitale A, Sota 
+J, Frediani B, Galeazzi M, et al. Efficacy 
+and safety of anakinra in tumor necrosis 
+factor receptor -associated periodic 
+syndrome (TRAPS) complicated by 
+severe renal failure: a report after long -
+term follow -up and revie w of the 
+literature. Clin Rheumatol. juill 
+2017;36(7):1687‑90.  
+8.  Solakov PT. First Case of TNF -
+Receptor-Associated Autoinflammatory 
+Syndrome (TRAPS) in Bulgaria. Folia 
+Med (Plovdiv). 01 2016;58(3):211‑4.  
+9.  Rodziewicz N, Bhushan S, Avasia A, 
+Singh N. Kidney Transplant in a Patient 
+With Tumor Necrosis Factor Receptor -1 
+Syndrome (TRAPS): Case Report and 
+Review of the Literature. Transplant 
+Proc. févr 2016;48(1):265‑6.  
+10.  Dodé C, Hazenberg BPC, Pêcheux C, 
+Cattan D, Moulin B, Barthélémy A, et al. 
+Mutational spectrum in the MEFV and 
+TNFRSF1A genes in patients suffering 
+from AA amyloidosis and recurrent 
+inflammatory attacks. Nephrol Dial 
+Transplant Off Publ Eur Dial Transpl 
+Assoc - Eur Ren Assoc. juill 
+2002;17(7):1212‑7.  
+11.  Simsek I, Kaya A, Erdem H, Pa y S, 
+Yenicesu M, Dinc A. No regression of 
+renal amyloid mass despite remission of 
+nephrotic syndrome in a patient with 
+TRAPS following etanercept therapy. J 
+Nephrol. févr 2010;23(1):119‑23.  
+12.  Clementi A, Cruz DN, Granata A, Virzì 
+GM, Battaglia G. Secondary amyloidosis 
+in a patient carrying mutations in the 
+familial Mediterranean fever (FMF) and 
+tumour necrosis factor receptor -1 
+syndrome (TRAPS) genes. Clin Kidney 
+J. déc 2013;6(6):613‑7.  
+13.  Mereuta OM, Baldovino S, Errichiello E, 
+Binello GB, Restagno G, Battaglia GG, 
+et al. Systemic AA amyloidosis as a 
+unique manifestation of a combined 
+mutation of TNFRSF1A and MEFV 
+genes. Amyloid Int J Exp Clin Investig 
+40 
+ 
+Off J Int Soc Amyloidosis. juin 
+2013;20(2):122‑6.  
+14.  Lachmann HJ, Papa R, Gerhold K, Obici 
+L, To uitou I, Cantarini L, et al. The 
+phenotype of TNF receptor -associated 
+autoinflammatory syndrome (TRAPS) at 
+presentation: a series of 158 cases from 
+the Eurofever/EUROTRAPS 
+international registry. Ann Rheum Dis. 
+déc 2014;73(12):2160‑7.  
+15.  Dodé C, Cuisset L, Delpech M, Grateau 
+G. TNFRSF1A -associated periodic 
+syndrome (TRAPS), Muckle -Wells 
+syndrome (MWS) and renal 
+amyloidosis. J Nephrol. juin 
+2003;16(3):435‑7.  
+16.  Drewe E, Huggins ML, Morgan AG, 
+Cassidy MJD, Powell RJ. Treatment of 
+renal amyloidosis with etanercept in 
+tumour necrosis factor receptor -
+associated periodic syndrome. 
+Rheumatol Oxf Engl. nov 
+2004;43(11):1405‑8.  
+17. Umanoff DF. Correspondence: 
+Nefazodone, psychotherapy, and their 
+combination for chronic depression. N 
+Engl J Med. May 2000;342( 20):1462-
+70. 
+ 
+Diagnostic 
+ 
+1.  Piram M, Frenkel J, Gattorno M, Ozen 
+S, Lachmann HJ, Goldbach -Mansky R, 
+et al. A preliminary score for the 
+assessment of disease activity in 
+hereditary recurrent fevers: results from 
+the AIDAI (Auto -Inflammatory Diseases 
+Activity Index) Consensus Conference. 
+Ann Rheum Dis. 1 févr 2011;70(2):309 -
+14.  
+2.  ter Haar NM, Annink KV, Al-Mayouf SM, 
+Amaryan G, Anton J, Barron KS, et al. 
+Development of the autoinflammatory 
+disease damage index (ADDI). Ann 
+Rheum Dis. mai 2017;76(5):821-30.  
+3.  Piram M, Koné -Paut I, Lachmann HJ, 
+Frenkel J, Ozen S, Kuemmerle -
+Deschner J, et al. Validation of the Auto-
+Inflammatory Diseases Activity Index 
+(AIDAI) for hereditary recurrent fever 
+syndromes. Ann Rheum Dis. déc 
+2014;73(12):2168-73.  
+Critères de classification EUROFEVER 
+ 
+ 
+ 
+Scores d’activité 
+ 
+1.  Piram M, Frenkel J, Gattorno M, Ozen 
+S, Lachmann HJ, Goldbach -Mansky R, 
+et al. A preliminary score for the 
+assessment of  disease activity in 
+hereditary recurrent fevers: results from 
+the AIDAI (Auto -Inflammatory Diseases 
+Activity Index) Consensus Conference. 
+Annals of the Rheumatic Diseases. 1 
+févr 2011;70(2):309-14.  
+2.  ter Haar NM, Annink KV, Al-Mayouf SM, 
+Amaryan G, Ant on J, Barron KS, et al. 
+Development of the autoinflammatory 
+disease damage index (ADDI). Annals 
+of the Rheumatic Diseases. mai 
+2017;76(5):821-30.  
+3.  Piram M, Koné -Paut I, Lachmann HJ, 
+Frenkel J, Ozen S, Kuemmerle -
+Deschner J, et al. Validation of the Auto-
+Inflammatory Diseases Activity Index 
+(AIDAI) for hereditary recurrent fever 
+syndromes. Annals of the Rheumatic 
+Diseases. déc 2014;73(12):2168-73. 
+ 
+ 
+ 
+Symptômes et complications 
+ 
+1.  Gattorno M, Sormani MP, D’Osualdo A, 
+Pelagatti MA, Caroli F, Federici S, et al. 
+A diagnostic score for molecular 
+analysis of hereditary autoinflammatory 
+syndromes with periodic fever in 
+children. Arthritis & Rheumatism. juin 
+2008;58(6):1823-32.  
+2.  Toplak N, Frenkel J, Ozen S, Lachmann 
+HJ, Woo P, Koné -Paut I, et al. An 
+International registry on 
+Autoinflammatory diseases: the 
+Eurofever experience. Annals of the 
+Rheumatic Diseases. juill 
+2012;71(7):1177-82.  
+41 
+ 
+3.  Lane T, Loeffler JM, Rowczenio DM, 
+Gilbertson JA, Bybee A, Russell TL, et 
+al. Brief Report: AA Amyloidosis 
+Complicating the Hereditary Periodic 
+Fever Syndromes: AA Amyloidosis and 
+HPFS. Arthritis & Rheumatism. avr 
+2013;65(4):1116-21.  
+4.  Stojanov S, Dejaco C, Lohse P, Huss K, 
+Duftner C, Belohradsky BH, et al. 
+Clinical and functional characterisation 
+of a novel TNFRSF1A  c.605T>A/V173D 
+cleavage site mutation associated with 
+tumour necrosis factor receptor -
+associated periodic fever syndrome 
+(TRAPS), cardiovascular complications 
+and excellent response to etanercept 
+treatment. Annals of the Rheumatic 
+Diseases. 30 nov 2007;67(9):1292-8.  
+5.  Ravet N, Rouaghe S, Dode C, Bienvenu 
+J, Stirnemann J, Levy P, et al. Clinical 
+significance of P46L and R92Q 
+substitutions in the tumour necrosis 
+factor superfamily 1A gene. Annals of 
+the Rheumatic Diseases. 1 sept 
+2006;65(9):1158-62.  
+6.  McDermott EM, Smillie DM, Powell RJ. 
+Clinical spectrum of familial Hibernian 
+fever: a 14 -year follow -up study of the 
+index case and extended family. Mayo 
+Clin Proc. sept 1997;72(9):806-17.  
+7.  Federici S, Sormani MP, Ozen S, 
+Lachmann HJ, Amaryan G, Woo P,  et 
+al. Evidence -based provisional clinical 
+classification criteria for 
+autoinflammatory periodic fevers. 
+Annals of the Rheumatic Diseases. mai 
+2015;74(5):799-805.  
+8.  Williamson LM, Hull D, Mehta R, 
+Reeves WG, Robinson BH, Toghill PJ. 
+Familial Hibernian fever. Q J Med. 
+1982;51(204):469-80.  
+9.  Lainka E, Neudorf U, Lohse P, Timmann 
+C, Stojanov S, Huss K, et al. Incidence 
+of TNFRSF1A mutations in German 
+children: epidemiological, clinical and 
+genetic characteristics. Rheumatology. 
+1 août 2009;48(8):987-91.  
+10.  Youngstein T, Hoffmann P, Gül A, Lane 
+T, Williams R, Rowczenio DM, et al. 
+International multi -centre study of 
+pregnancy outcomes with interleukin -1 
+inhibitors. Rheumatology. 1 déc 
+2017;56(12):2102-8.  
+11.  Pelagatti MA, Meini A, Caorsi R, 
+Cattalini M, Federici S, Zulian F, et al. 
+Long-term clinical profile of children with 
+the low -penetrance R92Q mutation of 
+the TNFRSF1A gene. Arthritis & 
+Rheumatism. avr 2011;63(4):1141-50.  
+12.  Cantarini L, Rigante D, Merlini G, Vitale 
+A, Caso F, Lucherini OM, e t al. The 
+expanding spectrum of low -penetrance 
+TNFRSF1A gene variants in adults 
+presenting with recurrent inflammatory 
+attacks: Clinical manifestations and 
+long-term follow -up. Seminars in 
+Arthritis and Rheumatism. juin 
+2014;43(6):818-23.  
+13.  Lachmann HJ, Papa R, Gerhold K, Obici 
+L, Touitou I, Cantarini L, et al. The 
+phenotype of TNF receptor -associated 
+autoinflammatory syndrome (TRAPS) at 
+presentation: a series of 158 cases from 
+the Eurofever/EUROTRAPS 
+international registry. Annals of the 
+Rheumatic Dise ases. déc 
+2014;73(12):2160-7.  
+14.  Hull KM, Drewe E, Aksentijevich I, Singh 
+HK, Wong K, McDermott EM, et al. The 
+TNF receptor -associated periodic 
+syndrome (TRAPS): emerging concepts 
+of an autoinflammatory disorder. 
+Medicine (Baltimore). sept 
+2002;81(5):349-68.  
+15.  Aksentijevich I, Galon J, Soares M, 
+Mansfield E, Hull K, Oh H -H, et al. The 
+Tumor-Necrosis-Factor Receptor –
+Associated Periodic Syndrome: New 
+Mutations in TNFRSF1A, Ancestral 
+Origins, Genotype -Phenotype Studies, 
+and Evidence for Further Genetic 
+Heterogeneity of Periodic Fevers. The 
+American Journal of Human Genetics. 
+août 2001;69(2):301-14.  
+ 
+ 
+42 
+ 
+Traitement 
+ 
+1.  Gattorno M, Obici L, Cattalini M, Tormey 
+V, Abrams K, Davis N, et al. 
+Canakinumab treatment for patients with 
+active recurrent or chronic TNF 
+receptor-associated periodic syndrome 
+(TRAPS): an open-label, phase II study. 
+Annals of the Rheumatic Diseases. janv 
+2017;76(1):173-8.  
+2.  Gentileschi S, Rigante D, Vitale A, Sota 
+J, Frediani B, Galeazzi M, et al. Efficacy 
+and safety of anakinra in tu mor necrosis 
+factor receptor -associated periodic 
+syndrome (TRAPS) complicated by 
+severe renal failure: a report after long -
+term follow -up and review of the 
+literature. Clinical Rheumatology. juill 
+2017;36(7):1687-90.  
+3.  Bulua AC, Mogul DB, Aksentijevich I, 
+Singh H, He DY, Muenz LR, et al. 
+Efficacy of etanercept in the tumor 
+necrosis factor receptor -associated 
+periodic syndrome: A prospective, open-
+label, dose-escalation study: Efficacy of 
+Etanercept in Traps. Arthritis & 
+Rheumatism. mars 2012;64(3):908-13.  
+4.  Quillinan N, Mannion G, Mohammad A, 
+Coughlan R, Dickie LJ, McDermott MF, 
+et al. Failure of sustained response to 
+etanercept and refractoriness to 
+anakinra in patients with T50M TNF -
+receptor-associated periodic syndrome. 
+Annals of the Rheumatic Disea ses. 1 
+sept 2011;70(9):1692-3.  
+5.  Grimwood C, Despert V, Jeru I, Hentgen 
+V. On-demand treatment with anakinra: 
+a treatment option for selected TRAPS 
+patients: Fig. 1. Rheumatology. sept 
+2015;54(9):1749-51.  
+6.  Gattorno M, Pelagatti MA, Meini A, Obici 
+L, Barcellona R, Federici S, et al. 
+Persistent efficacy of anakinra in 
+patients with tumor necrosis factor 
+receptor–associated periodic syndrome. 
+Arthritis & Rheumatism. mai 
+2008;58(5):1516-20.  
+7.  Drewe E. Prospective study of anti -
+tumour necrosis factor r eceptor 
+superfamily 1B fusion protein, and case 
+study of anti -tumour necrosis factor 
+receptor superfamily 1A fusion protein, 
+in tumour necrosis factor receptor 
+associated periodic syndrome (TRAPS): 
+clinical and laboratory findings in a 
+series of seven patients. Rheumatology. 
+1 févr 2003;42(2):235-9.  
+8.  ter Haar N, Lachmann H, Özen S, Woo 
+P, Uziel Y, Modesto C, et al. Treatment 
+of autoinflammatory diseases: results 
+from the Eurofever Registry and a 
+literature review. Annals of t he 
+Rheumatic Diseases. mai 
+2013;72(5):678-85
+43 
+ 
+ 

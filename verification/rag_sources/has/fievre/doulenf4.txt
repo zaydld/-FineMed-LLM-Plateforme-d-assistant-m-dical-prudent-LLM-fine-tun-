@@ -1,0 +1,1018 @@
+ÉVALUATION ET STRATÉGIES DE PRISE EN CHARGE
+DE LA DOULEUR AIGUË EN AMBULATOIRE CHEZ
+L’ENFANT DE 1 MOIS À 15 ANS
+MARS 2000
+Service recommandations et références professionnelles
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service recommandations et références professionnelles / 26/09/01
+1
+Dans la même collection :
+Recommandations pour la pratique clinique - La prise en charge de la douleur du cancer
+chez l’adulte en médecine ambulatoire - Octobre 1995.
+Recommandations pour la pratique clinique - Évaluation et suivi de la douleur chronique
+chez l’adulte en médecine ambulatoire - Février 1999.
+Recommandations pour la pratique clinique - Évaluation et prise en charge thérapeutique
+de la douleur chez les sujets âgés ayant des troubles de la communication verbale - À
+paraître.
+Tous droits de traduction, d'adaptation et de reproduction par tous procédés, réservés pour tous pays.
+Toute reproduction ou représentation intégrale ou partielle, par quelque procédé que ce soit du présent ouvrage, faite sans
+l'autorisation de l'ANAES est illicite et constitue une contrefaçon. Conformément aux dispositions du Code de la propriété
+intellectuelle, seules sont autorisées, d'une part, les reproductions strictement réservées à l'usage privé du copiste et non
+destinées à une utilisation collective et, d'autre part, les courtes citations justifiées par le caractère scientifique ou
+d'information de l'œuvre dans laquelle elles sont incorporées.
+Ce document a été réalisé en mars 2000. Il peut être commandé (frais de port compris) auprès de :
+Agence Nationale d'Accréditation et d'Évaluation en Santé (ANAES) - Service Communication et Diffusion - 159, rue
+Nationale - 75640 Paris Cedex 13 -Tél. : 01 42 16 72 72 - Fax : 01 42 16 73 73
+© 2000. Agence Nationale d'Accréditation et d'Évaluation en Santé (ANAES)
+I.B.S.N. : 2-910653-00-0
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service recommandations et références professionnelles / 26/09/01
+2
+Ces recommandations ont été réalisées à la demande de la Direction Générale de la Santé.
+Elles ont été établies dans le cadre d’un partenariat entre l’Agence Nationale
+d’Accréditation et d’Évaluation en Santé et
+La Société Française de la Douleur ;
+L’Association Française pour la Recherche et l'Evaluation en Kinésithérapie ;
+La Société Française d’Anesthésie-Réanimation ;
+La Société Française de Pédiatrie ;
+L’Association des Anesthésistes-Réanimateurs Pédiatriques d’Expression Française ;
+Le Collège National des Médecins de la Douleur ;
+L’Association Pédagogique Nationale pour Enseignement de la Thérapeutique ;
+La Société Française d’Oncologie Pédiatrique ,
+La Fédération Française de Psychiatrie.
+La méthode utilisée a été celle décrite dans le guide d’élaboration des «  Recommandations
+pour la Pratique Clinique – Base méthodologique pour leur réalisation en France – 1999  »
+publié par l’ANAES.
+L’ensemble du travail a été coordonné par Dr Najoua MLIKA-CABANNE sous la
+responsabilité de M. le Pr Alain DUROCHER.
+La recherche documentaire a été effectuée par Mme Emmanuelle BLONDET, sous la
+responsabilité de Mme Hélène CORDIER, responsable du service documentation de
+l’ANAES, et avec l’aide de Mme Nathalie HASLIN.
+Le secrétariat a été réalisé par Mme Vanessa ALIOUANE-DECOOL.
+L’Agence Nationale d’Accréditation et d’Évaluation en Santé tient à remercier les
+membres du comité d’organisation, les membres du groupe de travail, les membres du
+groupe de lecture et les membres du Conseil scientifique dont les noms suivent. Elle
+remercie également Hakim Neghal pour son aide à l'analyse bibliographique.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service recommandations et références professionnelles / 26/09/01
+3
+COMITE D’ORGANISATION
+Dr Daniel ANNEQUIN, anesthésiste, PARIS ;
+M. Bruno DEMONT, kinésithérapeute, LE
+CHESNAY ;
+Pr Claude ÉCOFFEY, anesthésiste-réanimateur,
+RENNES ;
+Dr Élisabeth FOURNIER-CHARRIÈRE, pédiatre,
+LE KREMLIN-BICÊTRE ;
+Pr Isabelle MURAT, anesthésiste, PARIS ;
+Dr Évelyne PICHARD-LÉANDRI, anesthésiste,
+VILLEJUIF ;
+Pr Patrice QUENEAU, rhumatologue/professeur
+de thérapeutique, SAINT-ÉTIENNE ;
+Pr Jean-Michel ZUCKER, pédiatre-oncologue,
+PARIS.
+GROUPE DE TRAVAIL
+Dr Annie GAUVAIN-PIQUARD, psychiatre,
+présidente du groupe, VILLEJUIF ;
+Dr Barbara TOURNIAIRE, pédiatre, chargée de
+projet, PARIS ;
+Dr Jean-Pierre ALIBEU, anesthésiste,
+GRENOBLE ;
+Dr Daniel ARSAC, généraliste, NÎMES ;
+M. Sylvain BAILLEUX, kinésithérapeute, ISSY-
+LES-MOULINEAUX ;
+Dr Catherine DORMARD, généraliste, SACLAY ;
+Pr Jacques FERMANIAN, biostatisticien, PARIS ;
+Dr Élisabeth FOURNIER-CHARRIÈRE, pédiatre,
+LE KREMLIN-BICÊTRE ;
+Mme Dominique GIBIRILA, cadre puéricultrice,
+TOULOUSE ;
+Mme Élisabeth GLOAGUEN, puéricultrice-cadre
+supérieur, THIONVILLE ;
+Mme Mireille GOY-KREITMANN, psychologue,
+NICE ;
+Dr Hervé GUYOT, généraliste, JOUÉ-LÈS-
+TOURS ;
+Dr Nathalie HOOG-LABOURET, AFSSAPS,
+SAINT-DENIS ;
+Dr Patrick JAQUEMIN, otho-rhino-laryngologue,
+ANGOULÊME ;
+Dr Jacques LANGUE, pédiatre, LYON ;
+Dr Noëlla LODÉ, pédiatre, PARIS ;
+Dr Laurence MICHELUTTI-JAVAUDIN,
+chirurgie viscérale, MILLAU ;
+Dr Annie ROUSSEAU, AFSSAPS, SAINT-
+DENIS ;
+Dr Agnès SAINT-RAYMOND, AFSSAPS,
+SAINT-DENIS ;
+Dr Chantal WOOD, pédiatre, PARIS ;
+Dr Najoua MLIKA-CABANNE, responsable de
+projet ANAES, PARIS.
+GROUPE DE LECTURE
+Dr Daniel ANNEQUIN, anesthésiste, PARIS ;
+Pr Didier AUBERT, chirurgie pédiatrique,
+BESANÇON ;
+Dr Alain AUBRÈGE, généraliste, VILLERS-LÈS-
+NANCY ;
+Dr Michel BARDAINNE, pédiatre, FOUGÈRES ;
+Dr Emmanuel BISOT, généraliste, COULLONS ;
+Dr Jean-Paul BLANC, pédiatre, SAINT-
+ÉTIENNE ;
+Dr Pierre BLONDEL, ophtalmologiste,
+TOULON ;
+Dr Solen BOITARD-THONIER, chirurgien
+dentiste/odontologie pédiatrique, PLENEUF ;
+Dr Anne BORE-MONDAN, médecin
+scolaire/généraliste, MEREVILLE ;
+Dr Denis BOUMENDIL, biologiste, ORSAY-
+MONDETOUR ;
+Dr François BOUREAU, neurophysiologiste,
+PARIS ;
+Dr Nicole BREVILLE, pédiatre/PMI, ORLY ;
+Mme Janine BRUGIDOU, infirmière-
+puéricultrice, TOULOUSE ;
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service recommandations et références professionnelles / 26/09/01
+4
+Dr Gérard CAGNOL, otho-rhino-laryngologue,
+MONGINS ;
+Dr Pascal CLERC, généraliste, ISSY-LES-
+MOULINEAUX ;
+Mme Marie José CLIO-ASSOUVIÉ,
+kinésithérapeute, PARIS ;
+Dr Joël COGNEAU, conseil scientifique ANAES,
+CHAMBRAY-LÈS-TOURS
+Mme Nathalie CONSTANS, infirmière,
+MONTFERRIER ;
+Mme Christiane DEJAONNIS, infirmière, NICE ;
+Dr Jean-Jacques DELORD, ophtalmologiste,
+NÎMES ;
+M. Bruno DEMONT, kinésithérapeute, LE
+CHESNAY ;
+Dr Mathieu DOUSSE, psychiatre, PARIS ;
+Mme Nicole DREYER-MULLER, puéricultrice,
+STRASBOURG ;
+Mme Nicole DUPONT, puéricultrice,
+TOULOUSE ;
+Dr Gilles DUPUIS, otho-rhino-laryngologue,
+ISSY-LES-MOULINEAUX ;
+Pr Bertrand DUREUIL, conseil scientifique
+ANAES, ROUEN
+Pr Claude ÉCOFFEY, anesthésiste-réanimateur,
+RENNES ;
+M. Christian FAUSSER, kinésithérapeute, LE
+KREMLIN-BICÊTRE ;
+Dr Béatrice FERVERS, cancérologue, LYON ;
+Pr Patrick FROEHLICH, otho-rhino-laryngologue,
+LYON ;
+Dr Philippe GATEAU, chirurgien-dentiste,
+NEVERS ;
+Dr Patrick GINIES, anesthésiste-réanimateur,
+MONTPELLIER
+Pr Danielle GINISTY, stomatologue, PARIS ;
+Dr Gilles GRIESSINGER, chirurgien dentiste,
+JOUÉ-LÈS-TOURS ;
+Dr Catherine GROGNARD, dermatologue,
+TOURS ;
+Dr Brigitte HÉRITIER-FASSEUR, pédiatre, LA
+ROCHELLE ;
+Dr Bénédicte HÉRON, neuro-pédiatre, PARIS ;
+Dr Francine HIRSZOWSKI, généraliste, PARIS ;
+Pr Jean JASMIN, chirurgien dentiste/odontologie
+pédiatrique, NICE ;
+Dr Monique LABAT, généraliste, GOUDELIN ;
+Dr André LOCQUET, pédiatre, RONCQ ;
+Dr Jean LUGOL, biologiste, AUBAGNE ;
+Dr Michel MEIGNIER, anesthésiste, NANTES ;
+Dr Alain MILLET, généraliste, TARCENAY ;
+Mme Sylvaine MONIN, cadre supérieur infirmier,
+PARIS ;
+Pr Alain MORGON, otho-rhino-laryngologue,
+LYON ;
+Dr Jean-Claude MSEALTI, pédiatre, ORSAY ;
+Pr Isabelle MURAT, anesthésiste, PARIS ;
+M. Paul PAVAN, kinésithérapeute, GRENOBLE ;
+M. Long PHAM-QUANG, psychomotricien,
+PARIS ;
+Dr Évelyne PICHARD-LÉANDRI, anesthésiste,
+VILLEJUIF ;
+Pr Patrice QUENEAU, rhumatologue/professeur
+de thérapeutique, SAINT-ÉTIENNE ;
+M. Rémi REMONDIÈRE, kinésithérapeute,
+VILLEJUIF ;
+Dr Christine RICARD, anesthésiste,
+MONTPELLIER ;
+Dr Bruno RICHARD, interniste, NÎMES ;
+Dr Luc RONCHI, anesthésiste, SAINT-
+NAZAIRE ;
+Dr Sylvain SADIK, dermatologue, CHILLY-
+MAZARIN ;
+Pr Michel SCHMITT, chirurgien pédiatrique,
+VANDŒUVRE-LÈS-NANCY  ;
+Dr Éric SERRA, psychiatre, AMIENS ;
+M. Philippe STEVENIN, conseil scientifique
+ANAES, PARIS ;
+M. François VERNEY, conseil scientifique
+ANAES, SAINT-BRIEUC ;
+Dr Bruno VILLEMUR, généraliste, PORT-LA-
+NOUVELLE ;
+Pr Jean-Michel ZUCKER, pédiatre-oncologue,
+PARIS.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+5
+TEXTE DES RECOMMANDATIONS
+Les recommandations pour la pratique clinique sur le thème «  Évaluation et stratégies de
+prise en charge de la douleur aiguë en ambulatoire chez l'enfant de 1 mois à 15 ans  » ont été
+élaborées à la demande du ministère de la Santé. Elles sont destinées à tous les professionnels
+de santé impliqués dans la prise en charge de la douleur aiguë de l'enfant.
+Les propositions sont classées en grade A, B ou C selon les modalités suivantes :
+Ø une recommandation de grade A est fondée sur une preuve scientifique établie par
+des études de fort niveau de preuve : par exemple essais comparatifs randomisés
+de forte puissance et sans biais majeur, méta-analyse d’essais contrôlés
+randomisés, analyse de décision basée sur des études bien menées ;
+Ø une recommandation de grade B est fondée sur une présomption scientifique
+fournie par des études de niveau intermédiaire de preuve  : par exemple essais
+comparatifs randomisés de faible puissance, études comparatives non randomisées
+bien menées, études de cohorte ;
+Ø une recommandation de grade C est fondée sur des études de moindre niveau de
+preuve, par exemple études cas-témoins, séries de cas.
+En l’absence de précision, les recommandations proposées correspondent à un accord
+professionnel.
+Ø INTRODUCTION
+Il est démontré que, dès sa naissance, l’enfant est susceptible de ressentir la douleur. Il
+existe des obligations éthiques et légales à soulager cette douleur. De plus, la douleur
+peut avoir des conséquences néfastes sur l’enfant tandis qu’il n’y a pas d’arguments
+permettant de penser que la douleur puisse lui être profitable.
+Ces recommandations concernent l’évaluation et la prise en charge de la douleur aiguë
+en ambulatoire chez l’enfant âgé de 1 mois à 15 ans. Le terme ambulatoire recouvre les
+soins à domicile, en consultation, en service d’urgences (y compris SMUR et SAMU) et
+en hôpital de jour.
+Ø DEFINITION 
+Le terme de douleur aiguë renvoie à 3 notions différentes  : intensité, brutalité,
+caractère qualitatif.
+La définition retenue est celle adoptée dans la circulaire DGS/DH/DAS n°  99/84 du
+11 février 1999 : «  La douleur aiguë est une sensation vive et cuisante, qui s’inscrit
+dans un tableau clinique d’évolution rapide. »
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+6
+Ø OUTILS D’EVALUATION DE L’INTENSITE DE LA DOULEUR
+La difficulté de l’identification et de l’évaluation de la douleur chez l’enfant fait partie
+des obstacles à sa prise en charge.
+La douleur est mieux prise en charge quand elle est évaluée initialement et quand le
+traitement est régulièrement réévalué.
+L’utilisation d’outils d’évaluation de la douleur est généralement nécessaire pour :
+établir ou confirmer l’existence d’une douleur ;
+apprécier son intensité ;
+déterminer les moyens antalgiques nécessaires ;
+évaluer l’efficacité du traitement institué ;
+adapter ce traitement.
+Simples d’utilisation, ils peuvent être remis aux parents afin de permettre à ceux-ci de
+réaliser une réévaluation de la douleur de leur enfant, et une adaptation de son
+traitement.
+Les outils d’évaluation sont différents selon l’âge de l’enfant (fig. A).  Pour chaque
+classe d’âge, les mieux validés sont :
+—  Enfants âgés de plus de 6 ans
+Chez l’enfant de plus de 6 ans, l’auto-évaluation (c’est-à-dire l’évaluation que l’enfant
+fait lui-même de sa douleur) a montré d’excellentes qualités métrologiques. Elle peut
+donc être utilisée en toute confiance, sous réserve d’explications adaptées au niveau de
+compréhension de l’enfant.
+Parmi les outils d’auto-évaluation, l’échelle visuelle analogique (EVA) est considérée
+comme l’outil d’auto-évaluation de référence dans cette classe d’âge. La présentation
+de l’EVA doit être dépourvue d’éléments ludiques. Les extrémités doivent être
+formulées en termes neutres. En France, une présentation verticale est habituelle chez
+l’enfant, la cotation se faisant de 0 à 10.
+Toutefois, certains enfants ne fournissent pas de cotation avec l’EVA (fig. B) ; l’auto-
+évaluation peut se faire aussi à l’aide d’une échelle de 4 jetons (fig. D)  ; le groupe
+d’experts propose également d’utiliser une échelle de 6 visages  : FPS-R (fig. C) en
+cours de validation. La localisation de la douleur sur un schéma (fig. E) est également
+recommandée, lorsque le contexte ne rend pas cette information évidente. Il convient
+toutefois de tenir compte des confusions droite-gauche.
+Lors du suivi, l’auto-évaluation doit préférentiellement être réalisée avec le même outil.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+7
+—  Enfants de 4 à 6 ans
+Entre 4 et 6 ans, l’auto-évaluation peut être tentée. L’EVA est alors à utiliser
+conjointement à un autre outil d’auto-évaluation, jetons ou échelle de 6 visages. Si les
+scores obtenus par les 2 outils sont divergents, ils doivent être considérés comme non
+valides, c’est-à-dire non informatifs. Dès lors, seule l’hétéro-évaluation est possible.
+Concernant la localisation sur schéma, son utilisation entre 4 et 6 ans doit être corrélée
+aux données de l’examen clinique. En l’absence de corrélation, la localisation obtenue
+sur le schéma ne peut être considérée comme valide. En effet, l’enfant peut, à cet âge,
+colorier le schéma de façon ludique.
+Lors du suivi, l’auto-évaluation doit préférentiellement être réalisée avec le même outil.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+8
+EVA + jetons EVA
+ou ou
+EVA jetons
++ ou
+FPS-R FPS-R
+1 mois 2 mois         1 an 18 mois 2 ans        3 ans 4 ans 6 ans
+NFCS abrégée
+AMIEL-TISON
+OPS
+CHEOPS
+DEGRR
+EVA par une tierce personne expérimentée (en particulier un soignant)
+Figure A. Outils d’évaluation de la douleur en fonction de l’âge.
+EVA : échelle visuelle analogique ; NFCS : Neonatal Facial Coding System  ; OPS : Objective Pain Scale  ; CHEOPS  : Children’s Hospital of Eastern Ontario Pain Scale  ; DEGRR :  échelle douleur
+Gustave-Roussy. FPS-R : Faces Pain Scale-Revised, Échelle de 6 visages.
+Auto-ÉvaluationHétéro-Évaluation
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+9
+Verso de la réglette Face présentée à l'enfant
+Figure B. Présentation de l’échelle visuelle analogique.
+Présenter l'échelle verticalement.
+La consigne est : « Place le repère (ou le doigt) aussi haut que ta douleur est grande. »
+10 cm
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+10
+Plier
+Figure C. Présentation de l’échelle de 6 visages : FPS-R
+Faces Pain Scale – Revised (FPS-R)Pain Research Unit, Sydney Children’s Hospital, Randwick NSW 2031, Australia. Ce matériel peut être photocopié pour une utilisation clinique. Pour toute autre demande ou information complémentaire s’adresser
+au : Pain Research Unit, contact: piirat@sesahs.nsw.gov.au  ou consulter le site :  http://painsourcebook.ca/docs/pps92.html
+"Ces visages montrent combien on peut avoir mal. Ce visage (montrer celui de gauche) montre quelqu’un qui n’a pas mal du tout . Ces
+visages (les montrer un à un de gauche à droite) montrent quelqu’un qui a de plus en plus mal, jusqu’à celui-ci (montrer celui de droite),
+qui montre quelqu’un qui a très très mal. Montre-moi le visage qui montre combien tu as mal en ce moment."
+Les scores sont de gauche à droite : 0, 2, 4, 6, 8, 10. 0 correspond donc à “pas mal du tout” et 10 correspond à “très très mal”.
+Remarques :
+§ Exprimez clairement les limites extrêmes : “pas mal du tout et “très très mal”.
+§ N’utilisez pas les mots “triste” ou “heureux”
+§ Précisez bien qu’il s’agit de la sensation intérieure, pas de l’aspect affiché de leur visage. “Montre-moi comment tu te sens à l’intérieur de
+toi”
+Hicks, C.L., von Baeyer, C.L., Spafford, P., van Korlaar, I., & Goodenough, B.  The Faces Pain Scale – Revised: Toward a common metric in pediatric pain measurement.  Pain 2001; 93:173-183.    Scale adapted from: Bieri, D, Reeve, R, Champion, G, Addicoat, L and Ziegler, J. The
+Faces Pain Scale for the self-assessment of the severity of pain experienced by children:  Development, initial validation and preliminary investigation for ratio scale properties. Pain 1990;41:139-150.                                                                                                    Version:  juin 2001
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+11
+Figure D. Présentation du Poker Chip : les jetons.
+La consigne est : « Chaque jeton représente un morceau (ou une partie) de douleur ; prends autant
+de jetons que tu as mal. »
+Figure E. Présentation de la localisation sur schéma.
+La consigne est : « Dessine où tu as mal. » Au préalable, si l’enfant le peut, il choisit un code
+couleur pour les 4 intensités de douleur de la légende.
+Ça fait mal :
+Un peu r
+Moyen r
+Beaucoup r
+Très fort r
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+12
+—  Enfants de moins de 4 ans
+L’évaluation de l’enfant de moins de 4 ans ( ou de l’enfant momentanément ou
+définitivement démuni de moyens de communication suffisants) est plus complexe car elle
+repose principalement sur l’observation de son comportement (hétéro-évaluation).
+L’expression comportementale de la douleur aiguë est biphasique :
+la première phase est marquée par l’expression d’une détresse comportementale
+associée à un stress psychologique et physiologique ;
+la seconde phase est marquée par l’apparition progressive d’une réduction des
+activités de l’enfant (bouger, jouer, dormir, parler, manger).
+Or il n’existe pas de comportement absolument spécifique de la douleur qui puisse servir
+de « marqueur ». Il est donc particulièrement utile d’utiliser des outils d’hétéro-évaluation
+basés sur l’association de comportements les plus indicateurs de douleur connus
+actuellement, regroupés au sein d’échelles validées.  Ces échelles constituent les critères
+actuels les plus fiables pour le diagnostic d’une douleur chez un jeune enfant, et
+l’évaluation de son intensité.
+Parmi les échelles existantes, les plus validées sont les suivantes :
+pour le diagnostic et l’évaluation de l’intensité de la douleur postopératoire
+immédiate :
+–  l’échelle d’Amiel-Tison inversée (fig. G), chez l’enfant âgé de 1 mois à 3
+ans,
+–  l’échelle OPS (Objective Pain Scale) à partir de l’âge de 2 mois (fig. H),
+–  l’échelle CHEOPS (Children’s Hospital of Eastern Ontario Pain Scale)   de
+1 à 6 ans (fig. F) ;
+pour le diagnostic et l’évaluation de l’intensité des autres douleurs aiguës à leur
+début :
+–  la NFCS (Neonatal Facial Coding System) abrégée, jusqu’à 18 mois (fig.
+J),
+–  l’échelle CHEOPS de 1 an à 6 ans ;
+pour l’évaluation d’une douleur aiguë évoluant depuis plusieurs heures :
+–  l’échelle DEGRR (Douleur Enfant Gustave-Roussy) peut être utilisée entre
+2 et 6 ans (fig. I),
+–  il est également possible d’utiliser une appréciation générale du
+comportement de l’enfant  : existence d’une perturbation des activités de
+base de l’enfant : bouger, jouer, dormir, parler, manger (en association avec
+un contexte où l’existence d’une douleur est possible).
+L’EVA remplie par un soignant  expérimenté ou un parent constitue une alternative à
+l’emploi d’une échelle d’hétéro-évaluation chez l’enfant âgé de moins de 4 ans, en
+sachant toutefois que sa validité est moins bonne que celle des échelles citées
+précédemment.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+13
+Jour
+Heure
+Cris - Pleurs
+1 : Absents
+2 : Gémissements ou pleurs
+3 : Cris perçants ou sanglots
+Visage
+0 : Sourire
+1 : Visage calme, neutre
+2 : Grimace
+Plaintes verbales
+0 : Parle de choses et d’autres sans se plaindre
+1 : Ne parle pas, ou se plaint, mais pas de douleur
+2 : Se plaint de douleur
+Corps
+1 : Corps (torse) calme, au repos
+2 : Change de position ou s’agite, ou cherche à se redresser,
+et/ou  corps arqué ou raidi ou tremblant,
+et/ou  contention
+Mains
+1 : N’avance pas la main vers la zone douloureuse
+2 : Avance la main ou touche ou agrippe la zone douloureuse,
+ou contention
+Jambes
+1 : Relâchées ou mouvements doux
+2 : Agitées, ou donnent des coups, ou jambes raidies, en l’air ou ramenées sur le corps
+et/ou  l’enfant se lève ou s’accroupit ou s’agenouille,
+et/ou  contention
+Score global
+Traduction Pédiadol et A. Gauvain-Piquard.
+Figure F. Présentation de l’échelle de douleur postopératoire :
+Children’s Hospital of Eastern Ontario Pain Scale (CHEOPS).
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+14
+Score
+Enfant éveillé au
+moment de l’examen
+0 1 2
+1. Sommeil pendant les 30
+minutes précédant
+l’examen
+Sommeil calme > 10
+minutes
+Courtes périodes de 5 à 10
+minutes
+Non
+2. Mimique douloureuse Visage calme et détendu Peu marquée, intermittente Marquée, permanente
+3. Qualité du cri Pas de cri Modulé, pouvant être calmé Répétitif, aigu,
+« douloureux »
+4. Motricité spontanée Motricité normale Agitation modérée Agitation incessante
+5. Excitabilité spontanée Calme Réactivité excessive Trémulations, clonies, Moro
+spontané
+6. Crispation des doigts,
+mains et pieds
+Absente Peu marquée, partielle,
+intermittente
+Très marquée, globale,
+permanente
+7. Succion Forte, rythmée, pacifiante Discontinue, interrompue
+par les cris
+Non, ou quelques
+mouvements anarchiques
+8. Évalution globale du
+tonus
+Normal pour l’âge Modérément hypertonique Très hypertonique
+9. Consolabilité Calmé < 1 minute Calmé après 1 minute
+d’efforts
+Non, après 2 minutes
+d’efforts
+10. Sociabilité Facile, prolongée Difficile à obtenir Absente
+Figure G. Présentation de l’échelle de douleur postopératoire : Amiel-Tison inversée.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+15
+Jour
+Heure
+Pleurs
+0 : Absents
+1 : Présents mais enfant consolable
+2 : Présents et enfant inconsolable
+Mouvements
+0 : Enfant éveillé et calme ou endormi
+1 : Agitation modérée, ne tient pas en place, change de position sans cesse
+2 : Agitation désordonnée et intense, risque de se faire mal
+Comportement
+0 : Enfant éveillé et calme ou endormi
+1 : Contracté, voix tremblante, mais accessible aux questions et aux tentatives de réconfort
+2 : Non accessible aux tentatives de réconfort, yeux écarquillés, accroché aux bras de ses parents ou
+d’un soignant
+Expression verbale ou corporelle
+0 : Enfant éveillé et calme ou endormi, sans position antalgique
+1 : Se plaint d’une douleur faible, inconfort global,
+ou position jambes fléchies sur le tronc, bras croisés sur le corps
+2 : Douleur moyenne, localisée verbalement ou désignée de la main,
+ou position jambes fléchies sur le tronc, poings serrés,
+et porte la main vers une zone douloureuse, ou cherche à la protéger
+Variation de la pression artérielle systolique par rapport à la valeur préopératoire
+0 : Augmentation de moins de 10  %
+1 : Augmentation de 10 à 20  %
+2 : Augmentation de plus de 20  %
+Score global
+Traduction Pédiadol
+Figure H. Présentation de l’échelle objective de douleur
+Objective Pain Scale (OPS).
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+16
+ÉCHELLE DOULEUR ENFANT GUSTAVE-ROUSSYâ
+ÉTIQUETTE
+Date : ....................... Nom de l’examinateur  : ..............................
+ITEM 1 : POSITION ANTALGIQUE AU REPOS
+Spontanément, l’enfant évite une position ou bien s’installe dans une
+posture particulière, malgré une certaine gêne, pour soulager la tension
+d’une zone douloureuse. À évaluer lorsque l’enfant est SANS ACTIVITÉ
+PHYSIQUE, allongé ou assis. À NE PAS CONFONDRE avec l’attitude
+antalgique dans le mouvement.
+COTATION :
+0 : Absence de position antalgique  : l’enfant peut se mettre n’importe
+comment.
+1 : L’enfant semble éviter certaines positions.
+2 : L’enfant ÉVITE certaines positions, mais ne paraît pas gêné.
+3 : L’enfant CHOISIT une position antalgique évidente, qui lui apporte un
+certain soulagement.
+4 : L’enfant recherche sans succès une position antalgique et n’arrive pas
+à être bien installé.
+ITEM 2 : MANQUE D’EXPRESSIVITÉ
+Concerne la capacité de l’enfant à ressentir et à exprimer sentiments et
+émotions, par son visage, son regard et les inflexions de sa voix. À étudier
+alors que l’enfant aurait des raisons de s’animer (jeux, repas, discussion).
+COTATION :
+0 : L’enfant est vif, dynamique, avec un visage animé.
+1 : L’enfant paraît un peu terne, éteint.
+2 : Au moins un des signes suivants :
+- traits du visage peu expressifs, regard morne, voix marmonnée et
+monotone, débit verbal lent.
+3 : Plusieurs des signes ci-dessus sont nets.
+4 : Visage figé, comme agrandi. Regard vide. Parle avec effort.
+ITEM 3  : PROTECTION SPONTANÉE DES  ZONES
+DOULOUREUSES
+En permanence l’enfant est attentif à éviter un contact sur la zone
+douloureuse.
+COTATION :
+0 : L’enfant ne montre aucun souci de se protéger.
+1 : L’enfant évite les heurts violents.
+2 : L’enfant protège son corps, en évitant et en écartant ce qui pourrait le
+toucher.
+3 : L’enfant se préoccupe visiblement de limiter tout attouchement d’une
+région de son corps.
+4 : Toute l’attention de l’enfant est requise pour protéger la zone atteinte.
+ITEM 4 : PLAINTES SOMATIQUES
+Cet item concerne la façon dont l’enfant a dit qu’il avait mal,
+spontanément ou à l’interrogatoire, pendant le temps d’observation.
+COTATION :
+0 : Pas de plainte, l’enfant n’a pas dit qu’il a mal.
+1 : Plaintes « neutres » :
+- sans expression affective (dit en passant « j’ai mal... »)
+- et sans effort pour le dire (ne se dérange pas exprès).
+2 : Au moins un des signes suivants :
+- a suscité la question « qu’est-ce que tu as, tu as mal ? »
+- voix geignarde pour dire qu’il a mal
+- mimique expressive pour accompagnant la p lainte.
+3 : En plus de la COTATION 2, l’enfant :
+- a attiré l’attention pour dire qu’il a mal
+- a demandé un médicament
+4 : C’est au milieu de gémissements, sanglots ou supplications que l’enfant
+dit qu’il a mal.
+ITEM 5 : ATTITUDE ANTALGIQUE DANS LE MOUVEMENT
+Spontanément, l’enfant évite la mobilisation, ou l’utilisation d’une partie
+de son corps. À rechercher au cours d’ENCHAÎNEMENTS DE
+MOUVEMENTS (ex  : la marche) éventuellement sollicités. À NE PAS
+CONFONDRE avec la lenteur et rareté des mouvements.
+COTATION :
+0 : L’enfant ne présente aucune gêne à bouger tout son corps. Ses
+mouvements sont souples et aisés.
+1 : L’enfant montre une gêne, un manque de naturel dans certains de ses
+mouvements.
+2 : L’enfant prend des précautions pour certains gestes.
+3 : L’enfant évite nettement de faire certains gestes, il se mobilise avec
+prudence et attention.
+4 : L’enfant doit être aidé, pour lui éviter des mouvements trop pénibles.
+ITEM 6 : DÉSINTÉRÊT POUR LE MONDE EXTÉRIEUR
+Concerne l’énergie disponible pour entrer en relation avec le monde
+environnant.
+COTATION :
+0 : L’enfant est plein d’énergie, s’intéresse à son environnement, peut fixer
+son attention et est capable de se distraire.
+1 : L’enfant s’intéresse à son environnement, mais sans enthousiasme.
+2 : L’enfant s’ennuie facilement, mais peut être stimulé.
+3 : L’enfant se traîne, incapable de jouer, il regarde passivement.
+4 : L’enfant est apathique et indifférent à tout.
+ITEM 7 : CONTRÔLE EXERCÉ PAR L’ENFANT QUAND ON LE
+MOBILISE (mobilisation passive)
+L’enfant que l’on doit remuer pour une raison banale (bain, repas)
+surveille le geste, donne un conseil, arrête la main ou la tient.
+COTATION :
+0 : L’enfant se laisse mobiliser sans y accorder d’attention particulière.
+1 : L’enfant a un regard attentif quand on le mobilise.
+2 : En plus de la COTATION 1, l’enfant montre qu’il faut faire attention
+en le remuant.
+3 : En plus de la COTATION 2, l’enfant retient de la main ou guide les
+gestes du soignant.
+4 : L’enfant s’oppose à toute initiative du soignant ou obtient qu’aucun
+geste ne soit fait sans son accord.
+ITEM 8  : LOCALISATION DE ZONES DOULOUREUSES PAR
+L’ENFANT
+Spontanément ou à l’interrogatoire, l’enfant localise sa douleur.
+COTATION :
+0 : Pas de localisation : à aucun moment l’enfant ne désigne une partie de
+son corps comme gênante.
+1 : L’enfant signale, UNIQUEMENT VERBALEMENT, une sensation
+pénible dans une région VAGUE sans autre précision.
+2 : En plus de la COTATION 1, l’enfant montre avec un geste vague cette
+région.
+3 : L’enfant désigne avec la main une région douloureuse précise.
+4 : En plus de la COTATION 3, l’enfant décrit, d’une manière assurée et
+précise, le siège de sa douleur.
+ITEM 9  : RÉACTIONS À L’EXAMEN DES ZONES
+DOULOUREUSES
+L’examen de la zone douloureuse déclenche chez l’enfant un mouvement
+de défense, ou de retrait, et des réactions émotionnelles. Ne noter que les
+réactions provoquées par l’examen, et NON CELLES PRÉ-EXISTANTES
+À L’EXAMEN.
+COTATION :
+0 : Aucune réaction déclenchée par l’examen.
+1 : L’enfant manifeste, juste au moment où on l’examine, une certaine
+réticence.
+2 : Lors de l’examen, on note au moins un de ces signes  : raideur de la
+zone examinée, crispation du visage, pleurs brusques, blocage
+respiratoire.
+3 : En plus de la COTATION 2, l’enfant change de couleur, transpire,
+geint ou cherche à arrêter l’examen.
+4 : L’examen de la région douloureuse est quasiment impossible, en raison
+des réactions de l’enfant.
+ITEM 10 : LENTEUR ET RARETÉ DES MOUVEMENTS
+Les mouvements de l’enfant sont lents, peu amples et un peu rigides,
+même à distance de la zone douloureuse. Le tronc et les grosses
+articulations sont particulièrement immobiles. À comparer avec l’activité
+gestuelle habituelle d’un enfant de cet âge.
+COTATION :
+0 : Les mouvements de l’enfant sont larges, vifs, rapides, variés et lui
+apportent un certain plaisir.
+1 : L’enfant est un peu lent et bouge sans entrain.
+2 : Un des signes suivants :
+- latence du geste,
+- mouvements restreints,
+- gestes lents,
+- initiatives motrices rares.
+3 : Plusieurs des signes ci-dessus sont nets.
+4 : L’enfant est comme figé, alors que rien ne l’empêche de bouger.
+Figure I. Présentation de l’échelle DEGRR.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+17
+Figure J. Présentation de la Neonatal Facial Coding System abrégée
+(Traduction Pediadol).
+L’observateur cote en 0 = absence ou 1 = présence chaque item. Le score est obtenu par
+sommation des cotations.
+sourcils froncés
+ paupières serrées
+sillon naso-labial
+accentué
+bouche ouverte
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+18
+EN L ’ABSENCE DE CORRESPONDANCE CONSENSUELLE ENTRE LES DIFFERENTS OUTILS D ’AUTO-
+EVALUATION ET LES CATEGORIES DE DOULEUR UTILISEES1 DANS L’AUTORISATION DE MISE SUR
+LE MARCHE (AMM) DES ANTALGIQUES : DOULEUR « LEGERE », «  MODEREE », «  INTENSE »,
+« TRES INTENSE », LE GROUPE A PROPOSE LA CORRESPONDANCE SUIVANTE (TABLEAU A) :
+Tableau A. Correspondance entre les outils d’auto-évaluation et l’intensité de la douleur, seuils
+d’intervention thérapeutique en auto et hétéro-évaluation.
+Méthodes d’auto-évaluation Méthodes d’hétéro-évaluation
+Type de douleur
+EVA Poker chip
+(Nombre de
+jetons
+sélectionnés)
+Échelle de 6
+visages : FPS-R
+(Score du visage
+sélectionné)
+Score
+Amiel-
+Tison
+inversé
+CHEOPS DEGRR OPS NFCS
+Douleur « légère » 1 à 3 cm 1 2
+Douleur « modérée » 3 à 5 cm 2 4
+Douleur « intense  » 5 à 7 cm 3 6
+Douleur « très
+intense  »
+> 7 cm 4 8 ou 10
+Seuil d’intervention
+thérapeutique 2
+3/10 2 4 5/20 9/13 10/40 3/10 1/4
+Ø REGLES DE PRISE EN CHARGE DE LA DOULEUR CHEZ L’ENFANT
+—  Le traitement antalgique
+Le traitement antalgique doit être proposé de manière simultanée au traitement
+étiologique de toute pathologie douloureuse. Le premier but est d’obtenir une analgésie
+rapide, et ceci influe sur le choix de la molécule et son mode d’administration.
+L’objectif immédiat du traitement est de ramener, si possible, l’intensité de la douleur
+en dessous du seuil de 3/10 sur EVA et/ou de permettre un retour aux activités de base
+de l’enfant : bouger, jouer, dormir, parler, manger.  La prescription initiale dépend du
+niveau de douleur  ; une douleur légère sera traitée en première intention par un
+antalgique de palier I ; une douleur modérée sera traitée en première intention par un
+antalgique de palier I ou II ; une douleur intense sera traitée en première intention par
+un antalgique de palier II ou III  ; une douleur très intense sera traitée en première
+intention par un antalgique de palier III. Dans le cas d’une douleur intense ou très
+intense, une voie d’administration rapide sera choisie. En dehors du contexte
+hospitalier, cette administration sera réalisée par le médecin lui-même. Celui-ci doit
+disposer d’antalgiques majeurs dans sa trousse d’urgence.
+                                                1 Le libellé des indications de l’AMM des antalgiques de palier III ne comporte pas la mention «  douleur très intense  »,
+mais généralement  : « douleur intense et rebelle aux antalgiques de niveau plus faible.  »2 Seuil au-delà duquel la mise en route d’un traitement est indispensable, en deçà l’intervention thérapeutique reste à
+l’appréciation de l’enfant, du soignant ou des parents.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+19
+Le deuxième objectif est d’adapter rapidement le traitement en fonction du niveau de
+douleur résiduelle.  Une réévaluation doit être effectuée après une ou deux prises
+d’antalgique. Si la douleur est alors supérieure à 3/10, une intensification du traitement
+antalgique doit être programmée. Pour que l'adaptation du traitement ambulatoire
+soit possible, les parents doivent recevoir une information suffisante et des consignes
+précises mentionnées sur l’ordonnance  : prise sy stématique pendant un temps
+déterminé, modalités d’évaluation de la douleur et horaire de cette évaluation,
+modalités de changement de palier médicamenteux.
+L’existence d’effets secondaires doit être systématiquement recherchée. Les parents
+doivent en être informés.
+Quand une analgésie correcte est obtenue, il est nécessaire de prévenir la réapparition
+des douleurs grâce à des prises d’antalgiques systématiques (y compris la nuit) pour la
+durée prévisible de la douleur.
+Par ailleurs, la douleur prévisible, survenant lors de certains soins ou actes médicaux,
+doit être prévenue  ; une information détaillée concernant les modalités du soin et la
+programmation de l’analgésie doit être donnée à l’enfant et à sa famille.
+—  Les moyens non pharmacologiques
+La prise en charge de la douleur peut comporter, en plus des antalgiques, des moyens
+non pharmacologiques (distraction, relaxation, hypnose). Si l'enfant peut citer lui-
+même la stratégie d’adaptation qu’il utilise habituellement, celle-ci doit lui être
+proposée et facilitée. Dans le cas contraire et pour les enfants plus jeunes, la distraction
+est souvent une aide efficace pour faire diminuer la détresse et/ou la douleur.
+Exemples de techniques simples :
+distraction : lire un livre à l’enfant, ou lui montrer des il lustrations ; chez le plus
+grand, lui proposer de se raconter intérieurement une histoire ;
+relaxation : mimer la respiration nécessaire pour faire des bulles de savon en soufflant
+dans une paille.
+—  Présence et rôle des parents
+La détresse de l'enfant est moindre lorsque ses parents sont présents. La présence des
+parents doit être possible lors de la réalisation des gestes douloureux et dans toutes les
+situations où l’enfant est susceptible de ressentir des douleurs, à chaque fois que
+l’enfant et sa famille le souhaitent. Les parents peuvent avoir besoin de conseils sur
+leur rôle dans ces situations. Lors du geste, il est souhaitable que les parents conservent
+avec leur enfant un contact physique et oral, chaleureux, distrayant et rassurant, qui
+peut être, pour l’enfant, le garant de la bonne qualité des soins qui lui sont prodigués.
+—  Information de l’enfant
+Une information adaptée au niveau cognitif de l'enfant doit lui être donnée sur la cause
+de ses douleurs et/ou sur les gestes douloureux qui peuvent être nécessaires à sa prise
+en charge. Ces explications ne seront pas données au tout dernier moment.
+L’information est un droit de l’enfant et une obligation du professionnel de santé.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+20
+Ø CLASSIFICATION DES ANTALGIQUES
+Le tableau B  présente les différents antalgiques ayant une AMM en pédiatrie. Ces
+antalgiques sont classés en fonction des 3 paliers thérapeutiques de la classification de
+l’OMS selon leur mode d’action et/ou leur puissance antalgique :
+palier I : antalgiques non morphiniques  ;
+palier II : antalgiques centraux faibles ;
+palier III : morphiniques (ou antalgiques centraux puissants).
+Il est à noter qu’il n’existe pas d’antalgique de palier II ayant une AMM, chez l’enfant
+de moins de 1 an  ; et qu’il n’existe aucun antalgique de palier III per os  entre la
+naissance et l’âge de 6 mois.
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+21
+Tableau B. Les médicaments antalgiques et analgésiques ayant l’AMM utilisables en pédiatrie : récapitulatif par palier et par âge (origine AFSSAPS).
+Nouveau-né
+0-28 jours
+Nourrisson
+1 mois-2 ans
+Enfant
+2 ans-12 ans
+Adolescent
+12 ans-15 ans
+> 1 mois > 6 mois > 12 mois > 18 mois > 30 mois > 4 ans > 7 ans
+PALIER I Paracétamol
+PO*
+Paracétamol PO Paracétamol PO Paracétamol PO Paracétamol PO Paracétamol PO Paracétamol PO Paracétamol PO Paracétamol PO
+Propacétamol
+IV*
+Propacétamol
+IV
+Propacétamol
+IV
+Propacétamol
+IV
+Propacétamol
+IV
+Propacétamol
+IV
+Propacétamol
+IV
+Propacétamol
+IV
+Propacétamol
+IV
+Aspirine PO Aspirine PO Aspirine PO Aspirine PO Aspirine PO Aspirine PO Aspirine PO Aspirine PO
+Ibuprofène PO
+Acide
+niflumique
+suppo *
+Ibuprofène PO
+Acide
+niflumique
+suppo
+Ibuprofène PO
+Acide
+niflumique
+suppo
+Ibuprofène PO
+Acide
+niflumique
+suppo
+Ibuprofène PO
+Acide
+niflumique
+suppo
+Ibuprofène PO
+Acide
+niflumique
+suppo
+Ibuprofène PO
+Acide
+niflumique
+suppo, PO
+Diclofénac
+suppo, PO
+Diclofénac
+suppo, PO
+Diclofénac
+suppo, PO
+Acide
+tiaprofénique
+PO
+Acide
+tiaprofénique
+PO
+Acide
+tiaprofénique
+PO
+Naproxéne PO Naproxéne PO
+PALIER II Codéine PO Codéine PO Codéine PO Codéine PO Codéine PO Codéine PO
+Nalbuphine I* Nalbuphine I Nalbuphine I Nalbuphine I Nalbuphine I
+Buprénorphine
+PO
+Buprénorphine
+PO
+Oxycodone
+suppo
+Tramadol
+PO
+* : PO : per os ; IV : intraveineux ; I : injectable  ; suppo  : suppositoires
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+22
+Tableau B. Les médicaments antalgiques et analgésiques ayant l’AMM utilisables en pédiatrie : récapitulatif par palier et par âge (origine AFSSAPS) (suite).
+Nouveau-né
+0-28 jours
+Nourrisson
+1 mois-2 ans
+Enfant
+2 ans-12 ans
+Adolescent
+12 ans-15 ans
+> 1 mois > 6 mois > 12 mois > 18 mois > 30 mois > 4 ans > 7 ans
+PALIER III Morphine IV Morphine IV Morphine IV Morphine IV Morphine IV Morphine IV Morphine IV Morphine IV Morphine IV
+Fentanyl IV † Fentanyl IV † Fentanyl IV † Fentanyl IV † Fentanyl IV † Fentanyl IV † Fentanyl IV † Fentanyl IV † Fentanyl IV †
+Morphine PO Morphine PO Morphine PO Morphine PO Morphine PO Morphine PO Morphine PO
+Hydromorphone
+PO
+Hydromorphone
+PO
+* : PO : per os ; IV : intraveineux ; I : injectable ; suppo  : suppositoires
+†  : réserve hospitalière
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+23
+Ø PRISE EN CHARGE DE LA DOULEUR AIGUË DANS DIFFERENTES PATHOLOGIES
+(TABLEAUX C, D, E, F)
+Tableau C. Prise en charge de la douleur aiguë en chirurgie pour des actes réalisés en hôpital de jour.
+Actes chirurgicaux Traitement de première intention  :
+Catégorie d'antalgique et durée
+Traitement de deuxième intention
+(si 1re intention insuffisant  : EVA > 3
+ou pas de retour aux activités de base),
+après une à deux prises
+Amygdalectomie Palier II*  pendant 72 heures Palier III
+Adénoïdectomie Palier I pendant 24 heures Nouvelle consultation
+Circoncision Palier II* pendant 72 heures et lidocaïne
+locale
+Palier III
+Orchidopexie Palier I pendant 72 heures Palier II*
+Hernie inguinale Palier I pendant 72 heures Palier II*
+Chirurgie de strabisme Palier I pendant 24-48 heures Palier II*
+Extraction de dents de lait Pas d’antalgiques Palier I
+Extraction de dents définitives, de
+sagesse et/ou germectomie
+Palier I pendant 48 heures Palier II*
+* : En cas d’utilisation de codéine, il est recommandé de l’associer à un palier I.
+Tableau D. Prise en charge de la douleur aiguë des fractures et brûlures.
+Pathologie Traitement de première intention Traitement de deuxième intention
+(si 1re intention insuffisant  : EVA > 3 ou pas
+de retour aux activités de base)
+Fracture non déplacée Immobilisation ± palier II Si douleurs persistantes après immobilisation,
+palier III
+Fracture déplacée Palier III avant et après immobilisation Augmentation des doses
+Réduction de fracture Anesthésie générale
+Brûlure superficielle et
+localisée
+Palier II (dès l’arrivée du médecin traitant) Morphine orale retard et inter-doses de
+morphine rapide orale
+Brûlure profonde ou étendue Morphine orale dès l’arrivée du médecin
+traitant
+Titration de morphine ou fentanyl
+intraveineux si prise en charge SMUR ou
+SAMU
+Morphine IV ou orale à libération immédiate
+puis si stabilisation de la douleur, morphine
+retard ± inter-doses de morphine rapide orale
++/- AINS
+Pansements de brûlure MÉOPA +/- dose de charge de morphine
++/- anxiolytique
+Sédation profonde ou anesthésie générale
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des recommandations et références professionnelles / 26/09/01
+24
+Tableau E. Prise en charge de la douleur aiguë dans des pathologies médicales.
+Pathologie < 6 mois 6 mois-1 an 1 an-6 ans > 6 ans
+OTITE AVIS ORL Palier I + antalgiques
+locaux si tympan fermé
+Palier I seul
+Puis (AINS + paracétamol) pendant
+48 h + antalgiques locaux, si tympan
+fermé
+EVA < 5/10
+Palier I pendant 48 heures  +
+antalgiques locaux, si  tympan fermé
+EVA > 5/10
+Palier I + codéine
+Si échec * Si échec* Si échec* Si échec*
+AINS + paracétamol Ajouter codéine Ajouter codéine Augmenter les posologies jusqu’au
+maximum autorisé
+DYSPHAGIE Palier I seul puis en
+association
+Palier I seul puis en association
+(AINS + paracétamol)
+EVA < 5/10
+Palier I pendant 48 heures
+EVA > 5/10
+Palier I + codéine
+Si échec* Si échec* Si échec* Si échec*
+Augmenter les posologies
+jusqu’au maximum autorisé
+Ajouter codéine Ajouter codéine Augmenter les posologies jusqu’au
+maximum autorisé
+GINGIVO-STOMATITE Palier I (mais insuffisant le
+plus souvent)
+Palier II systématique pendant 48
+heures + lidocaïne gel sur les lèvres
+seulement 2 mg/kg toutes les 3
+heures (maximum 100 mg/dose)
+Palier II systématique pendant 48 heures + lidocaïne gel sur  les lésions
+toutes les 3 heures (2 mg/kg, maximum 100 mg /dose)
+Si échec* Si échec* Si échec*
+Morphine Morphine Morphine
+* : Si échec : pour les enfants de plus de 6 ans capables de réaliser une EVA, l’échec est objectivé, après une à deux prises d'antalgiques, par :
+• une EVA non ramenée en dessous de 3/10 ou
+• pas de diminution de l’EVA
+(Pour les enfants de moins de 6 ans, nous appelons échec la persistance de la disparition des activités de base de l’enfant qui sont : bouger, jouer, dormir,  parler, manger).
+Évaluation et stratégies de prise en charge de la douleur aiguë en ambulatoire chez l’enfant de 1 mois à 15 ans
+ANAES / Service des Recommandations et Références Professionnelles / 26/09/01
+25
+Tableau F. Prise en charge de la douleur aiguë provoquée lors des soins.
+Soin Traitement de première intention Traitement de deuxième intention
+(si 1re intention insuffisant  : EVA > 3)
+Ponction veineuse EMLA*  pour les enfants de moins de 11  ans
+et pour ceux qui le demandent (grade A)
+MÉOPA†  en association à l’EMLA pour
+les enfants difficiles à piquer ou ceux
+ayant une phobie du geste
+Sédation si échec de EMLA + MÉOPA
+Vaccins, injections sous-
+cutanées
+EMLA systématique pour les injections
+répétées
+EMLA à la demande pour les injections
+occasionnelles
+Intra-Dermo-Réaction (IDR) EMLA
+Sutures MÉOPA puis anesthésie locale avec lidocaïne
+tamponnée injectable (9 ml de lidocaïne pour
+1 ml de bicarbonate 88 mEq/100ml)
+Sédation voire anesthésie générale
+Ponctions lombaires MÉOPA et/ou EMLA
+Myélogrammes MÉOPA et EMLA Sédation voire anesthésie générale
+Paracentèse MÉOPA pour les enfants âgés de plus de
+6 mois
+Anesthésie générale
+Réduction de paraphémosis Gel de lidocaïne et MÉOPA Sédation voire anesthésie générale
+Ablation de verrues Lidocaïne injectable (grade A) et/ou MÉOPA Sédation voire anesthésie générale
+* EMLA : crème anesthésique, mélange de lidocaïne et de prilocaïne.†  MÉOPA : mélange équimolaire d’oxygène et de protoxyde d’azote.

@@ -1,0 +1,2882 @@
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+      
+     
+PFAPA : Fièvre périodique – 
+stomatite – pharyngite – adénopathie 
+  
+ 
+ 
+ 
+2019 
+Protocole National de Diagnostic et de Soins 
+Sous l’égide du 
+ 
+Centre de Référence des Maladies 
+Auto-Inflammatoires et de l’Amylose 
+Inflammatoire (CeRéMAIA) 
+ 
+Et de la  
+ 
+Filière des maladies  
+Auto-Immunes et  
+Auto-Inflammatoires Rares 
+Ce PNDS a été 
+rédigé sous la 
+coordination du 
+ 
+Pr Isabelle TOUITOU  
+
+PNDS PFAPA 
+ 
+  
+Juillet 2019 
+Sommaire  
+ 
+Sommaire ................................ ................................ ................................ ................................ ........ 2 
+Liste des personnes ayant collaboré à la rédaction du PNDS PFAPA ................................ ... 1 
+Liste des abréviations ................................ ................................ ................................ .................... 2 
+Synthèse à destination du médecin traitant ................................ ................................ ............... 4 
+Résumé ................................ ................................ ................................ ................................ ...................... 4 
+Prise en charge diagnostique ................................ ................................ ................................ .................. 4 
+Prise en charge thérapeutique ................................ ................................ ................................ ............... 4 
+Rôle du médecin traitant ................................ ................................ ................................ ......................... 5 
+1. Introduction ................................ ................................ ................................ ............................  6 
+Définition ................................ ................................ ................................ ................................ ................... 6 
+Etiologie ................................ ................................ ................................ ................................ ..................... 6 
+Epidémiologie ................................ ................................ ................................ ................................ ........... 6 
+2. Objectifs du protocole national de diagnostic et de soins ................................ .............. 7 
+3. Diagnostic et évaluation initiale ................................ ................................ ...........................  8 
+3.1 Objectifs ................................ ................................ ................................ ................................ ....... 8 
+3.2 Professionnels impliqués (et modalités de coordination) ................................ ...................... 8 
+3.3 Circonstances de découverte/ Suspicion du diagnostic ................................ ....................... 8 
+3.4 Confirmation du diagnostic/diagnostic différentiel (annexe 2) ................................ ............ 9 
+3.4.1 Diagnostic positif ........................................................................................................................ 9 
+3.4.2 Diagnostic différentiel ............................................................................................................ 11 
+3.4.3 Démarche diagnostique ......................................................................................................... 13 
+3.4.4 Explorations complémentaires ............................................................................................. 13 
+3.5 Evaluation de la sévérité /extension de la maladie/recherche de 
+comorbidités/évaluation du pronostic ................................ ................................ ...............................  14 
+3.5.1 Evaluation de la sévérité et bilan d’extension de la maladie ........................................ 14 
+3.5.2 Recherche de comorbidité .................................................................................................... 14 
+3.5.3 Evaluation du pronostic ......................................................................................................... 14 
+3.6 Annonce du diagnostic et information du patient ................................ ..............................  15 
+3.6.1 Première consultation ............................................................................................................ 15 
+3.6.2 Deuxième consultation : confirmation du diagnostic ..................................................... 16 
+3.6.3 Suivi post-annonce par le médecin traitant ...................................................................... 17 
+3.7 Génétique ................................ ................................ ................................ ................................ . 17 
+3.7.1 Le PFAPA n’est pas une maladie héréditaire monogénique ......................................... 17 
+3.7.2 Tests génétiques et conseil génétique ne sont pas indiqués ....................................... 17 
+4. Prise en charge thérapeutique ................................ ................................ ...........................  19 
+4.1 Objectifs ................................ ................................ ................................ ................................ .... 19 
+4.2 Professionnels impliqués (et modalités de coordination) ................................ ................... 19 
+4.3 Prise en charge thérapeutique ................................ ................................ ...............................  20 
+4.3.1 Traitement des accès inflammatoires ................................................................................. 20 
+4.3.2 Traitement de fond ................................................................................................................. 22 
+4.3.3 Récapitulatif des thérapeutiques médicamenteuses dans le PFAPA ......................... 24 
+4.4 Education thérapeutique et modification du mode de vie (au cas par cas) .................... 25 
+4.4.1 Introduction .................................................................................................................................. 25 
+4.4.2 Objectifs ..................................................................................................................................... 26 
+PNDS PFAPA 
+ 
+  
+Juillet 2019 
+4.5 Recours aux associations de patients ................................ ................................ ................... 27 
+5. Suivi ................................ ................................ ................................ ................................ ....... 28 
+5.1 Objectifs ................................ ................................ ................................ ................................ .... 28 
+5.1.1 Pour les patients : .................................................................................................................... 28 
+5.1.2 Pour les aidants : ...................................................................................................................... 28 
+5.2 Professionnels impliqués (et modalités de coordination) ................................ ................... 28 
+5.2.1 Planification des consultations ............................................................................................. 28 
+5.2.2 Contenu des consultations ................................................................................................... 28 
+5.2.3 Evaluation de l’activité et de la qualité de vie .................................................................. 29 
+5.3 Examens complémentaires ................................ ................................ ................................ ..... 29 
+5.3.1 PFAPA classique chez l’enfant ............................................................................................. 29 
+5.3.2 PFAPA chez l'adulte ................................................................................................................ 29 
+5.4 Prise en charge de certaines situations particulières ................................ ......................... 29 
+5.4.1 Fertilité, grossesse allaitement ............................................................................................. 29 
+5.4.2 Formes sévères et amylose inflammatoire ........................................................................ 30 
+5.4.3 Transition chez un jeune n’ayant pas guéri à sa majorité .............................................. 30 
+5.4.4 PFAPA chez l'adulte ................................................................................................................ 30 
+ANNEXE 1 –  LISTE DES CENTRES DE REFERENCE ET DE COMPETENCE DE LA 
+FILIERE FAI²R POUR LES MALADIES AUTO-IMMUNES SYSTEMIQUES ET POUR LES 
+MALADIES AUTO-INFLAMMATOIRES ................................ ................................ ................... 31 
+Liste des liens utiles pour les professionnels de santé et pour les patients ........................  39 
+ANNEXE 2 – ARBRE DECISIONNEL EN VUE DU DIAGNOSTIC ................................ ....... 40 
+ANNEXE 3 - SCORE AIDAI ................................ ................................ ................................ ........ 41 
+ANNEXE 4 - TRAITEMENTS LOCAUX DES APHTES DOULOUREUX CHEZ L’ENFANT
+ ................................ ................................ ................................ ................................ ........................  42 
+BIBLIOGRAPHIE ................................ ................................ ................................ ..........................  46 
+Définition ................................ ................................ ................................ ................................ ................ 46 
+Recherches de contre-indications au traitement ................................ ................................ .............. 46 
+Diagnostic ................................ ................................ ................................ ................................ ............... 46 
+ETP ................................ ................................ ................................ ................................ ..........................  47 
+Objectifs et professionnels impliqués dans la prise en charge thérapeutique et le suivi .... 48 
+Prise en charge thérapeutique ................................ ................................ ................................ .......... 48 
+Conseil génétique ................................ ................................ ................................ ................................  50 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PNDS PFAPA 
+ 
+1 
+ 
+Liste des personnes ayant collaboré à la rédaction  du 
+PNDS PFAPA 
+ 
+Ce travail a été coordonné par le Professeur Isabelle TOUITOU, sous l’égide du CeRéMAIA et 
+avec le partenariat de FAI²R. 
+ 
+Groupe rédactionnel de l’actualisation 
+ 
+Dr Perrine DUSSER, rhumatologie pédiatrique, AP-HP Kremlin-Bicêtre 
+Dr Sophie GEORGIN-LAVIALLE, médecine interne, AP-HP Tenon, Paris 
+Dr Véronique HENTGEN, pédiatrie, CH Versailles, Le Chesnay 
+Pr Isabelle KONE-PAUT, rhumatologie pédiatrique, AP-HP Kremlin-Bicêtre 
+Dr Linda ROSSI, rhumatologie pédiatrique, AP-HP Kremlin-Bicêtre, Paris 
+Pr David SAADOUN, médecine interne, AP-HP La Pitié Salpetrière, Paris 
+Dr Guillaume SARRABAY, génétique, CHU Montpellier 
+Pr Isabelle TOUITOU, génétique, CHU Montpellier 
+Dr Glory DINGULU, pédiatrie générale, CH Versailles, Le Chesnay 
+Dr Eric JEZIORSKI, pédiatrie générale, CHU Montpellier 
+ 
+Groupe multidisciplinaire de relecture 
+ 
+Mme Sabrina ATMANE PhD, attachée de recherche clinique, Paris 
+Pr Alexandre BELOT, pédiatrie, CHU Lyon 
+Dr Guilaine BOURSIER, génétique, CHU Montpellier 
+Dr Aurélia CARBASSE, pédiatrie, CHU Montpellier 
+Pr Michaël HOFER immunologie et rhumatologie pédiatrique, Lausanne, Suisse 
+Dr Céline MARSAUD, pédiatrie, Paris 
+Pr Leonardo PUNZI, rhumatologie, Padoue, Italie 
+Mme Anne-Sophie TAVERNIER, infirmière puéricultrice, CH Versailles, Le Chesnay 
+Mme Daphné SOFFER, association AFFMF  
+ 
+ 
+Déclarations d’intérêt 
+ 
+Tous les participants à l’élaboration du PNDS ont rempli une déclaration d’intérêt. Les 
+déclarations d’intérêt sont en ligne et consultables sur le site internet de FAI²R. 
+  
+ 
+2 
+ 
+Liste des abréviations 
+ 
+25OH-D3 Vitamine D 
+AD  Autosomique Dominante 
+AFFMF Association Française de la Fièvre Méditerranéenne Familiale 
+AIDAI  Auto Inflammatory Disease Activity Index 
+AINS  Anti-Inflammatoires Non Stéroïdiens 
+AIT  Accident Ischémique Transitoire 
+ALAT  Alanine aminotransaminase 
+ALD  Affection de Longue Durée 
+AMM  Autorisation de Mise sur le Marché 
+ANCA  Anticorps anti-cytoplasme des neutrophiles 
+ANSM  Agence Nationale pour la Sécurité du Médicament 
+Anti-IL1 Anti-interleukine-1 
+AR   Autosomique récessive 
+ASAT  Aspartate aminotransférase 
+AVC  Accident Vasculaire Cérébral 
+BU  Bandelette urinaire 
+CAPS  Syndromes périodiques lié à la cryopyrine 
+CeRéMAIA Centre de référence des Maladies Auto -Inflammatoires rares et de l’Amylose 
+Inflammatoire 
+CINCA  Syndrome Chronique, Infantile, Neurologique, Cutané, Articulaire 
+CRMR  Centre de Référence pour les Maladies Rares 
+CRP  C Reactive protein 
+CSS  Code de la Sécurité Sociale  
+CYP450 Cytochrome P450 
+DFG  Débit de Filtration Glomérulaire 
+EBV  Epstein-Barr Virus 
+ECBU  Examen Cyto-Bactériologique Urinaire 
+ETP  Education Thérapeutique du Patient 
+EVA  Evaluation de la douleur 
+FCAS  Familial Cold Autoinflammatory Syndrome 
+FMF  Fièvre Méditerranéenne Familiale 
+HAS   Haute Autorité de Santé 
+HbA1c  Hémoglobine glyquée 
+IDE  Infirmière Diplômée d’Etat 
+IDR  Intradermoréaction à la tuberculine 
+IgA  Immunoglobuline A 
+IgG  Immunoglobuline G 
+IgM  Immunoglobuline M 
+INPES   Institut National de la Prévention et de l’Education à la Santé  
+MEFV  Gène responsable de la FMF 
+MVK  Mévalonate kinase 
+MWS  Syndrome de Muckle-Wells 
+NFS  Numération Formule Sanguine 
+NLRP3  NOD-like receptor family, pyrin domain containing 3 
+ 
+3 
+ 
+OMS  Organisation Mondiale pour la Santé 
+PFAPA  Fièvre périodique – stomatite aphteuse – pharyngite – adénopathie  
+PAI   Protocole d’action individualisé  
+PNDS  Protocole National de Diagnostic et de Soins 
+PNN  Polynucléaires Neutrophiles 
+ROR  Rougeole-Oreillons-Rubéole 
+RQTH   Reconnaissance en Qualité de Travailleur Handicapé 
+RTU  Recommandation Temporaire d’Utilisation 
+SAA  Serum associated amyloid protein 
+TRAPS  Syndrome périodique associé au récepteur 1 du facteur de nécrose tumorale 
+VAS  Voies Aériennes Supérieures 
+VIH  Virus de l’Immunodéficience Humaine 
+VS  Vitesse de sédimentation 
+VUS  Variant de signification clinique incertaine 
+γGT  Gamma Glutamyl Transpeptidase 
+  
+ 
+4 
+ 
+Synthèse à destination du médecin traitant  
+ 
+Résumé 
+Le syndrome PFAPA appartient au groupe des fièvres récurrentes auto-inflammatoires. Elle est 
+la plus fréquente des maladies auto -inflammatoires non héréditaires. En France, le syndrome 
+PFAPA est aussi connu sous le nom de syndrome de Marshall. L'acronyme en anglais reflète les 
+principales caractéristiques cliniques de la maladie: PFAPA : fièvre périodique - aphtes - 
+pharyngite - adénite. Le PFAPA est une maladie en général bénigne guérissant le plus souvent 
+spontanément avec l’âge. Il n’y a pas ou peu de retentissement sur la c roissance, mais la 
+récurrence des accès fébriles et de fatigue peuvent obérer la qualité de vie des patients  et de 
+leurs proches.  
+ 
+Prise en charge diagnostique 
+Le syndrome PFAPA est d'origine inconnue et le diagnostic se fait sur des critères cliniques. La 
+symptomatologie débute dans 90% des cas avant l’âge de 5 ans. Elle peut plus rarement débuter 
+avant l’âge de 1 an et être observée chez l’adulte. Les accès de fièvre dépassent souvent 40°C 
+et peuvent être mal tolérés avec frissons et cyanose des extrémités. Ils sont espacés en 
+moyenne de 3 à 6 semaines, souvent à intervalle régulier, ce qui les distingue des autres fièvres 
+récurrentes auto-inflammatoires. La durée médiane de chaque épisode est de 3 à 6 jours. Le 
+syndrome inflammatoire, l 'atteinte oropharyngée (pharyngite  exsudative ou érythémateuse, 
+sans évidence de streptocoque), et les adénopathies sont quasi constantes chez l'enfant et chez 
+l'adulte. Les aphtes pendant les poussées sont plus rares, mais peuvent être une aide au 
+diagnostic. Les signes inconstants incluent  des douleurs abdominales  péri-ombilicales, des 
+arthromyalgies sans signes d’arthrite, et des céphalées lors des crises. A la différence d’autres 
+maladies auto -inflammatoires, aucun diagnostic génétique n’est possible pour confirmer un 
+syndrome PFAPA. 
+ 
+ 
+Prise en charge thérapeutique 
+La prise en charge du PFAPA est symptomatique et permet de limiter ou prévenir les accès 
+inflammatoires et de préserver la qualité de vie des patients. La stratégie thérapeutique adoptée 
+sera dépendante de la fréquence des crises, de l’existence d’une cause ORL évidente, et du 
+vécu des symptômes par le patient et sa famille. 
+ 
+Les traitements de la crise reposent sur des médicaments à effet anti-inflammatoire rapide. La 
+réponse au paracétamol est généralement modeste. La réponse à l’ibuprofène est plutôt bonne 
+mais peut favoriser les oscillations thermiques avec une moins bonne tolérance de la fièvr e 
+(frissons, cyanose des extrémités, voire des convulsions hyperthermiques) . La réponse à une 
+dose unique de corticoïdes est très rapide et peut même constituer un élément fort en faveur 
+du diagnostic. La corticothérapie à la demande doit être réévaluée pa r le médecin spécialiste 
+tous les ans. En effet, les corticoïdes ne préviennent pas la récurrence des crises et peuvent 
+même chez 25 à 40% des patients raccourcir l’intervalle entre les accès inflammatoires. Une à 
+deux prises uniques mensuelles n’entraine habituellement pas d’effets indésirables majeurs. De 
+cette manière, leur utilisation à chaque poussée permet à l’enfant d’être en forme en quelques 
+ 
+5 
+ 
+heures facilitant à celui -ci et sa famille une reprise de l’activité quotidienne. Quand leur 
+utilisation rapproche les crises, il sera convenu avec l’enfant ou l’adolescent et ses parents de 
+la prise essentiellement réservée aux événements exceptionnels (voyage ou autre circonstance 
+exceptionnelle). 
+Un traitement spécifique de l'aphtose peut aussi s'avérer nécessaire.  
+D’autres approches médicamenteuses (colchicine, montelukast) préventives des crises sont 
+possibles mais leur efficacité réelle reste à prouver. 
+L’amygdalectomie après l’âge de 6 ans peut être efficace, mais son effet sur l’arrêt des crises 
+peut n’être que transitoire. Elle n’ est en règle indiscutable que lorsqu’il existe des amygdales 
+obstructives avec apnées du sommeil. 
+Les recommandations vaccinales sont celles en vigueur au sein de la population générale, mais 
+il est conseillé de pratiquer les vaccinations à distance d'un accès inflammatoire.  
+ 
+Rôle du médecin traitant 
+Le médecin traitant est à même de prendre en charge un patient atteint de PFAPA, lorsque le 
+diagnostic est posé et que la prise en charge lui a été clairement exposée. En effet, la fièvre est 
+un symptôme très fréquent surtout chez le jeune enfant, et seul l'interrogatoire et un examen 
+clinique bien menés permettront de mettre en route les examens complémentaires permettant 
+d'éliminer les autres causes. Les diagnostics différentiels sont multiples. Les principales autres 
+causes de fièvres récidivantes sont les infections, les maladies dysimmunitaires, les néoplasies 
+et les autres fièvres récurrentes auto -inflammatoires comme la fièvre méditerranéenne 
+familiale (FMF), ou le syndrome de déficit partiel en mévalonate kinase (MKD).  
+Dans les cas difficiles ou pour la mise en place de la prise en charge thérapeutique, le médecin 
+traitant peut s’appuyer sur l’avis d’une consultation de centre de référence ou de compétence. 
+ 
+ 
+  
+ 
+6 
+ 
+1. Introduction 
+ 
+Définition  
+La maladie a été décrite pour la première fois en 1987 sous le nom de syndrome de Marshal. 
+L'acronyme PFAPA (en anglais periodic fever with aphtosis, pharyngitis and adenitis) représente 
+le nom utilisé actuellement et réunit les critères cliniq ues de la maladie  : fièvre périodique - 
+aphtes - pharyngite - adénite. D’autres symptômes comme des douleurs abdominales 
+spasmodiques, les céphalées et les arthromyalgies sans signes d’arthrite peuvent compléter le 
+tableau. Le PFAPA affecte les enfants tôt  pendant l'enfance avec une amélioration fréquente 
+dans le temps. 
+Le PFAPA fait partie des fièvres récurrentes auto -inflammatoires, un groupe d’affections 
+inflammatoires dues à une dérégulation du système immunitaire inné.  
+ 
+Etiologie 
+Les causes de la maladie restent inconnues. On ne retrouve pas de cause infectieuse pendant 
+les poussées.  
+La dérégulation de l'immunité innée dans le PFAPA est reflétée par le phénotype clinique, 
+l'augmentation des cytokines pro -inflammatoires (surtout IL1) , la réponse rapide  aux 
+corticostéroïdes et l'absence de réponse aux antibiotiques. 
+Des cas familiaux ont été décrits, mais aucune cause monogénique n'a été identifiée à ce jour. 
+L’impact de facteurs environnementaux ou génétiques multiples n’est pas exclu, et le PFAPA 
+peut être considéré comme une maladie multifactorielle. 
+ 
+Comme toutes les maladies auto -inflammatoires, le patient alterne des périodes fébriles 
+accompagnées des signes spécifiques décrits ci-dessus, avec des périodes où le patient est soit 
+en parfait état géné ral soit avec un état de fatigue chronique où prédominent les myalgies 
+d’effort.  Le développement staturopondéral et psychomoteur est normal. 
+Il est important de bien poser le diagnostic différentiel avec une maladie infectieuse pour éviter 
+de prescrire des traitements antibiotiques inutiles. Il est tout aussi important de différentier le 
+PFAPA des autres maladies auto-inflammatoires car celles-ci nécessitent souvent une approche 
+thérapeutique plus intensive et ont une évolution et un pronostic à long terme plus sévères. 
+ 
+Epidémiologie 
+Le PFAPA a été décrit dans tous les pays. Sa fréquence n’est pas connue. Son incidence annuelle 
+a été évaluée entre 2 et 3 pour 10000 d’après une étude norvégienne, ce qui correspond à au 
+moins 3 -4000 nouveaux cas par an en F rance. C’est l 'affection auto -inflammatoire la plus 
+courante chez les enfants en France. 
+  
+ 
+7 
+ 
+2. Objectifs du protocole national de diagnostic et de 
+soins 
+ 
+ 
+L’objectif de ce protocole national de diagnostic et de soins (PNDS) est d’expliciter aux 
+professionnels concernés la prise en charge diagnostique et thérapeutique optimale actuelle et 
+le parcours de soins d’un patient atteint de PFAPA. Il a pour but d’optimiser et d’harmoniser la 
+prise en charge et le suivi de la maladie rare sur l’ensemble du territoire. Il  permet également 
+d’identifier les spécialités pharmaceutiques utilisées dans une indication non prévue dans 
+l’autorisation de mise sur le marché (AMM) ainsi que les spécialités, produits ou prestations 
+nécessaires à la prise en charge des patients mais no n habituellement pris en charge ou 
+remboursés. 
+ 
+Ce PNDS peut servir de référence au médecin traitant (médecin désigné par le patient auprès 
+de la Caisse Primaire d’Assurance Maladie) en concertation avec le médecin spécialiste, 
+notamment au moment d’établir le protocole de soins conjointement avec le médecin conseil 
+et le patient, dans le cas d'une demande d'exonération du ticket modérateur au titre d'une 
+affection hors liste. 
+Le PNDS ne peut cependant pas envisager tous les cas spécifiques, toutes les comorbidités ou 
+complications, toutes les particularités thérapeutiques, tous les protocoles de soins hospitaliers, 
+etc. Il ne peut pas revendiquer l’exhaustivité des conduites de prise en charge possibles, ni se 
+substituer à la responsabilité individuelle du médecin vis-à-vis de son patient. Le protocole 
+décrit cependant la prise en charge de référence d’un patient atteint de PFAPA. Il doit être mis 
+à jour en fonction des données nouvelles validées. 
+ 
+Le présent PNDS a été élaboré selon la «  Méthode d’élaboration d’un protocole national de 
+diagnostic et de soins pour les maladies rares » publiée par la Haute Autorité de Santé en 2012 
+(guide méthodologique disponible sur le site de l’HAS : www.has-sante.fr). 
+  
+ 
+8 
+ 
+ 
+3. Diagnostic et évaluation initiale 
+ 
+3.1  Objectifs 
+ Rechercher les arguments anamnestiques, cliniques, paracliniques et familiaux 
+permettant d’établir le diagnostic en réalisant un bilan complet dès qu’il existe une 
+suspicion diagnostique suffisante ; 
+ Annoncer le diagnostic et les conséquences pour son entourage ; 
+ Proposer au patient une prise en charge adaptée et l’accompagner ainsi que son 
+entourage. 
+ 
+3.2 Professionnels impliqués (et modalités de coordination) 
+Les services d’urgences pédiatriques sont souvent le premier recours où ces patients arrivent 
+pour des fièvres élevées, récurrentes, mal supportées et syndrome inflammatoire biologique. 
+Le PFAPA peut être vu aussi  par le  médecin traitant (généraliste ou pédiatre ) devant la 
+répétition d’épisodes stéréotypés de fièvre spontanément régressifs.  
+ 
+Selon le cas, elle peut aussi être du domaine des spécialistes suivants :  
+ urgentiste ; 
+ pédiatre rhumatologue ; 
+ médecin adulte ( interniste, rhumatologue, hématologue, immunologiste) pour les 
+patients dont le diagnostic n’a pas été posé à l’âge pédiatrique ; 
+ infectiologue devant les épisodes de fièvre répétés ; 
+ ORL : patients vus pour des angines à répétition ou adressés à eux pour une indication 
+d’amygdalectomie. 
+ 
+En cas de suspicion clinique de PFAPA, il est essentiel de s’assurer de l’absence d’une autre 
+fièvre récurrente auto-inflammatoire, notamment héréditaire, nécessitant une prise en charge 
+spécifique (voir chapitre diagnostic différentiel).  
+ 
+Pour la confirmation diagnostique, une consultation dans le réseau des centres de référence ou 
+de compétence de la filière FAI²R, ou chez un pédiatre avec compétence en rhumatologie, peut 
+être utile s’il existe un doute sur un diagnostic différentiel ou pour la proposition de prise en 
+charge. La coordination de la prise en charge du patient sera assurée ensuite par le médecin 
+traitant (généraliste ou pédiatre). 
+ 
+3.3 Circonstances de découverte/ Suspicion du diagnostic 
+Le diagnostic est évoqué devant des fièvres récurrentes très stéréotypées chez un enfant très 
+jeune, avant l’âge de 5 ans, parfois avant l’âge de 1 an, avec un syndrome inflammatoire. La 
+périodicité (survenue très régulière, prévisible par les parents) est très évocatrice, même si elle 
+peut manquer au début, ou au contraire quand la maladie commence à disparaitre. Très souvent 
+en pratique, le patient est vu en dehors d’une poussée inflammatoire fébrile. C’est donc 
+ 
+9 
+ 
+l’anamnèse, l’examen du carnet de santé chez l’enfant et l’analyse d’éventuelles hospitalisations 
+qui permettront d’assembler les éléments de présomption. 
+ 
+3.4 Confirmation du diagnostic/diagnostic différentiel (annexe 2) 
+3.4.1 Diagnostic positif 
+Il n'existe actuellement aucun test diagnostique spécifique pour le PFAPA et le diagnostic est 
+basé sur des critères cliniques.  
+ 
+► Syndrome inflammatoire important spontanément résolutif 
+Le PFAPA est considéré comme une maladie bénigne et les crises sont spontanément 
+résolutives. En dehors des crises, les patients PFAPA ont un développement staturopondéral 
+normal, ce qui élimine beaucoup des diagnostics différentiel s qui seront évoqués plus loin. Le 
+syndrome PFAPA a une histoire naturelle favorable dans la majorité des cas. Des récidives à 
+l’âge adulte sont décrites occasionnellement ainsi que des évolutions vers d’autres maladies 
+systémiques inflammatoires. 
+ 
+► Définition de la fièvre récurrente 
+Les fièvres récurrentes sont définies par des épisodes successifs de fièvre (>38 ,8°C) nue ou 
+accompagnée d'une symptomatologie stéréotypée, de durée spontanément limitée dans le 
+temps, entrecoupés de période d'apyrexie et se rep roduisant pendant des mois ou années. Le 
+rythme des épisodes dans le temps permet de définir le caractère périodique ou non. Les fièvres 
+récurrentes sont à distinguer des fièvres récidivantes ou intermittentes qui sont des épisodes 
+fébriles répétés non stéréotypés et sans périodicité et des fièvres continues qui recouvrent un 
+autre champ nosologique. 
+Le PFAPA est l’une d’entre elle. Cette entité clinique est décrite initialement par Marshall en 
+1987 sur 12 patients. Il a ainsi défini des critères diagnostiq ues qui ont été complétés par 
+plusieurs auteurs par la suite. Le PFAPA fait partie des syndromes auto-inflammatoires. 
+ 
+► Tableau clinique 
+Chez l’enfant 
+Le tableau clinique du PFAPA consiste classiquement en des fièvres récurrentes ayant débuté 
+souvent avant l’âge de 5 ans, espacées d’un intervalle régulier de 3 à 6 semaines, et associées à 
+des symptômes ORL inflammatoires . La plupart des enfants ont des prodromes  : céphalées, 
+fatigue, odynophagie, inappétence. La durée médiane est en général de 3 à 6 jours avec des 
+températures pouvant dépasser 40°C. Ces fièvres sont associées à une pharyngite exsudative 
+ou érythémateuse , plus rarement à des aphtes  (généralement mineurs touchant la partie 
+antérieure de la cavité buccale), des adénopathies cervicales souvent sensibles. Les enfants sont 
+affaiblis pendant et parfois en dehors de  ces épisodes. Les signes associés retrouvés dans la 
+littérature peuvent être des douleurs abdominales  spasmodiques (liées à des adénopathies 
+mésentériques), des myalgies, une céph alée, à des fréquences variables.  Certains enfants 
+présentent des aphtes buccaux en dehors des crises. La présence d’un syndrome inflammatoire 
+marqué lors des poussées est retrouvée ainsi qu’une monocytose non constante; pour certains 
+ 
+10 
+ 
+auteurs, la réponse à  une dose de corticoïdes peut être un élément en faveur du diagnostic.  
+Entre les épisodes, les enfants n’ont pas de syndrome inflammatoire biologique. La croissance 
+staturopondérale est normale. 
+Chez l’adulte 
+Cette pathologie d’abord décrite en pédiatrie a été également observée chez l’adulte. Les accès 
+ont pour point commun des fièvres récurrentes associées à des adénopathies, une atteinte 
+oropharyngée, sans étiologie infectieuse retrouvée. La réponse aux corticoïdes ou la présence 
+d’inflammation ont été p roposées comme critères diagnostiques. Lorsque les critères ne sont 
+pas totalement remplis, on peut parler de fièvre récurrente de signification inconnue (SURF en 
+anglais) qui nécessite d’avoir éliminé tous les autres diagnostics différentiels. 
+ 
+Les différents critères diagnostiques sont résumés dans le tableau 1. 
+Tableau 1 : Critères de classification de PFAPA retrouvés dans la littérature  
+ 
+Un nouveau set de critères établi sur la base d’un consensus d’experts internationaux a été 
+proposé en septembre 2018 
+Référence Edwards,  
+J Pediatrics 1999 
+Vanoni,  
+Ped Rheum 2018 
+Gattorno,  
+Annals Rheum dis 
+2019 
+N critères requis Tous 50% Minimum 7 sur 8 
+Caractéristiques 
+des épisodes 
+fébriles Fièvre récurrente 
+survenant à 
+intervalle régulier 
+et débutant avant 
+l’âge de 5 ans 
+Fièvre périodique survenant avant 
+6 ans pendant au moins 6 mois : 
+a. Fièvre quotidienne ≥ 38,5°C 
+(axillaire) durant 2 à 7 jours 
+récurrente et régulière 
+b. Au moins 5 épisodes de fièvre 
+survenant au maximum à 2 mois 
+d'intervalle. 
+1. Episodes de fièvre 
+de 3-6 jours;  
+2. Périodicité des 
+épisodes 
+Autres 
+symptômes à 
+rechercher 
+Au moins 1 des 3 
+symptômes:  Aphtes buccaux: au moins 
+1/épisode 3. Adénite cervicale 
+4. Pharyngo-
+amygdalite 
+ 
+Aphtes intra 
+buccaux 
+Adénopathies 
+cervicales 
+Adénopathies cervicales: au moins 
+1/épisode 
+Pharyngite Pharyngite: au moins 1/épisode 
+Symptômes 
+absents 
+Exclusion d’une 
+neutropénie 
+cyclique et 
+d’infection des 
+voies aériennes 
+supérieures 
+Exclusion d’une neutropénie 
+cyclique, infections, 
+immunodéficience ou toute autre 
+cause de fièvre récurrente 
+5. Diarrhées  
+6. Douleurs 
+thoraciques  
+7. Rash cutané 
+8. Arthrite 
+Pas de retard staturo-pondéral  
+Asymptomatique entre chaque épisode 
+ 
+11 
+ 
+3.4.2 Diagnostic différentiel 
+Le diagnostic est avant tout clinique : un interrogatoire bien mené et un examen rigoureux 
+permettront de limiter les examens complémentaires à réaliser le cas échéant. Dans le PFAPA, 
+le diagnostic se base surtout sur la recherche des signes suivants : enfant en bonne santé entre 
+les crises, qui grandit bien.  
+La fièvre est un symptôme très fréquent et le nombre de diagnostics différentiels est très 
+important.  
+Néanmoins, il est en pratique clinique parfois difficile de différentier une fièvre récurrente d’une 
+fièvre récidivante ou d’une fièvre d’origine inconnue. Leurs causes sont nombreuses et nous 
+avons ainsi dressé une liste des principaux diagnostics différentiels de ces fièvres, la plupart de 
+ces étiologies ayant des points d’appel spécifiques (Tableau 2). 
+ 
+Tableau 2 : Principaux diagnostics différentiels du PFAPA  
+ 
+Groupe de 
+maladies 
+Exemples Contexte et signes d’appel à rechercher 
+Maladies 
+infectieuses 
+Virales 
+Microbiennes 
+Fongiques 
+Parasitaires 
+Absence de stéréotypie dans la présentation des épisodes                        
+Symptomatologie ORL (rhinite, pharyngite, toux, otite)  
+Symptomatologie digestive (gastro-entérite) 
+Principalement en période hivernale et dans un contexte 
+épidémique 
+Notion de voyages, ou de mauvaises conditions d’hygiène 
+Déficits 
+immunitaires  
+  Enfant < 4ans: > 8 otites /an  
+Enfant > 4ans: > 4 otites /an chez un enfant non gardé en 
+collectivité 
+> 2 pneumonies en l’absence d’un terrain asthmatique ou 
+sinusites /an                                                                                  
+Infections sévères ou à germes atypiques et récurrentes  
+Evolution trainante malgré un traitement anti infectieux 
+adapté  
+Cassure de la courbe staturo-pondérale 
+Autres maladies 
+autoinflammatoires 
+  
+Multifactorielles  Behçet : atteinte bipolaire, uvéite, signes cutanés, 
+vasculaires ou neurologiques  
+Crohn : atteinte bipolaire, signes articulaires, signes 
+digestifs marqués avec histologie compatible 
+ 
+ 
+FMF origine géographique compatible, péritonite, pas de 
+signes ORL, durée <4 jours 
+MKD : hépatomégalie, éruptions cutanées, diarrhée, 
+mévalonaturie, déclenchement par les vaccins, infections 
+bactériennes à répétition, aphtose au premier plan 
+HA20: inflammation digestive, antécédents familiaux 
+ 
+ 
+Monogéniques  
+ 
+Fièvre 
+récurrente 
+inclassée 
+MKD: Déficit en mévalonate kinase. FMF: Fièvre méditerranéenne familiale. HA20 : 
+Haploinsuffisance en A20  
+ 
+ 
+12 
+ 
+► Les causes infectieuses 
+Les infections virales répétées de la petite enfance sont la principale cause de fièvres 
+récidivantes chez le jeune enfant. Elles s’accompagnent habituellement d’une symptomatologie 
+ORL (rhinite, pharyngite, toux, otite) ou digestive (gastro -entérite) principalement en période 
+hivernale et souvent dans un contexte épidémique. Ces épisodes fébriles ne sont ni stéréotypés 
+ni systématiquement accompagnés d’un syndrome inflammatoire biologique. Ces causes 
+pourront être facilement éliminées par l’interrogatoire. 
+ 
+Il existe néanmoins d’authentiques causes infectieuses qu’il faut savoir évoquer en fonction du 
+contexte : voyages, conditions d’hygiène, contages et points d’appels cliniques.  
+ 
+► Les déficits immunitaires 
+Les déficits immunitaires peuvent être une cause de fièvre récurrente, l’élimination d’une 
+neutropénie cyclique faisant partie de la définition princeps des PFAPA, elle reste 
+exceptionnelle et s’en distingue par la présence d’ulcérations muqueuses profondes et d’une 
+histoire familiale (transmission dominante) . Un déficit immunitaire devra être évoqué en cas 
+d’infections documentées sévères, disséminées ou à germes atypiques et/ou s’il existe une 
+répercussion sur la courbe de croissance staturo -pondérale. Si les enfants répondent aux 
+critères de dépistage de déficits immunitaires, une exploration en ce sens sera indispensable. Il 
+peut également s’agir d’un déficit immunitaire monogénique avec aphtose (de nouvelles entités 
+ont été décrites). 
+ 
+► Les maladies dysimmunitaires et/ou granulomateuses (hors maladies auto-inflammatoires) 
+Les maladies auto -immunes ou inflammatoires de l’enfant peuvent aussi s’exprimer par des 
+fièvres à répétition. Elles se caractér isent volontiers par des présentations continues en 
+poussées, à la différence de la présentation stéréotypée et récurrente des maladies auto -
+inflammatoires. En cas de présentation récurrente d’une maladie auto -immune ou 
+inflammatoire, l’expression des sign es associés prédomine sur celle de la fièvre. L’atteinte 
+d’organe prédominante peut alors orienter le diagnostic (ex  : une fièvre récurrente associée à 
+des signes digestifs dans le cadre d’une maladie de Crohn). Les signes associés permettent 
+d’évoquer le diagnostic et d’explorer en conséquence.  
+ 
+► Les autres maladies auto-inflammatoires 
+Monogéniques 
+Les  maladies auto-inflammatoires de cause monogénique sont l’un des diagnostics différentiels 
+des PFAPA. Elles se distinguent par la durée de la fièvre et les signes associés, l’interrogatoire 
+est alors essentiel, notamment afin de rechercher des antécédents familiaux, une origine 
+géographique à risque, et de réaliser un arbre généalogique. Il existe un nombre important de 
+maladies monogéniques inflammatoires dont les points d’appel sont multiples. Le diagnostic de 
+déficit en MKD devra être évoqué en priorité si des signes digestifs sont présents ou si le début 
+est très précoce (<1an) avant de retenir un PFAPA. 
+ 
+ 
+ 
+13 
+ 
+Fièvre récurrente idiopathique ou inclassée 
+Quelquefois, il existe des fièvres récurrentes avec syndrome inflammatoire biologique, mais 
+pour lesquelles aucune mutation n’est retrouvée dans les gènes c onnus. Il peut alors être 
+nécessaire de consulter un centre spécialisé.   
+ 
+► Autres 
+Parmi celles-ci, les causes néoplasiques sont multiples mais seront à évoquer en cas d’altération 
+de l’état général et nécessitent un examen physique complet. La fièvre facti ce, souvent mal 
+définie par les parents, est relativement rare mais nécessite parfois une observation en 
+hospitalisation. L’absence de syndrome inflammatoire pendant les épisodes de fièvre rapportée 
+permet d’écarter rapidement le diagnostic de PFAPA dans ce cas de figure. 
+ 
+3.4.3 Démarche diagnostique  
+La démarche diagnostique visera à éliminer les étiologies différentielles suscitées. Ainsi 
+l’interrogatoire devra rechercher les antécédents familiaux, l’origine ethnique, le début des 
+signes, un éventuel facteur déclenchant, la notion de voyage... 
+La description des crises devra être précise et il peut être utile d’utiliser un calendrier, au mieux 
+la grille AIDAI (annexe 3), afin que la famille y répertorie les signes cliniques  significatifs d’une 
+MAI, leur date de survenue et leur durée. 
+Au terme de cet  interrogatoire, l’enfant devra bénéficier d’un examen clinique complet, avec 
+notamment la recherche d’adénopathie, d’hépatosplénomégalie, d’atteinte articulaire ou 
+cutanée. Un arbre décisionnel d’aide au diagnostic est proposé en annexe 2. 
+ 
+3.4.4 Explorations complémentaires 
+► Dans tous les cas :  
+ Biologique : 
+o pendant la crise : NFS, CRP, ASAT, ALAT (si douleurs abdominales), ionogramme 
+sanguin, urée, créatinémie, hémoculture et bilan urinaire ; 
+o en dehors de la crise : NFS, CRP, IgG, IgA, IgM, urée, créatinine.  
+ Morphologique : aucun examen radiologique n’est indispensable. Ils peuvent être 
+demandés en fonction du contexte, de la présentation de la maladie et des constations 
+cliniques.  
+► Si l’enfant présente des critères de déficit immunitaires : 
+NFS, frottis et recherche de corps de Joly, dosage pondéral des IgG-A-M, sérologies vaccinales 
+(tétanos, diphtérie, Hib, pneumocoques) au terme de la primo -vaccination, les anticorps 
+naturels de groupe si l’enfant est âgé de plus de 2 ans. Si besoin, un bilan complémentaire est à 
+conduire en milieu spécialisé  : dosage du complément C3, C4, CH50, immunophénotypage 
+lymphocytaire, sérologie VIH.  
+ 
+En cas de recherche de syndrome auto-inflammatoire monogénique :  
+Le dosage de l’acidurie mévalonique lors des épisodes fébriles permet le dépistage des déficits 
+en mévalonate kinase, notamment chez les très jeunes enfants et s’il y a beaucoup de signes 
+ 
+14 
+ 
+digestifs. Cet examen présente une bonne valeur prédictive négative pour le diagnostic de 
+déficit en MVK et est réalisable facilement sur un échantillon urinaire, secondairement transmis 
+par le laboratoire de ville au laboratoire référent. Les recherches génétiques pourront être 
+réalisées si un élément est évocateur dans l’histoire familiale ou sur la présentation clinique, et 
+pourront être réalisées au mieux après un avis spécialisé. 
+ 
+ 
+3.5 Evaluation de la sévérité /extension de la maladie/recherche de 
+comorbidités/évaluation du pronostic   
+3.5.1 Evaluation de la sévérité et bilan d’extension de la maladie 
+Une fois le diagnostic de PFAPA posé, il est essentiel d’évaluer l’activité de la maladie et de faire 
+le bilan d’extension des éventuelles comorbidités : 
+ évaluation de la sévérité  sur le développement physique  : recherche d’un retard de 
+croissance et/ou d’ un retard pubertaire  devant faire évoquer une autre fièvre 
+récurrente ; 
+ évaluation du retentissement  de l’aphtose (bien qu’elle soit souvent mineure et peu 
+invalidante) et de la pharyngite sur la prise de poids et la qualité de vie ; 
+ calcul du nombre de jours de prise de corticoïdes par an ; 
+ évaluation du nombre de jours d’absentéisme scolaire ou professionnel. 
+ 
+A ce jour , il n’y a pas de score d’évaluation des séquelles pour le PFAPA.  Une définition de 
+PFAPA sévère a été proposée par Tasher et al à savoir des accès fébriles survenant à 14 jours 
+ou moins d’intervalle. 
+ 
+3.5.2 Recherche de comorbidité 
+Comme toutes les maladies chroniques, le PFAPA peut entraîner des répercussions plus 
+générales sur la vie du patient. Celles-ci doivent être systématiquement recherchées :  
+ dégradation de la qualité de vie ; 
+ dépression ou tout autre trouble psychiatrique induit ; 
+ désinsertion scolaire ou sociale. 
+ 
+3.5.3 Evaluation du pronostic 
+En règle générale , la maladie cède spontanément vers l’adolescence. La guérison survient 
+progressivement, avec des épisodes de moins en moins réguliers, des accès qui deviennent 
+partiels sans fièvre et caractérisés uniquement par les signes d’accompagnement. La médiane 
+de guérison se situe après 4 ans d’évolution. Le  PFAPA n’a pas de retentissement sur la 
+croissance.  
+Sur le plan biologique, chez l’enfant, il n’est pas indispensable de réal iser un bilan annuel si le 
+diagnostic de PFAPA est clairement posé. 
+En cas de persistance  des épisodes de fièvre , il faut continuer de suivre le patient jusqu’à sa 
+majorité et le confier à un médecin adulte expert en PFAPA pour la transition  qui réalisera un 
+bilan annuel d’extension comportant NFS, CRP, SAA, créatininémie, recherche de protéinurie. 
+ 
+ 
+15 
+ 
+3.6 Annonce du diagnostic et information du patient  
+L’annonce diagnostique est un processus qui démarre à la découverte d’un symptôme et qui 
+aboutit à un plan thérapeutique. Cette période d’attente est difficile pour les familles ; elle est 
+source d’angoisse, d’incertitude et s’accompagne souvent de nombreuses consultations avec 
+des professionnels qui parfois se contredisent. Cette période est donc un moment importa nt 
+où l’écoute et la disponibilité sont essentielles de façon à nouer une relation de confiance entre 
+médecin et famille pour une meilleure prise en charge. 
+Le PFAPA est une situation particulière du fait d’une symptomatologie  ayant peu de 
+retentissement sur le plan physique sur le long terme, mais pouvant être lourde à gérer pour le 
+médecin et au plan familial. En effet, contrairement aux pathologies chroniques, elle évolue par 
+poussées entrecoupées de  périodes où l’enfant est sain.  Ces poussées sont const ituées de 
+symptômes aspécifiques et pouvant apparaître comme banals chez le petit enfant mais qui, au 
+quotidien, ont un impact majeur sur le fonctionnement familial. De plus, ce diagnostic est un 
+diagnostic d’exclusion ; aucun test biologique ne permet de l’affirmer avec certitude. Seule une 
+anamnèse très précise et le temps v ont donc permettre aux médecins d’en être certain s. Le 
+PFAPA induit donc une situation très paradoxale avec d’un côté une famille dans l’urgence d’un 
+diagnostic car en souffrance et de  l’autre, des professionnels de santé peu inquiets. Cette 
+situation très particulière est donc source de stress pour les familles.  
+Dans ce contexte, de façon à répondre au mieux à cette urgence ressentie par les familles, tout 
+en donnant aux médecins le t emps nécessaire au diagnostic, la procédure d’annonce devrait 
+idéalement comporter 3 phases qui peuvent être conduites par le médecin de ville. 
+ une première consultation médicale préparant l’enfant et la famille au diagnostic 
+envisagé ; 
+ une deuxième consultation de confirmation diagnostique ; 
+ un suivi post-annonce fait par le médecin traitant. 
+ 
+3.6.1 Première consultation 
+Cette première consultation médicale est forcément longue et se divise en deux parties : 
+ un temps d’écoute et de prise de connaissance de l’enfant et de sa famille ; 
+ un temps d’explication des hypothèses diagnostiques. 
+ 
+► Le premier temps  
+Il est essentiel pour exposer le contexte de cette consultation et décrire la symptomatologie de 
+l’enfant et son retentissement. Ce premier temps doit se dérouler dans un certain ordre afin 
+d’appréhender la situation au mieux pour pouvoir dans un deuxième temps y répondre de façon 
+adaptée. C’est donc un temps d’écoute très important pour : 
+ comprendre le contexte de la consultation. La famille a -t-elle été adressée au médecin 
+pour avis sur une fièvre récurrente ou a-t-elle fait la démarche de consulter elle-même 
+à la suite de recherches internet ou de discussions avec l’entourage ; 
+ faire une anamnèse précise de la maladie :  
+o le recueil des symptômes  : descrip tion précise de la sémiologie des accès 
+inflammatoires guidée au mieux par un outil adapté (grille AIDAI – annexe 3), ou 
+un calendrier des fièvres ; 
+o les facteurs favorisants ; 
+ 
+16 
+ 
+o la date ou âge de début ; 
+o la durée des poussées ; 
+o les antécédents familiaux et personnels ; 
+o récupérer les différents examens réalisés ; 
+o les traitements médicamenteux et non médicamenteux mis en place. 
+ comprendre le contexte social et le vécu de la famille : 
+o l’organisation familiale ; 
+o la place de l’enfant dans la fratrie et le retentissement sur les frères et sœurs ; 
+o le mode de garde de l’enfant ; 
+o le métier des parents ; 
+o le retentissement scolaire et professionnel : nombre de jours d’absentéisme de 
+l’enfant et des parents. 
+► Le second temps  
+Sont alors abordés les différents aspects des fièvres récurrentes : 
+ avec un premier temps d’écoute sur les connaissances de la famille : 
+o si un diagnostic a déjà été évoqué à la famille : ce qu’elle en a retenu ?  
+o si un diagnostic est suspecté et/ou fantasmé par la famille  : ce qu’elle 
+s’imagine et quelles ont été leurs recherches (internet, blog, connaissances) ? 
+ reprendre avec eux ce qu’est une fièvre auto-inflammatoire ; 
+ évoquer le diagnostic vers lequel on s’oriente ; 
+ expliquer la complexité de l’affirmation du diagnostic de PFAPA qui est un diagnostic 
+d’exclusion et donc de l’importance du temps pour le confirmer. Expliquer aux familles 
+que ce temps de diagnostic que nous leur demandons n’est pas le fruit d’une 
+incompréhension de l’urgence dans laquelle ils se trouvent mais une nécessité pour une 
+bonne prise en charge ultérieure ; 
+ expliquer la mise en place de deux prises en charge parallèles : 
+o sociale : pour parer à la souffrance qu’engendrent ces symptômes : organisation 
+de la vie quotidienne de l’enfant et de sa famille  : mise en place d’un protocole 
+d’action individualisé (PAI) ou du mode de garde même en  l’absence de 
+diagnostic précis ; 
+o diagnostique : 
+ explication des examens biologiques nécessaires pour exclure d’autres 
+pathologies si besoin ; 
+ remise et explication d’un calendrier de surve illance des crises  : par 
+exemple, remplissage du score AIDAI (annexe 3) ; 
+ remise d’un traitement d’épreuve dans certains cas. 
+ Remise des coordonnées téléphoniques et de courriel du centre pour toutes questions 
+ultérieures. 
+ 
+3.6.2 Deuxième consultation : confirmation du diagnostic 
+Cette consultation permet au mieux de confirmer le diagnostic évoqué au cours de la première 
+consultation médicale mais au minimum d’apprécier le résultat des mesures mises en place afin 
+de faciliter la vie quotidienne de l’enfan t (traitements, PAI, mode de garde…). Idéalement, elle 
+devrait être faite par le médecin en présence d’un membre de l’équipe paramédicale. A défaut, 
+elle peut être réalisée par le médecin seul. 
+ 
+17 
+ 
+Les points spécifiques à aborder lors de cette consultation sont : 
+ le rendu avec explications des examens biologiques effectués ; 
+ l’évaluation du degré d’acceptation du diagnostic par l’enfant et la famille ; 
+ la mise en place et l’explication de traitements éventuels ; 
+ l’explication du suivi médical ultérieur ; 
+ la remise des documents spécifiques ayant trait au diagnostic ; 
+ s’assurer de la bonne compréhension des informations. 
+ 
+3.6.3 Suivi post-annonce par le médecin traitant 
+Cette consultation doit être réalisée par le médecin traitant et programmée idéalement dans les 
+15 jours suivant la deuxième consultation. Elle est essentielle pour la famille qui a souvent du 
+mal à appréhender toutes les informations qui lui ont été données et/ou reste seule face à ses 
+interrogations.  
+Une fois le diagnostic confirmé et ex pliqué à la famille lors de la deuxième consultation, le 
+médecin traitant doit alors être informé au plus vite de façon à pouvoir prendre le relais. 
+Remettre le médecin traitant au cœur de la prise en charge paraît logique étant donnée sa 
+proximité avec le s familles. De plus, il a le plus souvent été impliqué dès le début de la 
+symptomatologie dans la recherche diagnostique et le soutien familial. Pour toutes ces raisons, 
+il est donc primordial qu’il joue un rôle dans l’annonce diagnostique.  
+Le suivi post-annonce permet de revoir rapidement l’enfant et sa famille afin : 
+ de s’assurer de la compréhension du diagnostic et des traitements ; 
+ de s’assurer à nouveau de la bonne mise en place des mesures visant à faciliter la vie 
+quotidienne des patients ; certains aspects peuvent être connus du médecin traitant et 
+non divulgués lors des consultations spécialisées ; 
+ de répondre à d’éventuelles interrogations de la part de l’enfant et/ou de sa famille. 
+Pour une bonne prise en charge, il est essentiel que les informations données aux familles par 
+les différents intervenants restent cohérentes. Une communication par courrier, téléphone et 
+mail est donc indispensable entre les différents protagonistes.  
+ 
+3.7 Génétique 
+3.7.1 Le PFAPA n’est pas une maladie héréditaire monogénique 
+Le PFAPA, la plus fréquente des maladies auto -inflammatoires, n’est pas considér ée comme 
+une pathologie monogénique à ce jour. En effet, plusieurs travaux ont été conduits pour étudier 
+les déterminants génétiques de cette pathologie. Par exemple, e n 2011, Anton-Martin et al.  
+rapportent le cas de jumeaux monozygotes présentant un PFAPA typique, répondant aux 
+corticoïdes. Une analyse génétique n’avait pas pu identifier de variants pathogènes chez eux. 
+Plusieurs études ont montré des variants de séquence de signification incertaine dans des gènes 
+responsables de maladies auto-inflammatoires, comme MEFV, TNFRSF1A, NLRP3 mais qu’il n’y 
+a pas d'impact diagnostique ni de conséquence thérapeutique de ces variants. 
+ 
+3.7.2 Tests génétiques et conseil génétique ne sont pas indiqués 
+Le PFAPA est une pathologie multifactorielle avec des facteurs de susceptibilité génétiques et 
+environnementaux. En l'état actuel des connaissances, il  n’y a donc pas d’indication de test 
+ 
+18 
+ 
+génétique de routine dans le PFAPA . Il peut exister plusieurs individus atteints au sein  d’une 
+même famille, mais l'analyse génétique ne doit être demandée que dans le cadre d'un diagnostic 
+différentiel de maladie auto-inflammatoire héréditaire pour lequel il faut rechercher un certain 
+nombre de critères tels que: début dans les 6 premiers mo is de la vie, diarrhée, cassure  de la 
+courbe staturo-pondérale. Devant un PFAPA atypique persistant à l’âge adulte, on peut discuter 
+la nécessité de rechercher une maladie autoinflammatoire monogénique avec un centre expert, 
+ce d’autant que la présentation n’est pas typique. 
+Il n'y a pas d'indication de conseil génétique dans le PFAPA non plus car celui -ci n’est pas en 
+mesure d’évaluer le risque de récurrence dans une famille, qui sera toutefois bien moindre 
+qu’une maladie monogénique. 
+  
+ 
+19 
+ 
+4. Prise en charge thérapeutique 
+ 
+4.1 Objectifs  
+En l’absence de traitement définitivement curatif, la prise en charge se fixe plusieurs objectifs :  
+ prendre en charge les accès inflammatoires ; 
+ permettre le confort quotidien ; 
+ prévenir au moins partiellement les poussées ; 
+ préserver la qualité de vie et l’insertion scolaire et/ou socio-professionnelle ; 
+ préserver le développement psychosocial et affectif ; 
+ assurer la transition pédiatrie/médecine d’adulte pour les patients avec des signes 
+persistants au-delà de l’adolescence. 
+ 
+En dehors de ces objectifs concernant le patient, il est par ailleurs essentiel d’accompagner les 
+aidants afin de préserver leur insertion socio -professionnelle et de maintenir la qualité de vie 
+de l’ensemble de la famille. 
+ 
+En effet, même si le PFAPA est une maladie bénigne guérissant le plus souvent seul avec l’âge, 
+il a été démontré que l’impact de la maladie sur la qualité de vie et l’organisation familiale est 
+important.  
+ 
+4.2 Professionnels impliqués (et modalités de coordination) 
+La prise en charge est multidisciplinaire et coordonnée par le médecin (ou pédiatre) traitant de 
+ville. Dans les cas les plus sévères en pédiatrie et pour tous les patients  adultes, cette 
+coordination se fait sous la direction du médecin spécialiste (pédiatre ou interniste en fonction 
+de l’âge du patient) issu du CRMR ou de ses centres de compétence.  
+Les spécialistes le plus souvent impliqués sont identiques à ceux répertoriés dans la section 
+évaluation initiale (chapitre 3.2). Il faut rajouter à cette liste, les professionnels de santé suivants 
+qui peuvent être impliqués dans la prise en charge en fonction du tableau clinique présenté : 
+ médecin scolaire pour l’organisation de la scolarité de l’enfant (mise en place d’un projet 
+d’accueil individualisé, conduite à tenir pour les enseignants en cas de début d’accès 
+inflammatoire au sein de l’établissement scolaire…) ; 
+ médecin et puéricultrice de PMI jusqu’à l’âge de 6 ans ; 
+ professionnels médicaux et paramédicaux travaillant dans les crèches, multi-accueil ; 
+ médecin du travail pour les patients adultes ; 
+ professionnels paramédicaux : p sychologue, hypnothérapeute, équipes  d’éducation 
+thérapeutique, infirmière diplômée d’état (IDE) ; 
+ autres professionnels : aide scolaire (soutien scolaire à domicile ou dans l’établissement 
+scolaire), éducateur sportif sport-santé ou assistante sociale. 
+ 
+Ces prestations non remboursé es peuvent faire l’objet d’une prise en charge ou d’un 
+remboursement par l’Assurance maladie, à titre dérogatoire et pour une durée limitée, après 
+avis ou re commandation de l’HAS et consultation de l’ANSM, s’il n’existe pas d’alternative 
+appropriée et à condition qu’elles soient indispensables à l'amélioration de l'état de santé du 
+patient ou pour éviter sa dégradation. 
+ 
+ 
+20 
+ 
+ 
+4.3 Prise en charge thérapeutique 
+Le trait ement du syndrome PFAPA est essentiellement symptomatique et la décision 
+thérapeutique très orientée par le retentissement sur la qualité de vie du patient et de sa famille 
+ainsi que par  la présence ou non d’une inflammation ORL chronique objective généran t des 
+complications. 
+ 
+4.3.1 Traitement des accès inflammatoires 
+► Reconnaissance de la crise 
+L’efficacité des traitements de crise repose sur la prise en charge précoce de l’accès fébrile. 
+C’est pourquoi la reconnaissance de la crise, dès les signes annonciateurs (apparition des 
+prodromes) est cruciale. Les crises fébriles du PFAPA ont, de plus, une certaine régularité, ce 
+qui les rend parfois prédictibles. 
+L’accès fébrile du PFAPA est par définition stéréotypé avec une présentation clinique propre à 
+chaque enfant.  La fièvre est présente sur chacun des accès et doit être objectivée afin de 
+débuter le traitement. A cette fièvre, s’ajoute de façon stéréotypée une angine et/ou une 
+aphtose et/ou des adénopathies cervicales.  
+ 
+► Gestion de la crise 
+Traitements symptomatiques de la fièvre 
+Le traitement symptomatique recommandé en première intention est le paracétamol ou les 
+anti-inflammatoires non stéroïdiens  (AINS, essentiellement l’ibuprofène) si la réponse est 
+insuffisante avec le paracétamol. Ces médicaments doivent être  utilisés uniquement lors des 
+crises, si la fièvre est mal supportée (frissons, malaise général, signes neurologiques).  
+La corticothérapie est efficace dans la gestion de la crise. En effet, la corticothérapie à bonne 
+dose administrée dans les 12 premières heures après le début de la crise permet dans la majorité 
+des cas une disparition en quelques heures de la fièvre. Cependant, ce traitement ne prévient 
+pas la récurrence des crises et peut au contraire dans certains cas (25 à 40% des patients selon 
+les séries) raccourcir l’intervalle entre les différents accès inflammatoires.  
+ 
+Recherche de contre -indications  
+Paracétamol et AINS 
+Chez l’enfant, ces médicaments ont très peu de contre-indications si ce n’est une insuffisance 
+hépatique ou rénale avérée, ou un e maladie hémorragique pouvant être recherchées à 
+l’interrogatoire. Il n’est donc pas nécessaire d’effectuer un bilan biologique systématique avant 
+leur prescription. Les parents doivent être informés qu’ils ne doivent pas utiliser d’AINS en cas 
+de varicelle, ou d’état de déshydratation par exemple.  
+Chez l’adulte, i l faudra rechercher des antécédents de lésion gastro -intestinale (ulcère, 
+hémorragie, perforation), la prise de certains médicaments comme les anticoagulants, évaluer 
+le risque cardiovasculaire et rénal et effectuer des examens préalables au moindre doute. Une 
+utilisation au long cours d’AINS (qui n’est pas conseillée pour le PFAPA) nécessite une 
+ 
+21 
+ 
+surveillance du bilan hépatique et de la fonction rénale une fois tous les 6 mois et une analyse 
+de la bandelette urinaire, une fois par an. 
+ 
+ 
+Corticoïdes  
+La tolérance de la corticothérapie dans les séries de PFAPA est bonne. Ils ne présentent pas 
+d’inconvénient, tant que leur utilisation reste limitée à une  à deux  prises par mois. Ils ne 
+nécessitent donc pas de bilan pré -thérapeutique. Les effets secondaires potentiels liés à 
+l’utilisation répétée des corticoïdes en cure courte sont inconnus à ce jour. En cas de crises 
+mensuelles ou plus rapprochées, leur utilisation est à discuter au cas par cas avec chaque patient 
+et famille, en pesant le rapport bénéfice/risque notamment infectieux et osseux.  
+ 
+Posologie  
+Paracétamol 
+Le paracétamol est administré en cas de température supérieure à 38,5°C. La réponse au 
+paracétamol est généralement modeste. 
+Chez l’enf ant, l e paracétamol peut être administré à la dose de 15 mg/kg sans dépasser la 
+posologie maximale d’1 gramme toutes les six heures. Chez les patients adultes, la posologie de 
+paracétamol est d’1 gramme toutes les 6 heures. 
+ 
+Anti-Inflammatoires Non Stéroïdiens 
+L’AINS le plus fréquemment utilisé est l’ibuprofène. La réponse à l’ibuprofène est plutôt bonne. 
+En pratique, il est souvent nécessaire de renouveler la prise d’ibuprofène toutes les 6 à 8 heures. 
+La dose anti-inflammatoire chez l’enfant est de 20 à 30 mg/kg/jour, sans dépasser 1200 mg par 
+jour. Chez les patients adultes, la posologie de l’ibuprofène est de 1200 mg par jour. 
+ 
+Corticothérapie 
+La corticothérapie à bonne dose correspond à une prise d’1 mg/kg de prednisone ou 
+prednisolone ou 0,1 mg/kg (ou 10 gouttes/kg) de bétaméthasone qui a une forme galénique 
+plus facile à administrer chez le petit enfant et une plus longue durée d’action que la prednisone.   
+ 
+Tableau 3 Posologie de la corticothérapie dans le PFAPA 
+ 
+Patients de moins de 20kg Bétaméthasone ou prednisolone 
+Patients de 20 à 40kg La prednisolone est généralement privilégiée 
+du fait de l’existence d’une forme 
+orodispersible 
+Enfants de plus de 40kg et Adultes La molécule la plus utilisée est la prednisone. 
+La posologie maximale est de 60mg. 
+ 
+Il convient de calculer les doses cumulatives d'équivalent prednisone reçues par le s patients 
+adultes ou enfant (0,02 mg/kg/j chez l’enfant, 7,5 mg/j chez l’adulte). Au-delà, il faut réévaluer 
+le diagnostic et/ou envisager une thérapeutique alternative. 
+ 
+ 
+ 
+22 
+ 
+Traitements symptomatiques de l’aphtose 
+La majorité des patients n’ont pas besoin de prise en charge spécifique des aphtes, qui sont 
+habituellement peu sévères dans le PFAPA. En cas de retentissement plus important, aucun 
+traitement n’a fait preuve de son  efficacité sur l’évolution des aphtes. Une bonne hygiène 
+buccale est indispensable.  
+ 
+Traitement local  
+L’idée du traitement est d’isoler les lésions du contact de la salive, des aliments et des dents via 
+des topiques adhésifs formant un film occlusif. Ce s traitements ne sont pas remboursés. En 
+outre, ces topiques peuvent contenir divers principes actifs (antiseptiques, antibiotiques, 
+anesthésiques, corticoïdes…) 
+ 
+Bains de bouche 
+La réalisation de bains de bouche nécessite la maîtrise de cette technique pa r l’enfant et les 
+parents. L’utilisation des corticoïdes en bains de bouche n’est pas recommandée chez les 
+enfants avant l’âge de 6 ans et doit rester limitée aux formes sévères, ou aux formes récurrentes 
+chez l'adulte. Les recommandations dentaires précon isent de ne pas utiliser de solutions 
+alcoolisées pour les aphtes. La plupart de ces molécules n’ayant pas d’AMM avant l’âge de 6 
+ans, on peut citer parmi les solutions buccales: la xylocaïne visqueuse, l’acide acétylsalicylique, 
+des bains de bouche aux bi carbonates ou paroex. L’annexe 3 donne quelques exemples car il 
+faut éviter l'automédication.  
+ 
+4.3.2 Traitement de fond 
+Il n’existe, à l’heure actuelle, aucun traitement consensuel permettant de prévenir la récurrence 
+des accès fébriles. Etant donné le caractère spontanément résolutif et bénin du PFAPA, peu de 
+travaux testant l’efficacité de traitement de fond ont été étudiés. En pratique, cette discussion 
+se pose pour les formes sévères avec important impact sur la qualité de vie.  
+ 
+► Colchicine 
+L’efficacité de l a colchicine dans la prévention des crises du PFAPA est possible mais non 
+clairement démontrée. Cette efficacité ne doit pas être évaluée avant 3 à 6 mois de traitement 
+bien conduit. Ce traitement peut être proposé si le recours aux corticoïdes devient tro p 
+fréquent, en suivant les recommandations internationales pour les doses de départ chez 
+l’enfant.  
+Recherche de contre-indications 
+Avant de démarrer le traitement, l’interrogatoire recherchera une prise concomitante de 
+médicaments inducteurs du cytochrome  P450 ou pouvant générer des cytopénies, une 
+insuffisance rénale, une insuffisance hépatique ou un désordre hématologique connu. On 
+réalisera dans tous les cas, vue la toxicité potentielle de la colchicine lors de mésusages  : une 
+numération formule sanguin e avec plaquettes, un dosage des transaminases, des γGT, de la 
+bilirubine et des phosphatases alcalines, un dosage de l’urée, de la créatinine et calcul du débit 
+de filtration glomérulaire. Il existe une interaction entre la colchicine et les macrolides. 
+ 
+23 
+ 
+Les interactions médicamenteuses en particulier avec les macrolides doivent bien être 
+indiquées au patient et sa famille.  
+Posologie 
+Il existe des recommandations internationales pour les doses de départ chez l’enfant :  
+  
+Tableau 4 : Posologie de la colchicine  
+ 
+Enfants de moins de 5 ans 0,5 mg/jour soit ½ comprimé par jour 
+Enfants de 5 à 10 ans 1 mg/jour 
+>10 ans et Adultes 1 à 1,5 mg/jour 
+ 
+► Le thalidomide  
+Du fait de ses nombreux effets toxiques, son utilisation n’a jamais été testée dans le PFAPA qui 
+est une maladie au bon pronostic. Sa prescription n’est donc pas recommandée dans le PFAPA. 
+ 
+► Autres traitements 
+Protecteurs gastriques  
+La cimétidine, antiH2 n’est pas recommandée. La cimétidine a été utilisée à la fin des années 
+1990 et au début des années 2000, avant que diverses études ne confirment son absence 
+d’efficacité. 
+Amygdalectomie/adénoïdectomie 
+L’amygdalectomie plus ou moins associée à l’adénoïdectomie n’est pas non plus recommandée 
+de façon systématique. Présentée comme un traitement curatif, cette chirurgie a une efficacité 
+comprise entre 65 et 97% dans les études d’après Peridis et al. 
+L’intérêt d’une amygdalectomie dans le cadre d’un PFAPA est donc une décision au cas par cas. 
+Celle-ci doit être évaluée et discutée entre le chirurgien O RL et le pédiatre référent. La seule 
+indication formelle est l’existence d’une obstruction ORL importante responsable d’un 
+syndrome d’apnées hypopnées du sommeil ou d’angines bactériennes récidivantes. En dehors 
+de ce cas de figure, la décision est influen cée par le retentissement fonctionnel des accès 
+fébriles, l’âge du patient, la durée d’évolution du PFAPA et éventuellement l’existence d’autres 
+comorbidités.  
+En cas de crises fréquentes nécessitant des corticoïdes plusieurs fois dans le mois, une 
+amygdalectomie peut être discutée avec le médecin spécialiste des maladies auto -
+inflammatoires d'un CRMR ou CCMR. Il n'y a pas de consensus quant à l'âge minimum mais 
+lorsque cela est possible, il est souvent conseillé d'attendre 6 ans.  
+Une consultation d’anesthésie est nécessaire au cours de laquelle le médecin doit s’assurer qu’il 
+n’existe pas de maladie hémorragique. Les parents doivent être avertis que le succès d’une telle 
+intervention est entre 80 et 95%, avec possibilité de récidive (rare). 
+Les Anti Interleukine-1 hors AMM 
+L’utilisation de ces médicaments n'a pas sa place dans le traitement du PFAPA. Il existe très peu 
+d’expérience en pédiatrie avec ces médicaments dans l’indication du PFAPA.  
+ 
+24 
+ 
+Seul certains cas adultes avec une forme sévère et réfractaire de PFAPA pourraient bénéficier 
+d’un tel traitement, mais on ne sait pas à l’heure actuelle si ce sont de vrais PFAPA ou bien une 
+maladie auto-inflammatoire génétique autre dont le gène ne serait pas encore connu. 
+ 
+► Traitement non pharmacologique et traitement adjuvants 
+Vitamine D 
+ 
+Indication 
+La vitamine D, 25 -OHD3, a également été étudiée dans le PFAPA. Différents travaux , en 
+particulier ceux de Stagi et al  ont montré, qu’après supplémentation en vitamine D, les patients 
+PFAPA présentaient des épisodes à la fois moins fréquents et plus courts. On peut donc adopter 
+une supplémentation renforcée en vitamine D chez les patients PFAPA, à savoir une 
+supplémentation continue toute l’année chez l’enfant et l’adolescent. 
+ 
+Posologie 
+Chez l’enfant (de plus de 18 mois) 
+Ainsi, en plus des doses de charge trimestrielle hivernale (100  000 UI) recommandées, deux 
+doses de charge trimestrielle estivale (100 000 UI) peuvent être administrées soit une ampoule 
+de 100 000 UI tous les 3 mois. 
+ 
+Chez l’adolescent  
+Ces recharges trimestrielles tout au long de l’année, peuvent être remplacées par des recharges 
+semestrielles de 200 000 UI. 
+ 
+Chez l’adulte  
+Une supplémentation hivernale (100  000 UI à 2 reprises dans l’hiver ou 200  000 UI en prise 
+unique) peut également être proposée. 
+ 
+4.3.3 Récapitulatif des thérapeutiques médicamenteuses dans le PFAPA 
+ 
+Tableau 5 Récapitulatif des thérapeutiques médicamenteuses dans le PFAPA  
+ 
+Molécule Utilisation Posologie Voie 
+d'administration 
+Paracétamol Antipyrétique 
+(Traitement de crise) 
+Pédiatrie : 15 mg/kg/jour en 4 prises 
+Dose maximale 4 g/jour 
+Adulte : 1 g 4x/jour 
+Per Os 
+Ibuprofene Antipyrétique 
+(Traitement de crise) 
+Pédiatrie : 20 à 30 mg/kg/jour en 3 à 
+4 prises 
+Dose maximale 1200 mg/jour 
+Adulte : 400 mg 3x/jour 
+Per Os 
+Prednisone Traitement de crise Pédiatrie : 1 mg/kg en prise unique Per Os 
+ 
+25 
+ 
+Adulte : 1 mg/kg en prise unique 
+Prednisolone Traitement de crise Pédiatrie : 1 mg/kg en prise unique 
+Adulte : 1 mg/kg en prise unique 
+Per Os 
+Betamethasone Traitement de crise Pédiatrie : 0,1 mg/kg en prise unique 
+ou 10 gouttes/kg  
+Per Os 
+Vitamine D 
+100.000 UI 
+Traitement adjuvant Pédiatrie : 100.000 UI tous les 3 mois 
+Adulte : 100.000 UI à 2 reprises à 3 
+mois d’intervalle pendant hiver 
+Per Os 
+Vitamine D 
+200.000 UI 
+Traitement adjuvant Pédiatrie (Adolescents) : 
+200.000 UI tous les 6 mois 
+Adulte : 200.000 UI en prise unique 
+Per Os 
+Colchicine Traitement de fond Moins de 5 ans : 0,5 mg/jour 
+5 à 10 ans : 1 mg/jour 
+Plus de 10 ans : 1 à 1,5 mg/jour 
+Per Os 
+ 
+Gestion non pharmacologique de la fatigue et de la douleur 
+La gestion non pharmacologique de la fatigue repose sur le repos pendant et au décours 
+immédiat de la crise. 
+Une activité physique régulière et adaptée doit être encouragée, car elle peut être un facteur 
+d’amélioration de la santé et de maîtrise de la maladie. Il existe généralement une désadaptation 
+à l’effort, nécessitant un travail de réadaptation. Après cette étape, il est important de pratiquer 
+une activité physique avec modération et progressivité. 
+ 
+La gestion non pharmacologique de la douleur repose sur des techniques simples de massage 
+ainsi que de cryothérapie ou thermothérapie des zones douloureuses. L’auto-hypnose médicale, 
+la relaxation et la sophrologie peuvent également s’avérer bénéfique afin de limiter le 
+retentissement fonctionnel de la douleur. 
+ 
+► Vaccinations 
+Les recommandations vaccinales sont celles en vigueur au sein de la population générale.  
+La problématique réside dans le timing vaccinal. Il convient de réaliser les injections vaccinales 
+entre les poussées, de préférence en dehors de toute corticothérapie pour assurer une réponse 
+vaccinale correcte. 
+ 
+ 
+4.4 Education thérapeutique et modification du mode de vie (au cas par cas) 
+4.4.1 Introduction 
+L’éducation thérapeutique du patient (ETP) est un facteur important d’amélioration de la prise 
+en charge des patients souffrant de maladies chroniques.  
+L’ETP a un rôle également très important dans le parcours de santé des patients atteints de 
+maladies rares, d’autant plus qu’il existe des spécificités qui justifient l’intégration de l’ETP dans 
+leur prise en charge globale : 
+ manque de connaissance ; 
+ 
+26 
+ 
+ errance diagnostique ; 
+ sentiment d’incompréhension de la part des patients et leurs familles ; 
+ isolement et éloignement des centres experts ; 
+ malades peu nombreux et dispersés sur le territoire ; 
+ hétérogénéité d’expression de la maladie. 
+ 
+La spécificité de l'ETP en pédiatrie est la relation à 3, c'est -à-dire soignant, patient et parents. 
+L’enfant est l’élément c entral de cette triade relationnelle et doit être considéré par les 
+soignants éducateurs comme une personne à part entière avec ses émotions, ses sensations et 
+ses opinions. Néanmoins, dans les premières années de vie, la dépendance auprès des parents 
+est quasi totale. Dans le cadre du PFAPA, du fait du jeune âge des patients, les programmes 
+d’ETP doivent donc inclure la participation des parents pour une acquisition de compétences 
+auprès de leur enfant.  
+En fonction de son développement et de sa maturité, l’enfant s’autonomise et prend sa place 
+d’interlocuteur avec ses parents et les soignants afin de devenir acteur de sa propre santé. La 
+participation de l’enfant à des séances d’ETP doit donc être évaluée au cas par cas selon l’âge 
+et la maturité. 
+ 
+La participation à un programme d’ETP es t généralement proposée dans trois situations 
+principales du parcours de soins : 1. Proche de l’annonce diagnostique mais après la phase 
+d’acceptation de la maladie ; 2. A tout moment du suivi lorsque le besoin s’en fai t ressentir ou 
+lorsque les traitements nécessitent des compétences particulières ; 3. Lors de la période de 
+transition.  
+Des critères de priorité d’accès à l’ETP doivent être identifiés, par exemple :   
+ patients ayant des difficultés majeures dans la gestion du traitement ; 
+ patients en souffrance psychique et/ou physique ; 
+ patients déscolarisés ou avec des difficultés scolaires majeures ; 
+ adolescents proches de la transition vers la médecine de l’adulte. 
+ 
+4.4.2 Objectifs 
+Les objectifs pédagogiques des programmes d’ETP destinés aux enfant et adolescents atteints 
+de PFAPA et à leurs parents concernent principalement : 
+► L’acquisition ou la mobilisation de compétences d’adaptation : 
+ reconnaître et exprimer le retentissement global de la maladie au quotidien ; 
+ être en mesure de s’expliquer et expliquer avec ses mots à son entourage le mécanisme 
+et les manifestations principales de la maladie ; 
+ identifier ses ressources personnelles et externes à mobiliser pour répondre aux 
+difficultés rencontrées ; 
+ impliquer son ent ourage dans la gestion de la maladie, des traitements et des 
+répercussions qui en découlent ; 
+ utiliser les ressources et les moyens permettant une scolarité et une orientation 
+professionnelle adaptées ; 
+ apprendre les bonnes pratiques dans l’utilisation de l’information sur internet ; 
+ prendre des décisions et résoudre un problème lié à l’état de santé ; 
+ 
+27 
+ 
+ savoir gérer ses émotions et maîtriser son stress. 
+► L’acquisition ou le maintien de compétences d’auto-soins : 
+ reconnaitre et savoir gérer une poussée inflamm atoire et les éventuels facteurs 
+déclenchant ;  
+ soulager ses symptômes en sachant adapter les doses des médicaments ; 
+ connaître, prévenir et gérer les principaux effets indésirables des médicaments ; 
+ connaître les interactions entre les différents médicaments (par exemple ibuprofène et 
+autres AINS et/ou corticoïdes) ; 
+ reconnaître les signes cliniques nécessitant une consultation urgente ;  
+ gérer la fatigue chronique ; 
+ adapter la p lanification des consultations et examens de routine en fonction de la 
+pathologie et du profil évolutif individuel. 
+ 
+4.5 Recours aux associations de patients 
+Les associations de patients ainsi que les réseaux de santé sont deux structures ayant un rôle 
+primordial dans l’accompagnement des patients avec maladies rares. Les associations d e 
+patients permettent un accompagnement des malades et de leurs proches dans l’éducation 
+thérapeutique, en collaboration avec les professionnels de santé, et pour faire aboutir un certain 
+nombre de demandes visant à améliorer la vie quotidienne du patient. Les associations de 
+patients offrent aussi un lieu d’écoute et d’échange où des patients et des parents peuvent se 
+rencontrer. 
+ 
+Dans le cadre du PFAPA , une seule association a ccompagne ces patients en France : 
+l’Association Française de la fièvre méditerranéenne familiale et des autres fièvres récurrentes 
+héréditaires (AFFMF) : https://www.affmf.com.   
+En plus d’être un soutien pour les pat ients, l’AFFMF aide à développer l’information et la 
+recherche sur les fièvres récurrentes de façon à améliorer le diagnostic et la prise en charge de 
+ses malades. Elle travaille en partenariat avec les collectifs d’association, des associations 
+européennes, la filière FAI²R et le réseau de santé RESRIP (Réseau pour les Rhumatismes 
+Inflammatoires Pédiatriques en Île de France). L’AFFMF a été à l’initiative de « Rare Disease 
+Communities d‘EURORDIS pour la FMF », un réseau européen d’aide aux patients atteint s de 
+maladies rares. 
+  
+ 
+28 
+ 
+5. Suivi  
+ 
+5.1 Objectifs 
+5.1.1 Pour les patients :  
+ permettre le confort quotidien ; 
+ prendre en charge les accès inflammatoires ; 
+ prévenir au moins partiellement les poussées ; 
+ préserver la qualité de vie et l’insertion scolaire et/ou socio-professionnelle ; 
+ préserver le développement psychosocial et affectif ; 
+ assurer la transition pédiatrie/médecine d’adulte  pour les patients avec des signes 
+persistants au-delà de l’adolescence. 
+ 
+5.1.2 Pour les aidants : 
+Il est par ailleurs essentiel d’accompagner les aidants afin de préserver : 
+ l’insertion socio-professionnelle des aidants ; 
+ la qualité de vie des parents et de la fratrie. 
+ 
+ 
+5.2 Professionnels impliqués (et modalités de coordination) 
+La prise en charge est multidisciplinaire et coordonnée par le médecin (généraliste ou pédiatre) 
+traitant de ville. Dans les cas les plus sévères en pédiatrie et pour tous les patients adultes, cette 
+coordination se fait sous la direction du médecin spécialiste (pédiatre ou interniste en fonction 
+de l’âge du patient)  issu du CRMR et de ses centres de compétence. Les spécialistes le plus 
+souvent impliqués sont identiques à ceux répertoriés dans la section prise en charge 
+thérapeutique (chapitre 4.2).  
+Les réseaux de santé tels que le RESRIP (réseau pour  les patients at teints de Rhumatismes 
+Inflammatoires Pédiatriques habitant en Î le de France) peuvent intervenir afin de mieux 
+coordonner le parcours de santé du patient et soutenir le patient et sa famille dans les différents 
+domaines du quotidien (école, sport, loisirs…). 
+ 
+5.2.1 Planification des consultations 
+Les consultations nécessaires dans le parcours de soin sont fonction de l’équilibre global de la 
+maladie. De manière générale, les patients atteints de PFAPA non compliqué et bien équilibré 
+devraient être reçus en consult ation deux fois par an pour examen clinique et dépistage de 
+complications et d’effets indésirables liés au traitement. Ce suivi peut être assuré par le médecin 
+ou le pédiatre traitant, mais un contact avec un centre de référence ou de compétence est 
+recommandé au minimum tous les ans. Le rythme des consultations au centre de 
+référence/compétence peut se révéler plus important pour les patients instables ou avec une 
+forme sévère de la maladie.  
+5.2.2 Contenu des consultations 
+Les consultations de suivi doivent contenir au minimum :  
+ 
+29 
+ 
+ une évaluation de l’activité de la maladie (nombre de poussées en 6 mois, nombre de 
+jours d’absence à l’école ou au travail) et des séquelles de la maladie ; 
+ un examen clinique complet ; 
+ une évaluation de la croissance et du développement psychomoteur chez l’enfant ; 
+ une évaluation de l’impact de la maladie sur la vie quotidienne et le fonctionnement 
+social ; 
+ une vérification du calendrier vaccinal ; 
+ une évaluation de l’activité physique et sportive. 
+ 
+5.2.3 Evaluation de l’activité et de la qualité de vie 
+La consultation de suivi comprend un examen clinique complet avec mesure de la taille, du poids 
+et de la pression artérielle à chaque consultation.  
+En l’absence de score défini pour le suivi, les paramètr es suivants permettent une évaluation 
+globale de l’activité de la maladie : 
+ présence/absence d’épisodes fébriles (le cas échéant, noter la température maximale, la 
+fréquence et la durée des épisodes fébriles) ; 
+ présence/absence d’aphtose buccale (le cas échéant, noter la fréquence, la durée et la 
+topographie) ; 
+ présence/absence de douleurs pharyngées ; 
+ présence/absence d’adénopathies cervicales ; 
+ présence/absence de céphalées ; 
+ présence d’autres symptômes. 
+La qualité de vie pourra être mesurée par les échelles de qualité de vie (PedsQL chez les enfants 
+ou SF-36 chez les adultes) ou par une EVA globale.  
+ 
+5.3 Examens complémentaires 
+5.3.1 PFAPA classique chez l’enfant 
+Pas de surveillance particulière. Le bilan dépend de l’évolution clinique et des thérapies 
+administrées. 
+5.3.2 PFAPA chez l'adulte  
+La présentation oriente vers une autre pathologie : il est nécessaire de vérifier que le patient 
+réponde toujours aux critères de PFAPA classiques. Le diagnostic est -il maintenu ou une 
+nouvelle consultation en CRMR est -elle nécessaire ? Il faut notamment toujours éliminer une 
+maladie inflammatoire chronique de l’intestin. 
+ 
+5.4 Prise en charge de certaines situations particulières 
+5.4.1 Fertilité, grossesse allaitement 
+Il n’y a pas de données publiées sur ces situations dans le PFAPA. Cependant dans notre 
+expérience de centre de référence, les patients adultes avec PFAPA n’ont pas de diminution de 
+leur fertilité et les femmes ont pu mener des grossesses à terme et allaiter sans soucis.  
+ 
+30 
+ 
+En cas de traitement au long cours par colchicine, il faut adopter les mêmes recommandations 
+que dans la fièvre méditerranéenne familiale  : poursuite pendant toute la grossesse et 
+l’allaitement, mais ne pas allaiter dans les 2 à 4 heures qui suivent la prise de colchicine. 
+ 
+5.4.2 Formes sévères et amylose inflammatoire 
+Un suivi plus soutenu et des examens complémentaires supplémentaires peuvent s’avérer 
+nécessaire pour des patients atteints d’une forme sévère (accès inflammatoires très fréquents 
+et/ou inflammation chronique).  
+Il n’y a à ce jour aucun cas rapporté de PFAPA compliqué d’amylose rénale. Il faut cependant la 
+rechercher systématiquement chez les adultes. Son apparition pourrait être le témoin d’un 
+diagnostic autre que le PFAPA, notamment un déficit en mévalonate kinase. 
+ 
+5.4.3 Transition chez un jeune n’ayant pas guéri à sa majorité 
+Les jeunes avec une forme de PFAPA qui n’a pas spontanément régressé à l’adolescence 
+doivent faire l’objet d’une attention particulière au moment de la transition afin de ne pas être 
+perdus de vue. En effet, il faudra non seulement assurer le suivi au long cours de cette maladie 
+devenue chronique mais encore rester vigilant quant à la possibilité de découvrir une maladie 
+monogénique ou polygénique qui ressemblait jusqu’alors à un PFAPA comme un déficit en 
+mévalonate kinase ou un syndrome TRAPS ou une autre maladie auto-inflammatoire inclassée. 
+Une présentation du patient par l’équipe de pédiatrie lors d’une consultation de transition avec 
+les pédiatres et les médecins de l’adulte (internistes ou rhumatologues) doit être réalisée avec 
+histoire clinique, biologique et thérapeutique détaillée ainsi qu’un état des lieux des 
+complications de la maladie lors du passage chez les adultes et des correspondants habituels 
+(orthopédiste, endocrinologue, cardiologue, ophtalmologiste, psychologue…) si besoin. Le plus 
+souvent le patient vient avec un ou des membres de sa famille et son carnet de santé. Une 
+session d’éducation thérapeutique s’avère souvent très utile pour que le jeune connaisse bien 
+sa maladie et son traitement.  
+Un suivi rapproché est propo sé au jeune tous les 6 mois avec consultation clinique, prise de 
+sang pour vérifier l’absence d’inflammation. Il convient d’aborder les points suivants lors des 
+premières consultations :  
+ consommation de tabac, cannabis, drogues, alcool ; 
+ sexualité, moyen de contraception ; 
+ état vaccinal ; 
+ statut scolaire, souhait professionnel.  
+ 
+5.4.4 PFAPA chez l'adulte  
+La présentation oriente vers une autre pathologie : il est nécessaire de vérifier que le patient 
+réponde toujours aux critères de PFAPA classiques. Le diagnos tic est -il maintenu ou une 
+nouvelle consultation en CRMR est-elle nécessaire ?  
+ 
+ 
+  
+ 
+31 
+ 
+ANNEXE 1 –  LISTE DES CENTRES DE REFERENCE ET 
+DE COMPETENCE DE LA FILIERE FAI²R POUR LES 
+MALADIES AUTO-IMMUNES SYSTEMIQUES ET POUR 
+LES MALADIES AUTO-INFLAMMATOIRES 
+ 
+Centres de référence - sites coordonnateurs et sites constitutifs ADULTES 
+Centre de référence des maladies auto-
+immunes systémiques rares du Nord et 
+Nord-Ouest (site coordonnateur) 
+Lille, CHU HACHULLA Éric 
+Centre de référence des maladies auto-
+immunes systémiques rares du Nord et 
+Nord-Ouest (site constitutif) 
+Brest, CHU DEVAUCHELLE-
+PENSEC Valérie 
+Centre de référence du lupus, syndrome 
+des anticorps antiphospholipides et autres 
+maladies auto-immunes rares (site 
+coordonnateur) 
+Paris, AP-HP AMOURA Zahir 
+Centre de référence du lupus, syndrome 
+des anticorps antipholipides et autres 
+maladies auto-immunes rares (site 
+constitutif) 
+Martinique, 
+CHU DELIGNY Christophe 
+Centre de référence des maladies auto-
+immunes systémiques rares d’Ile-de-
+France (site coordonnateur) 
+Paris, AP-HP MOUTHON Luc 
+Centre de référence des maladies auto-
+immunes systémiques rares d’Ile-de-
+France (site constitutif) 
+Le Kremlin-
+Bicêtre, AP-HP MARIETTE Xavier  
+Centre de référence des maladies auto-
+immunes systémiques rares d’Ile-de-
+France (site constitutif) 
+Paris, AP-HP CACOUB Patrice 
+Centre de référence des maladies auto-
+immunes systémiques rares d’Ile-de-
+France (site constitutif) 
+Paris, AP-HP FARGE-BANCEL Dominique 
+Centre de référence des maladies auto-
+immunes systémiques rares de l'Est et du 
+Sud-Ouest (site coordonnateur) 
+Strasbourg, 
+CHRU MARTIN Thierry 
+Centre de référence des maladies auto-
+immunes systémiques rares de l'Est et du 
+Sud-Ouest (site constitutif) 
+Bordeaux, CHU RICHEZ Christophe 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA (site 
+constitutif) 
+Paris, AP-HP GRATEAU Gilles 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA (site 
+constitutif) 
+Paris, AP-HP SAADOUN David 
+ 
+32 
+ 
+Centres de référence - sites coordonnateurs et sites constitutifs PEDIATRIQUES 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA (site 
+coordonnateur) 
+Le Kremlin 
+Bicêtre KONÉ-PAUT Isabelle 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA (site 
+constitutif) 
+Montpellier, 
+CHU TOUITOU Isabelle 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA (site 
+constitutif) 
+Versailles, CH HENTGEN Véronique 
+Centre de référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE (site 
+coordonnateur) 
+Paris, AP-HP QUARTIER-DIT-
+MAIRE Pierre 
+Centre de référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE (site 
+constitutif) 
+Lyon, CHU BELOT Alexandre 
+Centre de référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE (site 
+constitutif) 
+Paris, AP-HP MEINZER Ulrich 
+Centres de compétence pour les maladies auto-immunes et systémiques rares ADULTES 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Angers, CHU LAVIGNE Christian 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Amiens, CHU DUHAUT Pierre 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Annecy-
+Genevois, CH BEREZNE Alice 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Besançon, 
+CHRU 
+MAGY-
+BERTRAND Nadine 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Boulogne-sur-
+Mer, CHU BATAILLE Pierre 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Caen, CHU AOUBA Achille 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Clermont-
+Ferrand, CHU AUMAITRE Olivier 
+ 
+33 
+ 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Colmar, CH KIEFFER Pierre 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Créteil, AP-HP GODEAU Bertrand 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Dijon, CHU BONNOTTE Bernard 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Tours, CHU DIOT Élisabeth 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Grenoble, CHU BOUILLET Laurence 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Guadeloupe, 
+CHU CORDEL Nadège 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Ile de la 
+Réunion, CHU RAFFRAY Loïc 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Limoges, CHU FAUCHAIS Anne-Laure 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Lyon, CHU HOT Arnaud 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Marseille, AP-
+HM HARLE Jean-Robert 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Montpellier, 
+CHU MOREL Jacques 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Nancy, CHRU WAHL Denis 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Nantes, CHU HAMIDOU Mohamed 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Nice, CHU FUZIBET Jean-Gabriel 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Paris, AP-HP UZUNHAN Yurdagul 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Paris, AP-HP PAPO Thomas 
+ 
+34 
+ 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Paris, GHDCSS ZIZA  Jean-Marc 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Paris, AP-HP KARRAS Georges-
+Alexandre 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Paris, AP-HP FAIN Olivier 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Paris, AP-HP MAHR Alfred 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Saint-Denis, 
+CH LHOTE  François 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Poitiers, CHU ROBLOT Pascal 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Reims, CHU PENNAFORTE Jean-Loup 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Rennes, CHU JEGO Patrick 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Rouen, CHU LEVESQUE Herve 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Saint-Étienne, 
+CHU CATHEBRAS Pascal 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Toulouse, CHU CHAUVEAU Dominique 
+Centre de compétence adulte pour les 
+maladies auto-immunes et systémiques 
+rares  
+Valenciennes, 
+CH QUEMENEUR Thomas 
+Centres de compétence PEDIATRIQUES 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Amiens DJEDDI Djamal 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Angers PELLIER Isabelle 
+ 
+35 
+ 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Belfort LOHSE Anne 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Besançon BALLOT-
+SCHMIT Claire 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Brest DEVAUCHELLE Valérie 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Grenoble BARBIER  Catherine 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Marne-la-
+Vallée AGBO-KPATI Placide 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Marseille JURQUET Anne-Laure 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Montpellier JEZIORSKI Éric 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Nantes LACROIX Sylvie 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Orléans TALMUD Déborah 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Poitiers SOLAU-
+GERVAIS Élisabeth 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Rouen GRALL-
+LEROSEY Martine 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Toulouse PAJOT Christine 
+ 
+36 
+ 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Villefranche-
+sur-Saône REMY-PICCOLO Vanessa 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Martinique HATCHUEL Yves 
+Centre de compétence du Centre de 
+référence des rhumatismes 
+inflammatoires et maladies auto-immunes 
+systémiques rares de l’enfant RAISE 
+Paris, AP-HP WIPFF Julien 
+Centre de compétence pédiatrique du 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA 
+Grenoble PAGNIER Anne 
+Centre de compétence pédiatrique du 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA 
+Lyon, CHU BELOT Alexandre 
+Centre de compétence pédiatrique du 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA 
+Marseille RETORNAZ  Karine 
+Centre de compétence pédiatrique du 
+Centre de référence des maladies auto-
+inflammatoires et de l’amylose 
+inflammatoire CEREMAIA 
+Toulouse DECRAMER Stéphane 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Bordeaux PILLET Pascal 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Caen DESDOITS  Alexandra 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Clermont-
+Ferrand MERLIN Étienne 
+ 
+37 
+ 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Dijon BOTTOLLIER Élodie 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Lille REUMAUX Héloïse 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Nancy LEMELLE  Irène 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Nîmes TRAN Tu-Anh 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Reims PIETREMENT Christine 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Rennes DESPERT Véronique 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Saint-Étienne STEPHAN Jean-Louis 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Strasbourg TERZIC Joëlle 
+ 
+38 
+ 
+Centre de compétence pédiatrique des 
+centres de référence CEREMAIA et RAISE 
+pour les maladies auto-inflammatoires, 
+l’amylose inflammatoire, les rhumatismes 
+inflammatoires et les maladies auto-
+immunes systémiques rares de l’enfant  
+Tours HOARAU Cyrille 
+ 
+  
+ 
+39 
+ 
+Liste des liens utiles pour les professionnels de santé et 
+pour les patients  
+ 
+ 
+Centre de Référence des 
+Maladies Auto -Inflammatoires et 
+Amylose Inflammatoire 
+ 
+https://ceremaia.fr/ 
+ 
+ 
+ 
+Filière de santé des  
+Maladies Auto-Immunes et 
+Auto-Inflammatoires Rares 
+ 
+ 
+www.fai2r.org 
+ 
+Page dédiée au  PFAPA : 
+https://www.fai2r.org/les-
+pathologies-rares/x-autres-maladies-
+auto-inflammatoires/pfapa  
+ 
+ 
+Portail Européen d’informations sur les 
+maladies rares et les médicaments 
+orphelins en accès libre 
+ 
+https://www.orpha.net/  
+ 
+Fiche maladie rare PFAPA : 
+https://urlz.fr/a5HS  
+ 
+ 
+ 
+Collectif d’associations de malades et 
+de parents de malades 
+https://www.alliance-maladies-
+rares.org/  
+ 
+ 
+Alliance européenne non 
+gouvernementale d’associations de 
+malades 
+ 
+https://www.eurordis.org/fr  
+ 
+ 
+Association de professionnels de santé, 
+ayant pour missions de coordonner le 
+parcours de santé  d’enfants et 
+d’adolescents atteints de maladies 
+rhumatologiques et inflammatoires 
+chroniques, autour de leur lieu de vie... 
+ 
+http://www.resrip.fr/  
+ 
+Groupe d'experts 
+de la douleur de l'enfant https://pediadol.org/  
+
+ 
+40 
+ 
+ANNEXE 2 – ARBRE DECISIONNEL EN VUE DU 
+DIAGNOSTIC  
+ 
+ 
+
+ 
+41 
+ 
+ANNEXE 3 - SCORE AIDAI 
+ 
+Chaque grille représente un mois et les lignes les jours correspondants. Veuillez remplir la grille au moment des poussées en y cochant vos symptômes et ceci pendant toute la durée de la poussée. 
+Veuillez remplir une grille différente chaque mois. Dans le cas où vous n’avez pas de poussée dans le mois, ramener la grille vide à votre médecin référent. Ne coter que les symptômes dus à votre 
+maladie auto-inflammatoire. 
+* les douleurs thoraciques sont les douleurs dans la poitrine 
+** les traitements antalgiques sont les traitements pris pour calmer la douleur (ex le paracétamol (Doliprane®, Efferalgan®), l’aspirine et autres anti-inflammatoires non stéroïdiens (AINS), la codéine…)  
+Nom: Age: Mois: Année: 
+Symptomatologie  des maladies auto-inflammatoires 
+Jours Fièvre 
+≥38°C  
+ 
+Symptomato
+-logie 
+générale 
+Douleurs 
+abdo-
+minales  
+Nausées/ 
+vomisse-
+ments 
+Diarrhée 
+ 
+ 
+Céphalées 
+ 
+ 
+Douleurs 
+thoraciques* 
+  
+Ganglions 
+douloureux  
+ 
+Douleurs 
+articulaires ou 
+musculaires   
+Gonflement 
+des 
+articulations 
+Manifesta
+-tions 
+oculaires  
+Eruption 
+cutanée  
+Antalgiques
+** 
+Cotation 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1 0 ou 1  
+1               
+2               
+3               
+4               
+5               
+6               
+7               
+8               
+9               
+10               
+11               
+12               
+13               
+14               
+15               
+16               
+17               
+18               
+19               
+20               
+21               
+22               
+23               
+24               
+25               
+26               
+27               
+28               
+29               
+30               
+31               
+ 
+42 
+ 
+ANNEXE 4 - TRAITEMENTS LOCAUX DES APHTES DOULOUREUX CHEZ L’ENFANT 
+ 
+Propriétés Nom Molécules Dose Dose max Précautions Durée Action 
+Antalgiques 
+Gel Pansoral 
+pommade ou 
+gel® 
+Salicylate de 
+choline chlorure 
+de cetalkonium 
+1-4 application/j 4/j Enfants >6ans, 
+allergie aux 
+salicylés 
+5j Antalgique 
+antispetique   
+Attention contient de 
+l'alcool 
+Aftagel® Sulfate de zinc, 
+lidocaïne 
+1 application à 
+renouveller si 
+nécessiare 
+2 
+applications/j 
+  5j Antalgique, 
+antiseptique 
+Pyralvex® 
+gel 
+Racine de 
+rhubarbe acide 
+salicylique 
+4 applications/j 4 
+applications/j 
+Enfants >6ans, 
+allergie aux 
+salicylés 
+5j Anti-inflammatoire, 
+antalgique 
+Solution 
+gingivale 
+Pyralvex® 
+solution 
+Racine de 
+rhubarbe acide 
+salicylique 
+4 applications/j 4 
+applications/j 
+Enfants >6ans, 
+allergie aux 
+salicylés 
+5j Anti-inflammatoire, 
+antalgique 
+Cp Aphtoral® Chlorexidine 
+Tétracaïne et 
+acide ascorbique 
+Enfant: 6-15 ans 1cp 
+à sucer à renouveler 
+au bout de 2h                
+Adulte: 1cp à sucer à 
+renouveler au bout 
+de 2h 
+3cp/j pour 
+l'enfant et 
+4cp/j pour 
+l'adulte 
+Enfant > 6 ans. 
+A prendre à 
+distance des 
+repas ou 
+boissons. CI 
+femme 
+enceinte ou 
+allaitante pour 
+aphtoral 
+5j Antiseptique avec 
+anesthésique local     
+Action trophique sur le 
+tissu conjonctif 
+Drill® Chlorexidine 
+Tétracaïne 
+Antiseptique avec 
+anesthésique local 
+Lysopaïne® Lysozymes 
+cetylpiridinium 
+1 cp à sucer à 
+renouveler au bout 
+de 2h  
+6cp/j >6 ans 5j Antiseptique et 
+antibactérien naturel 
+ 
+ 
+43 
+ 
+Propriétés Nom Molécules Dose Dose max Précautions Durée Action 
+Protecteur/Cicatrisant 
+Gel Bloxaphte® 
+gel junior ou 
+adulte  
+Acide 
+hyaluronique 
+3 applications/j 3 
+applications/j 
+Enfants > 30 
+mois 
+5j Anti-inflammatoire, 
+anti-oedémateux, 
+cicatrisant 
+Borostyrol® 
+gel 
+Acide 
+hyaluronique 
+3 applications/j 3 
+applications/j 
+Enfants > 36 
+mois 
+5j Anti-inflammatoire, 
+anti-oedémateux, 
+cicatrisant 
+Hyalugel® 
+adulte/Ado 
+Acide 
+hyaluronique 
+5 applications/j 5 
+applications/j 
+Enfants > 30 
+mois pour le gel 
+Ado 
+5j Anti-inflammatoire, 
+anti-oedémateux, 
+cicatrisant 
+Solution 
+gingivale 
+Urgo aphte 
+filmogène® 
+Dérivés 
+cellulosiques, 
+acide 
+carboxylique, 
+acide minéral 
+1 application avant 
+les repas 
+4x/j Enfant > 6 ans 
+et CI femme 
+enceinte 
+5j Antalgique, cicatrisant, 
+protection 
+cp Lyso-6® Lysozymes 
+Pyridoxine 
+1 cp à sucer à 
+renouveler au bout 
+de 1h  
+8cp/j > 6 ans CI si 
+traitement par 
+levodopa 
+5j Antibactérien naturel 
+et cicatrisant 
+ 
+  
+ 
+44 
+ 
+ 
+Propriétés Nom Molécules Dose Dose max Précautions Durée Action 
+Traitements locaux 
+1ère 
+intention 
+ULCAR 1g ® 
+suspension 
+buvable en 
+sachets 
+Sucralfate 5mlx4/j (2 sachets 
+dans 1 verre d’eau, 
+en gargarisme 4 fois 
+par jour (après les 
+repas) puis 
+recracher, ou 
+directement sur les 
+lésions) 
+4x/j > 14 ans 5j action topique 
+protectrice 
+2ème 
+intention (si 
+aphtose 
+sévère) 
+Corticoïdes 
+ou AINS 
+Betneval 
+0,1mg 
+buccal® 
+bétaméthasone Sucer lentement les 
+comprimés, sans les 
+croquer ni les avaler, 
+jusqu’au délitement 
+complet. 
+5-10/j > 6 ans. Bains 
+de bouche. Ne 
+pas avaler 
+quelques 
+jours 
+Anti-inflammatoire 
+Dermoval® clobétasol 
+propionate 
+application 
+ponctuelle sur la 
+muqueuse buccale 
+   > 6 ans. Ne pas 
+avaler 
+quelques 
+jours 
+Anti-inflammatoire 
+Solupred® 
+effervescent 
+Prednisolone Adulte 60mg enfant 
+15mg dans 250ml 
+d'EPPI 
+3-4x/j > 6 ans. Bains 
+de bouche. Ne 
+pas avaler 
+quelques 
+jours 
+Anti-inflammatoire 
+Aspegic acide 
+acétylsalicylique 
+1g  1 sachet 
+dans 1/2 
+verre d'eau 
+> 6 ans. Bains 
+de bouche ne 
+pas avaler 
+quelques 
+jours 
+Anti-inflammatoire 
+ 
+  
+ 
+45 
+ 
+ 
+Propriétés Nom Molécules Dose Dose max Précautions Durée Action 
+Antispetiques locaux (éviter ceux avec alcool) 
+  Paroex® Chlorexidine 
+0,12% + eau 
+purifiée 
+15ml pur 2-3x/j   > 6 ans. Garder en bouche 
+1minute puis recracher. Ne pas 
+boire ni manger 30minutes 
+après pour que le principe actif 
+agisse 
+5j Antiseptique 
+Hygiène buccale 
+Bains de 
+bouche au 
+bicarbonate 
+Solucare® Bicarbonate de 
+sodium 1,4% 
+solution 
+3x/j après chaque 
+repas 
+3/j > 6 ans. Bains de bouche et/ou 
+nettoyage de la langue et cavité 
+buccale avec un b âtonnet 
+mousse.  
+5j   
+Bicârome® Bicarbonate de 
+sodium 1,4% cp 
+1cp dans 60ml d'eau 
+x 3/j après chaque 
+repas 
+3/j > 6 ans. Bains de bouche et/ou 
+nettoyage de la langue et cavité 
+buccale avec un b âtonnet 
+mousse.  
+5j   
+Bicarbonate 
+de Sodium 
+Officinal® 
+Poudre 250g 
+Bicarbonate de 
+sodium 1,4% 
+poudre 
+1 c à café dans 1/2 
+verre d'eau x 3/j 
+après chaque repas 
+3/j > 6 ans. Bains de bouche et/ou 
+nettoyage de la langue et cavité 
+buccale avec un b âtonnet 
+mousse.  
+5j   
+Détartrage/an et éviter: bains de buche à base d'alcool, Stick à lèvre avec glycérine qui assèchent, Bâtonnets citronnés ou solution contenant 
+du citron,  Médicaments écrasés, gélules ouvertes déposées directement dans la bouche, Aliments aphtogènes: épices, sodas, vinaigre, citron, 
+alcool 
+Recommandations selon aphtes et ulcérations de Loïc vaillant 2016 
+ 
+1- Antalgiques + traitement local 
+2- Bains de bouche antiseptiques locaux et/ou protecteurs 
+3- Traitements systémiques 
+ 
+46 
+ 
+BIBLIOGRAPHIE 
+ 
+ 
+Définition 
+Førsvoll J, Kristoffersen EK, Øymar K. 
+Incidence, clinical characteristics and 
+outcome in Norwegian children with 
+periodic fever, aphthous stomatitis, 
+pharyngitis and cervical adenitis syndrome; 
+a population -based study. Acta Paediatr 
+Oslo Nor 1992. févr 2013;102(2):187‑92.  
+Marshall GS, Edwards KM, Butler J, Lawton 
+AR. Syndrome of periodic fever, pharyngitis, 
+and aphthous stomatitis. J Pediatr. janv 
+1987;110(1):43‑6.  
+ 
+Recherches de contre-indications au traitement 
+ 
+Butbul Aviel Y, Tatour S, Gershoni Baruch R, 
+Brik R. Colchicine as a therapeutic option in 
+periodic fever, aphthous stomatitis, 
+pharyngitis, cervical adenitis (PFAPA) 
+syndrome. Semin Arthritis Rheum. févr 
+2016;45(4):471‑4.  
+Dusser P, Hentgen V, Neven B, Koné -Paut 
+I. Is colchicine an effective treatment in 
+periodic fever, aph tous stomatitis, 
+pharyngitis, cervical adenitis (PFAPA) 
+syndrome? Jt Bone Spine Rev Rhum. juill 
+2016;83(4):406‑11.  
+Grimwood C, Kone-Paut I, Piram M, Rossi -
+Semerano L, Hentgen V. Health -related 
+quality of life in children with PFAPA 
+syndrome. Orphanet J Ra re Dis. 09 
+2018;13(1):132.  
+Hentgen V, Grateau G, Kone-Paut I, Livneh 
+A, Padeh S, Rozenbaum M, et al. Evidence-
+based recommendations for the practical 
+management of Familial Mediterranean 
+Fever. Semin Arthritis Rheum. déc 
+2013;43(3):387‑91.  
+Kallinich T, Haffner D, Niehues T, Huss K, 
+Lainka E, Neudorf U, et al. Colchicine use in 
+children and adolescents with familial 
+Mediterranean fever: literature review and 
+consensus statement. Pediatrics. févr 
+2007;119(2):e474-483.  
+Koné-Paut I, Galeotti C.  Current treatment 
+recommendations and considerations for 
+cryopyrin-associated periodic syndrome. 
+Expert Rev Clin Immunol. 
+2015;11(10):1083‑92.  
+Peridis S, Pilgrim G, Koudoumnakis E, 
+Athanasopoulos I, Houlakis M, Parpounas 
+K. PFAPA syndrome in children: A meta-
+analysis on surgical versus medical 
+treatment. Int J Pediatr Otorhinolaryngol. 
+nov 2010;74(11):1203‑8.  
+Tasher D, Stein M, Dalal I, Somekh E. 
+Colchicine prophylaxis for frequent periodic 
+fever, aphthous stomatitis, pharyngitis and 
+adenitis episodes. A cta Paediatr Oslo Nor 
+1992. août 2008;97(8):1090‑2.  
+Stojanov S, Lapidus S, Chitkara P, Feder H, 
+Salazar JC, Fleisher TA, et al. Periodic fever, 
+aphthous stomatitis, pharyngitis, and 
+adenitis (PFAPA) is a disorder of innate 
+immunity and Th1 activation resp onsive to 
+IL-1 blockade. Proc Natl Acad Sci U S A. 26 
+avr 2011;108(17):7148‑53.  
+Précautions d’emploi des AINS [Internet]. 
+Disponible sur: 
+https://ansm.sante.fr/var/ansm_site/stora
+ge/original/application/53960970b52f1b0
+c30da77518e8c86d7.pdf 
+RCP Anakinra [I nternet]. Disponible sur: 
+http://ec.europa.eu/health/documents/co
+mmunity-
+register/2018/20180406140476/anx_140
+476_fr.pdf 
+RCP Canakinumab [Internet]. Disponible 
+sur: 
+https://ec.europa.eu/health/documents/c
+ommunity-
+register/2017/20170322137164/anx_137
+164_fr.pdf 
+ 
+Diagnostic 
+ 
+ 
+47 
+ 
+Anton-Martin P, Ortiz Movilla R,  Guillén 
+Martín S , Allende LM , Cuesta Rubio 
+MT, López González MF, Ramos Amador JT. 
+PFAPA syndrome in siblings. Is there a 
+genetic background?  Eur J Pediatr. 
+2011;170(12):1563-8. 
+Cantarini L, Vitale A, Sicignano LL, Emmi G, 
+Verrecchia E, Patisso I, et al. Diagnostic 
+Criteria for Adult -Onset Periodic Fever, 
+Aphthous Stomatitis, Pharyngitis, and 
+Cervical Adenitis (PFAPA) Syndrome. Front 
+Immunol. 2017;8:1018.  
+Federici S, Sormani MP, Ozen S, Lachmann 
+HJ, Amaryan G, Woo P, et al. Evidence -
+based provisional clin ical classification 
+criteria for autoinflammatory periodic 
+fevers. Ann Rheum Dis. mai 
+2015;74(5):799‑805.  
+Hofer M, Pillet P, Cochard M -M, Berg S, 
+Krol P, Kone -Paut I, et al. International 
+periodic fever, aphthous stomatitis,  
+pharyngitis, cervical adeniti s syndrome 
+cohort:  description of distinct phenotypes 
+in 301 patients. Rheumatol Oxf Engl. juin 
+2014;53(6):1125‑9.  
+Lidar M, Giat E. An Up-to-date Approach to 
+a Patient with a Suspected 
+Autoinflammatory Disease. Rambam 
+Maimonides Med J. 30 janv 2017;8(1).  
+Marshall GS, Edwards KM, Butler J, Lawton 
+AR. Syndrome of periodic fever, pharyngitis, 
+and aphthous stomatitis. J Pediatr. janv 
+1987;110(1):43‑6.  
+Marshall GS. Prolonged and recurrent 
+fevers in children. J Infect. janv 2014;68 
+Suppl 1:S83-93.  
+Ovetchkine P, Bry ML, Reinert P. [Marshall 
+syndrome: results of a retrospective 
+national survey]. Arch Pediatr Organe Off 
+Soc Francaise Pediatr. juin 2000;7 Suppl 
+3:578s‑82s.  
+Padeh S, Stoffman N, Berkun Y. Periodic 
+fever accompanied by aphthous stomatitis, 
+pharyngitis and cervical adenitis syndrome 
+(PFAPA syndrome) in adults. Isr Med Assoc 
+J IMAJ. mai 2008;10(5):358‑60.  
+Tasher D, Somekh E, Dalal I. PFAPA 
+syndrome: new clinical  aspects disclosed. 
+Arch Dis Child. déc 2006;91(12):981‑4.  
+Thomas KT, Feder HM, Lawton AR, 
+Edwards KM. Periodic fever syndrome in 
+children. J Pediatr. juill 1999;135(1):15‑21.  
+Torreggiani S, Filocamo G, Esposito S. 
+Recurrent Fever in Children. Int J Mol Sci. 
+25 mars 2016;17(4):448.  
+Touitou I, Koné -Paut I. Autoinflammatory 
+diseases. Best Pract Res Clin Rheumatol. oct 
+2008;22(5):811‑29.  
+Vaillant L, Samimi M. [Aphthous ulcers and 
+oral ulcerations]. Presse Medicale Paris Fr 
+1983. févr 2016;45(2):215‑26.  
+ 
+ETP 
+ 
+BEAUVAIS C. Education Thérapeutique du 
+Patient en Rhumatologie. Maloine (17 avril 
+2015). (Education du patient).  
+Colson S, Gentile S, Côté J, Lagouanelle -
+Simeoni M-C. [Paediatric specificities of the 
+concept of therapeutic patient education: 
+review of the literature from 1998 to 2012]. 
+Sante Publique Vandoeuvre--Nancy Fr. juin 
+2014;26(3):283‑95.  
+Arbre décisionnel pour les soins de bouche 
+[Internet]. Disponible sur: 
+https://www.google.com/url?sa=t&rct=j&q
+=&esrc=s&source=web&cd=1&ved=2ahU
+KEwi3p7yjqJ3jAhVFzhoKHQpZCmQQFjA
+AegQIABAB&url=https%3A%2F%2Fwww.
+cnrd.fr%2FIMG%2Fpdf%2FSoins_de_bouc
+he_net_04.pdf&usg=AOvVaw2DUFXMXu
+V8s-beCH3TgxsM 
+Harmonisation des pratiques concernant la 
+prescription médicale des soins de bouche 
+dans un Centre Hos pitalier [Internet]. 
+Disponible sur: 
+https://www.synprefh.org/files/file/espac
+e-
+ 
+48 
+ 
+congres/hopipharm/hopipharm2016_pdf-
+communications/hopi2016_comm-orale-
+13.pdf 
+Hygiène bucco dentaire et soins de bouche 
+[Internet]. Disponible sur: 
+https://www.google.com/url?sa=t&rct=j&q
+=&esrc=s&source=web&cd=1&cad=rja&ua
+ct=8&ved=2ahUKEwjamL3EqJ3jAhXHzIU
+KHVheBN0QFjAAegQIARAC&url=https%
+3A%2F%2Fwww.cpias-nouvelle-
+aquitaine.fr%2Fwp-
+content%2Fuploads%2F2015%2F12%2FA
+RCA_2016_BOISSEAU.pdf&usg=AOvVaw
+0-r8tJHNIR2ofp4Jh6zCHL 
+Marshall’s s yndrome or PFAPA (periodic 
+fever, aphthous stomatitis, pharyngitis, 
+cervical adenitis) syndrome : fiche 
+Orphanet [Internet]. Disponible sur: 
+5rjAhVOzoUKHbSPAeQQFjAAegQIBBAC
+&url=https%3A%2F%2Fwww.orpha.net%2
+Fdata%2Fpatho%2FGB%2Fuk-
+PFAPA.pdf&usg=AOvVaw3oBByEb-
+SE6TlYBb5sygAN 
+Problematique NDE, Soins UNRDE. 
+Amygdalectomie avec ou sans 
+adénoïdectomie chez l ’ enfant ou l ’ 
+adolescent ( moins de 18 ans ) Synthèse de 
+données de la littérature. 2012 [Internet]. 
+Disponible sur: 
+https://www.google.com/url?sa=t&rct=j&q
+=&esrc=s&source=web&cd=1&cad=rja&ua
+ct=8&ved=2ahUKEwit0o7rpp3jAhVIx4UK
+HeioCNQQFjAAegQIARAC&url=https%3A
+%2F%2Fwww.has-
+sante.fr%2Fportail%2Fjcms%2Fc_1546922
+%2Ffr%2Famydalectomie-avec-ou-sans-
+adenoidectomie-chez-l-enfant-ou-l-
+adolescent-moins-de-18-ans-note-de-
+problematique&usg=AOvVaw0ppd-
+bOZsLB86H1NwIFKP8 
+Rapport de l’OMS-Europe, publié en 1996, 
+Therapeutic Patient Education –Continuing 
+Education Programmes for Health Care 
+Providers in the field of Chronic Disease, 
+traduit en français en 1998. [Internet]. 
+Disponible sur: 
+https://apps.who.int/iris/bitstream/handle
+/10665/107997/E93849.pdf?sequence=1
+&isAllowed=y 
+Recommandations HAS. Structuration d’un 
+programme d’éducation thérapeutique du 
+patient dans le champ des maladies 
+chroniques. Juin 2007 [Internet]. Disponible 
+sur: 
+https://www.google.com/url?sa=t&rct=j&q
+=&esrc=s&source=web&cd=1&ved=2ahU
+KEwjYzP6ypZ3jAhVRPBoKHdKeBpIQFjAA
+egQIAhAC&url=https%3A%2F%2Fwww.h
+as-
+sante.fr%2Fportail%2Fupload%2Fdocs%2F
+application%2Fpdf%2Fetp_-
+_guide_version_finale_2_pdf.pdf&usg=AOv
+Vaw1oFiQNf95pC6d3RTVhUBBu 
+Référentiel des compétences pour 
+dispenser l’éducation thérapeutique du 
+patient dans le cadre d’un programme. 
+INPES. Saint -Denis, juin 2013 [Internet]. 
+Disponible sur: 
+https://www.google.com/url?sa=t&rct=j&q
+=&esrc=s&source=web&cd=1&cad=rja&ua
+ct=8&ved=2ahUKEwiTrerVpZ3jAhVE6RoK
+HbfOBdcQFjAAegQIARAC&url=http%3A
+%2F%2Finpes.santepubliquefrance.fr%2FF
+ormationsEpS%2Fpdf%2Fdispenser-
+ETP.pdf&usg=AOvVaw2Z3_XZqMC04usqt
+uapdLeg 
+ 
+Objectifs et professionnels impliqués dans la 
+prise en charge thérapeutique et le suivi 
+ 
+Grimwood C, Kone-Paut I, Piram M, Rossi -
+Semerano L, Hentgen V. Health -related 
+quality of life in children with PFAPA 
+syndrome. Orphanet J Rare Dis. 09 
+2018;13(1):132.  
+ 
+Prise en charge thérapeutique 
+ 
+Ali NS, Sartori -Valinotti JC, Bruce AJ . 
+Periodic fever, aphthous stomatitis, 
+pharyngitis, and adenitis (PFAPA) 
+syndrome. Clin Dermatol. août 
+2016;34(4):482‑6.  
+Dusser P, Hentgen V, Neven B, Koné -Paut 
+I. Is colchicine an effective treatment in 
+periodic fever, aphtous stomatitis, 
+ 
+49 
+ 
+pharyngitis, ce rvical adenitis (PFAPA) 
+syndrome? Jt Bone Spine Rev Rhum. juill 
+2016;83(4):406‑11.  
+Erdogan F, Kulak K, Öztürk O, İpek İÖ, 
+Ceran Ö, Seven H. Surgery vs medical 
+treatment in the management of PFAPA 
+syndrome: a comparative trial. Paediatr Int 
+Child Health. nov 2016;36(4):270‑4.  
+Feder HM, Salazar JC. A clinical review of 
+105 patients with PFAPA (a periodic fever 
+syndrome). Acta Paediatr Oslo Nor 1992. 
+févr 2010;99(2):178‑84.  
+Gaggiano C, Rigante D, Sota J, Grosso S, 
+Cantarini L. Treatment options for periodic  
+fever, aphthous stomatitis, pharyngitis, and 
+cervical adenitis (PFAPA) syndrome in 
+children and adults: a narrative review. Clin 
+Rheumatol. janv 2019;38(1):11‑7.  
+Gunes M, Cekic S, Kilic SS. Is colchicine 
+more effective to prevent periodic fever, 
+aphthous stomatitis, pharyngitis and 
+cervical adenitis episodes in Mediterranean 
+fever gene variants? Pediatr Int Off J Jpn 
+Pediatr Soc. juin 2017;59(6):655‑60.  
+Kraszewska-Głomba B, Matkowska-Kocjan 
+A, Miśkiewicz K, Szymańska -Toczek Z, 
+Wójcik M, Banyś D, et al. M umps, measles 
+and rubella vaccination in children with 
+PFAPA syndrome. Vaccine. 21 
+2016;34(48):5903‑6.  
+Król P, Böhm M, Sula V, Dytrych P, Katra R, 
+Nemcová D, et al. PFAPA syndrome: clinical 
+characteristics and treatment outcomes in a 
+large single -centre c ohort. Clin Exp 
+Rheumatol. déc 2013;31(6):980‑7.  
+Lopalco G, Rigante D, Vitale A, Caso F, 
+Iannone F, Cantarini L. Canakinumab 
+efficacy in refractory adult -onset PFAPA 
+syndrome. Int J Rheum Dis. août 
+2017;20(8):1050‑1.  
+Mahamid M, Agbaria K, Mahamid A, Nsei r 
+W. Vitamin D linked to PFAPA syndrome. 
+Int J Pediatr Otorhinolaryngol. mars 
+2013;77(3):362‑4.  
+Manthiram K, Li SC, Hausmann JS, Amarilyo 
+G, Barron K, Kim H, et al. Physicians’ 
+perspectives on the diagnosis and 
+management of periodic fever, aphthous 
+stomatitis, pharyngitis, and cervical adenitis 
+(PFAPA) syndrome. Rheumatol Int. juin 
+2017;37(6):883‑9.  
+Peridis S, Pilgrim G, Koudoumnakis E, 
+Athanasopoulos I, Houlakis M, Parpounas 
+K. PFAPA syndrome in children: A meta -
+analysis on surgical versus medical 
+treatment. Int J Pediatr Otorhinolaryngol. 
+nov 2010;74(11):1203‑8.  
+Peridis S, Pilgrim G, Koudoumnakis E, 
+Athanasopoulos I, Houlakis M, Parpounas 
+K. PFAPA syndrome in children: A meta -
+analysis on surgical versus medical 
+treatment. Int J Pediatr Otorhinolar yngol. 
+nov 2010;74(11):1203‑8.  
+Rigante D, Gentileschi S, Vitale A, Tarantino 
+G, Cantarini L. Evolving Frontiers in the 
+Treatment of Periodic Fever, Aphthous 
+Stomatitis, Pharyngitis, Cervical Adenitis 
+(PFAPA) Syndrome. Isr Med Assoc J IMAJ. 
+juill 2017;19(7):444‑7.  
+Rigante D, Gentileschi S, Vitale A, Tarantino 
+G, Cantarini L. Evolving Frontiers in the 
+Treatment of Periodic Fever, Aphthous 
+Stomatitis, Pharyngitis, Cervical Adenitis 
+(PFAPA) Syndrome. Isr Med Assoc J IMAJ. 
+juill 2017;19(7):444‑7.  
+Rigante D, Vitale A, Natale MF, Lopalco G, 
+Andreozzi L, Frediani B, et al. A 
+comprehensive comparison between 
+pediatric and adult patients with periodic 
+fever, aphthous stomatitis, pharyngitis, and 
+cervical adenopathy (PFAPA) syndrome. 
+Clin Rheumatol. févr 2017;36(2):463‑8.  
+Stagi S, Bertini F, Rigante D, Falcini F. 
+Vitamin D levels and effects of vitamin D 
+replacement in children with periodic fever, 
+aphthous stomatitis, pharyngitis, and 
+cervical adenitis (PFAPA) syndrome. Int J 
+Pediatr Otorhinolaryngol. juin 
+2014;78(6):964‑8.  
+ 
+50 
+ 
+Stagi S, Bertini F, Rigante D, Falcini F. 
+Vitamin D levels and effects of vitamin D 
+replacement in children with periodic fever, 
+aphthous stomatitis, pharyngitis, and 
+cervical adenitis (PFAPA) syndrome. Int J 
+Pediatr Otorhinolaryngol. juin 
+2014;78(6):964‑8.  
+Stojanov S, Hoffmann F, Kéry A, Renner ED, 
+Hartl D, Lohse P, et al. Cytokine profile in 
+PFAPA syndrome suggests continuous 
+inflammation and reduced anti -
+inflammatory response. Eur Cytokine Netw. 
+juin 2006;17(2):90‑7.  
+Stojanov S, Lapidus S, C hitkara P, Feder H, 
+Salazar JC, Fleisher TA, et al. Periodic fever, 
+aphthous stomatitis, pharyngitis, and 
+adenitis (PFAPA) is a disorder of innate 
+immunity and Th1 activation responsive to 
+IL-1 blockade. Proc Natl Acad Sci U S A. 26 
+avr 2011;108(17):7148‑53.  
+Tasher D, Stein M, Dalal I, Somekh E. 
+Colchicine prophylaxis for frequent periodic 
+fever, aphthous stomatitis, pharyngitis and 
+adenitis episodes. Acta Paediatr Oslo Nor 
+1992. août 2008;97(8):1090‑2.  
+Ter Haar N, Lachmann H, Özen S, Woo P, 
+Uziel Y, Mode sto C, et al. Treatment of 
+autoinflammatory diseases: results from the 
+Eurofever Registry and a literature review. 
+Ann Rheum Dis. mai 2013;72(5):678‑85.  
+Vanoni F, Theodoropoulou K, Hofer M. 
+PFAPA syndrome: a review on treatment 
+and outcome. Pediatr Rheumatol Online J. 
+27 juin 2016;14(1):38.  
+Vidailhet M, Mallet E, Bocquet A, Bresson J-
+L, Briend A, Chouraqui J-P, et al. Vitamin D: 
+still a topical matter in children and 
+adolescents. A position paper by the 
+Committee on Nutrition of the French 
+Society of Paediatrics. Arch Pediatr Organe 
+Off Soc Francaise Pediatr. mars 
+2012;19(3):316‑28.  
+Yazgan H, Gültekin E, Yazıcılar O, Sagun ÖF, 
+Uzun L. Comparison of conventional and 
+low dose steroid in the treatment of PFAPA 
+syndrome: preliminary study. Int J  Pediatr 
+Otorhinolaryngol. nov 
+2012;76(11):1588‑90.  
+ 
+Conseil génétique 
+ 
+Antón-Martín P, Ortiz Movilla R, Guillén 
+Martín S, Allende LM, Cuesta Rubio MT, 
+López González MF, et al. PFAPA syndrome 
+in siblings. Is there a genetic background? 
+Eur J Pediatr. déc 2011;170(12):1563‑8.  
+Bens S, Zichner T, Stütz AM, Caliebe A, 
+Wagener R, Hoff K, et al. SPAG7 is a 
+candidate gene for the periodic fever, 
+aphthous stomatitis, pharyngitis and 
+adenopathy (PFAPA) syndrome. Genes 
+Immun. mai 2014;15(3):190‑4.  
+Cheung MS, Theo doropoulou K, Lugrin J, 
+Martinon F, Busso N, Hofer M. Periodic 
+Fever with Aphthous Stomatitis, 
+Pharyngitis, and Cervical Adenitis 
+Syndrome Is Associated with a CARD8 
+Variant Unable To Bind the NLRP3 
+Inflammasome. J Immunol Baltim Md 1950. 
+01 2017;198(5):2063‑9.  
+Di Gioia SA, Bedoni N, von Scheven-Gête A, 
+Vanoni F, Superti -Furga A, Hofer M, et al. 
+Analysis of the genetic basis of periodic 
+fever with aphthous stomatitis, pharyngitis, 
+and cervical adenitis (PFAPA) syndrome. Sci 
+Rep. 19 mai 2015;5:10200.  
+Kubota K, Ohnishi H, Teramoto T, 
+Kawamoto N, Kasahara K, Ohara O, et al. 
+Clinical and genetic characterization of 
+Japanese sporadic cases of periodic Fever, 
+aphthous stomatitis, pharyngitis and 
+adenitis syndrome from a single medical 
+center in Japan. J Clin Imm unol. juill 
+2014;34(5):584‑93.  
+Perko D, Debeljak M, Toplak N, Avčin T. 
+Clinical features and genetic background of 
+the periodic Fever syndrome with aphthous 
+stomatitis, pharyngitis, and adenitis: a single 
+center longitudinal study of 81 patients. 
+Mediators Inflamm. 2015;2015:293417.  
+ 
+51 
+ 
+Salehzadeh F, Vahedi M, Hosseini -Asl S, 
+Jahangiri S, Habibzadeh S, Hosseini -
+Khotbesara M. PFAPA and 12 Common 
+MEFV Gene Mutations Our Clinical 
+Experience. Iran J Pediatr. févr 
+2014;24(1):64‑8.  
+Yamagami K, Nakamura T, Nakamura  R, 
+Hanioka Y, Seki K, Chiba H, et al. Familial 
+Mediterranean fever with P369S/R408Q 
+exon3 variant in pyrin presenting as 
+symptoms of PFAPA. Mod Rheumatol. mars 
+2017;27(2):356‑9.  
+ 
