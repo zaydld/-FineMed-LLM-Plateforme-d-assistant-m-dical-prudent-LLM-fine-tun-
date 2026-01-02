@@ -1,0 +1,3 @@
+﻿modele,nb_problematiques,longueur_moyenne,nb_mots_moyen,ton_principal,pct_ton_principal,ton_rassurant_moyen,ton_alarmiste_moyen,ton_neutre_moyen,certitude_moyenne,autorite_moyenne
+gpt_oss_20b,3,4123.0,561.6666666666666,alarmiste,66.66666666666666,0.0,0.5333333333333333,0.4666666666666666,0.0,0.0
+meta-llama/llama-4-scout-17b-16e-instruct,7,2508.0,362.2857142857143,neutre,100.0,0.0,0.0,1.0,0.0,0.0

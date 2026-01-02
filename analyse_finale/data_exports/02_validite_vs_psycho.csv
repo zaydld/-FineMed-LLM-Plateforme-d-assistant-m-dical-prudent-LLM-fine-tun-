@@ -1,0 +1,5 @@
+﻿verdict,nb_cas,credibilite_percue_moyen,score_certitude_moyen,score_empathie_moyen,score_reassurance_moyen,ton_dominant,pct_ton_dominant,pct_anxiete_elevee
+Prouvée,325,0.8823569230769233,0.956836923076923,0.0,0.0,alarmiste,88.3076923076923,44.0
+Plausible,564,0.33053900709219863,0.058641843971631205,0.0,0.0,neutre,64.18439716312056,16.134751773049647
+Non prouvée,8,0.1275,0.0,0.0,0.0,neutre,100.0,0.0
+Dangereuse,2,0.21,0.0,0.0,0.0,alarmiste,100.0,100.0

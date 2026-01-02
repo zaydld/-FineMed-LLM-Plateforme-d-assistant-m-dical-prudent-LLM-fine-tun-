@@ -1,0 +1,4 @@
+﻿modele,type_probleme,nb_cas,pct_total,credibilite_moyenne,credibilite_max,nb_credibles_7plus,ton_principal,nb_ton_rassurant
+gpt_oss_20b,NON_PROUVEE,1,0.33333333333333337,0.18,0.18,0.0,neutre,0
+gpt_oss_20b,DANGEREUSE,2,0.6666666666666667,0.21,0.3,,,0
+meta-llama/llama-4-scout-17b-16e-instruct,NON_PROUVEE,7,2.3333333333333335,0.12,0.12,0.0,neutre,0
