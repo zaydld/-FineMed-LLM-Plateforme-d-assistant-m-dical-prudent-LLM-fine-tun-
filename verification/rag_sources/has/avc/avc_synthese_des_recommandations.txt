@@ -1,0 +1,219 @@
+Prévention vasculaire après un infarctus 
+cérébral ou un accident ischémique transitoire 
+Juillet 2014
+Mise à jour juin 2018 
+Les recommandations portent sur la prévention secondaire des événements vasculaires (accident vasc u-
+laire cérébral, infarctus du myocarde et décès d’origine vasculaire), parce que l’infarctus cérébral est asso-
+cié non seulement à un risque élevé de récidive, mais aussi à un risque conséquent d’infarctus du my o-
+carde et de décès d’origine vasculaire . Elles concernent les patients adultes ayant eu un accident isché-
+mique transitoire (AIT) ou un infarctus cérébral (IC) après la phase aiguë, alors que le diagnostic a déjà été 
+établi. La durée de la phase aiguë varie de quelques jours à plusieurs semaines en fonction de la taille et 
+de la sévérité de l’IC. La prévention vasculaire comprend une prévention globale par le contrôle des fa c-
+teurs de risque et un traitement spécifique en fonction de l’étiologie de l’IC ou de l’AIT.  
+L’éducation thérapeutique fait partie intégr ante de la prévention secondaire  après un infarctus cérébral ou 
+un AIT. Toutes les recommandations, en particulier cell es relatives au contrôle des facteurs de risque ou à 
+l’observance médicamenteuse, peuvent entrer dans une démarche d’éducation thérapeutique du patient1. 
+Contrôle des facteurs de risque 
+Pression 
+artérielle 
+(PA)
+Traitement antihypertenseur chez tout hypert endu (PA supérieure ou égale à 140/90 mmHg)  après un IC 
+ou un AIT A 
+Objectif de pression artérielle : < 140/90 mmHg 
+À moduler en fonction de l’âge, de l’existence d’une sténose >  70 % (critères NASCET) ou d’une 
+occlusion des artères cervicales ou intracrâniennes, des comorbidités 
+AE 
+Mesurer le niveau et la variabilité de la PA par l’automesure ou à défaut par la MAPA AE 
+Traitement initial : diurétiques thiazidiques, IEC, inhibiteurs calciques (dihydropyridines) B 
+Les autres classes médicamenteuses peuvent être choisies en fonction des comorbidités, de la tolérance  
+et du niveau de PA visé AE 
+Lipides Traitement par statine chez les patients ayant un IC ou un AIT non cardio embolique et ayant un LDL -
+cholestérol ≥ 2,6 mmol/l (1 g/l) A 
+Objectif de LDL-cholestérol : < 2,6 mmol/l (1 g/l) AE 
+Traitement par statine quel que soit le taux de LDL-cholestérol : 
+ chez les patients diabétiques B 
+ chez les patients ayant un antécédent coronarien A 
+Traitement par statine envisageable chez les patients ayant un LDL-cholestérol < 2,6 mmol/l (1 g/l) et un IC 
+ou un AIT associé à une maladie athéroscléreuse symptomatique AE 
+Utiliser une statine ayant démontré une réduction des événements vasculaires  (Fiche BUM - Prévention 
+cardio-vasculaire : le choix de la statine la mieux adaptée dépend de son efficacité et de son efficience) A 
+Chez les patients au-delà de 80 ans débuter le traitement à dose faible et contrôler le LDL -cholestérol pour 
+arriver progressivement à la cible AE 
+1 Par rapport aux recommandations 2008, ce qui est surligné en bleu a été modifié ou ajouté. 
+SYNTHÈSE DE LA RECOMMANDATION DE BONNE PRATIQUE 
+
+Contrôle des facteurs de risque 
+Diabète Objectif d’HbA1c (hémoglobine glyquée A1c) inférieur ou égal à 8  % chez les patients diabétiques  de type 
+2 avec un antécédent d’IC ou d’AIT récent < 6 mois 
+AE Objectif d’HbA1c inférieur ou égal à 7  % chez les patients diabétiques  de type 2 avec un antécédent d’ IC 
+ou d’AIT > 6 mois (RBP Stratégie médicamenteuse du contrôle glycémique du diabète de type 2 – HAS 
+2013) 
+Tabac Sevrage tabagique recommandé B 
+Les patients nécessitent un conseil et une prise en charge renforcés dès le diagnostic de l’infarctus 
+cérébral ou de l’AIT (RBP Arrêt de la consommation de tabac – HAS 2014) AE 
+Éviction du tabagisme dans l’environnement du patient 
+Alcool Réduction ou arrêt de la consommation chez les hommes consommant plus de trois verres de boisson 
+alcoolisée par jour (3 unité s d’alcool par jour ou 30 g/j ) et chez les femmes consommant plus de deux 
+verres par jour (2 unités d’alcool par jour ou 20 g/j) 
+C 
+Méthodes de sevrage appropriées et prise en charge spécifique pour les patients alcoolodépendants AE 
+Obésité Les objectifs thérapeutiques sont fonction de l’indice de masse corporelle, du tour de taille  et de la 
+présence de comorbidités (RBP Surpoids et obésité de l’adulte – HAS 2011) AE 
+Autre Supplémentation en vitamine B non recommandée en dehors d’une hyperhomocystéinémie documentée AE 
+Traitement spécifique après un IC ou un AIT associé à une affection cardiaque 
+Le traitement de la cardiopathie n’est pas abordé dans ces recommandations. 
+Fibrillation atriale 
+non valvulaire, 
+paroxystique ou 
+permanente 
+Traitement anticoagulant oral  à maintenir au long cours même en cas de retour en rythme 
+sinusal A 
+(Mise à jour juin 2018)  
+Lors de l’instauration du traitement anticoagulant, un AVK ou un AOD peut être prescrit en 
+première intention.  
+AE 
+(Mise à jour juin 2018)  
+Le choix entre ces deux familles d’anticoagulants sera fait au cas par cas en tenant compte 
+notamment : 
+ du risque hémorragique
+ de l’âge et du poids
+ de la fonction rénale
+ de la qualité prévisible de l’observance
+ de la capacité du patient à suivre le degré d’anticoagulation pour les AVK
+ de la préférence du patient après une information adaptée.
+Sous dabigatran, rivaroxaban ou apixaban  : estimation de la clairance de la créatinine par la 
+formule de Cockcroft préalablement puis annuellement et plus fréquemment en cas 
+d’insuffisance rénale modérée entre 30 et 60 ml/min ou de situations susceptibles d’altérer 
+temporairement la fonction rénale.  
+Prudence chez les patients les plus âgés et polypathologiques 
+Infarctus du 
+myocarde à 
+l'exclusion des 
+revascularisations 
+endovasculaires 
+récentes (Mise à jour
+février 2015) 
+Traitement anticoagulant justifié en cas de fibrillation auriculaire associée ou de thrombus 
+intracardiaque (ne pas associer AVK et antiagrégant plaquettaire) B 
+Traitement spécifique après un IC ou un AIT associé à une affection cardiaque 
+Anomalies du 
+septum inter-
+auriculaire 
+Foramen ovale perméable (FOP) associé à un IC ou un AIT : 
+ traitement antiplaquettaire en première intention
+ traitement par anticoagulant oral e n cas de pathologie thrombo embolique veineuse
+concomitante
+AE 
+Fermeture du FOP non recommandée chez les patients ayant un premier IC ou un AIT associé 
+à un FOP B 
+Fermeture du FOP e nvisageable après concertation neuro -cardiologique chez les patients 
+d’âge inférieur à 60 ans  ayant un IC ou un AIT de cause indéterminée, récidivant sous 
+traitement antithrombotique bien conduit 
+AE 
+Prothèses 
+valvulaires 
+mécaniques 
+Les AVK sont le seul traitement anticoagulant oral pouvant être prescrit. 
+INR cible pour les prothèses valvulaires mécaniques quelles qu’elles soient 
+Thrombogénicité de la 
+prothèse a
+Facteurs de risque liés au patient b
+Aucun facteur de risque Facteur de risque ≥ 1 
+Faible 2,5 3,0 
+Moyenne 3,0 3,5 
+Élevée 3,5 4,0 
+a : thrombogénicité faible  = Carbomedics, Medtronic Hall, St Jude, Medical , ON -X ; 
+thrombogénicité moyenne  = autres valves à double ailette  ; thrombogénicité élevée  = 
+Lillehei-Kaster, Omniscience, Starr -Edwards, Bjork-Shiley et autres valves à disque 
+oscillant 
+b : remplacement de valve mitrale, valve tricuspide ou antécédent thrombo -embolique si 
+FOP, fibrillation atriale, rétrécissement mitral quel que soit son degré, fraction d’éjection 
+du ventricule gauche < 35 % 
+AE 
+Valvulopathies Rétrécissement mitral rhumatismal : anticoagulants oraux AVK 
+AE 
+Prolapsus de la valve mitrale isolé ou calcifications valvulaires : antiagrégant plaquettaire 
+Traitement spécifique après un IC ou un AIT associé à une dissection artérielle 
+cervicale ou intracrânienne 
+Dissection 
+artérielle 
+cervicale 
+Traitement antithrombotique : l a décision de prescrire un traitement anticoagulant ou 
+antiagrégant plaquettaire est à prendre au cas par cas en fonction des caractéristiques cliniques, 
+radiologiques, et des comorbidités 
+AE Arrêt du traitement antithrombotique possible après recanalisation de l’artère 
+Traitement antiagrégrant plaquettaire au long cours en cas de sténose ou dilatation anévrysmale 
+résiduelle 
+Traitement spécifique après un IC ou un AIT lié à l’athérosclérose, à une 
+maladie des petites artères, ou d’origine indéterminée 
+Traitement 
+antithrombotique 
+Après un IC ou un AIT d’origine non cardioembolique : antiagrégant plaquettaire : A 
+ soit l’aspirine à 75-325 mg/j A 
+ soit le clopidogrel 75 mg/j B 
+Traitement spécifique après un IC ou un AIT lié à l’athérosclérose, à une 
+maladie des petites artères, ou d’origine indéterminée 
+Traitement 
+antithrombotique 
+(suite) 
+L’association clopidogrel + aspirine en prévention secondaire à distance de la phase aiguë des 
+IC n’est pas recommandée A 
+Une anticoagulation orale par AVK n’est pas recommandée A 
+Les anticoagulants non AVK n’ont pas été évalués et ne sont pas recommandés AE 
+Sténose 
+athéroscléreuse 
+symptomatique 
+de la carotide 
+interne 
+extracrânienne 
+Sténose comprise entre 70 et 99  % (critères NASCET) : endartériectomie carotidienne chez les 
+patients avec un IC non invalidant ou un AIT, de moins de 6 mois  A 
+Sténose carotidienne comprise entre 50 et 69  % : e ndartériectomie carotidienne  possible en 
+prenant en considération certaines caractéristiques du patient et de l’accident ischémique 
+cérébral 
+A 
+Le bénéfice est plus important chez les hommes, chez les patients de plus de 75 ans et, en cas 
+d’AIT, chez les patients avec symptômes hémisphériques B 
+Sténose pseudo-occlusive : bénéfice de l’endartériectomie carotidienne incertain C 
+Sténose de la carotide interne < 50 % : pas d’indication chirurgicale A 
+La chirurgie carotidienne doit être réalisée par un chirurgien expérimenté avec un taux de morbi-
+mortalité inférieur à 6 % AE 
+Le bénéfice de l’ endartériectomie est d’autant plus important que le geste est réalisé 
+précocement (dans les 15 jours après l’accident) B 
+L’angioplastie carotidienne avec stent  ne peut être proposée qu’en consultation pluridisciplinaire 
+aux patients à haut risque de récidive sous traitement médical et en cas de comorbidité majeure 
+contre-indiquant la chirurgie carotidienne ou de sténose non accessible à la chirurgie 
+C 
+Sténose 
+athéroscléreuse 
+de l’artère 
+vertébrale 
+extracrânienne 
+Un traitement endovasculaire ou chirurgical, après concertation pluridiscisplinaire, peut être 
+considéré chez les patients présentant des récidives d’IC ou d’AIT imputables à une sténose de 
+l’artère vertébrale malgré un traitement médical maximal 
+AE 
+Sténose 
+athéroscléreuse 
+intracrânienne 
+Après un IC ou un AIT imputable à une sténose intracrânienne, le traitement antithrombotique  
+recommandé repose sur les antiagrégants plaquettaires. Les anticoagulants ne sont pas 
+indiqués 
+B 
+Le traitement endovasculaire des sténoses intracrâniennes n’est pas recommandé B 
+Athérosclérose 
+de la crosse de 
+l’aorte 
+Athérosclérose ≥ 4 mm d’épaisseur de la crosse de l’aorte : antiagrégant plaquettaire 
+AE Athérosclérose sévère avec élément mobile et/ou thrombus  : un traitement anticoagulant par 
+AVK de plusieurs semaines peut être envisagé 
+Grade des recommandations 
+A Preuve scientifique établie C Faible niveau de preuve 
+B Présomption scientifique AE Accord d’experts 
+~ 
+Ce document présente les points essentiels des recommandations de bonne pratique 
+« Prévention vasculaire après un infarctus cérébral ou un accident ischémique transitoire »  
+Méthode Recommandations pour la pratique clinique – Mise à jour Juin 2018. 
+Ces recommandations et l’argumentaire scientifique sont consultables dans leur intégralité 
+sur www.has-sante.fr 
+© Haute Autorité de Santé – juin 2018 
