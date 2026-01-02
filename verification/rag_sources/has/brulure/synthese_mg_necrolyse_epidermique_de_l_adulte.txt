@@ -1,0 +1,150 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Synthèse à destination du 
+médecin traitant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Novembre 2023 
+ 
+ 
+ 
+ 
+ 
+Centre de référence des dermatoses bulleuses toxiques et 
+toxidermies graves TOXIBUL 
+ 
+Extraite du Protocole National de Diagnostic et de Soins (PNDS) 
+ 
+Nécrolyse épidermique de l’adulte 
+ 
+(Syndromes de Stevens-Johnson et de Lyell) 
+Synthèse à destination du médecin traitant – Nécrolyse épidermique de l’adulte (Syndromes de 
+Stevens-Johnson et de Lyell) 
+Centre de référence des dermatoses bulleuses toxiques et 
+toxidermies graves TOXIBUL / Novembre 2023 
+2 
+ 
+Synthèse à destination du médecin traitant 
+La nécrolyse épidermique  (NE) inclut le syndrome de Stevens -Johnson (SJS, surface 
+décollée/décollable <10% de la surface corporelle), le syndrome de Lyell (ou nécrolyse 
+épidermique toxique, NET, surface décollée/décollable ≥30%) et le syndrome de 
+chevauchement (surface décollée/décollable 10 à 29%, surface évaluable par la règle des 9 
+de Wallace ou la paume de main du patient qui équivaut à 1% de la surface corporelle).  
+Il s’agit d’une des formes les plus graves de manifestations allergiques, majoritairement 
+causée par la prise de médicaments et caractérisée par la destruction brutale de l’épiderme et 
+des épithéliums muqueux. La liste des médicaments impliqués est très longue, mais moins de 
+10 produits sont à l’origine de près de la moitié des cas survenant en Europe. 
+Ces médicaments à « haut risque », dont il faut respecter les règles de bon usage, sont: 
+les anti -épileptiques de la famille chimique des aromatiques (carbamazépine, 
+oxcarbazépine, phénobarbital, phénytoïne) et la lamotrigine, l'allopurinol, les 
+sulfamides anti-bactériens (cotrimoxazole [triméthoprime -sufaméthoxazole], 
+sulfasalazine), la névirapine, les anti -inflammatoires non stéroïdiens de la famille des 
+oxicams. Le délai d’induction de la maladie varie classiquement de 4 à 28 jours  (rarement 
+jusqu’à 56 j ours) après le début de la prise du médicament responsable (généralement 1ère 
+prise dans la vie). Le risque de NE est augmenté avec certains médicaments dans certaines 
+populations, notamment asiatiques (Annexe 5 du PNDS : noter l’indication d’un dépistage de 
+l’HLA B15 :02 chez les patients d’origine asiatique avant prescription de carbamazépine, et 
+d’HLA B58  :01 avant prescription d’allopurinol dans cette même population, tests non 
+remboursés).  
+La NE est très rare (2 à 6 cas par million d’habitants et par an), et relève d’une urgence vitale. 
+La mortalité moyenne en phase aigüe est de 15 à 20%.  
+Ces patients arrivent dans un service hospitalier spécialisé en moyenne 3 jours après les 
+premiers symptômes, dont il est important de savoir qu’ils sont non spécifiques mais vont vite 
+se compliquer de manifestations cardinales de la maladie.  
+ 
+Quand suspecter le diagnostic de NE ? Quelle conduite à tenir ? 
+ 
+❖ Devant un tableau d’éruption cutanée et/ou d’érosions muqueuses  
+► Avec altération importante de l’état général et hyperthermie >39°C ; 
+► A l’examen clinique : 
+- Lésions cutanées : macules purpuriques, pseudo-cocardes, vésicules et/ou 
+bulles, décollement cutané spontané et au frottement (en linge mouillé, signe 
+de Nikolsky), touchant initialement le tronc, la racine des membres, +/- le visage 
+- Lésions muqueuses  : yeux (rougeur oculaire, picotements, brûlures, 
+photophobie), bouche (énanthème, érosions des lèvres et/ou intrabuccales), 
+muqueuse génitale et/ou anale (érythème, érosions)  
+- Ces lésions cutanées et/ou muqueuses sont généralement douloureuses 
+❖ L’anamnèse authentifie une progression rapide des symptômes sur 7 à 10 jours. 
+ 
+De manière générale  : la NE peut commencer de façon insidieuse et peu spécifique. Il 
+faut y penser devant toute atteinte muqueuse débutante (conjonctivite, pharyngite) 
+fébrile dans un contexte d’introduction récente d’un médicament , notamment un 
+médicament à haut risque. 
+ 
+La conduite à tenir en urgence pour un médecin généraliste est alors d’arrêter le médicament 
+suspecté responsable, d’adresser le patient à un service d’urgence de proximité (urgences 
+dermatologiques ou urgences générales) en notifiant clairement sa suspicion diagnostique, 
+voire de contacter le SAMU devant des signes de gravité hémodynamiques ou 
+respiratoires, et/ou de contacter directement l’un des sites (coordonnateur, constitutif ou de 
+Synthèse à destination du médecin traitant – Nécrolyse épidermique de l’adulte (Syndromes de 
+Stevens-Johnson et de Lyell) 
+Centre de référence des dermatoses bulleuses toxiques et 
+toxidermies graves TOXIBUL / Novembre 2023 
+3 
+ 
+compétence) du centre national de référence « Dermatoses Bulleuses Toxiques et toxidermies 
+graves TOXIBUL » (références en Annexe 2 du PNDS).  
+ 
+Après la phase aiguë, les séquelles sont quasi constantes et peuvent se développer 
+insidieusement des semaines ou des mois après une guérison apparemment complète. Elles 
+peuvent impacter durablement (parfois à vie) et significativement la qualité de vie  des 
+patients. 
+Les séquelles les plus fréquentes sont : oculaires, potentiellement les plus graves car pouvant 
+conduire à la cécité, psychologiques, marquées par un syndrome anxio -dépressif voire un 
+syndrome de stress post -traumatique et une peur des médicaments quels qu ’ils soient, et 
+cutanéo-phanériennes, à type de troubles de la pigmentation cutanée et d’anomalie des 
+ongles.  
+Pour ces raisons, il est très important que le suivi multidisciplinaire de ces patients soit assuré 
+dans le centre de référence ou dans un des centres de compétences (liste en Annexe 2), en 
+collaboration avec le médecin traitant et les spécialistes de proximité. 
+Les associations de patients apportent un soutien aux patients et aux familles.  
+ 
+Seules les molécules jugées responsables et les molécules de la même classe doivent être 
+formellement contre-indiquées au patient (à vie) et, par prudence, du fait des incertitudes sur 
+les susceptibilités génétiques, aux personnes apparentées au premier de gré également 
+(parents, enfants, frères et sœurs). Il n’y a aucune justification à contre -indiquer de principe 
+tous les médicaments, même ceux réputés capables d’induire des réactions semblables, 
+quand ils appartiennent à des classes chimiques différentes.  Il n’y a pas de contre -indication 
+aux vaccins.  
+ 
+Par conséquent, le médecin généraliste : 
+• identifie les symptômes et signes évoquant une NE (voir plus haut) 
+• oriente très rapidement le patient vers les services d’urgence, le centre de référence ou un 
+centre de compétences 
+• assure le dépistage, la prise en charge et le suivi des séquelles en coordination avec le 
+dermatologue du centre de référence ou de compétences et les autres spécialistes 
+d’organe (notamment psychiatre, psychologue, ophtalmologiste) ; 
+• respecte la carte d’allergie et veille à ne pas prescrire des molécules responsables ou de 
+même classe ; 
+• constitue le cas échéant le dossier de prise en charge sociale selon les séquelles  : prise 
+en charge à 100% en affection hors liste (le formulaire de demande d’ALD doit préciser la 
+nature des séquelles, leur gravité et le suivi multidisciplinaire coordonné avec le centre de 
+référence selon recommandations du PNDS); 
+• l’arrêt de travail qui suit la phase aigüe peut parfois être prolongé et nécessiter l’implication 
+du médecin traitant dans la décision de son renouvellement ou celle de reprise de travail 
+à temps partiel  ; un dossier MDPH peut être nécessaire en fonction d e la gravité et de 
+l’impact des séquelles.  
+• assure un soutien psychologique en coordination avec le suivi multidisciplinaire en centre 
+expert. 
+• informe le patient sur les associations de patients 
+ 
+Informations utiles 
+► voir le site internet du centre de référence TOXIBUL  (informations, PNDS, partenaires 
+associatifs, base documentaire, …) : toxibul.fr  
