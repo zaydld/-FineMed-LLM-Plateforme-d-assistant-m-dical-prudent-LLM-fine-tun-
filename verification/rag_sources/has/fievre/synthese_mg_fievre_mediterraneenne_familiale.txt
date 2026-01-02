@@ -1,0 +1,241 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Synthèse à destination du 
+médecin traitant 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Novembre 2022 
+ 
+ 
+ 
+ 
+ 
+Ce PNDS a été rédigé sous l’égide du :  
+ 
+Centre de référence des maladies rares auto-inflammatoires et de l’amylose 
+inflammatoire (CeReMAIA) 
+ 
+Et de la  
+ 
+Filière des maladies auto-immunes et auto-inflammatoires rares FAI²R 
+ 
+Extraite du Protocole National de Diagnostic et de Soins (PNDS) 
+ 
+Fièvre Méditerranéenne Familiale 
+Synthèse à destination du médecin traitant – Fièvre Méditerranéenne Familiale 
+Centre de référence des maladies rares auto-inflammatoires et de l’amylose inflammatoire 
+(CeReMAIA) / Novembre 2022 
+2 
+ 
+Sommaire 
+Synthèse à destination du médecin traitant ................................ ................................ 3 
+1. Étiologie et physiopathologie ................................ ................................ ..............3 
+2. Manifestations cliniques ................................ ................................ ......................3 
+3. Diagnostic positif ................................ ................................ ................................ .3 
+4. Traitement de fond ................................ ................................ ............................... 3 
+5. Traitement de la crise ................................ ................................ ..........................4 
+6. Informations utiles ................................ ................................ ............................... 5 
+Informations destinées aux professionnels de santé ................................ .................5 
+Informations destinées aux patients ................................ ................................ ............5 
+ 
+Synthèse à destination du médecin traitant – Fièvre Méditerranéenne Familiale 
+Centre de référence des maladies rares auto-inflammatoires et de l’amylose inflammatoire 
+(CeReMAIA) / Novembre 2022 
+3 
+ 
+Synthèse à destination du médecin traitant 
+La fièvre méditerranéenne familiale est une maladie génétique rare qui touche principalement 
+les patients originaires du pourtour méditerranéen, en particulier les Turcs, les Arméniens, les 
+Juifs sépharades et les Maghrébins. Il s’agit d’une maladie héréditaire, autosomique récessive 
+et anciennement appelée  maladie périodique. Sa prévalence est estimée à 5 à 10  000 
+personnes en France et 100  000 dans le Monde.  S’agissant d’une maladie récess ive, pour 
+être symptomatiques, les patients doivent avoir 2 variants pathogènes de MEFV. 
+ 
+1. Étiologie et physiopathologie 
+Le gène muté ( MEFV pour MEditerranean FeVer ) code une protéine appelée pyrine qui 
+participe à l’inflammasome pyrine  : une structure prot éique entrainant la synthèse 
+d’interleukine 1 par certains globules blancs comme les monocytes et les macrophages, des 
+acteurs majeurs de l’immunité innée. Les cytokines pro-inflammatoires vont ensuite induire la 
+synthèse des protéines de l’inflammation (CRP notamment) par le foie. On parle de maladie 
+auto-inflammatoire car il y a de l’inflammation en crise. 
+ 
+2. Manifestations cliniques 
+La FMF touche à la fois les enfants et les adultes car elle débute habituellement tôt dans la 
+vie. Elle évolue par crises qui durent en moyenne de 24 à 72 heures, de début et de fin brutaux. 
+Le patient est asymptomatique entre les crises. L’intervalle entre les crises est variable. La 
+FMF réalise typiquement une inflammation des séreuses synoviales, péritonéale,  pleurale, 
+voire péricardique. La fièvre et les douleurs abdominales intenses pouvant parfois ressembler 
+à une péritonite sont les symptômes les plus souvent décrits au cours des crises de FMF. 
+D’autres symptômes sont possibles, notamment des douleurs dans la poitrine, des genoux et 
+des œdèmes inflammatoires des chevilles (pseudo-érysipèles). Les crises sont favorisées par 
+le stress et la fatigue et également les menstruations chez les femmes. En cas d’évolution de 
+la FMF sans traitement durant plusieurs an nées, du fait de l’inflammation chronique non 
+maitrisée, il existe un risque d’apparition d’une amylose inflammatoire (AA) dont l’expression 
+est surtout rénale. Son expression est un syndrome néphrotique, qui peut conduire à une 
+insuffisance rénale pouvant nécessiter une dialyse. 
+ 
+3. Diagnostic positif 
+Le diagnostic est basé sur des critères cliniques (répétition de poussées inflammatoires et 
+stéréotypées avec CRP élevée) et confirmé par une étude génétique à la recherche de variants 
+siégeant presque exclusivement dans l’exon 10 du gène MEFV. 
+ 
+4. Traitement de fond 
+Le traitement de fond repose sur la colchicine  à débuter à 1 mg/j (0,5 mg/j chez l’enfant de 
+moins de 5 ans) et est adapté à la persistance ou non des crises et à la CRP intercritique qui 
+Synthèse à destination du médecin traitant – Fièvre Méditerranéenne Familiale 
+Centre de référence des maladies rares auto-inflammatoires et de l’amylose inflammatoire 
+(CeReMAIA) / Novembre 2022 
+4 
+ 
+doit être inférieure à la norme du laboratoire. La dose maximale quo tidienne est de 2,5 mg/j 
+chez l’adulte. Ce traitement à vie est efficace dans plus de 95% des cas pour prévenir ou à 
+défaut, diminuer la fréquence et l’intensité des crises. Il s’agit du seul traitement qui a démontré 
+la prévention de l’amylose AA.  Le resp ect strict de l’ordonnance est impératif et doit être 
+expliqué au patient. L’effet préventif de la colchicine sur la survenue des crises ne sera observé 
+que si le traitement est pris tous les jours, si possible à heures régulières et à une posologie 
+suffisante basée sur la seule réponse clinique et biologique.  
+ 
+Précautions en lien avec la prise de colchicine au long cours : 
+Le patient doit dûment informer son médecin traitant de la prise de colchicine pour éviter les 
+interactions médicamenteuses lors de prescriptions associées. La colchicine n’a pas d’impact 
+négatif sur la croissance staturale chez l’enfant, la puberté, la fertilité. Elle doit être continuée 
+avec sécurité au cours de la grossesse et de l’allaitement contrairement à ce qui est écrit sur 
+les boites de médicament. Une décision d’arrêt de la colchicine doit se prendre en concertation 
+avec le médecin expert. 
+ 
+En cas de réponse insuffisante et/ou de toxicité ou d’intolérance à la colchicine, d’autres 
+molécules telles que des biothérapies peuvent être proposées par des centres experts. 
+ 
+5. Traitement de la crise 
+Des patients même bien équilibrés peuvent présenter de rares poussées de leur maladie. Une 
+prise en charge spécifique de la crise inflammatoire est alors indiquée  (cf vidéo courte « 6 
+minutes de la filière») : 
+En première intention, associer antalgiques -antipyrétiques (type paracétamol) avec des anti -
+inflammatoires non stéroïdiens :  
+• Enfant : paracétamol : 15 mg/kg (possibilité de dose de charge lors de la 1 ère prise = 
+30 mg/kg) toutes les 6 h sans dépasser les posologies maximales adultes en 
+association aux AINS, par exemple ibuprofène 8 mg/kg/6 h sans dépasser les doses 
+maximales adultes. 
+• Adulte : paracétamol (1g / 6h) en alternance avec un AINS de type de kétoprofène 100 
+mg, 1 cp x 2/j. En cas d’atteinte rénale, le recours aux AINS doit rester prudent.  
+• La voie parentérale est parfois nécessaire surtout s’il existe des nausées ou des 
+vomissements. 
+Si la douleur n’est pas calmée par les médicaments précédents, utiliser des antalgiques 
+de palier 2 voire 3 :  
+o Enfant :  
+▪ Tramadol : 1 mg/kg x 4/jour sans dépasser 400mg/j 
+▪ En cas de nécessité d’administration de morphine (à adapter en fonction 
+des antécédents) :  
+• voie IV : dose de charge, faire un bolus de 50 microgrammes/kg 
+puis des bolus de 25 microgrammes/kg à administrer en fonction 
+de la douleur au maximum 8 bolus toutes les 4 h 
+• voie intra-rectale : 0,3 mg/kg toutes les 3 à 6 h  
+Synthèse à destination du médecin traitant – Fièvre Méditerranéenne Familiale 
+Centre de référence des maladies rares auto-inflammatoires et de l’amylose inflammatoire 
+(CeReMAIA) / Novembre 2022 
+5 
+ 
+o Adulte : tramadol  ou association tramadol -paracétamol ou association 
+paracétamol-codéine, voire morphine en injections discontinues par voie IV ou 
+SC en fonction de l’évolution de la douleur1. 
+ 
+ 
+6. Informations utiles 
+Informations destinées aux professionnels de santé 
+ 
+ 
+ 
+Centre de Référence des 
+Maladies Auto-Inflammatoires et 
+Amylose Inflammatoire 
+ 
+https://ceremaia.fr/ 
+ 
+ 
+ 
+Filière de santé des  
+Maladies Auto-Immunes et 
+Auto-Inflammatoires Rares 
+ 
+ 
+www.fai2r.org 
+ 
+ 
+ 
+Portail Européen d’informations sur les 
+maladies rares et les médicaments 
+orphelins en accès libre 
+ 
+https://www.orpha.net/  
+ 
+ 
+ 
+ 
+Informations destinées aux patients 
+ 
+ 
+Association Française de la Fièvre 
+Méditerranéenne Familiale et des 
+autres Fièvres Récurrentes 
+Héréditaires 
+https://www.affmf.com/ 
+ 
+Alliance maladies rares www.alliance-maladies-
+rares.org 
+ 
+EURORDIS – Fédération 
+d’associations de malades et 
+d’individus actifs dans le domaine 
+des maladies rares 
+www.eurordis.org 
+ 
+1 L’utilisation répétée et prolongée de ces molécules peut être responsable d’addiction.   
+
+Synthèse à destination du médecin traitant – Fièvre Méditerranéenne Familiale 
+Centre de référence des maladies rares auto-inflammatoires et de l’amylose inflammatoire 
+(CeReMAIA) / Novembre 2022 
+6 
+ 
+ 
+FAI²R – Filière de sant é des 
+maladies auto -immunes et auto -
+inflammatoires rares 
+www.fai2r.org 
+ 
+ 
+FMO – Fédération des maladies 
+orphelines 
+www.maladies-orphelines.fr 
+ 
+ 
+Maladies Rares Info Services www.maladiesraresinfo.org 
+ Annuaire ETP (É ducation 
+Thérapeutique du Patient) 
+https://etpmaladiesrares.com/ 
+ 
+ 
+Ligne Santé Infos Droits 01 53 62 40 30 
+ 
+ 
+AFVD Association Francophone 
+pour vaincre les douleurs,  
+ 
+www.association-afvd.com 
+ 
