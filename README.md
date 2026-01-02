@@ -72,6 +72,7 @@ pip install -r requirements.txt
 - [Nada Benchaou](https://github.com/BNAD-A)
 - [Meriam El Kehaili](https://github.com/MeriamElk) 
 - [Zayd Ladid](https://github.com/zaydld)
+- [Anass Oumam](https://github.com/spaycey)
 
 
 
